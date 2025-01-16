@@ -94,6 +94,8 @@ def mainTransform():
                 df_final['fecha'] = pd.to_datetime(df_final['fecha'], format='%Y-%m')
                 df_final['mes'] = df_final['fecha'].dt.month # Extraigo el mes
                 
+                # Formateo a str la fecha para que se vea bien en el json
+                df_final['fecha'] = pd.to_datetime(df_final['fecha']).dt.strftime('%Y-%m-%d')
             # Indice Solar
                 mes_a_indice_solar = {
                     1: indice_solar_dict["Enero"],
@@ -130,7 +132,7 @@ def mainTransform():
 
                 # print(df_final['sequia_meteorologica'])
                 # print(df_final['sequia_agrícola'])
-
+                
                 if os.path.exists(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file) == False:
                     df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, orient="records", lines=True, force_ascii=False)
          
