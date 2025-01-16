@@ -1,0 +1,59 @@
+[
+    {
+        "fecha": "2021-10",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-11",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-12",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-13",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-1",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-2",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-3",
+        "indicativo": "6332X",
+        "inso": "0.0",
+        "q_max": "1024.0(03)",
+        "q_med": "1016.4",
+        "p_sol": "0",
+        "q_min": "1005.5(19)"
+    },
+    {
+        "fecha": "2021-4",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-5",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-6",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-7",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-8",
+        "indicativo": "6332X"
+    },
+    {
+        "fecha": "2021-9",
+        "indicativo": "6332X"
+    }
+]

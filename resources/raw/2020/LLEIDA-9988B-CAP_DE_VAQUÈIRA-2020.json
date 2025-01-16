@@ -1,0 +1,72 @@
+[
+    {
+        "fecha": "2020-10",
+        "indicativo": "9988B",
+        "nw_55": "10",
+        "w_racha": "20/46.4(21)",
+        "nw_91": "4",
+        "w_rec": "429",
+        "w_med": "16"
+    },
+    {
+        "fecha": "2020-11",
+        "indicativo": "9988B",
+        "nw_55": "3",
+        "w_racha": "16/32.5(07)",
+        "nw_91": "1",
+        "w_rec": "290",
+        "w_med": "12"
+    },
+    {
+        "fecha": "2020-12",
+        "indicativo": "9988B",
+        "nw_55": "15",
+        "w_racha": "18/27.8(25)",
+        "nw_91": "1",
+        "w_rec": "402",
+        "e": "31",
+        "w_med": "17"
+    },
+    {
+        "fecha": "2020-13",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-1",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-2",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-3",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-4",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-5",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-6",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-7",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-8",
+        "indicativo": "9988B"
+    },
+    {
+        "fecha": "2020-9",
+        "indicativo": "9988B",
+        "w_racha": "34/30.0(26)",
+        "e": "69"
+    }
+]

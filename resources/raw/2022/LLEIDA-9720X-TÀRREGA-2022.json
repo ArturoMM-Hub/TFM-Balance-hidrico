@@ -1,0 +1,94 @@
+[
+    {
+        "fecha": "2022-10",
+        "indicativo": "9720X",
+        "n_cub": "12",
+        "n_des": "6",
+        "n_nub": "13"
+    },
+    {
+        "fecha": "2022-11",
+        "indicativo": "9720X",
+        "n_cub": "5",
+        "n_des": "8",
+        "n_nub": "17"
+    },
+    {
+        "fecha": "2022-12",
+        "indicativo": "9720X",
+        "n_cub": "13",
+        "n_des": "4",
+        "n_nub": "14",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2022-13",
+        "indicativo": "9720X",
+        "n_cub": "88",
+        "n_des": "113",
+        "n_nub": "161"
+    },
+    {
+        "fecha": "2022-1",
+        "indicativo": "9720X",
+        "n_cub": "2",
+        "n_des": "22",
+        "n_nub": "7"
+    },
+    {
+        "fecha": "2022-2",
+        "indicativo": "9720X",
+        "n_cub": "5",
+        "n_des": "8",
+        "n_nub": "15"
+    },
+    {
+        "fecha": "2022-3",
+        "indicativo": "9720X",
+        "n_cub": "22",
+        "n_des": "0",
+        "n_nub": "9"
+    },
+    {
+        "fecha": "2022-4",
+        "indicativo": "9720X",
+        "n_cub": "10",
+        "n_des": "7",
+        "n_nub": "10"
+    },
+    {
+        "fecha": "2022-5",
+        "indicativo": "9720X",
+        "n_cub": "6",
+        "n_des": "9",
+        "n_nub": "16"
+    },
+    {
+        "fecha": "2022-6",
+        "indicativo": "9720X",
+        "n_cub": "5",
+        "n_des": "8",
+        "n_nub": "17"
+    },
+    {
+        "fecha": "2022-7",
+        "indicativo": "9720X",
+        "n_cub": "2",
+        "n_des": "20",
+        "n_nub": "9"
+    },
+    {
+        "fecha": "2022-8",
+        "indicativo": "9720X",
+        "n_cub": "1",
+        "n_des": "12",
+        "n_nub": "18"
+    },
+    {
+        "fecha": "2022-9",
+        "indicativo": "9720X",
+        "n_cub": "5",
+        "n_des": "9",
+        "n_nub": "16"
+    }
+]

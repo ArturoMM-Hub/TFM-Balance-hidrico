@@ -1,0 +1,104 @@
+[
+    {
+        "fecha": "2023-10",
+        "indicativo": "2811A",
+        "n_cub": "13",
+        "n_des": "6",
+        "n_nub": "12",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-11",
+        "indicativo": "2811A",
+        "n_cub": "8",
+        "n_des": "5",
+        "n_nub": "17",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-12",
+        "indicativo": "2811A",
+        "n_cub": "9",
+        "n_des": "13",
+        "n_nub": "9",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-13",
+        "indicativo": "2811A",
+        "n_cub": "80",
+        "n_des": "123",
+        "n_nub": "162"
+    },
+    {
+        "fecha": "2023-1",
+        "indicativo": "2811A",
+        "n_cub": "9",
+        "n_des": "10",
+        "n_nub": "12"
+    },
+    {
+        "fecha": "2023-2",
+        "indicativo": "2811A",
+        "n_cub": "4",
+        "n_des": "10",
+        "n_nub": "14",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-3",
+        "indicativo": "2811A",
+        "n_cub": "4",
+        "n_des": "10",
+        "n_nub": "17",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-4",
+        "indicativo": "2811A",
+        "n_cub": "1",
+        "n_des": "10",
+        "n_nub": "19",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-5",
+        "indicativo": "2811A",
+        "n_cub": "11",
+        "n_des": "2",
+        "n_nub": "18",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-6",
+        "indicativo": "2811A",
+        "n_cub": "11",
+        "n_des": "6",
+        "n_nub": "13",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-7",
+        "indicativo": "2811A",
+        "n_cub": "0",
+        "n_des": "22",
+        "n_nub": "9",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-8",
+        "indicativo": "2811A",
+        "n_cub": "0",
+        "n_des": "22",
+        "n_nub": "9",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-9",
+        "indicativo": "2811A",
+        "n_cub": "10",
+        "n_des": "7",
+        "n_nub": "13",
+        "w_med": "0"
+    }
+]

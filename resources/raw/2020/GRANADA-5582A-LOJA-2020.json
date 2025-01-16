@@ -1,0 +1,73 @@
+[
+    {
+        "fecha": "2020-10",
+        "indicativo": "5582A"
+    },
+    {
+        "fecha": "2020-11",
+        "indicativo": "5582A"
+    },
+    {
+        "fecha": "2020-12",
+        "indicativo": "5582A",
+        "q_max": "959.2(21)",
+        "nw_55": "3",
+        "q_med": "946.3",
+        "w_racha": "28/16.1(28)",
+        "nw_91": "0",
+        "w_rec": "188",
+        "w_med": "8",
+        "q_min": "929.6(05)"
+    },
+    {
+        "fecha": "2020-13",
+        "indicativo": "5582A"
+    },
+    {
+        "fecha": "2020-1",
+        "indicativo": "5582A",
+        "p_max": "12.1(24)",
+        "np_100": "1",
+        "np_001": "9",
+        "np_300": "0",
+        "p_mes": "29.0",
+        "np_010": "7"
+    },
+    {
+        "fecha": "2020-2",
+        "indicativo": "5582A",
+        "w_med": "3"
+    },
+    {
+        "fecha": "2020-3",
+        "indicativo": "5582A"
+    },
+    {
+        "fecha": "2020-4",
+        "indicativo": "5582A",
+        "w_med": "10"
+    },
+    {
+        "fecha": "2020-5",
+        "indicativo": "5582A",
+        "w_med": "7"
+    },
+    {
+        "fecha": "2020-6",
+        "indicativo": "5582A",
+        "w_med": "10"
+    },
+    {
+        "fecha": "2020-7",
+        "indicativo": "5582A",
+        "w_med": "9"
+    },
+    {
+        "fecha": "2020-8",
+        "indicativo": "5582A"
+    },
+    {
+        "fecha": "2020-9",
+        "indicativo": "5582A"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "fecha": "2020-10",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-11",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-12",
+        "indicativo": "1078I",
+        "w_med": "6"
+    },
+    {
+        "fecha": "2020-13",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-1",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-2",
+        "indicativo": "1078I",
+        "w_med": "3"
+    },
+    {
+        "fecha": "2020-3",
+        "indicativo": "1078I",
+        "p_max": "20.3(16)",
+        "nw_55": "5",
+        "w_racha": "31/26.1(02)",
+        "np_100": "3",
+        "nw_91": "1",
+        "np_001": "17",
+        "w_rec": "157",
+        "np_300": "0",
+        "p_mes": "87.7",
+        "w_med": "8",
+        "np_010": "11"
+    },
+    {
+        "fecha": "2020-4",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-5",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-6",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-7",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-8",
+        "indicativo": "1078I"
+    },
+    {
+        "fecha": "2020-9",
+        "indicativo": "1078I"
+    }
+]

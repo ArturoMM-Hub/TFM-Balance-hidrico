@@ -1,0 +1,77 @@
+[
+    {
+        "fecha": "2023-10",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-11",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-12",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-13",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-1",
+        "indicativo": "1249I",
+        "p_max": "43.6(16)",
+        "n_gra": "2",
+        "n_fog": "5",
+        "q_max": "994.2(04)",
+        "tm_min": "4.1",
+        "ta_max": "18.0(01)",
+        "ts_min": "8.6",
+        "nt_30": "0",
+        "np_100": "11",
+        "np_001": "18",
+        "ta_min": "-1.0(23)",
+        "np_300": "3",
+        "p_mes": "256.2",
+        "n_llu": "17",
+        "n_tor": "2",
+        "nt_00": "3",
+        "ti_max": "4.2",
+        "n_nie": "1",
+        "tm_mes": "7.8",
+        "tm_max": "11.4",
+        "q_min": "955.4(16)",
+        "np_010": "17"
+    },
+    {
+        "fecha": "2023-2",
+        "indicativo": "1249I",
+        "w_med": "10"
+    },
+    {
+        "fecha": "2023-3",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-4",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-5",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-6",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-7",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-8",
+        "indicativo": "1249I"
+    },
+    {
+        "fecha": "2023-9",
+        "indicativo": "1249I"
+    }
+]

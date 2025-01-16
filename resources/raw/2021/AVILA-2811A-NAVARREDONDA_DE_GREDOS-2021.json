@@ -1,0 +1,63 @@
+[
+    {
+        "fecha": "2021-10",
+        "indicativo": "2811A",
+        "n_cub": "6",
+        "n_des": "13",
+        "n_nub": "12"
+    },
+    {
+        "fecha": "2021-11",
+        "indicativo": "2811A",
+        "n_cub": "8",
+        "n_des": "12",
+        "n_nub": "10"
+    },
+    {
+        "fecha": "2021-12",
+        "indicativo": "2811A",
+        "n_cub": "11",
+        "n_des": "10",
+        "n_nub": "9"
+    },
+    {
+        "fecha": "2021-13",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-1",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-2",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-3",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-4",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-5",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-6",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-7",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-8",
+        "indicativo": "2811A"
+    },
+    {
+        "fecha": "2021-9",
+        "indicativo": "2811A"
+    }
+]

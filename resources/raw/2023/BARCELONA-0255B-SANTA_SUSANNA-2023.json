@@ -1,0 +1,96 @@
+[
+    {
+        "fecha": "2023-10",
+        "indicativo": "0255B"
+    },
+    {
+        "fecha": "2023-11",
+        "indicativo": "0255B"
+    },
+    {
+        "fecha": "2023-12",
+        "indicativo": "0255B"
+    },
+    {
+        "fecha": "2023-13",
+        "indicativo": "0255B"
+    },
+    {
+        "fecha": "2023-1",
+        "indicativo": "0255B",
+        "n_cub": "6",
+        "hr": "67",
+        "tm_min": "2.4",
+        "ta_max": "18.3(14)",
+        "ts_min": "9.2",
+        "nt_30": "0",
+        "n_des": "12",
+        "n_nub": "13",
+        "ta_min": "-3.6(22)",
+        "e": "73",
+        "nt_00": "10",
+        "ti_max": "8.1",
+        "tm_mes": "8.1",
+        "tm_max": "13.7"
+    },
+    {
+        "fecha": "2023-2",
+        "indicativo": "0255B",
+        "n_cub": "9",
+        "n_des": "13",
+        "n_nub": "6",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-3",
+        "indicativo": "0255B",
+        "n_cub": "5",
+        "n_des": "7",
+        "n_nub": "19",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-4",
+        "indicativo": "0255B",
+        "n_cub": "7",
+        "n_des": "7",
+        "n_nub": "16",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-5",
+        "indicativo": "0255B",
+        "n_cub": "12",
+        "n_des": "3",
+        "n_nub": "16",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-6",
+        "indicativo": "0255B",
+        "n_cub": "8",
+        "n_des": "4",
+        "n_nub": "18",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-7",
+        "indicativo": "0255B",
+        "n_cub": "3",
+        "n_des": "12",
+        "n_nub": "16",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-8",
+        "indicativo": "0255B",
+        "n_cub": "4",
+        "n_des": "13",
+        "n_nub": "14",
+        "w_med": "0"
+    },
+    {
+        "fecha": "2023-9",
+        "indicativo": "0255B"
+    }
+]

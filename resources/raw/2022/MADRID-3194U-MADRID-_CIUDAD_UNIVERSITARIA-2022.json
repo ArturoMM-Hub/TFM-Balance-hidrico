@@ -1,0 +1,107 @@
+[
+    {
+        "fecha": "2022-10",
+        "indicativo": "3194U",
+        "n_cub": "13",
+        "glo": "37267",
+        "n_des": "7",
+        "n_nub": "11"
+    },
+    {
+        "fecha": "2022-11",
+        "indicativo": "3194U",
+        "n_cub": "13",
+        "glo": "24430",
+        "n_des": "3",
+        "n_nub": "14"
+    },
+    {
+        "fecha": "2022-12",
+        "indicativo": "3194U",
+        "n_cub": "21",
+        "glo": "14572",
+        "n_des": "3",
+        "n_nub": "7",
+        "w_med": "2"
+    },
+    {
+        "fecha": "2022-13",
+        "indicativo": "3194U",
+        "n_cub": "108",
+        "glo": "632941",
+        "n_des": "119",
+        "n_nub": "135"
+    },
+    {
+        "fecha": "2022-1",
+        "indicativo": "3194U",
+        "n_cub": "6",
+        "glo": "30116",
+        "n_des": "18",
+        "n_nub": "7"
+    },
+    {
+        "fecha": "2022-2",
+        "indicativo": "3194U",
+        "n_cub": "7",
+        "glo": "35090",
+        "n_des": "12",
+        "n_nub": "9"
+    },
+    {
+        "fecha": "2022-3",
+        "indicativo": "3194U",
+        "n_cub": "23",
+        "glo": "31229",
+        "n_des": "1",
+        "n_nub": "7"
+    },
+    {
+        "fecha": "2022-4",
+        "indicativo": "3194U",
+        "n_cub": "9",
+        "glo": "62065",
+        "n_des": "7",
+        "n_nub": "11"
+    },
+    {
+        "fecha": "2022-5",
+        "indicativo": "3194U",
+        "n_cub": "4",
+        "glo": "83383",
+        "n_des": "12",
+        "n_nub": "15"
+    },
+    {
+        "fecha": "2022-6",
+        "indicativo": "3194U",
+        "n_cub": "3",
+        "glo": "86708",
+        "n_des": "10",
+        "n_nub": "17"
+    },
+    {
+        "fecha": "2022-7",
+        "indicativo": "3194U",
+        "n_cub": "0",
+        "glo": "92061",
+        "n_des": "21",
+        "n_nub": "10"
+    },
+    {
+        "fecha": "2022-8",
+        "indicativo": "3194U",
+        "n_cub": "2",
+        "glo": "78593",
+        "n_des": "15",
+        "n_nub": "14"
+    },
+    {
+        "fecha": "2022-9",
+        "indicativo": "3194U",
+        "n_cub": "7",
+        "glo": "57427",
+        "n_des": "10",
+        "n_nub": "13"
+    }
+]
