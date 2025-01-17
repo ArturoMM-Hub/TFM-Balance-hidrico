@@ -3,7 +3,6 @@ import numpy as np
 import os
 from datetime import datetime
 from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS
-# Ejemplo para módulo plano
 
 
 def mainTransform():
@@ -93,6 +92,7 @@ def mainTransform():
                 # Convertir a formato datetime
                 df_final['fecha'] = pd.to_datetime(df_final['fecha'], format='%Y-%m')
                 df_final['mes'] = df_final['fecha'].dt.month # Extraigo el mes
+                df_final['year'] = df_final['fecha'].dt.year
                 
                 # Formateo a str la fecha para que se vea bien en el json
                 df_final['fecha'] = pd.to_datetime(df_final['fecha']).dt.strftime('%Y-%m-%d')
@@ -134,55 +134,10 @@ def mainTransform():
                 # print(df_final['sequia_agrícola'])
                 
                 if os.path.exists(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file) == False:
-                    df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, orient="records", lines=True, force_ascii=False)
+                    df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)
          
     print("Fin flujo Transformacion")
     return True
-
-
-
-'''
-# 1. **Cargar los datos desde un archivo JSON**
-# Asegúrate de que el archivo JSON tenga un formato compatible (array de objetos o diccionario).
-data = pd.read_json("datos_climatologicos.json")
-
-
-# 2. **Inspección inicial de los datos**
-print(data.head())        # Ver primeras filas
-print(data.info())        # Información general
-print(data.describe())    # Estadísticas descriptivas
-
-# 3. **Limpieza de datos**
-# a) Manejo de valores faltantes
-data = data.dropna(subset=['precipitacion'])  # Eliminar filas sin precipitación
-data['humedad'] = data['humedad'].fillna(data['humedad'].mean())  # Rellenar con la media
-
-# b) Corregir valores extremos
-data = data[(data['temperatura'] >= -50) & (data['temperatura'] <= 60)]  # Filtrar temperaturas razonables
-
-# c) Renombrar columnas para uniformidad
-data.columns = [col.lower().replace(" ", "_") for col in data.columns]
-
-# 4. **Transformaciones**
-# a) Crear una nueva columna: índice de calor
-data['indice_calor'] = 0.5 * (data['temperatura'] + data['humedad'])
-
-# b) Extraer mes y año de una columna de fecha
-data['fecha'] = pd.to_datetime(data['fecha'])
-data['mes'] = data['fecha'].dt.month
-data['anio'] = data['fecha'].dt.year
-
-# c) Agrupación por mes
-data_mensual = data.groupby(['anio', 'mes']).agg({
-    'precipitacion': 'sum',
-    'temperatura': 'mean',
-    'humedad': 'mean',
-    'indice_calor': 'mean'
-}).reset_index()
-
-# 5. **Exportar los datos procesados**
-data.to_json("datos_limpios.json", orient="records", indent=4)         # Archivo JSON limpio
-data_mensual.to_json("resumen_mensual.json", orient="records", indent=4)  # Resumen mensual
-
-print("Procesamiento completado y datos guardados en formato JSON.")
-'''

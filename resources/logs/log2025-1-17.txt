@@ -1,0 +1,2 @@
+ALMERIA-6329X-CABO_DE_GATA-2020.json No se pudo insertar por: '['p_mes'] not in index' 
+ALMERIA-6329X-CABO_DE_GATA-2020.json No se pudo insertar por: '['p_mes'] not in index' 

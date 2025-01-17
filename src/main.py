@@ -1,5 +1,6 @@
 from extract.MainExtract import mainExtract
 from transform.main_transformacion import mainTransform
+from modelo_prediccion.modelo_prediccion import modelo_prediccion
 import time
 import os
 
@@ -12,7 +13,8 @@ def main():
     # Transform: limpieza del dato y agrupacion de datos
     mainTransform()
 
-
+    # Genero un Modelo de predicción
+    #modelo_prediccion()
     
     print("Fin flujo")
     pass
