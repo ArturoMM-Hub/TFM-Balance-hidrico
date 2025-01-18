@@ -1,8 +1,42 @@
 import pandas as pd
 import numpy as np
+import json
 import os
 from datetime import datetime
 from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS
+
+
+
+def guardarEnJSON(estacion_meteorologica_file, df_datos_a_insertar):
+    datos_nombre_archivo = estacion_meteorologica_file.split('-')
+    existe = False
+    # datos_nombre_archivo[2] es el codigo de la estacion
+    if datos_nombre_archivo[1] != None:
+        # Como aqui no hay mas carpetas directamente esto me devuelve los ficheros
+        archivos = os.listdir(RUTA_BASE_FICHEROS_PROCESADOS)
+        for nomb_file in archivos:
+            if datos_nombre_archivo[2] in nomb_file:
+                df_datos_existente = pd.read_json(RUTA_BASE_FICHEROS_PROCESADOS + nomb_file)
+                df_final = pd.concat([df_datos_existente, df_datos_a_insertar], ignore_index=True)
+                existe = True
+                break
+        
+        nombFile = datos_nombre_archivo[0] + "-" + datos_nombre_archivo[1] + "-" + datos_nombre_archivo[2] + ".json"
+        if existe: 
+            # Guardo la combinacion del que ya habia y el nuevo
+            df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + nombFile, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)
+        else:
+            # Creacion del archivo por primera vez
+            df_datos_a_insertar.to_json(RUTA_BASE_FICHEROS_PROCESADOS + nombFile, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)
+
+    
+
 
 
 def mainTransform():
@@ -132,12 +166,18 @@ def mainTransform():
 
                 # print(df_final['sequia_meteorologica'])
                 # print(df_final['sequia_agrícola'])
-                
+                '''
                 if os.path.exists(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file) == False:
+                    # Ordeno el data frame antes de insertarlo por mes 
+                    df_final = df_final.sort_values(by='mes', ascending=True)
                     df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, 
                                      orient="records", 
                                      force_ascii=False,
-                                     indent=4)
+                                     indent=4)'''
+            # Ordeno y Guardo los datos
+                df_final = df_final.sort_values(by='mes', ascending=True)
+                guardarEnJSON(estacion_meteorologica_file ,df_final)
+                
          
     print("Fin flujo Transformacion")
     return True

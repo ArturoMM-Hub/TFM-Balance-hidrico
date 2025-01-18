@@ -11,10 +11,10 @@ def main():
     #mainExtract()
 
     # Transform: limpieza del dato y agrupacion de datos
-    mainTransform()
+    # mainTransform()
 
     # Genero un Modelo de predicción
-    #modelo_prediccion()
+    modelo_prediccion()
     
     print("Fin flujo")
     pass
