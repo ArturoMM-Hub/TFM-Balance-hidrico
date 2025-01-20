@@ -2,7 +2,7 @@
     {
         "id_estacion":"9198X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"45.8(22)",
+        "precipitacion_maxima":"45.8(22)",
         "temperatura_media_minima_mensual":-0.2,
         "temperatura_media_maxima_mensual":8.1,
         "temperatura_max_absoluta_mes":"14.6(07)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"10.8(27)",
+        "precipitacion_maxima":"10.8(27)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"19.9(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"73.2(01)",
+        "precipitacion_maxima":"73.2(01)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":11.2,
         "temperatura_max_absoluta_mes":"21.3(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8806666667,
-        "sequia_agrícola":0.8753598985
+        "sequia_agricola":0.8753598985,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"18.8(08)",
+        "precipitacion_maxima":"18.8(08)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"19.9(09)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0006666667,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"40.8(31)",
+        "precipitacion_maxima":"40.8(31)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"28.9(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4566666667,
-        "sequia_agrícola":0.4480425894
+        "sequia_agricola":0.4480425894,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"22.8(24)",
+        "precipitacion_maxima":"22.8(24)",
         "temperatura_media_minima_mensual":8.8,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"29.7(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"12.4(12)",
+        "precipitacion_maxima":"12.4(12)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"34.2(27)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"17.4(09)",
+        "precipitacion_maxima":"17.4(09)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"34.2(07)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"52.8(25)",
+        "precipitacion_maxima":"52.8(25)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"29.4(04)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"58.0(01)",
+        "precipitacion_maxima":"58.0(01)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"19.8(08)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1386666667,
-        "sequia_agrícola":1.133222757
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"65.4(07)",
+        "precipitacion_maxima":"65.4(07)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"19.0(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"35.0(11)",
+        "precipitacion_maxima":"35.0(11)",
         "temperatura_media_minima_mensual":-0.9,
         "temperatura_media_maxima_mensual":3.9,
         "temperatura_max_absoluta_mes":"9.1(23)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.7406666667,
-        "sequia_agrícola":1.7389666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"47.0(21)",
+        "precipitacion_maxima":"47.0(21)",
         "temperatura_media_minima_mensual":-2.2,
         "temperatura_media_maxima_mensual":4.0,
         "temperatura_max_absoluta_mes":"11.0(29)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.1056666667,
-        "sequia_agrícola":1.1029666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"25.2(12)",
+        "precipitacion_maxima":"25.2(12)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"16.4(20)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3516666667,
-        "sequia_agrícola":0.3473368502
+        "sequia_agricola":0.3473368502,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"6.8(19)",
+        "precipitacion_maxima":"6.8(19)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"21.4(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"18.2(26)",
+        "precipitacion_maxima":"18.2(26)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"20.9(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"37.0(09)",
+        "precipitacion_maxima":"37.0(09)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"25.1(27)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0176666667,
-        "sequia_agrícola":0.0094872565
+        "sequia_agricola":0.0094872565,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"41.6(27)",
+        "precipitacion_maxima":"41.6(27)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"30.2(13)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2056666667,
-        "sequia_agrícola":0.1950884055
+        "sequia_agricola":0.1950884055,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"14.4(05)",
+        "precipitacion_maxima":"14.4(05)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"31.7(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"11.6(03)",
+        "precipitacion_maxima":"11.6(03)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"35.5(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"19.4(18)",
+        "precipitacion_maxima":"19.4(18)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"28.4(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"58.6(29)",
+        "precipitacion_maxima":"58.6(29)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"19.7(12)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3376666667,
-        "sequia_agrícola":0.3318309597
+        "sequia_agricola":0.3318309597,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"26.0(23)",
+        "precipitacion_maxima":"26.0(23)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"13.6(12)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"108.2(09)",
+        "precipitacion_maxima":"108.2(09)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":5.9,
         "temperatura_max_absoluta_mes":"13.1(29)",
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.8496666667,
-        "sequia_agrícola":1.8478594205
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"95.2(09)",
+        "precipitacion_maxima":"95.2(09)",
         "temperatura_media_minima_mensual":-1.1,
         "temperatura_media_maxima_mensual":7.8,
         "temperatura_max_absoluta_mes":"14.7(29)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.751,
-        "sequia_agrícola":0.7483
+        "sequia_agricola":0.7483,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"26.6(13)",
+        "precipitacion_maxima":"26.6(13)",
         "temperatura_media_minima_mensual":0.6,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"17.8(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"20.0(11)",
+        "precipitacion_maxima":"20.0(11)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":9.8,
         "temperatura_max_absoluta_mes":"17.1(15)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"35.0(12)",
+        "precipitacion_maxima":"35.0(12)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"22.3(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.197,
-        "sequia_agrícola":0.1902244263
+        "sequia_agricola":0.1902244263,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"21.2(02)",
+        "precipitacion_maxima":"21.2(02)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"31.6(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"11.4(04)",
+        "precipitacion_maxima":"11.4(04)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"34.3(16)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"21.4(29)",
+        "precipitacion_maxima":"21.4(29)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":30.3,
         "temperatura_max_absoluta_mes":"36.8(18)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"25.6(25)",
+        "precipitacion_maxima":"25.6(25)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"33.0(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.335,
-        "sequia_agrícola":0.3232939319
+        "sequia_agricola":0.3232939319,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"22.8(12)",
+        "precipitacion_maxima":"22.8(12)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"27.4(12)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"36.8(31)",
+        "precipitacion_maxima":"36.8(31)",
         "temperatura_media_minima_mensual":8.8,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"23.2(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.077,
-        "sequia_agrícola":0.0698371122
+        "sequia_agricola":0.0698371122,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"45.4(21)",
+        "precipitacion_maxima":"45.4(21)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":9.8,
         "temperatura_max_absoluta_mes":"14.9(11)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.611,
-        "sequia_agrícola":1.6081637625
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"42.6(12)",
+        "precipitacion_maxima":"42.6(12)",
         "temperatura_media_minima_mensual":1.1,
         "temperatura_media_maxima_mensual":7.2,
         "temperatura_max_absoluta_mes":"11.7(31)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.777,
-        "sequia_agrícola":0.7751874876
+        "sequia_agricola":0.7751874876,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"54.2(16)",
+        "precipitacion_maxima":"54.2(16)",
         "temperatura_media_minima_mensual":-2.4,
         "temperatura_media_maxima_mensual":4.2,
         "temperatura_max_absoluta_mes":"12.7(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5046666667,
-        "sequia_agrícola":0.5019666667
+        "sequia_agricola":0.5019666667,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"49.8(23)",
+        "precipitacion_maxima":"49.8(23)",
         "temperatura_media_minima_mensual":-2.8,
         "temperatura_media_maxima_mensual":7.8,
         "temperatura_max_absoluta_mes":"15.7(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"34.4(08)",
+        "precipitacion_maxima":"34.4(08)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"22.1(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"32.0(02)",
+        "precipitacion_maxima":"32.0(02)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"24.4(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"13.6(31)",
+        "precipitacion_maxima":"13.6(31)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"27.3(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"50.8(18)",
+        "precipitacion_maxima":"50.8(18)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"29.3(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.4886666667,
-        "sequia_agrícola":0.4774523647
+        "sequia_agricola":0.4774523647,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"31.4(27)",
+        "precipitacion_maxima":"31.4(27)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"32.2(11)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"34.8(27)",
+        "precipitacion_maxima":"34.8(27)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"34.8(20)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"58.2(01)",
+        "precipitacion_maxima":"58.2(01)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"27.7(09)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"96.2(19)",
+        "precipitacion_maxima":"96.2(19)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"25.4(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.4606666667,
-        "sequia_agrícola":2.4549650888
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"95.4(01)",
+        "precipitacion_maxima":"95.4(01)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":9.9,
         "temperatura_max_absoluta_mes":"15.8(13)",
@@ -1171,13 +1355,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.8186666667,
-        "sequia_agrícola":2.8155301235
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"35.6(13)",
+        "precipitacion_maxima":"35.6(13)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":7.7,
         "temperatura_max_absoluta_mes":"13.0(19)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.4,
         "temperatura_media_maxima_mensual":7.2,
         "temperatura_max_absoluta_mes":"17.1(26)",
@@ -1221,13 +1413,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"60.0(25)",
+        "precipitacion_maxima":"60.0(25)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":9.6,
         "temperatura_max_absoluta_mes":"17.0(04)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.7267272727,
-        "sequia_agrícola":0.7228544061
+        "sequia_agricola":0.7228544061,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"50.2(29)",
+        "precipitacion_maxima":"50.2(29)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"22.6(22)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.7787272727,
-        "sequia_agrícola":1.7740272727
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"17.6(02)",
+        "precipitacion_maxima":"17.6(02)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"27.1(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"29.0(13)",
+        "precipitacion_maxima":"29.0(13)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"26.9(11)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"37.4(20)",
+        "precipitacion_maxima":"37.4(20)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"30.0(28)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"34.2(05)",
+        "precipitacion_maxima":"34.2(05)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"34.2(29)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"67.0(31)",
+        "precipitacion_maxima":"67.0(31)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"35.0(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"98.6(06)",
+        "precipitacion_maxima":"98.6(06)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"23.8(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.9887272727,
-        "sequia_agrícola":0.9811847071
+        "sequia_agricola":0.9811847071,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"59.4(17)",
+        "precipitacion_maxima":"59.4(17)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"20.8(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.3507272727,
-        "sequia_agrícola":2.345738966
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"34.2(04)",
+        "precipitacion_maxima":"34.2(04)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":11.2,
         "temperatura_max_absoluta_mes":"15.3(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     },
     {
         "id_estacion":"9198X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"43.2(07)",
+        "precipitacion_maxima":"43.2(07)",
         "temperatura_media_minima_mensual":0.0,
         "temperatura_media_maxima_mensual":5.9,
         "temperatura_max_absoluta_mes":"13.8(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CANFRANC",
+        "provincia":"HUESCA",
+        "lat":"424458N",
+        "long":"003058W"
     }
 ]

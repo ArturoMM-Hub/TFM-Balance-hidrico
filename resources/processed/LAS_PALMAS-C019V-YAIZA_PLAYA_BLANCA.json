@@ -2,7 +2,7 @@
     {
         "id_estacion":"C019V",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"23.9(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"26.6(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"26.1(08)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"24.1(05)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"28.2(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.4,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"27.4(16)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"30.0(18)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"34.5(26)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.5,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"32.6(09)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"30.1(31)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"13.8(28)",
+        "precipitacion_maxima":"13.8(28)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"29.3(17)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2066666667,
-        "sequia_agrícola":0.2039666667
+        "sequia_agricola":0.2039666667,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"0.4(05)",
+        "precipitacion_maxima":"0.4(05)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"23.7(28)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"27.0(07)",
+        "precipitacion_maxima":"27.0(07)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"26.5(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2703636364,
-        "sequia_agrícola":0.2676636364
+        "sequia_agricola":0.2676636364,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"5.8(04)",
+        "precipitacion_maxima":"5.8(04)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"24.8(01)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1623636364,
-        "sequia_agrícola":0.15721875
+        "sequia_agricola":0.15721875,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"2.0(29)",
+        "precipitacion_maxima":"2.0(29)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"27.5(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"6.4(30)",
+        "precipitacion_maxima":"6.4(30)",
         "temperatura_media_minima_mensual":17.0,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"24.1(20)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0023636364,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -421,13 +485,17 @@
         "mes":5,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"32.6(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.4,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"32.8(18)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"39.6(17)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.5,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"29.7(09)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.2(03)",
+        "precipitacion_maxima":"0.2(03)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"28.6(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"1.4(27)",
+        "precipitacion_maxima":"1.4(27)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"24.7(02)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"24.4(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"6.0(17)",
+        "precipitacion_maxima":"6.0(17)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"26.4(02)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0189090909,
-        "sequia_agrícola":0.0121508391
+        "sequia_agricola":0.0121508391,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.8(23)",
+        "precipitacion_maxima":"2.8(23)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"28.8(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"6.4(14)",
+        "precipitacion_maxima":"6.4(14)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"23.2(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0649090909,
-        "sequia_agrícola":0.0583144455
+        "sequia_agricola":0.0583144455,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"15.6(03)",
+        "precipitacion_maxima":"15.6(03)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"30.9(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0989090909,
-        "sequia_agrícola":0.0921245337
+        "sequia_agricola":0.0921245337,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"27.8(08)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"27.9(08)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"36.8(26)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"31.6(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"32.2(01)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"3.8(15)",
+        "precipitacion_maxima":"3.8(15)",
         "temperatura_media_minima_mensual":20.4,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"30.8(28)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.4(18)",
+        "precipitacion_maxima":"0.4(18)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"29.3(16)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"9.6(07)",
+        "precipitacion_maxima":"9.6(07)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"24.5(14)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1469090909,
-        "sequia_agrícola":0.1452090909
+        "sequia_agricola":0.1452090909,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"1.2(17)",
+        "precipitacion_maxima":"1.2(17)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"23.0(14)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"5.8(10)",
+        "precipitacion_maxima":"5.8(10)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"22.4(28)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1583333333,
-        "sequia_agrícola":0.1546333333
+        "sequia_agricola":0.1546333333,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"33.7(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"2.0(05)",
+        "precipitacion_maxima":"2.0(05)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"30.1(10)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"0.2(17)",
+        "precipitacion_maxima":"0.2(17)",
         "temperatura_media_minima_mensual":18.5,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"28.4(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"0.2(02)",
+        "precipitacion_maxima":"0.2(02)",
         "temperatura_media_minima_mensual":21.1,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"29.4(28)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"33.9(13)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.0,
         "temperatura_media_maxima_mensual":29.6,
         "temperatura_max_absoluta_mes":"36.3(21)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"0.4(02)",
+        "precipitacion_maxima":"0.4(02)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"29.0(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"4.0(21)",
+        "precipitacion_maxima":"4.0(21)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"34.4(03)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0503333333,
-        "sequia_agrícola":0.0402189153
+        "sequia_agricola":0.0402189153,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.6(06)",
+        "precipitacion_maxima":"0.6(06)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"30.2(15)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"1.6(21)",
+        "precipitacion_maxima":"1.6(21)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"26.1(09)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"27.5(16)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"0.6(09)",
+        "precipitacion_maxima":"0.6(09)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"26.4(13)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"2.4(24)",
+        "precipitacion_maxima":"2.4(24)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"28.7(17)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.049,
-        "sequia_agrícola":0.0425162335
+        "sequia_agricola":0.0425162335,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"30.6(11)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"26.7(09)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"25.6(29)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.4(28)",
+        "precipitacion_maxima":"0.4(28)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"29.5(15)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"2.2(20)",
+        "precipitacion_maxima":"2.2(20)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"34.4(19)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"27.7(23)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"4.6(28)",
+        "precipitacion_maxima":"4.6(28)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"29.0(03)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.023,
-        "sequia_agrícola":0.0133011125
+        "sequia_agricola":0.0133011125,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"2.2(14)",
+        "precipitacion_maxima":"2.2(14)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"30.5(09)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.005,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     },
     {
         "id_estacion":"C019V",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"4.0(14)",
+        "precipitacion_maxima":"4.0(14)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"25.4(02)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.075,
-        "sequia_agrícola":0.0733
+        "sequia_agricola":0.0733,
+        "nomb_estacion":"YAIZA PLAYA BLANCA",
+        "provincia":"LAS PALMAS",
+        "lat":"285132N",
+        "long":"135006W"
     }
 ]

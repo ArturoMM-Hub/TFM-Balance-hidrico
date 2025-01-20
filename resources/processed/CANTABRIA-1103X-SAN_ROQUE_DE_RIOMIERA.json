@@ -2,7 +2,7 @@
     {
         "id_estacion":"1103X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -46,13 +50,17 @@
         "mes":2,
         "year":2022,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2022,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -121,13 +137,17 @@
         "mes":5,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -171,13 +195,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"19.2(15)",
+        "precipitacion_maxima":"19.2(15)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"14.3(22)",
@@ -297,12 +341,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":1.8,
         "temperatura_media_maxima_mensual":6.8,
         "temperatura_max_absoluta_mes":"15.1(01)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":3.8688333333,
-        "sequia_agrícola":3.8661333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":8.8,
         "temperatura_max_absoluta_mes":"19.6(20)",
@@ -347,12 +399,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"23.8(18)",
+        "precipitacion_maxima":"23.8(18)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"22.4(28)",
@@ -372,12 +428,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"45.0(01)",
+        "precipitacion_maxima":"45.0(01)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"23.7(28)",
@@ -397,12 +457,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"52.6(11)",
+        "precipitacion_maxima":"52.6(11)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"26.9(03)",
@@ -422,12 +486,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2648333333,
-        "sequia_agrícola":0.2560931399
+        "sequia_agricola":0.2560931399,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"44.8(12)",
+        "precipitacion_maxima":"44.8(12)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"28.9(24)",
@@ -447,12 +515,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"18.8(24)",
+        "precipitacion_maxima":"18.8(24)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"28.0(07)",
@@ -472,12 +544,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"63.0(28)",
+        "precipitacion_maxima":"63.0(28)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"36.1(23)",
@@ -497,12 +573,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.4668333333,
-        "sequia_agrícola":0.4552659246
+        "sequia_agricola":0.4552659246,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"37.2(11)",
+        "precipitacion_maxima":"37.2(11)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"29.2(30)",
@@ -522,12 +602,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"21.0(25)",
+        "precipitacion_maxima":"21.0(25)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"29.6(01)",
@@ -547,12 +631,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"61.4(20)",
+        "precipitacion_maxima":"61.4(20)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":12.6,
         "temperatura_max_absoluta_mes":"18.5(18)",
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.8868333333,
-        "sequia_agrícola":1.8832829553
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"54.4(01)",
+        "precipitacion_maxima":"54.4(01)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"15.8(17)",
@@ -597,12 +689,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.6668333333,
-        "sequia_agrícola":0.6641362294
+        "sequia_agricola":0.6641362294,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"36.8(05)",
+        "precipitacion_maxima":"36.8(05)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":11.4,
         "temperatura_max_absoluta_mes":"22.5(27)",
@@ -622,12 +718,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"105.2(26)",
+        "precipitacion_maxima":"105.2(26)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"20.6(15)",
@@ -646,13 +746,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.799,
-        "sequia_agrícola":1.7951846092
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"32.8(03)",
+        "precipitacion_maxima":"32.8(03)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"20.2(18)",
@@ -672,12 +776,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"24.2(08)",
+        "precipitacion_maxima":"24.2(08)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":13.4,
         "temperatura_max_absoluta_mes":"25.0(13)",
@@ -697,12 +805,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"29.2(19)",
+        "precipitacion_maxima":"29.2(19)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"23.5(10)",
@@ -722,12 +834,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"19.6(20)",
+        "precipitacion_maxima":"19.6(20)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"24.5(26)",
@@ -747,12 +863,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"34.0(20)",
+        "precipitacion_maxima":"34.0(20)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"32.1(29)",
@@ -772,12 +892,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"18.0(24)",
+        "precipitacion_maxima":"18.0(24)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"34.1(11)",
@@ -797,12 +921,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"60.2(11)",
+        "precipitacion_maxima":"60.2(11)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"21.4(29)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2024,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.111,
-        "sequia_agrícola":1.1025471027
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"52.6(09)",
+        "precipitacion_maxima":"52.6(09)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"21.7(14)",
@@ -847,12 +979,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.255,
-        "sequia_agrícola":0.2472272531
+        "sequia_agricola":0.2472272531,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"56.2(21)",
+        "precipitacion_maxima":"56.2(21)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"19.5(05)",
@@ -872,12 +1008,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     },
     {
         "id_estacion":"1103X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"71.0(07)",
+        "precipitacion_maxima":"71.0(07)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":9.6,
         "temperatura_max_absoluta_mes":"16.1(01)",
@@ -896,7 +1036,11 @@
         "mes":12,
         "year":2024,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.571,
-        "sequia_agrícola":1.5693
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN ROQUE DE RIOMIERA",
+        "provincia":"CANTABRIA",
+        "lat":"431339N",
+        "long":"034316W"
     }
 ]

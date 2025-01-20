@@ -2,7 +2,7 @@
     {
         "id_estacion":"C449F",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"25.5(29)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"29.5(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"26.7(12)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"14.6(23)",
+        "precipitacion_maxima":"14.6(23)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":23.3,
         "temperatura_max_absoluta_mes":"26.8(08)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1118181818,
-        "sequia_agrícola":0.1035221972
+        "sequia_agricola":0.1035221972,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.4(15)",
+        "precipitacion_maxima":"0.4(15)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"30.2(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.8(14)",
+        "precipitacion_maxima":"0.8(14)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"29.4(16)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"35.2(06)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"38.5(27)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.4(12)",
+        "precipitacion_maxima":"0.4(12)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"34.9(08)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"9.6(03)",
+        "precipitacion_maxima":"9.6(03)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"30.2(31)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1098181818,
-        "sequia_agrícola":0.1020588089
+        "sequia_agricola":0.1020588089,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"31.6(25)",
+        "precipitacion_maxima":"31.6(25)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"31.5(17)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.6418181818,
-        "sequia_agrícola":0.6391181818
+        "sequia_agricola":0.6391181818,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"13.4(05)",
+        "precipitacion_maxima":"13.4(05)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"24.1(28)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3358181818,
-        "sequia_agrícola":0.333315119
+        "sequia_agricola":0.333315119,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"30.0(08)",
+        "precipitacion_maxima":"30.0(08)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"25.5(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4773333333,
-        "sequia_agrícola":0.4743166475
+        "sequia_agricola":0.4743166475,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"40.8(05)",
+        "precipitacion_maxima":"40.8(05)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"23.7(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5953333333,
-        "sequia_agrícola":0.5916333333
+        "sequia_agricola":0.5916333333,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"15.6(28)",
+        "precipitacion_maxima":"15.6(28)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"28.7(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0793333333,
-        "sequia_agrícola":0.0721542499
+        "sequia_agricola":0.0721542499,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"17.2(29)",
+        "precipitacion_maxima":"17.2(29)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"25.1(25)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"1.4(02)",
+        "precipitacion_maxima":"1.4(02)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"27.3(20)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.6(17)",
+        "precipitacion_maxima":"0.6(17)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"33.4(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.8(07)",
+        "precipitacion_maxima":"0.8(07)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"35.3(19)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"1.8(02)",
+        "precipitacion_maxima":"1.8(02)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":29.5,
         "temperatura_max_absoluta_mes":"39.9(17)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"4.4(16)",
+        "precipitacion_maxima":"4.4(16)",
         "temperatura_media_minima_mensual":22.3,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"31.6(07)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"2.4(04)",
+        "precipitacion_maxima":"2.4(04)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"30.3(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"22.6(26)",
+        "precipitacion_maxima":"22.6(26)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"27.4(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2033333333,
-        "sequia_agrícola":0.1988528485
+        "sequia_agricola":0.1988528485,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"4.6(08)",
+        "precipitacion_maxima":"4.6(08)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"27.3(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"14.8(17)",
+        "precipitacion_maxima":"14.8(17)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"26.7(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.17375,
-        "sequia_agrícola":0.1694184294
+        "sequia_agricola":0.1694184294,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"19.4(19)",
+        "precipitacion_maxima":"19.4(19)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"27.0(09)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.20975,
-        "sequia_agrícola":0.2045490275
+        "sequia_agricola":0.2045490275,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"16.4(14)",
+        "precipitacion_maxima":"16.4(14)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"23.3(11)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.15475,
-        "sequia_agrícola":0.1482922161
+        "sequia_agricola":0.1482922161,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"11.6(03)",
+        "precipitacion_maxima":"11.6(03)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"27.4(18)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.8(31)",
+        "precipitacion_maxima":"0.8(31)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"29.8(10)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"1.6(25)",
+        "precipitacion_maxima":"1.6(25)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"28.1(09)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"2.2(01)",
+        "precipitacion_maxima":"2.2(01)",
         "temperatura_media_minima_mensual":22.1,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"38.2(24)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"1.2(31)",
+        "precipitacion_maxima":"1.2(31)",
         "temperatura_media_minima_mensual":22.6,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"36.1(22)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"62.6(24)",
+        "precipitacion_maxima":"62.6(24)",
         "temperatura_media_minima_mensual":22.3,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"30.5(02)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.01175,
-        "sequia_agrícola":1.00505
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"30.5(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"4.8(18)",
+        "precipitacion_maxima":"4.8(18)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"29.3(16)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"8.2(26)",
+        "precipitacion_maxima":"8.2(26)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"26.8(14)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"19.2(02)",
+        "precipitacion_maxima":"19.2(02)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"24.9(02)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5136666667,
-        "sequia_agrícola":0.5109666667
+        "sequia_agricola":0.5109666667,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"12.6(05)",
+        "precipitacion_maxima":"12.6(05)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"23.8(28)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.4376666667,
-        "sequia_agrícola":0.4338745845
+        "sequia_agricola":0.4338745845,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"1.2(16)",
+        "precipitacion_maxima":"1.2(16)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"34.4(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"1.0(04)",
+        "precipitacion_maxima":"1.0(04)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"30.5(10)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"2.8(17)",
+        "precipitacion_maxima":"2.8(17)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"28.1(01)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"3.6(07)",
+        "precipitacion_maxima":"3.6(07)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"36.9(29)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.9,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"38.1(13)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"1.8(25)",
+        "precipitacion_maxima":"1.8(25)",
         "temperatura_media_minima_mensual":24.2,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"36.9(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"5.6(14)",
+        "precipitacion_maxima":"5.6(14)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":28.5,
         "temperatura_max_absoluta_mes":"31.1(07)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"15.4(22)",
+        "precipitacion_maxima":"15.4(22)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"35.1(10)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0196666667,
-        "sequia_agrícola":0.0106585001
+        "sequia_agricola":0.0106585001,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"10.0(30)",
+        "precipitacion_maxima":"10.0(30)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"32.6(15)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"7.0(01)",
+        "precipitacion_maxima":"7.0(01)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"27.7(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0236666667,
-        "sequia_agrícola":0.0184762995
+        "sequia_agricola":0.0184762995,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"2.8(17)",
+        "precipitacion_maxima":"2.8(17)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"27.9(28)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"9.0(29)",
+        "precipitacion_maxima":"9.0(29)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"26.6(17)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0751666667,
-        "sequia_agrícola":0.0692410444
+        "sequia_agricola":0.0692410444,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"9.2(23)",
+        "precipitacion_maxima":"9.2(23)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"26.4(16)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2031666667,
-        "sequia_agrícola":0.198066255
+        "sequia_agricola":0.198066255,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"3.2(27)",
+        "precipitacion_maxima":"3.2(27)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"31.1(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.2(18)",
+        "precipitacion_maxima":"4.2(18)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"29.8(08)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"1.8(26)",
+        "precipitacion_maxima":"1.8(26)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"26.9(05)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"35.7(19)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.4(24)",
+        "precipitacion_maxima":"0.4(24)",
         "temperatura_media_minima_mensual":23.1,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"32.2(16)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.6(03)",
+        "precipitacion_maxima":"0.6(03)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"29.5(27)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"10.8(28)",
+        "precipitacion_maxima":"10.8(28)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"30.3(03)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3171666667,
-        "sequia_agrícola":0.3124666667
+        "sequia_agricola":0.3124666667,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"8.0(12)",
+        "precipitacion_maxima":"8.0(12)",
         "temperatura_media_minima_mensual":18.5,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"33.3(09)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0231666667,
-        "sequia_agrícola":0.0168223325
+        "sequia_agricola":0.0168223325,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     },
     {
         "id_estacion":"C449F",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"15.2(21)",
+        "precipitacion_maxima":"15.2(21)",
         "temperatura_media_minima_mensual":17.0,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"28.4(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1771666667,
-        "sequia_agrícola":0.1747332102
+        "sequia_agricola":0.1747332102,
+        "nomb_estacion":"ANAGA ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283029N",
+        "long":"161144W"
     }
 ]

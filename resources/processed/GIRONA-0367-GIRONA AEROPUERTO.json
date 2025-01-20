@@ -2,7 +2,7 @@
     {
         "id_estacion":367,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.6(04)",
+        "precipitacion_maxima":"2.6(04)",
         "temperatura_media_minima_mensual":-2.4,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"24.6(04)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.3(14)",
+        "precipitacion_maxima":"2.3(14)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"25.8(18)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"45.8(12)",
+        "precipitacion_maxima":"45.8(12)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"21.0(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.957,
-        "sequia_agrícola":0.9523
+        "sequia_agricola":0.9523,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"38.2(20)",
+        "precipitacion_maxima":"38.2(20)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"28.8(16)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.175,
-        "sequia_agrícola":0.1679999968
+        "sequia_agricola":0.1679999968,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"17.5(24)",
+        "precipitacion_maxima":"17.5(24)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"37.3(22)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.01,
-        "sequia_agrícola":0.0004627602
+        "sequia_agricola":0.0004627602,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.7(22)",
+        "precipitacion_maxima":"6.7(22)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"40.8(17)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"1.8(06)",
+        "precipitacion_maxima":"1.8(06)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":35.1,
         "temperatura_max_absoluta_mes":"39.6(15)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"39.2(18)",
+        "precipitacion_maxima":"39.2(18)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":34.6,
         "temperatura_max_absoluta_mes":"40.6(12)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.344,
-        "sequia_agrícola":0.333035589
+        "sequia_agricola":0.333035589,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"18.0(23)",
+        "precipitacion_maxima":"18.0(23)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"34.3(13)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.262,
-        "sequia_agrícola":0.2532339376
+        "sequia_agricola":0.2532339376,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"37.6(07)",
+        "precipitacion_maxima":"37.6(07)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"28.7(24)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"14.4(21)",
+        "precipitacion_maxima":"14.4(21)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"24.5(01)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     },
     {
         "id_estacion":367,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"11.9(15)",
+        "precipitacion_maxima":"11.9(15)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"23.5(25)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GIRONA AEROPUERTO",
+        "provincia":"GIRONA",
+        "lat":"415442N",
+        "long":"024548E"
     }
 ]

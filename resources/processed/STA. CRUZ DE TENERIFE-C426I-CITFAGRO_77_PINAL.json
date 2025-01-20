@@ -11,7 +11,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -25,7 +29,11 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -39,7 +47,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -53,7 +65,11 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.269,
-        "sequia_agrícola":0.2624934173
+        "sequia_agricola":0.2624934173,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -67,7 +83,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -81,7 +101,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.069,
-        "sequia_agrícola":0.0572438344
+        "sequia_agricola":0.0572438344,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -95,7 +119,11 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -109,7 +137,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -123,7 +155,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -137,7 +173,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -151,7 +191,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.219,
-        "sequia_agrícola":0.214630477
+        "sequia_agricola":0.214630477,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -165,7 +209,11 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.462,
-        "sequia_agrícola":0.4603
+        "sequia_agricola":0.4603,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -178,8 +226,12 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.5709166667,
-        "sequia_agrícola":1.5682166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -193,7 +245,11 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0439166667,
-        "sequia_agrícola":0.0373682925
+        "sequia_agricola":0.0373682925,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -207,7 +263,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -221,7 +281,11 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -235,7 +299,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -249,7 +317,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -263,7 +335,11 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -277,7 +353,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -291,7 +371,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -305,7 +389,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -319,7 +407,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -333,7 +425,11 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -347,7 +443,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0716666667,
-        "sequia_agrícola":0.067505715
+        "sequia_agricola":0.067505715,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -361,7 +461,11 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -375,7 +479,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3106666667,
-        "sequia_agrícola":0.305533488
+        "sequia_agricola":0.305533488,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -389,7 +497,11 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0866666667,
-        "sequia_agrícola":0.0795605789
+        "sequia_agricola":0.0795605789,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -403,7 +515,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -417,7 +533,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -431,7 +551,11 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -445,7 +569,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -459,7 +587,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.7976666667,
-        "sequia_agrícola":0.7905554128
+        "sequia_agricola":0.7905554128,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -473,7 +605,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -487,7 +623,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     },
     {
         "id_estacion":"C426I",
@@ -501,6 +641,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.9246666667,
-        "sequia_agrícola":0.9229666667
+        "sequia_agricola":0.9229666667,
+        "nomb_estacion":"CITFAGRO_77_PINAL",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280737N",
+        "long":"163621W"
     }
 ]

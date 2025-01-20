@@ -2,7 +2,7 @@
     {
         "id_estacion":"8072Y",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"242.0(20)",
+        "precipitacion_maxima":"242.0(20)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"18.6(30)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":3.6263636364,
-        "sequia_agrícola":3.6236636364
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"5.6(18)",
+        "precipitacion_maxima":"5.6(18)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"24.7(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"56.8(22)",
+        "precipitacion_maxima":"56.8(22)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"26.8(11)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1743636364,
-        "sequia_agrícola":1.1692418999
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"15.8(19)",
+        "precipitacion_maxima":"15.8(19)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"24.4(29)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"18.6(14)",
+        "precipitacion_maxima":"18.6(14)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"32.0(02)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"13.0(08)",
+        "precipitacion_maxima":"13.0(08)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"11.2(14)",
+        "precipitacion_maxima":"11.2(14)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"1.0(12)",
+        "precipitacion_maxima":"1.0(12)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":32.8,
         "temperatura_max_absoluta_mes":"36.8(08)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"8.8(07)",
+        "precipitacion_maxima":"8.8(07)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"32.3(11)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"10.6(02)",
+        "precipitacion_maxima":"10.6(02)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"26.9(02)",
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"5.6(10)",
+        "precipitacion_maxima":"5.6(10)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"19.9(11)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"117.4(08)",
+        "precipitacion_maxima":"117.4(08)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"24.8(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.774,
-        "sequia_agrícola":0.7712404517
+        "sequia_agricola":0.7712404517,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"4.2(22)",
+        "precipitacion_maxima":"4.2(22)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"21.3(13)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"37.6(07)",
+        "precipitacion_maxima":"37.6(07)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"24.0(26)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.062,
-        "sequia_agrícola":0.0564149267
+        "sequia_agricola":0.0564149267,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"21.4(25)",
+        "precipitacion_maxima":"21.4(25)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"27.2(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.046,
-        "sequia_agrícola":0.0391033738
+        "sequia_agricola":0.0391033738,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"60.0(23)",
+        "precipitacion_maxima":"60.0(23)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"33.2(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"6.8(05)",
+        "precipitacion_maxima":"6.8(05)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"34.5(27)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"12.8(25)",
+        "precipitacion_maxima":"12.8(25)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":33.0,
         "temperatura_max_absoluta_mes":"39.5(12)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"28.0(08)",
+        "precipitacion_maxima":"28.0(08)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":31.3,
         "temperatura_max_absoluta_mes":"39.3(15)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"72.0(21)",
+        "precipitacion_maxima":"72.0(21)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"32.2(12)",
@@ -521,13 +601,17 @@
         "mes":9,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.6,
-        "sequia_agrícola":1.5926952608
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"132.4(22)",
+        "precipitacion_maxima":"132.4(22)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"28.3(03)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.726,
-        "sequia_agrícola":0.7204533135
+        "sequia_agricola":0.7204533135,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"123.6(20)",
+        "precipitacion_maxima":"123.6(20)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"23.8(01)",
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.36,
-        "sequia_agrícola":1.3573
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"1.0(19)",
+        "precipitacion_maxima":"1.0(19)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"21.2(24)",
+        "precipitacion_maxima":"21.2(24)",
         "temperatura_media_minima_mensual":3.4,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"23.7(04)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"12.0(19)",
+        "precipitacion_maxima":"12.0(19)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"189.8(23)",
+        "precipitacion_maxima":"189.8(23)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"21.0(02)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":7.7371666667,
-        "sequia_agrícola":7.7324666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"51.2(13)",
+        "precipitacion_maxima":"51.2(13)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"28.1(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3031666667,
-        "sequia_agrícola":0.2968422373
+        "sequia_agricola":0.2968422373,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"29.0(04)",
+        "precipitacion_maxima":"29.0(04)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"33.3(28)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.2(21)",
+        "precipitacion_maxima":"6.2(21)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":32.2,
         "temperatura_max_absoluta_mes":"38.6(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"1.0(06)",
+        "precipitacion_maxima":"1.0(06)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":34.2,
         "temperatura_max_absoluta_mes":"39.9(13)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"32.0(26)",
+        "precipitacion_maxima":"32.0(26)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":34.5,
         "temperatura_max_absoluta_mes":"41.2(12)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"193.0(25)",
+        "precipitacion_maxima":"193.0(25)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"34.8(02)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4711666667,
-        "sequia_agrícola":0.4634341083
+        "sequia_agricola":0.4634341083,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"36.2(11)",
+        "precipitacion_maxima":"36.2(11)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"29.5(14)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"47.0(10)",
+        "precipitacion_maxima":"47.0(10)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"25.3(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"73.0(01)",
+        "precipitacion_maxima":"73.0(01)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"24.2(25)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"5.2(29)",
+        "precipitacion_maxima":"5.2(29)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"20.2(08)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"81.0(06)",
+        "precipitacion_maxima":"81.0(06)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"19.8(04)",
@@ -946,13 +1094,17 @@
         "mes":2,
         "year":2023,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.4581666667,
-        "sequia_agrícola":1.4544666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"7.8(05)",
+        "precipitacion_maxima":"7.8(05)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"30.6(13)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"15.0(30)",
+        "precipitacion_maxima":"15.0(30)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"33.3(25)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"53.0(23)",
+        "precipitacion_maxima":"53.0(23)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"32.3(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.6201666667,
-        "sequia_agrícola":0.612441688
+        "sequia_agricola":0.612441688,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"34.6(01)",
+        "precipitacion_maxima":"34.6(01)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":29.5,
         "temperatura_max_absoluta_mes":"37.8(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2721666667,
-        "sequia_agrícola":0.261468376
+        "sequia_agricola":0.261468376,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"2.8(03)",
+        "precipitacion_maxima":"2.8(03)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":32.6,
         "temperatura_max_absoluta_mes":"39.3(24)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"26.4(26)",
+        "precipitacion_maxima":"26.4(26)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":33.9,
         "temperatura_max_absoluta_mes":"43.4(10)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"42.6(02)",
+        "precipitacion_maxima":"42.6(02)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"32.3(01)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.9721666667,
-        "sequia_agrícola":0.9645047208
+        "sequia_agricola":0.9645047208,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"0.4(19)",
+        "precipitacion_maxima":"0.4(19)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"33.3(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"27.8(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"1.2(07)",
+        "precipitacion_maxima":"1.2(07)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"27.5(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"31.0(19)",
+        "precipitacion_maxima":"31.0(19)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"28.5(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"7.0(09)",
+        "precipitacion_maxima":"7.0(09)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"24.4(21)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"10.0(25)",
+        "precipitacion_maxima":"10.0(25)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"28.3(17)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"4.4(29)",
+        "precipitacion_maxima":"4.4(29)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"29.6(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.2(19)",
+        "precipitacion_maxima":"0.2(19)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"34.6(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"33.6(12)",
+        "precipitacion_maxima":"33.6(12)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":29.5,
         "temperatura_max_absoluta_mes":"35.6(14)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"2.8(06)",
+        "precipitacion_maxima":"2.8(06)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":34.2,
         "temperatura_max_absoluta_mes":"40.6(20)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"9.4(13)",
+        "precipitacion_maxima":"9.4(13)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"37.7(04)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"6.6(19)",
+        "precipitacion_maxima":"6.6(19)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"32.6(12)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"104.4(22)",
+        "precipitacion_maxima":"104.4(22)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.766,
-        "sequia_agrícola":null
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"57.4(12)",
+        "precipitacion_maxima":"57.4(12)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"23.0(18)",
@@ -1471,13 +1703,17 @@
         "mes":11,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.186,
-        "sequia_agrícola":1.1833
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     },
     {
         "id_estacion":"8072Y",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"76.4(11)",
+        "precipitacion_maxima":"76.4(11)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"22.2(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.522,
-        "sequia_agrícola":0.5202228146
+        "sequia_agricola":0.5202228146,
+        "nomb_estacion":"BARX",
+        "provincia":"VALENCIA",
+        "lat":"390101N",
+        "long":"001817W"
     }
 ]

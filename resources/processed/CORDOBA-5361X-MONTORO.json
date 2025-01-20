@@ -2,7 +2,7 @@
     {
         "id_estacion":"5361X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"18.2(25)",
+        "precipitacion_maxima":"18.2(25)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"18.3(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0823636364,
-        "sequia_agrícola":0.0792564283
+        "sequia_agricola":0.0792564283,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.2(29)",
+        "precipitacion_maxima":"1.2(29)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"25.4(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"24.4(31)",
+        "precipitacion_maxima":"24.4(31)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"28.7(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4103636364,
-        "sequia_agrícola":0.4055226397
+        "sequia_agricola":0.4055226397,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"22.8(25)",
+        "precipitacion_maxima":"22.8(25)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"27.1(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6203636364,
-        "sequia_agrícola":0.6146636364
+        "sequia_agricola":0.6146636364,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"7.0(10)",
+        "precipitacion_maxima":"7.0(10)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":31.0,
         "temperatura_max_absoluta_mes":"37.1(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"1.2(11)",
+        "precipitacion_maxima":"1.2(11)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":34.2,
         "temperatura_max_absoluta_mes":"41.7(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.2(21)",
+        "precipitacion_maxima":"0.2(21)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":40.9,
         "temperatura_max_absoluta_mes":"44.1(26)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":38.4,
         "temperatura_max_absoluta_mes":"44.2(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":32.6,
         "temperatura_max_absoluta_mes":"38.7(12)",
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2020,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"17.0(22)",
+        "precipitacion_maxima":"17.0(22)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"33.3(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0783636364,
-        "sequia_agrícola":0.0721008245
+        "sequia_agricola":0.0721008245,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"26.0(26)",
+        "precipitacion_maxima":"26.0(26)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"28.6(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3723636364,
-        "sequia_agrícola":0.3693866437
+        "sequia_agricola":0.3693866437,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"8.8(19)",
+        "precipitacion_maxima":"8.8(19)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"21.1(22)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0103636364,
-        "sequia_agrícola":0.0078499572
+        "sequia_agricola":0.0078499572,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"22.6(08)",
+        "precipitacion_maxima":"22.6(08)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"21.3(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.357,
-        "sequia_agrícola":0.3541192985
+        "sequia_agricola":0.3541192985,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"20.0(09)",
+        "precipitacion_maxima":"20.0(09)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"23.6(17)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.399,
-        "sequia_agrícola":0.3946834605
+        "sequia_agricola":0.3946834605,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"1.2(08)",
+        "precipitacion_maxima":"1.2(08)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"31.3(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"14.2(21)",
+        "precipitacion_maxima":"14.2(21)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"28.3(07)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.077,
-        "sequia_agrícola":0.0691678276
+        "sequia_agricola":0.0691678276,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"7.2(10)",
+        "precipitacion_maxima":"7.2(10)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":29.6,
         "temperatura_max_absoluta_mes":"35.6(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"6.0(05)",
+        "precipitacion_maxima":"6.0(05)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"38.8(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":38.1,
         "temperatura_max_absoluta_mes":"42.1(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.6(24)",
+        "precipitacion_maxima":"0.6(24)",
         "temperatura_media_minima_mensual":19.7,
         "temperatura_media_maxima_mensual":38.3,
         "temperatura_max_absoluta_mes":"47.4(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"31.4(14)",
+        "precipitacion_maxima":"31.4(14)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":32.5,
         "temperatura_max_absoluta_mes":"39.1(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.047,
-        "sequia_agrícola":0.0371122305
+        "sequia_agricola":0.0371122305,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"15.8(30)",
+        "precipitacion_maxima":"15.8(30)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"32.5(08)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.033,
-        "sequia_agrícola":0.0256093088
+        "sequia_agricola":0.0256093088,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"6.8(01)",
+        "precipitacion_maxima":"6.8(01)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"24.9(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"45.8(25)",
+        "precipitacion_maxima":"45.8(25)",
         "temperatura_media_minima_mensual":3.8,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"22.4(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.755,
-        "sequia_agrícola":0.7533
+        "sequia_agricola":0.7533,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"5.4(05)",
+        "precipitacion_maxima":"5.4(05)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"22.4(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"8.4(25)",
+        "precipitacion_maxima":"8.4(25)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"25.6(23)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"15.2(29)",
+        "precipitacion_maxima":"15.2(29)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"24.5(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5961666667,
-        "sequia_agrícola":0.5908647961
+        "sequia_agricola":0.5908647961,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"41.2(22)",
+        "precipitacion_maxima":"41.2(22)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"30.9(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3561666667,
-        "sequia_agrícola":0.3493761013
+        "sequia_agricola":0.3493761013,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"7.0(02)",
+        "precipitacion_maxima":"7.0(02)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":31.3,
         "temperatura_max_absoluta_mes":"41.0(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.2(16)",
+        "precipitacion_maxima":"0.2(16)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":35.2,
         "temperatura_max_absoluta_mes":"42.9(13)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":41.0,
         "temperatura_max_absoluta_mes":"45.0(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"4.4(13)",
+        "precipitacion_maxima":"4.4(13)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":38.3,
         "temperatura_max_absoluta_mes":"42.5(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"9.8(13)",
+        "precipitacion_maxima":"9.8(13)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":32.5,
         "temperatura_max_absoluta_mes":"40.3(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"11.8(21)",
+        "precipitacion_maxima":"11.8(21)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"34.4(27)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"7.8(21)",
+        "precipitacion_maxima":"7.8(21)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"28.3(12)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"46.0(12)",
+        "precipitacion_maxima":"46.0(12)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"22.2(27)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.5121666667,
-        "sequia_agrícola":1.5104666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"26.8(06)",
+        "precipitacion_maxima":"26.8(06)",
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.0(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0861818182,
-        "sequia_agrícola":0.0823558756
+        "sequia_agricola":0.0823558756,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"8.6(05)",
+        "precipitacion_maxima":"8.6(05)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"28.7(28)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.4(30)",
+        "precipitacion_maxima":"0.4(30)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"37.5(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"11.0(20)",
+        "precipitacion_maxima":"11.0(20)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"34.9(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0661818182,
-        "sequia_agrícola":0.0573374214
+        "sequia_agricola":0.0573374214,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"11.2(08)",
+        "precipitacion_maxima":"11.2(08)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"43.1(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":39.8,
         "temperatura_max_absoluta_mes":"44.8(17)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":40.2,
         "temperatura_max_absoluta_mes":"45.3(11)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"25.6(03)",
+        "precipitacion_maxima":"25.6(03)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"38.4(29)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2061818182,
-        "sequia_agrícola":0.1979662581
+        "sequia_agricola":0.1979662581,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"34.8(19)",
+        "precipitacion_maxima":"34.8(19)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"38.2(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4921818182,
-        "sequia_agrícola":0.4874818182
+        "sequia_agricola":0.4874818182,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"21.4(30)",
+        "precipitacion_maxima":"21.4(30)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"26.7(18)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1461818182,
-        "sequia_agrícola":0.1429852658
+        "sequia_agricola":0.1429852658,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"6.8(01)",
+        "precipitacion_maxima":"6.8(01)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"20.3(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"20.4(18)",
+        "precipitacion_maxima":"20.4(18)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"25.9(27)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2562,
-        "sequia_agrícola":0.2529422493
+        "sequia_agricola":0.2529422493,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"34.8(09)",
+        "precipitacion_maxima":"34.8(09)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"25.2(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.6922,
-        "sequia_agrícola":0.6885
+        "sequia_agricola":0.6885,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1296,13 +1500,17 @@
         "mes":4,
         "year":2024,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.8(01)",
+        "precipitacion_maxima":"0.8(01)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"40.6(31)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"15.4(26)",
+        "precipitacion_maxima":"15.4(26)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":33.8,
         "temperatura_max_absoluta_mes":"40.5(23)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":39.7,
         "temperatura_max_absoluta_mes":"44.7(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.2(28)",
+        "precipitacion_maxima":"0.2(28)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":39.4,
         "temperatura_max_absoluta_mes":"43.8(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.4(26)",
+        "precipitacion_maxima":"0.4(26)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":32.1,
         "temperatura_max_absoluta_mes":"37.3(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"24.6(15)",
+        "precipitacion_maxima":"24.6(15)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"32.2(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0922,
-        "sequia_agrícola":1.08735388
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"11.8(13)",
+        "precipitacion_maxima":"11.8(13)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"27.6(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     },
     {
         "id_estacion":"5361X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"0.6(12)",
+        "precipitacion_maxima":"0.6(12)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"21.2(02)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MONTORO",
+        "provincia":"CORDOBA",
+        "lat":"380048N",
+        "long":"041949W"
     }
 ]

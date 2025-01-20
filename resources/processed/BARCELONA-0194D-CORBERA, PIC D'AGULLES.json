@@ -2,7 +2,7 @@
     {
         "id_estacion":"0194D",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"9.4(04)",
+        "precipitacion_maxima":"9.4(04)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"19.9(01)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.2(26)",
+        "precipitacion_maxima":"1.2(26)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"19.3(18)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"27.2(11)",
+        "precipitacion_maxima":"27.2(11)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"18.3(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4555,
-        "sequia_agrícola":0.4508
+        "sequia_agricola":0.4508,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"12.4(20)",
+        "precipitacion_maxima":"12.4(20)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"26.6(16)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0695,
-        "sequia_agrícola":0.0615194381
+        "sequia_agricola":0.0615194381,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"34.0(24)",
+        "precipitacion_maxima":"34.0(24)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"33.8(22)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0675,
-        "sequia_agrícola":0.0570638597
+        "sequia_agricola":0.0570638597,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.0(21)",
+        "precipitacion_maxima":"6.0(21)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"39.8(17)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"12.2(27)",
+        "precipitacion_maxima":"12.2(27)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"38.9(15)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"39.4(18)",
+        "precipitacion_maxima":"39.4(18)",
         "temperatura_media_minima_mensual":19.4,
         "temperatura_media_maxima_mensual":32.7,
         "temperatura_max_absoluta_mes":"37.8(10)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3895,
-        "sequia_agrícola":0.3782600501
+        "sequia_agricola":0.3782600501,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"7.4(23)",
+        "precipitacion_maxima":"7.4(23)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"31.7(12)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"22.2(07)",
+        "precipitacion_maxima":"22.2(07)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"26.1(26)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"20.8(09)",
+        "precipitacion_maxima":"20.8(09)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"21.2(01)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     },
     {
         "id_estacion":"0194D",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"10.6(08)",
+        "precipitacion_maxima":"10.6(08)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"19.0(25)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0075,
-        "sequia_agrícola":0.0036584155
+        "sequia_agricola":0.0036584155,
+        "nomb_estacion":"CORBERA, PIC D'AGULLES",
+        "provincia":"BARCELONA",
+        "lat":"412429N",
+        "long":"015306E"
     }
 ]

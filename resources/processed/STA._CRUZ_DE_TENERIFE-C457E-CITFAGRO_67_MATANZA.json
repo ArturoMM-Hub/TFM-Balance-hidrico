@@ -11,7 +11,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -25,7 +29,11 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -39,7 +47,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6873333333,
-        "sequia_agrícola":0.6825500302
+        "sequia_agricola":0.6825500302,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -53,7 +65,11 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2663333333,
-        "sequia_agrícola":0.2598343964
+        "sequia_agricola":0.2598343964,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -67,7 +83,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -81,7 +101,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -95,7 +119,11 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -109,7 +137,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -123,7 +155,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -137,7 +173,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -151,7 +191,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5203333333,
-        "sequia_agrícola":0.5170226
+        "sequia_agricola":0.5170226,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -165,7 +209,11 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.7573333333,
-        "sequia_agrícola":0.7556333333
+        "sequia_agricola":0.7556333333,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -179,7 +227,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3221818182,
-        "sequia_agrícola":0.3194818182
+        "sequia_agricola":0.3194818182,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -193,7 +245,11 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.8811818182,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -207,7 +263,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2731818182,
-        "sequia_agrícola":0.2683992261
+        "sequia_agricola":0.2683992261,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -221,7 +281,11 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -235,7 +299,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -249,7 +317,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -262,8 +334,12 @@
         "mes":7,
         "year":2021,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -277,7 +353,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -291,7 +371,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -305,7 +389,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -319,7 +407,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3621818182,
-        "sequia_agrícola":0.3592616704
+        "sequia_agricola":0.3592616704,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -333,7 +425,11 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -347,7 +443,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.269,
-        "sequia_agrícola":0.2658093378
+        "sequia_agricola":0.2658093378,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -361,7 +461,11 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.326,
-        "sequia_agrícola":0.3220249116
+        "sequia_agricola":0.3220249116,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -375,7 +479,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.33,
-        "sequia_agrícola":0.3253
+        "sequia_agricola":0.3253,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -389,7 +497,11 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -403,7 +515,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -417,7 +533,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -431,7 +551,11 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -445,7 +569,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -459,7 +587,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.43,
-        "sequia_agrícola":0.4225894889
+        "sequia_agricola":0.4225894889,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -473,7 +605,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -487,7 +623,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -501,7 +641,11 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.472,
-        "sequia_agrícola":0.4701454243
+        "sequia_agricola":0.4701454243,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -515,7 +659,11 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -529,7 +677,11 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0359166667,
-        "sequia_agrícola":0.0299612348
+        "sequia_agricola":0.0299612348,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -543,7 +695,11 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3309166667,
-        "sequia_agrícola":0.325686198
+        "sequia_agricola":0.325686198,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -557,7 +713,11 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0119166667,
-        "sequia_agrícola":0.0034815332
+        "sequia_agricola":0.0034815332,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -571,7 +731,11 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -585,7 +749,11 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -599,7 +767,11 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -613,7 +785,11 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -627,7 +803,11 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -641,7 +821,11 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8509166667,
-        "sequia_agrícola":0.8462166667
+        "sequia_agricola":0.8462166667,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -655,7 +839,11 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     },
     {
         "id_estacion":"C457E",
@@ -669,6 +857,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_67_MATANZA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282658N",
+        "long":"162617W"
     }
 ]

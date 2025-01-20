@@ -2,7 +2,7 @@
     {
         "id_estacion":"6088X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"59.0(24)",
+        "precipitacion_maxima":"59.0(24)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"24.2(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.89575,
-        "sequia_agrícola":0.89305
+        "sequia_agricola":0.89305,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.8(18)",
+        "precipitacion_maxima":"1.8(18)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"25.7(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"27.8(23)",
+        "precipitacion_maxima":"27.8(23)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"26.9(09)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.02575,
-        "sequia_agrícola":1.0209878504
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"11.2(21)",
+        "precipitacion_maxima":"11.2(21)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"26.2(19)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"15.6(11)",
+        "precipitacion_maxima":"15.6(11)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"31.0(01)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.6(04)",
+        "precipitacion_maxima":"0.6(04)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"33.4(27)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":29.9,
         "temperatura_max_absoluta_mes":"37.7(02)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.2(10)",
+        "precipitacion_maxima":"0.2(10)",
         "temperatura_media_minima_mensual":23.0,
         "temperatura_media_maxima_mensual":31.9,
         "temperatura_max_absoluta_mes":"40.6(02)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"6.2(17)",
+        "precipitacion_maxima":"6.2(17)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"34.3(24)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"7.4(20)",
+        "precipitacion_maxima":"7.4(20)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":23.3,
         "temperatura_max_absoluta_mes":"31.5(01)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"30.0(25)",
+        "precipitacion_maxima":"30.0(25)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"28.8(16)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.30775,
-        "sequia_agrícola":0.3038389969
+        "sequia_agricola":0.3038389969,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"0.2(20)",
+        "precipitacion_maxima":"0.2(20)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"24.9(11)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"25.1(29)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"12.8(21)",
+        "precipitacion_maxima":"12.8(21)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"24.4(02)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1056363636,
-        "sequia_agrícola":0.1002093259
+        "sequia_agricola":0.1002093259,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"10.6(18)",
+        "precipitacion_maxima":"10.6(18)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"24.2(12)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"20.8(15)",
+        "precipitacion_maxima":"20.8(15)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"25.3(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.5256363636,
-        "sequia_agrícola":0.5199363636
+        "sequia_agricola":0.5199363636,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"18.6(23)",
+        "precipitacion_maxima":"18.6(23)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"33.8(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1816363636,
-        "sequia_agrícola":0.1730043155
+        "sequia_agricola":0.1730043155,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"1.6(05)",
+        "precipitacion_maxima":"1.6(05)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"33.9(28)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":31.0,
         "temperatura_max_absoluta_mes":"39.0(12)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.6(24)",
+        "precipitacion_maxima":"0.6(24)",
         "temperatura_media_minima_mensual":23.0,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"37.5(06)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"4.4(13)",
+        "precipitacion_maxima":"4.4(13)",
         "temperatura_media_minima_mensual":20.6,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.4(10)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.8(03)",
+        "precipitacion_maxima":"0.8(03)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"28.5(21)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"5.2(20)",
+        "precipitacion_maxima":"5.2(20)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"26.7(14)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"21.0(24)",
+        "precipitacion_maxima":"21.0(24)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"24.0(11)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.2656363636,
-        "sequia_agrícola":0.2632228205
+        "sequia_agricola":0.2632228205,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"3.6(24)",
+        "precipitacion_maxima":"3.6(24)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"24.4(31)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.4(24)",
+        "precipitacion_maxima":"2.4(24)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"23.2(16)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"33.8(15)",
+        "precipitacion_maxima":"33.8(15)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"22.7(30)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.6671666667,
-        "sequia_agrícola":1.6624666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"9.0(22)",
+        "precipitacion_maxima":"9.0(22)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"32.0(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"5.2(03)",
+        "precipitacion_maxima":"5.2(03)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"33.3(23)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.6,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"36.1(08)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"39.1(26)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.0,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"37.3(13)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"35.1(07)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"32.8(25)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"31.0(04)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"23.8(14)",
+        "precipitacion_maxima":"23.8(14)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"23.9(12)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.4351666667,
-        "sequia_agrícola":0.4322033427
+        "sequia_agricola":0.4322033427,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"10.0(24)",
+        "precipitacion_maxima":"10.0(24)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"27.8(11)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"42.8(07)",
+        "precipitacion_maxima":"42.8(07)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"20.9(22)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5318333333,
-        "sequia_agrícola":0.5281333333
+        "sequia_agricola":0.5281333333,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"7.6(06)",
+        "precipitacion_maxima":"7.6(06)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"30.8(31)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"32.9(29)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"10.8(26)",
+        "precipitacion_maxima":"10.8(26)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"29.6(15)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2518333333,
-        "sequia_agrícola":0.2431402314
+        "sequia_agricola":0.2431402314,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"3.0(08)",
+        "precipitacion_maxima":"3.0(08)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"35.6(29)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":24.0,
         "temperatura_media_maxima_mensual":32.6,
         "temperatura_max_absoluta_mes":"40.6(19)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.8,
         "temperatura_media_maxima_mensual":31.9,
         "temperatura_max_absoluta_mes":"39.5(01)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"2.0(02)",
+        "precipitacion_maxima":"2.0(02)",
         "temperatura_media_minima_mensual":20.8,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"30.8(12)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"18.0(19)",
+        "precipitacion_maxima":"18.0(19)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"31.9(14)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0918333333,
-        "sequia_agrícola":0.0833806078
+        "sequia_agricola":0.0833806078,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.8(04)",
+        "precipitacion_maxima":"0.8(04)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"3.8(06)",
+        "precipitacion_maxima":"3.8(06)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"7.0(04)",
+        "precipitacion_maxima":"7.0(04)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"24.5(03)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"33.0(09)",
+        "precipitacion_maxima":"33.0(09)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"24.5(22)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"49.0(30)",
+        "precipitacion_maxima":"49.0(30)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.0(15)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4766666667,
-        "sequia_agrícola":1.4719666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"6.6(27)",
+        "precipitacion_maxima":"6.6(27)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"30.0(16)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"2.4(01)",
+        "precipitacion_maxima":"2.4(01)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"30.3(27)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"2.4(26)",
+        "precipitacion_maxima":"2.4(26)",
         "temperatura_media_minima_mensual":19.7,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"33.9(15)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.8(28)",
+        "precipitacion_maxima":"0.8(28)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"38.8(12)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":24.5,
         "temperatura_media_maxima_mensual":32.3,
         "temperatura_max_absoluta_mes":"42.0(02)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"4.8(07)",
+        "precipitacion_maxima":"4.8(07)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"34.0(09)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"81.8(28)",
+        "precipitacion_maxima":"81.8(28)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"34.4(02)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.5106666667,
-        "sequia_agrícola":1.5057450331
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"43.8(13)",
+        "precipitacion_maxima":"43.8(13)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"25.5(09)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0126666667,
-        "sequia_agrícola":0.007884513
+        "sequia_agricola":0.007884513,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     },
     {
         "id_estacion":"6088X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"49.6(12)",
+        "precipitacion_maxima":"49.6(12)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"24.2(07)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0486666667,
-        "sequia_agrícola":0.0454291302
+        "sequia_agricola":0.0454291302,
+        "nomb_estacion":"TORREMOLINOS",
+        "provincia":"MALAGA",
+        "lat":"363714N",
+        "long":"043054W"
     }
 ]

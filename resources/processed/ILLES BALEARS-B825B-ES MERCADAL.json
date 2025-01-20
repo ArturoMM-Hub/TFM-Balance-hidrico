@@ -2,7 +2,7 @@
     {
         "id_estacion":"B825B",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"7.4(04)",
+        "precipitacion_maxima":"7.4(04)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"17.0(04)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.4(14)",
+        "precipitacion_maxima":"1.4(14)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"18.9(17)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"13.0(31)",
+        "precipitacion_maxima":"13.0(31)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"20.7(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"8.6(21)",
+        "precipitacion_maxima":"8.6(21)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"22.6(19)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"16.4(24)",
+        "precipitacion_maxima":"16.4(24)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"33.6(22)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.2(22)",
+        "precipitacion_maxima":"0.2(22)",
         "temperatura_media_minima_mensual":20.1,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"37.1(21)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":32.0,
         "temperatura_max_absoluta_mes":"36.0(23)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"38.2(17)",
+        "precipitacion_maxima":"38.2(17)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":31.9,
         "temperatura_max_absoluta_mes":"37.2(13)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0366666667,
-        "sequia_agrícola":0.0250312716
+        "sequia_agricola":0.0250312716,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"72.0(24)",
+        "precipitacion_maxima":"72.0(24)",
         "temperatura_media_minima_mensual":20.4,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.6(13)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5226666667,
-        "sequia_agrícola":0.5147421396
+        "sequia_agricola":0.5147421396,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"31.8(11)",
+        "precipitacion_maxima":"31.8(11)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"29.5(26)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2626666667,
-        "sequia_agrícola":0.2563798465
+        "sequia_agricola":0.2563798465,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"51.8(18)",
+        "precipitacion_maxima":"51.8(18)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"26.1(01)",
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.3126666667,
-        "sequia_agrícola":1.3099666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     },
     {
         "id_estacion":"B825B",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"6.4(10)",
+        "precipitacion_maxima":"6.4(10)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"21.4(26)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ES MERCADAL",
+        "provincia":"ILLES BALEARS",
+        "lat":"395926N",
+        "long":"040511E"
     }
 ]

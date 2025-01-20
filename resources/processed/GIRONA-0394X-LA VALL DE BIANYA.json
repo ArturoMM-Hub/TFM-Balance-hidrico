@@ -2,7 +2,7 @@
     {
         "id_estacion":"0394X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"0.8(10)",
+        "precipitacion_maxima":"0.8(10)",
         "temperatura_media_minima_mensual":-4.3,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"21.1(29)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"6.8(19)",
+        "precipitacion_maxima":"6.8(19)",
         "temperatura_media_minima_mensual":0.1,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"24.7(18)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"29.0(29)",
+        "precipitacion_maxima":"29.0(29)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"20.0(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.9286,
-        "sequia_agrícola":0.9239
+        "sequia_agricola":0.9239,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"23.0(20)",
+        "precipitacion_maxima":"23.0(20)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"28.3(16)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"58.4(24)",
+        "precipitacion_maxima":"58.4(24)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"34.9(20)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3986,
-        "sequia_agrícola":0.3907270464
+        "sequia_agricola":0.3907270464,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":32.8,
         "temperatura_max_absoluta_mes":"40.6(17)",
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":35.0,
         "temperatura_max_absoluta_mes":"40.6(15)",
@@ -171,13 +195,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"92.6(17)",
+        "precipitacion_maxima":"92.6(17)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":32.7,
         "temperatura_max_absoluta_mes":"37.1(02)",
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.0466,
-        "sequia_agrícola":1.0370014998
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"30.0(29)",
+        "precipitacion_maxima":"30.0(29)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"32.8(06)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5906,
-        "sequia_agrícola":0.5828633067
+        "sequia_agricola":0.5828633067,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"21.0(07)",
+        "precipitacion_maxima":"21.0(07)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"28.0(25)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"15.0(18)",
+        "precipitacion_maxima":"15.0(18)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"23.0(08)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     },
     {
         "id_estacion":"0394X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"8.0(16)",
+        "precipitacion_maxima":"8.0(16)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"23.1(25)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA VALL DE BIANYA",
+        "provincia":"GIRONA",
+        "lat":"421238N",
+        "long":"022819E"
     }
 ]

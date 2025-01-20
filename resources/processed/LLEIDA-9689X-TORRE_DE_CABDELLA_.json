@@ -2,7 +2,7 @@
     {
         "id_estacion":"9689X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"44.5(22)",
+        "precipitacion_maxima":"44.5(22)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":10.2,
         "temperatura_max_absoluta_mes":"16.5(05)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.2(29)",
+        "precipitacion_maxima":"1.2(29)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"20.1(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"53.6(01)",
+        "precipitacion_maxima":"53.6(01)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":11.4,
         "temperatura_max_absoluta_mes":"21.6(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8005555556,
-        "sequia_agrícola":0.7958555556
+        "sequia_agricola":0.7958555556,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"11.4(27)",
+        "precipitacion_maxima":"11.4(27)",
         "temperatura_media_minima_mensual":4.9,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"17.8(18)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"38.0(10)",
+        "precipitacion_maxima":"38.0(10)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"25.8(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1265555556,
-        "sequia_agrícola":0.1190226014
+        "sequia_agricola":0.1190226014,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"46.0(11)",
+        "precipitacion_maxima":"46.0(11)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"26.7(24)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.6865555556,
-        "sequia_agrícola":0.6773716195
+        "sequia_agricola":0.6773716195,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -171,13 +195,17 @@
         "mes":7,
         "year":2020,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2020,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"54.2(22)",
+        "precipitacion_maxima":"54.2(22)",
         "temperatura_media_minima_mensual":3.8,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"21.0(31)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7445555556,
-        "sequia_agrícola":0.7397010083
+        "sequia_agricola":0.7397010083,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"56.8(07)",
+        "precipitacion_maxima":"56.8(07)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"20.2(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"8.6(03)",
+        "precipitacion_maxima":"8.6(03)",
         "temperatura_media_minima_mensual":-1.6,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"14.9(22)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"25.6(09)",
+        "precipitacion_maxima":"25.6(09)",
         "temperatura_media_minima_mensual":-2.8,
         "temperatura_media_maxima_mensual":6.9,
         "temperatura_max_absoluta_mes":"14.4(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0025555556,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"22.6(22)",
+        "precipitacion_maxima":"22.6(22)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":11.2,
         "temperatura_max_absoluta_mes":"17.2(27)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"7.6(06)",
+        "precipitacion_maxima":"7.6(06)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"18.9(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"29.2(28)",
+        "precipitacion_maxima":"29.2(28)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"19.9(02)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4005555556,
-        "sequia_agrícola":0.3936856121
+        "sequia_agricola":0.3936856121,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"35.8(09)",
+        "precipitacion_maxima":"35.8(09)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"22.4(08)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1455555556,
-        "sequia_agrícola":0.1361514897
+        "sequia_agricola":0.1361514897,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -446,13 +514,17 @@
         "mes":6,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"44.4(31)",
+        "precipitacion_maxima":"44.4(31)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"30.9(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.3325555556,
-        "sequia_agrícola":0.3189157291
+        "sequia_agricola":0.3189157291,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -496,13 +572,17 @@
         "mes":8,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"18.6(16)",
+        "precipitacion_maxima":"18.6(16)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"26.5(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"47.6(29)",
+        "precipitacion_maxima":"47.6(29)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"20.7(12)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2505555556,
-        "sequia_agrícola":0.2434760851
+        "sequia_agricola":0.2434760851,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"27.2(09)",
+        "precipitacion_maxima":"27.2(09)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"21.8(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"15.4(10)",
+        "precipitacion_maxima":"15.4(10)",
         "temperatura_media_minima_mensual":-0.7,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"18.6(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"15.8(13)",
+        "precipitacion_maxima":"15.8(13)",
         "temperatura_media_minima_mensual":0.7,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"19.8(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"37.2(11)",
+        "precipitacion_maxima":"37.2(11)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":9.7,
         "temperatura_max_absoluta_mes":"16.4(15)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1990909091,
-        "sequia_agrícola":0.1943909091
+        "sequia_agricola":0.1943909091,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"36.0(19)",
+        "precipitacion_maxima":"36.0(19)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"21.9(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"16.2(03)",
+        "precipitacion_maxima":"16.2(03)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"29.4(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"34.8(16)",
+        "precipitacion_maxima":"34.8(16)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"34.4(16)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1250909091,
-        "sequia_agrícola":0.1134709584
+        "sequia_agricola":0.1134709584,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"12.4(05)",
+        "precipitacion_maxima":"12.4(05)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"33.9(16)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"56.0(25)",
+        "precipitacion_maxima":"56.0(25)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"32.0(03)",
@@ -796,13 +920,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.9030909091,
-        "sequia_agrícola":1.8939403907
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"27.6(13)",
+        "precipitacion_maxima":"27.6(13)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"26.2(12)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"51.8(20)",
+        "precipitacion_maxima":"51.8(20)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"23.0(02)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3030909091,
-        "sequia_agrícola":0.2970018516
+        "sequia_agricola":0.2970018516,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"18.2(11)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"36.8(08)",
+        "precipitacion_maxima":"36.8(08)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"15.1(24)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"18.6(16)",
+        "precipitacion_maxima":"18.6(16)",
         "temperatura_media_minima_mensual":-2.1,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"16.0(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"41.2(23)",
+        "precipitacion_maxima":"41.2(23)",
         "temperatura_media_minima_mensual":-1.3,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"18.3(04)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"8.6(09)",
+        "precipitacion_maxima":"8.6(09)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"20.7(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"11.0(21)",
+        "precipitacion_maxima":"11.0(21)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"24.2(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"12.8(07)",
+        "precipitacion_maxima":"12.8(07)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"23.5(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"54.8(17)",
+        "precipitacion_maxima":"54.8(17)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"28.9(25)",
@@ -1046,13 +1210,17 @@
         "mes":6,
         "year":2023,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.484,
-        "sequia_agrícola":1.4743424803
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"22.4(03)",
+        "precipitacion_maxima":"22.4(03)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"32.9(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"27.2(26)",
+        "precipitacion_maxima":"27.2(26)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"33.9(21)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"22.8(15)",
+        "precipitacion_maxima":"22.8(15)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"28.5(04)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"124.2(19)",
+        "precipitacion_maxima":"124.2(19)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"28.2(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.238,
-        "sequia_agrícola":1.2324452752
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"112.6(30)",
+        "precipitacion_maxima":"112.6(30)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"20.2(19)",
@@ -1171,13 +1355,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.492,
-        "sequia_agrícola":1.4893
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"38.6(01)",
+        "precipitacion_maxima":"38.6(01)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"16.7(24)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"33.8(17)",
+        "precipitacion_maxima":"33.8(17)",
         "temperatura_media_minima_mensual":0.6,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"22.1(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"16.2(09)",
+        "precipitacion_maxima":"16.2(09)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"18.6(05)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"43.8(02)",
+        "precipitacion_maxima":"43.8(02)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"22.3(21)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.7495,
-        "sequia_agrícola":1.7448
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"48.2(27)",
+        "precipitacion_maxima":"48.2(27)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"24.5(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2035,
-        "sequia_agrícola":0.1968041705
+        "sequia_agricola":0.1968041705,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"19.4(13)",
+        "precipitacion_maxima":"19.4(13)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"22.4(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"22.8(20)",
+        "precipitacion_maxima":"22.8(20)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"28.6(28)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"63.8(06)",
+        "precipitacion_maxima":"63.8(06)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"32.4(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"27.0(23)",
+        "precipitacion_maxima":"27.0(23)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"33.3(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"69.2(21)",
+        "precipitacion_maxima":"69.2(21)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.9(02)",
@@ -1421,13 +1645,17 @@
         "mes":9,
         "year":2024,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.3075,
-        "sequia_agrícola":1.3001019309
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"50.6(25)",
+        "precipitacion_maxima":"50.6(25)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"21.6(13)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3875,
-        "sequia_agrícola":1.382271348
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"25.0(25)",
+        "precipitacion_maxima":"25.0(25)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"19.4(29)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     },
     {
         "id_estacion":"9689X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"2.4(12)",
+        "precipitacion_maxima":"2.4(12)",
         "temperatura_media_minima_mensual":0.6,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"17.3(25)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TORRE DE CABDELLA ",
+        "provincia":"LLEIDA",
+        "lat":"422759N",
+        "long":"005927E"
     }
 ]

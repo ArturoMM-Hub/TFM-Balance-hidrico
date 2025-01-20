@@ -2,7 +2,7 @@
     {
         "id_estacion":"B013X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"21.0(05)",
+        "precipitacion_maxima":"21.0(05)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"22.2(04)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"7.8(14)",
+        "precipitacion_maxima":"7.8(14)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"22.5(03)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"44.1(23)",
+        "precipitacion_maxima":"44.1(23)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"18.6(15)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1310909091,
-        "sequia_agrícola":1.1263909091
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"78.3(21)",
+        "precipitacion_maxima":"78.3(21)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"23.5(30)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4330909091,
-        "sequia_agrícola":0.4269289927
+        "sequia_agricola":0.4269289927,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"34.6(22)",
@@ -121,13 +137,17 @@
         "mes":5,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"2.1(22)",
+        "precipitacion_maxima":"2.1(22)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"36.0(17)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.3(05)",
+        "precipitacion_maxima":"0.3(05)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":33.1,
         "temperatura_max_absoluta_mes":"37.8(25)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"42.6(27)",
+        "precipitacion_maxima":"42.6(27)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":32.6,
         "temperatura_max_absoluta_mes":"38.9(13)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"22.0(24)",
+        "precipitacion_maxima":"22.0(24)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"33.4(13)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"16.2(06)",
+        "precipitacion_maxima":"16.2(06)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"31.5(26)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"34.2(18)",
+        "precipitacion_maxima":"34.2(18)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"24.8(01)",
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0950909091,
-        "sequia_agrícola":1.0922031705
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B013X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"31.4(02)",
+        "precipitacion_maxima":"31.4(02)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"23.4(25)",
@@ -297,12 +341,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1850909091,
-        "sequia_agrícola":0.1826793279
+        "sequia_agricola":0.1826793279,
+        "nomb_estacion":"ESCORCA, LLUC",
+        "provincia":"ILLES BALEARS",
+        "lat":"394924N",
+        "long":"025309E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"92.8(05)",
+        "precipitacion_maxima":"92.8(05)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":11.2,
         "temperatura_max_absoluta_mes":"18.7(26)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.3461666667,
-        "sequia_agrícola":1.3434666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"60.6(28)",
+        "precipitacion_maxima":"60.6(28)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":12.4,
         "temperatura_max_absoluta_mes":"16.4(14)",
@@ -347,12 +399,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.9441666667,
-        "sequia_agrícola":0.9403067637
+        "sequia_agricola":0.9403067637,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"40.6(09)",
+        "precipitacion_maxima":"40.6(09)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"22.2(22)",
@@ -372,12 +428,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0361666667,
-        "sequia_agrícola":0.0306938254
+        "sequia_agricola":0.0306938254,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"10.8(22)",
+        "precipitacion_maxima":"10.8(22)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"27.1(06)",
@@ -397,12 +457,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"8.0(15)",
+        "precipitacion_maxima":"8.0(15)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"26.0(26)",
@@ -422,12 +486,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"3.4(11)",
+        "precipitacion_maxima":"3.4(11)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"31.0(18)",
@@ -447,12 +515,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"51.0(01)",
+        "precipitacion_maxima":"51.0(01)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"36.6(31)",
@@ -472,12 +544,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"85.4(15)",
+        "precipitacion_maxima":"85.4(15)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":28.8,
         "temperatura_max_absoluta_mes":"36.1(01)",
@@ -497,12 +573,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3541666667,
-        "sequia_agrícola":0.3438829816
+        "sequia_agricola":0.3438829816,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"50.4(03)",
+        "precipitacion_maxima":"50.4(03)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"27.3(07)",
@@ -522,12 +602,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"41.2(26)",
+        "precipitacion_maxima":"41.2(26)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"27.1(14)",
@@ -547,12 +631,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1121666667,
-        "sequia_agrícola":0.1061690506
+        "sequia_agricola":0.1061690506,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"50.0(12)",
+        "precipitacion_maxima":"50.0(12)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"19.1(05)",
@@ -572,12 +660,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.8741666667,
-        "sequia_agrícola":0.8710939399
+        "sequia_agricola":0.8710939399,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     },
     {
         "id_estacion":"B684A",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"23.2(03)",
+        "precipitacion_maxima":"23.2(03)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"14.9(18)",
@@ -597,6 +689,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ESCORCA, SON TORRELLA",
+        "provincia":"ILLES BALEARS",
+        "lat":"394734N",
+        "long":"024716E"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":"0201X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"5.6(04)",
+        "precipitacion_maxima":"5.6(04)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"21.3(04)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.6(25)",
+        "precipitacion_maxima":"2.6(25)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"20.6(17)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"22.4(11)",
+        "precipitacion_maxima":"22.4(11)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"19.4(27)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5751666667,
-        "sequia_agrícola":0.5704666667
+        "sequia_agricola":0.5704666667,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"13.0(23)",
+        "precipitacion_maxima":"13.0(23)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"25.6(08)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1491666667,
-        "sequia_agrícola":0.141434293
+        "sequia_agricola":0.141434293,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"16.6(24)",
+        "precipitacion_maxima":"16.6(24)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"32.3(22)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"3.4(21)",
+        "precipitacion_maxima":"3.4(21)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"33.9(17)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"2.0(27)",
+        "precipitacion_maxima":"2.0(27)",
         "temperatura_media_minima_mensual":23.8,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"34.3(15)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"29.4(31)",
+        "precipitacion_maxima":"29.4(31)",
         "temperatura_media_minima_mensual":24.0,
         "temperatura_media_maxima_mensual":31.1,
         "temperatura_max_absoluta_mes":"34.2(02)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3631666667,
-        "sequia_agrícola":0.3520645113
+        "sequia_agricola":0.3520645113,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"11.4(23)",
+        "precipitacion_maxima":"11.4(23)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"31.0(13)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"9.8(07)",
+        "precipitacion_maxima":"9.8(07)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"26.9(24)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"4.0(18)",
+        "precipitacion_maxima":"4.0(18)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"23.7(09)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     },
     {
         "id_estacion":"0201X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"10.2(08)",
+        "precipitacion_maxima":"10.2(08)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"23.1(23)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0311666667,
-        "sequia_agrícola":0.0266653476
+        "sequia_agricola":0.0266653476,
+        "nomb_estacion":"BARCELONA, DRASSANES",
+        "provincia":"BARCELONA",
+        "lat":"412230N",
+        "long":"021026E"
     }
 ]

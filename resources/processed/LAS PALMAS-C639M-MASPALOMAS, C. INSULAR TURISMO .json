@@ -2,7 +2,7 @@
     {
         "id_estacion":"C639M",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"10.8(27)",
+        "precipitacion_maxima":"10.8(27)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"25.2(02)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1095,
-        "sequia_agrícola":0.1036904398
+        "sequia_agricola":0.1036904398,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.4(02)",
+        "precipitacion_maxima":"1.4(02)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"27.8(02)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"0.8(27)",
+        "precipitacion_maxima":"0.8(27)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"24.9(02)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"3.0(03)",
+        "precipitacion_maxima":"3.0(03)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"31.7(17)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"35.1(10)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.2(20)",
+        "precipitacion_maxima":"0.2(20)",
         "temperatura_media_minima_mensual":20.1,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"28.7(09)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.6,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"35.4(26)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.6(31)",
+        "precipitacion_maxima":"2.6(31)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"32.8(22)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"87.6(25)",
+        "precipitacion_maxima":"87.6(25)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"31.3(01)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8935,
-        "sequia_agrícola":0.8868
+        "sequia_agricola":0.8868,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.6(04)",
+        "precipitacion_maxima":"0.6(04)",
         "temperatura_media_minima_mensual":20.8,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"30.4(05)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"29.3(13)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     },
     {
         "id_estacion":"C639M",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"9.6(07)",
+        "precipitacion_maxima":"9.6(07)",
         "temperatura_media_minima_mensual":18.5,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"26.4(14)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MASPALOMAS, C. INSULAR TURISMO ",
+        "provincia":"LAS PALMAS",
+        "lat":"274529N",
+        "long":"153432W"
     }
 ]

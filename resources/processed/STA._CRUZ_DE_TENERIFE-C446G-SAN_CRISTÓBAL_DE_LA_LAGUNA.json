@@ -2,7 +2,7 @@
     {
         "id_estacion":"C446G",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"16.0(10)",
+        "precipitacion_maxima":"16.0(10)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"26.7(30)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"4.2(09)",
+        "precipitacion_maxima":"4.2(09)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"28.4(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"47.6(22)",
+        "precipitacion_maxima":"47.6(22)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"29.8(12)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2296666667,
-        "sequia_agrícola":1.2249666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"1.6(23)",
+        "precipitacion_maxima":"1.6(23)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"25.4(08)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"7.0(14)",
+        "precipitacion_maxima":"7.0(14)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"34.6(26)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"10.0(05)",
+        "precipitacion_maxima":"10.0(05)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"26.5(16)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.4(03)",
+        "precipitacion_maxima":"0.4(03)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"38.8(07)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"9.0(29)",
+        "precipitacion_maxima":"9.0(29)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"37.9(26)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"9.8(27)",
+        "precipitacion_maxima":"9.8(27)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"37.2(08)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"44.0(03)",
+        "precipitacion_maxima":"44.0(03)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"34.6(13)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5376666667,
-        "sequia_agrícola":0.532291502
+        "sequia_agricola":0.532291502,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"44.6(04)",
+        "precipitacion_maxima":"44.6(04)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"29.0(17)",
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.3136666667,
-        "sequia_agrícola":1.3108512268
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"32.8(05)",
+        "precipitacion_maxima":"32.8(05)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"21.6(03)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.9536666667,
-        "sequia_agrícola":0.9518927841
+        "sequia_agricola":0.9518927841,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"40.0(08)",
+        "precipitacion_maxima":"40.0(08)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"26.1(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3815,
-        "sequia_agrícola":0.3777806198
+        "sequia_agricola":0.3777806198,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"53.4(04)",
+        "precipitacion_maxima":"53.4(04)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"24.5(02)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.2775,
-        "sequia_agrícola":1.2738
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"37.6(08)",
+        "precipitacion_maxima":"37.6(08)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"24.2(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3335,
-        "sequia_agrícola":0.3277507488
+        "sequia_agricola":0.3277507488,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"19.4(29)",
+        "precipitacion_maxima":"19.4(29)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"25.5(12)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"7.4(13)",
+        "precipitacion_maxima":"7.4(13)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"24.4(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"6.0(17)",
+        "precipitacion_maxima":"6.0(17)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"33.1(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"5.4(07)",
+        "precipitacion_maxima":"5.4(07)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":24.7,
         "temperatura_max_absoluta_mes":"37.9(17)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"6.0(07)",
+        "precipitacion_maxima":"6.0(07)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"40.1(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"7.2(16)",
+        "precipitacion_maxima":"7.2(16)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"35.1(11)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"17.4(04)",
+        "precipitacion_maxima":"17.4(04)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"37.9(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"46.6(26)",
+        "precipitacion_maxima":"46.6(26)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"24.3(02)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5895,
-        "sequia_agrícola":0.5859290026
+        "sequia_agricola":0.5859290026,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"16.0(09)",
+        "precipitacion_maxima":"16.0(09)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"22.9(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0015,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"45.2(17)",
+        "precipitacion_maxima":"45.2(17)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"25.4(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.7231666667,
-        "sequia_agrícola":0.7203292419
+        "sequia_agricola":0.7203292419,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"38.0(19)",
+        "precipitacion_maxima":"38.0(19)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"23.8(11)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3031666667,
-        "sequia_agrícola":0.2988243529
+        "sequia_agricola":0.2988243529,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"25.4(14)",
+        "precipitacion_maxima":"25.4(14)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"16.9(08)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6231666667,
-        "sequia_agrícola":0.6184666667
+        "sequia_agricola":0.6184666667,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"27.4(03)",
+        "precipitacion_maxima":"27.4(03)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"29.4(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"2.8(24)",
+        "precipitacion_maxima":"2.8(24)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"31.8(09)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"18.8(25)",
+        "precipitacion_maxima":"18.8(25)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"28.1(12)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"21.8(01)",
+        "precipitacion_maxima":"21.8(01)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"40.7(26)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"4.0(17)",
+        "precipitacion_maxima":"4.0(17)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"37.4(03)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"61.2(24)",
+        "precipitacion_maxima":"61.2(24)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"30.0(05)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.0211666667,
-        "sequia_agrícola":1.0141107682
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"12.4(12)",
+        "precipitacion_maxima":"12.4(12)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"29.3(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"14.6(20)",
+        "precipitacion_maxima":"14.6(20)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"28.2(16)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"27.2(02)",
+        "precipitacion_maxima":"27.2(02)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"24.4(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1571666667,
-        "sequia_agrícola":0.1543867854
+        "sequia_agricola":0.1543867854,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"43.2(11)",
+        "precipitacion_maxima":"43.2(11)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"21.2(01)",
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0628333333,
-        "sequia_agrícola":1.0601091254
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"31.2(10)",
+        "precipitacion_maxima":"31.2(10)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"19.3(12)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.9408333333,
-        "sequia_agrícola":0.9371333333
+        "sequia_agricola":0.9371333333,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"19.0(16)",
+        "precipitacion_maxima":"19.0(16)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"31.6(12)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"5.6(04)",
+        "precipitacion_maxima":"5.6(04)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"31.0(30)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"5.0(17)",
+        "precipitacion_maxima":"5.0(17)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"31.2(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"9.0(07)",
+        "precipitacion_maxima":"9.0(07)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"40.8(28)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"5.8(15)",
+        "precipitacion_maxima":"5.8(15)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"39.1(13)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"3.4(04)",
+        "precipitacion_maxima":"3.4(04)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"43.9(13)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"25.8(16)",
+        "precipitacion_maxima":"25.8(16)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"31.5(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0748333333,
-        "sequia_agrícola":0.0656476537
+        "sequia_agricola":0.0656476537,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"26.8(22)",
+        "precipitacion_maxima":"26.8(22)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"36.9(10)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1968333333,
-        "sequia_agrícola":0.1896031243
+        "sequia_agricola":0.1896031243,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"31.6(05)",
+        "precipitacion_maxima":"31.6(05)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"31.5(15)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1928333333,
-        "sequia_agrícola":0.1882343603
+        "sequia_agricola":0.1882343603,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"19.8(21)",
+        "precipitacion_maxima":"19.8(21)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"24.4(29)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"15.0(18)",
+        "precipitacion_maxima":"15.0(18)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"26.5(31)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"35.0(29)",
+        "precipitacion_maxima":"35.0(29)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"27.2(13)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5728333333,
-        "sequia_agrícola":0.5689086997
+        "sequia_agricola":0.5689086997,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"28.0(28)",
+        "precipitacion_maxima":"28.0(28)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"29.3(16)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4928333333,
-        "sequia_agrícola":0.4881333333
+        "sequia_agricola":0.4881333333,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"8.8(27)",
+        "precipitacion_maxima":"8.8(27)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"33.8(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"13.8(14)",
+        "precipitacion_maxima":"13.8(14)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"32.0(08)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"8.8(26)",
+        "precipitacion_maxima":"8.8(26)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"25.3(29)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"5.0(28)",
+        "precipitacion_maxima":"5.0(28)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"38.8(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"7.2(24)",
+        "precipitacion_maxima":"7.2(24)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"35.8(12)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"21.2(03)",
+        "precipitacion_maxima":"21.2(03)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"31.0(27)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"33.0(27)",
+        "precipitacion_maxima":"33.0(27)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"32.0(03)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6448333333,
-        "sequia_agrícola":0.639758988
+        "sequia_agricola":0.639758988,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"41.0(17)",
+        "precipitacion_maxima":"41.0(17)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"33.1(09)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1148333333,
-        "sequia_agrícola":0.1103491308
+        "sequia_agricola":0.1103491308,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     },
     {
         "id_estacion":"C446G",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"23.2(21)",
+        "precipitacion_maxima":"23.2(21)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"26.3(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.2228333333,
-        "sequia_agrícola":0.2203392374
+        "sequia_agricola":0.2203392374,
+        "nomb_estacion":"SAN CRISTÓBAL DE LA LAGUNA,LLANO DE LOS LOROS",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"283135N",
+        "long":"161649W"
     }
 ]

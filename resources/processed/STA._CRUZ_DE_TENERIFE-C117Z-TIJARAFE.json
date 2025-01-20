@@ -2,7 +2,7 @@
     {
         "id_estacion":"C117Z",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"0.2(22)",
+        "precipitacion_maxima":"0.2(22)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"25.5(30)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"27.2(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"8.2(22)",
+        "precipitacion_maxima":"8.2(22)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"25.8(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"10.4(03)",
+        "precipitacion_maxima":"10.4(03)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"22.1(08)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0085,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.2(08)",
+        "precipitacion_maxima":"0.2(08)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"32.2(24)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"15.0(05)",
+        "precipitacion_maxima":"15.0(05)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"25.5(16)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1465,
-        "sequia_agrícola":0.1355442471
+        "sequia_agricola":0.1355442471,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"35.4(07)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"39.6(26)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.8(29)",
+        "precipitacion_maxima":"0.8(29)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"33.3(08)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"11.8(20)",
+        "precipitacion_maxima":"11.8(20)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"32.6(13)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1205,
-        "sequia_agrícola":0.1131830651
+        "sequia_agricola":0.1131830651,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"17.2(05)",
+        "precipitacion_maxima":"17.2(05)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"28.8(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2385,
-        "sequia_agrícola":0.2344506015
+        "sequia_agricola":0.2344506015,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"18.2(01)",
+        "precipitacion_maxima":"18.2(01)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"18.8(24)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.4065,
-        "sequia_agrícola":0.4048
+        "sequia_agricola":0.4048,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"22.0(05)",
+        "precipitacion_maxima":"22.0(05)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"24.1(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4725,
-        "sequia_agrícola":0.4698
+        "sequia_agricola":0.4698,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"10.2(20)",
+        "precipitacion_maxima":"10.2(20)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"21.9(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0625,
-        "sequia_agrícola":0.0562352035
+        "sequia_agricola":0.0562352035,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"11.2(28)",
+        "precipitacion_maxima":"11.2(28)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"24.7(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0965,
-        "sequia_agrícola":0.0895833686
+        "sequia_agricola":0.0895833686,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"0.8(13)",
+        "precipitacion_maxima":"0.8(13)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"22.1(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"2.0(02)",
+        "precipitacion_maxima":"2.0(02)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"28.0(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"2.2(03)",
+        "precipitacion_maxima":"2.2(03)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"32.8(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.2(26)",
+        "precipitacion_maxima":"0.2(26)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"36.1(18)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"2.0(11)",
+        "precipitacion_maxima":"2.0(11)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"40.9(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.4(02)",
+        "precipitacion_maxima":"0.4(02)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"32.3(09)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.2(24)",
+        "precipitacion_maxima":"0.2(24)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"33.6(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"26.4(25)",
+        "precipitacion_maxima":"26.4(25)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"21.7(04)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2465,
-        "sequia_agrícola":0.2424955221
+        "sequia_agricola":0.2424955221,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"6.4(20)",
+        "precipitacion_maxima":"6.4(20)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"23.4(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0105,
-        "sequia_agrícola":0.0050825133
+        "sequia_agricola":0.0050825133,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.2(20)",
+        "precipitacion_maxima":"2.2(20)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"23.7(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"15.6(21)",
+        "precipitacion_maxima":"15.6(21)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"24.4(07)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"31.2(27)",
+        "precipitacion_maxima":"31.2(27)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"19.9(02)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4065,
-        "sequia_agrícola":0.401226598
+        "sequia_agricola":0.401226598,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"28.6(03)",
+        "precipitacion_maxima":"28.6(03)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"29.8(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1285,
-        "sequia_agrícola":0.1211302595
+        "sequia_agricola":0.1211302595,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"13.2(30)",
+        "precipitacion_maxima":"13.2(30)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"26.4(09)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"30.8(08)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"39.1(26)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.6(31)",
+        "precipitacion_maxima":"2.6(31)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"34.4(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"30.2(19)",
+        "precipitacion_maxima":"30.2(19)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"27.9(01)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3125,
-        "sequia_agrícola":0.3042343277
+        "sequia_agricola":0.3042343277,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"28.8(05)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"25.5(16)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"54.2(07)",
+        "precipitacion_maxima":"54.2(07)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"23.7(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.9685,
-        "sequia_agrícola":0.9668
+        "sequia_agricola":0.9668,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"8.2(12)",
+        "precipitacion_maxima":"8.2(12)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"22.8(15)",
@@ -922,12 +1066,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"9.0(09)",
+        "precipitacion_maxima":"9.0(09)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"23.7(13)",
@@ -947,12 +1095,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"28.0(23)",
+        "precipitacion_maxima":"28.0(23)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"26.0(16)",
@@ -972,12 +1124,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4366666667,
-        "sequia_agrícola":0.4319666667
+        "sequia_agricola":0.4319666667,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.2(05)",
+        "precipitacion_maxima":"0.2(05)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"33.0(11)",
@@ -997,12 +1153,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"25.1(06)",
@@ -1022,12 +1182,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"2.8(06)",
+        "precipitacion_maxima":"2.8(06)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"24.0(15)",
@@ -1047,12 +1211,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"1.2(29)",
+        "precipitacion_maxima":"1.2(29)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"35.0(25)",
@@ -1072,12 +1240,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.2(30)",
+        "precipitacion_maxima":"0.2(30)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"33.7(21)",
@@ -1097,12 +1269,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.4(07)",
+        "precipitacion_maxima":"0.4(07)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"25.1(03)",
@@ -1122,12 +1298,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"65.0(15)",
+        "precipitacion_maxima":"65.0(15)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"29.0(03)",
@@ -1147,12 +1327,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4546666667,
-        "sequia_agrícola":0.4495811118
+        "sequia_agricola":0.4495811118,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"18.6(16)",
+        "precipitacion_maxima":"18.6(16)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"28.7(10)",
@@ -1172,12 +1356,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3226666667,
-        "sequia_agrícola":0.3191594928
+        "sequia_agricola":0.3191594928,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     },
     {
         "id_estacion":"C117Z",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"25.8(23)",
+        "precipitacion_maxima":"25.8(23)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"25.4(15)",
@@ -1197,6 +1385,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3346666667,
-        "sequia_agrícola":0.3324961075
+        "sequia_agricola":0.3324961075,
+        "nomb_estacion":"TIJARAFE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"284029N",
+        "long":"175612W"
     }
 ]

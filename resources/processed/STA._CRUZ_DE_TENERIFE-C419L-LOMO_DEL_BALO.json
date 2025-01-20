@@ -2,7 +2,7 @@
     {
         "id_estacion":"C419L",
         "fecha":"2020-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"29.1(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"7.6(22)",
+        "precipitacion_maxima":"7.6(22)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"26.8(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0965454545,
-        "sequia_agrícola":0.0903458716
+        "sequia_agricola":0.0903458716,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"24.9(18)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"1.2(30)",
+        "precipitacion_maxima":"1.2(30)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"31.4(26)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"2.8(05)",
+        "precipitacion_maxima":"2.8(05)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"31.7(16)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"35.4(19)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"39.1(27)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.5(23)",
+        "precipitacion_maxima":"0.5(23)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"36.5(08)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"1.4(20)",
+        "precipitacion_maxima":"1.4(20)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"33.0(13)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"6.3(30)",
+        "precipitacion_maxima":"6.3(30)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"30.6(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1045454545,
-        "sequia_agrícola":0.0997942165
+        "sequia_agricola":0.0997942165,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"11.8(01)",
+        "precipitacion_maxima":"11.8(01)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"23.2(25)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1585454545,
-        "sequia_agrícola":0.1568454545
+        "sequia_agricola":0.1568454545,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"31.9(06)",
+        "precipitacion_maxima":"31.9(06)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.9(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.741,
-        "sequia_agrícola":0.7383
+        "sequia_agricola":0.7383,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"3.2(20)",
+        "precipitacion_maxima":"3.2(20)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"26.5(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"2.7(31)",
+        "precipitacion_maxima":"2.7(31)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"29.0(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"1.2(29)",
+        "precipitacion_maxima":"1.2(29)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"27.3(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":23.3,
         "temperatura_max_absoluta_mes":"27.3(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.6(03)",
+        "precipitacion_maxima":"0.6(03)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"33.1(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.9(26)",
+        "precipitacion_maxima":"0.9(26)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"40.0(18)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.6(08)",
+        "precipitacion_maxima":"0.6(08)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"42.7(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"33.9(11)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"1.5(23)",
+        "precipitacion_maxima":"1.5(23)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"33.1(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"4.8(26)",
+        "precipitacion_maxima":"4.8(26)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"25.7(04)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2021-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"8.7(27)",
+        "precipitacion_maxima":"8.7(27)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"27.5(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"22.4(21)",
+        "precipitacion_maxima":"22.4(21)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"26.7(10)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1019166667,
-        "sequia_agrícola":0.0963899536
+        "sequia_agricola":0.0963899536,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"27.3(28)",
+        "precipitacion_maxima":"27.3(28)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"22.9(29)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3929166667,
-        "sequia_agrícola":0.3882166667
+        "sequia_agricola":0.3882166667,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"15.1(03)",
+        "precipitacion_maxima":"15.1(03)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"32.0(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"1.6(30)",
+        "precipitacion_maxima":"1.6(30)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.9(09)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.1(20)",
+        "precipitacion_maxima":"0.1(20)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"27.4(09)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"40.9(26)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"6.0(31)",
+        "precipitacion_maxima":"6.0(31)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"34.0(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"51.2(24)",
+        "precipitacion_maxima":"51.2(24)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"30.2(01)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4219166667,
-        "sequia_agrícola":0.4145416983
+        "sequia_agricola":0.4145416983,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"1.5(15)",
+        "precipitacion_maxima":"1.5(15)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"30.5(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"29.1(15)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"36.5(07)",
+        "precipitacion_maxima":"36.5(07)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"27.0(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.4789166667,
-        "sequia_agrícola":0.4770946552
+        "sequia_agricola":0.4770946552,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"0.3(29)",
+        "precipitacion_maxima":"0.3(29)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"22.9(15)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"41.0(10)",
+        "precipitacion_maxima":"41.0(10)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"21.4(26)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.4211666667,
-        "sequia_agrícola":0.4174666667
+        "sequia_agricola":0.4174666667,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"32.3(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"29.4(10)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"3.0(25)",
+        "precipitacion_maxima":"3.0(25)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"28.9(01)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"11.5(07)",
+        "precipitacion_maxima":"11.5(07)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"34.9(28)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0661666667,
-        "sequia_agrícola":0.0530192198
+        "sequia_agricola":0.0530192198,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"39.2(14)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"3.1(25)",
+        "precipitacion_maxima":"3.1(25)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"42.8(12)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"1.8(17)",
+        "precipitacion_maxima":"1.8(17)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"29.0(08)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"3.1(21)",
+        "precipitacion_maxima":"3.1(21)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":29.6,
         "temperatura_max_absoluta_mes":"34.9(03)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"34.5(30)",
+        "precipitacion_maxima":"34.5(30)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"31.0(15)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2471666667,
-        "sequia_agrícola":0.2423987573
+        "sequia_agricola":0.2423987573,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"0.7(22)",
+        "precipitacion_maxima":"0.7(22)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"26.7(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"2.7(18)",
+        "precipitacion_maxima":"2.7(18)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"27.2(15)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.6(01)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"7.8(28)",
+        "precipitacion_maxima":"7.8(28)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"29.9(17)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.164,
-        "sequia_agrícola":0.1593
+        "sequia_agricola":0.1593,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.4(27)",
+        "precipitacion_maxima":"0.4(27)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"34.5(11)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.2(14)",
+        "precipitacion_maxima":"0.2(14)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"28.2(08)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.3(06)",
+        "precipitacion_maxima":"0.3(06)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"25.2(07)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"35.6(19)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.5(20)",
+        "precipitacion_maxima":"0.5(20)",
         "temperatura_media_minima_mensual":19.4,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.6(22)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.5(06)",
+        "precipitacion_maxima":"0.5(06)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"27.3(03)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"2.8(16)",
+        "precipitacion_maxima":"2.8(16)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"28.9(03)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.032,
-        "sequia_agrícola":0.0218091525
+        "sequia_agricola":0.0218091525,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"2.5(20)",
+        "precipitacion_maxima":"2.5(20)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"30.6(20)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.022,
-        "sequia_agrícola":0.0132489724
+        "sequia_agricola":0.0132489724,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     },
     {
         "id_estacion":"C419L",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"1.7(09)",
+        "precipitacion_maxima":"1.7(09)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"30.6(16)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.013,
-        "sequia_agrícola":0.0051005155
+        "sequia_agricola":0.0051005155,
+        "nomb_estacion":"LOMO DEL BALO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281225N",
+        "long":"164731W"
     }
 ]

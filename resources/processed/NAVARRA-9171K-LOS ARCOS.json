@@ -2,7 +2,7 @@
     {
         "id_estacion":"9171K",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"11.6(09)",
+        "precipitacion_maxima":"11.6(09)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"19.2(30)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"3.2(13)",
+        "precipitacion_maxima":"3.2(13)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"20.7(02)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"13.0(14)",
+        "precipitacion_maxima":"13.0(14)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"18.5(01)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.285,
-        "sequia_agrícola":0.2799503098
+        "sequia_agricola":0.2799503098,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"16.2(26)",
+        "precipitacion_maxima":"16.2(26)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"24.9(17)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.361,
-        "sequia_agrícola":0.3547935189
+        "sequia_agricola":0.3547935189,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"2.6(14)",
+        "precipitacion_maxima":"2.6(14)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"33.4(21)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"2.2(25)",
+        "precipitacion_maxima":"2.2(25)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"40.6(18)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"11.2(06)",
+        "precipitacion_maxima":"11.2(06)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":33.6,
         "temperatura_max_absoluta_mes":"40.9(13)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.0(29)",
+        "precipitacion_maxima":"2.0(29)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"39.5(12)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"5.2(12)",
+        "precipitacion_maxima":"5.2(12)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"34.1(11)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"6.4(30)",
+        "precipitacion_maxima":"6.4(30)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"32.3(04)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"12.2(24)",
+        "precipitacion_maxima":"12.2(24)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"22.4(17)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.157,
-        "sequia_agrícola":0.1530086376
+        "sequia_agricola":0.1530086376,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     },
     {
         "id_estacion":"9171K",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"15.4(12)",
+        "precipitacion_maxima":"15.4(12)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"18.5(22)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.357,
-        "sequia_agrícola":0.3553
+        "sequia_agricola":0.3553,
+        "nomb_estacion":"LOS ARCOS",
+        "provincia":"NAVARRA",
+        "lat":"423414N",
+        "long":"021102W"
     }
 ]

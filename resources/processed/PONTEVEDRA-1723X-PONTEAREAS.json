@@ -2,7 +2,7 @@
     {
         "id_estacion":"1723X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"24.8(16)",
+        "precipitacion_maxima":"24.8(16)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"17.5(22)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3188,
-        "sequia_agrícola":0.3161
+        "sequia_agricola":0.3161,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"25.1(23)",
@@ -46,13 +50,17 @@
         "mes":2,
         "year":2020,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"32.4(01)",
+        "precipitacion_maxima":"32.4(01)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.0(18)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2208,
-        "sequia_agrícola":0.2157571366
+        "sequia_agricola":0.2157571366,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"16.6(30)",
+        "precipitacion_maxima":"16.6(30)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.5(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4168,
-        "sequia_agrícola":0.4107743089
+        "sequia_agricola":0.4107743089,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"20.6(14)",
+        "precipitacion_maxima":"20.6(14)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"34.4(29)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"5.6(12)",
+        "precipitacion_maxima":"5.6(12)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"35.0(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.6(08)",
+        "precipitacion_maxima":"0.6(08)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":33.8,
         "temperatura_max_absoluta_mes":"39.5(17)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"21.2(19)",
+        "precipitacion_maxima":"21.2(19)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"36.9(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"33.0(22)",
+        "precipitacion_maxima":"33.0(22)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"37.2(12)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1168,
-        "sequia_agrícola":0.1090068335
+        "sequia_agricola":0.1090068335,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"51.6(24)",
+        "precipitacion_maxima":"51.6(24)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"25.6(18)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6128,
-        "sequia_agrícola":0.6078845884
+        "sequia_agricola":0.6078845884,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"28.0(24)",
+        "precipitacion_maxima":"28.0(24)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"22.3(17)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3148,
-        "sequia_agrícola":0.3117780758
+        "sequia_agricola":0.3117780758,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"19.6(22)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"16.9(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"22.5(15)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"5.8(11)",
+        "precipitacion_maxima":"5.8(11)",
         "temperatura_media_minima_mensual":4.9,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"29.8(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"21.6(10)",
+        "precipitacion_maxima":"21.6(10)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"25.8(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4124,
-        "sequia_agrícola":0.4058584509
+        "sequia_agricola":0.4058584509,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"21.6(10)",
+        "precipitacion_maxima":"21.6(10)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.9,
         "temperatura_max_absoluta_mes":"30.6(30)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3504,
-        "sequia_agrícola":0.3427764456
+        "sequia_agricola":0.3427764456,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"20.0(17)",
+        "precipitacion_maxima":"20.0(17)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"35.4(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"3.0(05)",
+        "precipitacion_maxima":"3.0(05)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"37.8(16)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"7.6(01)",
+        "precipitacion_maxima":"7.6(01)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"37.6(23)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"53.2(14)",
+        "precipitacion_maxima":"53.2(14)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"34.7(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4064,
-        "sequia_agrícola":0.3983699604
+        "sequia_agricola":0.3983699604,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"33.6(28)",
+        "precipitacion_maxima":"33.6(28)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"28.9(11)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6444,
-        "sequia_agrícola":0.6389645769
+        "sequia_agricola":0.6389645769,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"14.6(02)",
+        "precipitacion_maxima":"14.6(02)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"21.9(19)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"39.4(07)",
+        "precipitacion_maxima":"39.4(07)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"23.2(31)",
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.0564,
-        "sequia_agrícola":1.0547
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"13.4(09)",
+        "precipitacion_maxima":"13.4(09)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"23.4(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"28.4(13)",
+        "precipitacion_maxima":"28.4(13)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"22.8(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"17.6(01)",
+        "precipitacion_maxima":"17.6(01)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"23.7(24)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"21.2(21)",
+        "precipitacion_maxima":"21.2(21)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"26.7(29)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"15.4(31)",
+        "precipitacion_maxima":"15.4(31)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"34.9(27)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"11.6(03)",
+        "precipitacion_maxima":"11.6(03)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"34.8(13)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.6(03)",
+        "precipitacion_maxima":"0.6(03)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"41.1(12)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"3.6(15)",
+        "precipitacion_maxima":"3.6(15)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":32.2,
         "temperatura_max_absoluta_mes":"40.4(01)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"38.6(13)",
+        "precipitacion_maxima":"38.6(13)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"33.3(18)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"52.8(22)",
+        "precipitacion_maxima":"52.8(22)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"29.6(03)",
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.3650909091,
-        "sequia_agrícola":2.3602447527
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"67.6(22)",
+        "precipitacion_maxima":"67.6(22)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"23.2(12)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.4050909091,
-        "sequia_agrícola":2.4023909091
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"18.6(09)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"65.6(01)",
+        "precipitacion_maxima":"65.6(01)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"17.8(13)",
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.362,
-        "sequia_agrícola":1.3593
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -946,13 +1094,17 @@
         "mes":2,
         "year":2023,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"23.2(17)",
+        "precipitacion_maxima":"23.2(17)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"26.0(28)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.094,
-        "sequia_agrícola":0.0884960101
+        "sequia_agricola":0.0884960101,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"16.6(21)",
+        "precipitacion_maxima":"16.6(21)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"29.0(17)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"25.0(05)",
+        "precipitacion_maxima":"25.0(05)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"31.7(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"33.8(07)",
+        "precipitacion_maxima":"33.8(07)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"34.0(24)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"7.2(07)",
+        "precipitacion_maxima":"7.2(07)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"34.0(02)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"29.0(18)",
+        "precipitacion_maxima":"29.0(18)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"39.7(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"25.0(08)",
+        "precipitacion_maxima":"25.0(08)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"35.0(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"89.2(25)",
+        "precipitacion_maxima":"89.2(25)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"34.2(07)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.99,
-        "sequia_agrícola":2.9851381481
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"22.8(16)",
@@ -1171,13 +1355,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"43.4(07)",
+        "precipitacion_maxima":"43.4(07)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"17.8(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.626,
-        "sequia_agrícola":0.6240677845
+        "sequia_agricola":0.6240677845,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"40.6(02)",
+        "precipitacion_maxima":"40.6(02)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"21.6(24)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4596666667,
-        "sequia_agrícola":0.4567243468
+        "sequia_agricola":0.4567243468,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"61.0(25)",
+        "precipitacion_maxima":"61.0(25)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"25.3(14)",
@@ -1246,13 +1442,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.8176666667,
-        "sequia_agrícola":1.8138530099
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"61.4(08)",
+        "precipitacion_maxima":"61.4(08)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"30.5(22)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":3.2576666667,
-        "sequia_agrícola":3.2529666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"34.8(02)",
+        "precipitacion_maxima":"34.8(02)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"31.4(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"40.0(04)",
+        "precipitacion_maxima":"40.0(04)",
         "temperatura_media_minima_mensual":8.8,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"31.2(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0196666667,
-        "sequia_agrícola":0.0123280855
+        "sequia_agricola":0.0123280855,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"14.2(07)",
+        "precipitacion_maxima":"14.2(07)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"35.2(07)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"8.4(14)",
+        "precipitacion_maxima":"8.4(14)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":30.7,
         "temperatura_max_absoluta_mes":"40.4(23)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"1.4(24)",
+        "precipitacion_maxima":"1.4(24)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":32.1,
         "temperatura_max_absoluta_mes":"39.8(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"69.6(25)",
+        "precipitacion_maxima":"69.6(25)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"34.9(15)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"68.6(08)",
+        "precipitacion_maxima":"68.6(08)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"27.1(14)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3676666667,
-        "sequia_agrícola":1.3626321235
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"47.4(24)",
+        "precipitacion_maxima":"47.4(24)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"26.3(03)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     },
     {
         "id_estacion":"1723X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"61.0(18)",
+        "precipitacion_maxima":"61.0(18)",
         "temperatura_media_minima_mensual":3.8,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"21.5(17)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PONTEAREAS, CANEDO   ",
+        "provincia":"PONTEVEDRA",
+        "lat":"421056N",
+        "long":"082934W"
     }
 ]

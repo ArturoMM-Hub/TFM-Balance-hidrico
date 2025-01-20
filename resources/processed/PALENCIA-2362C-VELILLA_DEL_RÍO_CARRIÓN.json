@@ -2,7 +2,7 @@
     {
         "id_estacion":"2362C",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"13.6(29)",
+        "precipitacion_maxima":"13.6(29)",
         "temperatura_media_minima_mensual":0.0,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"17.1(05)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"4.2(08)",
+        "precipitacion_maxima":"4.2(08)",
         "temperatura_media_minima_mensual":1.8,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"20.5(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":0.0,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"17.7(11)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":3.0,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"16.9(24)",
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"12.2(07)",
+        "precipitacion_maxima":"12.2(07)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.9(30)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"14.8(03)",
+        "precipitacion_maxima":"14.8(03)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"27.3(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"46.6(21)",
+        "precipitacion_maxima":"46.6(21)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"31.4(30)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"29.6(20)",
+        "precipitacion_maxima":"29.6(20)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"30.8(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"18.2(17)",
+        "precipitacion_maxima":"18.2(17)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"27.1(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"153.8(20)",
+        "precipitacion_maxima":"153.8(20)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"19.8(09)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4367,
-        "sequia_agrícola":1.431010836
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"15.2(06)",
+        "precipitacion_maxima":"15.2(06)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":11.0,
         "temperatura_max_absoluta_mes":"18.1(22)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"33.0(10)",
+        "precipitacion_maxima":"33.0(10)",
         "temperatura_media_minima_mensual":-1.9,
         "temperatura_media_maxima_mensual":3.7,
         "temperatura_max_absoluta_mes":"12.6(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.4007,
-        "sequia_agrícola":0.399
+        "sequia_agricola":0.399,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-2.7,
         "temperatura_media_maxima_mensual":5.2,
         "temperatura_max_absoluta_mes":"13.3(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"15.4(11)",
+        "precipitacion_maxima":"15.4(11)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":7.1,
         "temperatura_max_absoluta_mes":"13.7(27)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5024,
-        "sequia_agrícola":0.4987
+        "sequia_agricola":0.4987,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"11.6(01)",
+        "precipitacion_maxima":"11.6(01)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":11.0,
         "temperatura_max_absoluta_mes":"18.7(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"16.4(20)",
+        "precipitacion_maxima":"16.4(20)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":12.2,
         "temperatura_max_absoluta_mes":"18.6(05)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2604,
-        "sequia_agrícola":0.2541013281
+        "sequia_agricola":0.2541013281,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"8.6(02)",
+        "precipitacion_maxima":"8.6(02)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"23.2(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"24.2(03)",
+        "precipitacion_maxima":"24.2(03)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"25.8(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3444,
-        "sequia_agrícola":0.3344195378
+        "sequia_agricola":0.3344195378,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"4.8(02)",
+        "precipitacion_maxima":"4.8(02)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"28.9(17)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"15.6(27)",
+        "precipitacion_maxima":"15.6(27)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"31.6(13)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"19.4(13)",
+        "precipitacion_maxima":"19.4(13)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"27.2(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1344,
-        "sequia_agrícola":0.1260079615
+        "sequia_agricola":0.1260079615,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"22.0(29)",
+        "precipitacion_maxima":"22.0(29)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"22.8(07)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":9.2,
         "temperatura_max_absoluta_mes":"17.5(12)",
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"18.2(06)",
+        "precipitacion_maxima":"18.2(06)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"16.4(14)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.2984,
-        "sequia_agrícola":0.2964440905
+        "sequia_agricola":0.2964440905,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"11.8(09)",
+        "precipitacion_maxima":"11.8(09)",
         "temperatura_media_minima_mensual":-0.6,
         "temperatura_media_maxima_mensual":8.8,
         "temperatura_max_absoluta_mes":"16.9(30)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"5.0(13)",
+        "precipitacion_maxima":"5.0(13)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":11.5,
         "temperatura_max_absoluta_mes":"20.4(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"29.0(22)",
+        "precipitacion_maxima":"29.0(22)",
         "temperatura_media_minima_mensual":-0.4,
         "temperatura_media_maxima_mensual":7.8,
         "temperatura_max_absoluta_mes":"14.4(26)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.703,
-        "sequia_agrícola":0.6982274424
+        "sequia_agricola":0.6982274424,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"15.6(11)",
+        "precipitacion_maxima":"15.6(11)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":11.5,
         "temperatura_max_absoluta_mes":"21.7(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"5.6(21)",
+        "precipitacion_maxima":"5.6(21)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"26.6(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"8.2(23)",
+        "precipitacion_maxima":"8.2(23)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"32.4(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"13.0(03)",
+        "precipitacion_maxima":"13.0(03)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"34.7(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"12.8(24)",
+        "precipitacion_maxima":"12.8(24)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"32.3(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"22.2(13)",
+        "precipitacion_maxima":"22.2(13)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"27.7(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"43.6(22)",
+        "precipitacion_maxima":"43.6(22)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"25.1(03)",
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.425,
-        "sequia_agrícola":1.4197469296
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"10.0(24)",
+        "precipitacion_maxima":"10.0(24)",
         "temperatura_media_minima_mensual":1.3,
         "temperatura_media_maxima_mensual":9.1,
         "temperatura_max_absoluta_mes":"15.1(05)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"28.4(12)",
+        "precipitacion_maxima":"28.4(12)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":6.0,
         "temperatura_max_absoluta_mes":"9.7(16)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.937,
-        "sequia_agrícola":0.9353
+        "sequia_agricola":0.9353,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"27.8(01)",
+        "precipitacion_maxima":"27.8(01)",
         "temperatura_media_minima_mensual":-2.6,
         "temperatura_media_maxima_mensual":6.1,
         "temperatura_max_absoluta_mes":"15.2(31)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4475,
-        "sequia_agrícola":0.4448
+        "sequia_agricola":0.4448,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"10.2(24)",
+        "precipitacion_maxima":"10.2(24)",
         "temperatura_media_minima_mensual":-1.2,
         "temperatura_media_maxima_mensual":8.5,
         "temperatura_max_absoluta_mes":"16.7(04)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"16.2(08)",
+        "precipitacion_maxima":"16.2(08)",
         "temperatura_media_minima_mensual":1.1,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"17.4(28)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"4.2(21)",
+        "precipitacion_maxima":"4.2(21)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"22.9(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"7.4(31)",
+        "precipitacion_maxima":"7.4(31)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"22.8(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"24.2(07)",
+        "precipitacion_maxima":"24.2(07)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"27.8(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.7535,
-        "sequia_agrícola":0.7439780457
+        "sequia_agricola":0.7439780457,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"11.0(02)",
+        "precipitacion_maxima":"11.0(02)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"28.8(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"34.5(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"15.2(16)",
+        "precipitacion_maxima":"15.2(16)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"26.6(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0855,
-        "sequia_agrícola":0.077287085
+        "sequia_agricola":0.077287085,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"36.8(17)",
+        "precipitacion_maxima":"36.8(17)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"27.8(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.5255,
-        "sequia_agrícola":1.5204465089
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"23.8(01)",
+        "precipitacion_maxima":"23.8(01)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":9.7,
         "temperatura_max_absoluta_mes":"17.1(18)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4155,
-        "sequia_agrícola":0.4124017672
+        "sequia_agricola":0.4124017672,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"8.8(07)",
+        "precipitacion_maxima":"8.8(07)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":8.6,
         "temperatura_max_absoluta_mes":"20.0(17)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"14.2(16)",
+        "precipitacion_maxima":"14.2(16)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"19.2(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"22.6(25)",
+        "precipitacion_maxima":"22.6(25)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":9.5,
         "temperatura_max_absoluta_mes":"17.9(01)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0011666667,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"27.4(28)",
+        "precipitacion_maxima":"27.4(28)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":8.7,
         "temperatura_max_absoluta_mes":"22.0(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6651666667,
-        "sequia_agrícola":0.6604666667
+        "sequia_agricola":0.6604666667,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"17.2(02)",
+        "precipitacion_maxima":"17.2(02)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"25.8(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"20.2(05)",
+        "precipitacion_maxima":"20.2(05)",
         "temperatura_media_minima_mensual":3.4,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"23.9(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"21.6(26)",
+        "precipitacion_maxima":"21.6(26)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"26.9(26)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1911666667,
-        "sequia_agrícola":0.1810968595
+        "sequia_agricola":0.1810968595,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"3.6(14)",
+        "precipitacion_maxima":"3.6(14)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"31.8(29)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"30.0(29)",
+        "precipitacion_maxima":"30.0(29)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"32.9(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"27.0(25)",
+        "precipitacion_maxima":"27.0(25)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"23.3(01)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1411666667,
-        "sequia_agrícola":0.1332638019
+        "sequia_agricola":0.1332638019,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"48.6(09)",
+        "precipitacion_maxima":"48.6(09)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":13.4,
         "temperatura_max_absoluta_mes":"18.8(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4331666667,
-        "sequia_agrícola":1.4282814634
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"32.6(24)",
+        "precipitacion_maxima":"32.6(24)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"19.0(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     },
     {
         "id_estacion":"2362C",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"5.6(18)",
+        "precipitacion_maxima":"5.6(18)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"16.4(26)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VELILLA DEL RÍO CARRIÓN, CAMPORREDONDO DE ALBA",
+        "provincia":"PALENCIA",
+        "lat":"425338N",
+        "long":"044249W"
     }
 ]

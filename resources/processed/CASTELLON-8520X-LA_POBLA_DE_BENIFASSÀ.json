@@ -2,7 +2,7 @@
     {
         "id_estacion":"8520X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.0(12)",
+        "precipitacion_maxima":"1.0(12)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"60.8(16)",
+        "precipitacion_maxima":"60.8(16)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2613333333,
-        "sequia_agrícola":null
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"39.0(01)",
+        "precipitacion_maxima":"39.0(01)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6833333333,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"42.2(10)",
+        "precipitacion_maxima":"42.2(10)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4433333333,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -171,13 +195,17 @@
         "mes":7,
         "year":2020,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"22.6(13)",
+        "precipitacion_maxima":"22.6(13)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"30.4(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"18.8(22)",
+        "precipitacion_maxima":"18.8(22)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"25.4(12)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"9.2(02)",
+        "precipitacion_maxima":"9.2(02)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"21.3(01)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"53.2(27)",
+        "precipitacion_maxima":"53.2(27)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":12.2,
         "temperatura_max_absoluta_mes":"21.2(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.8273333333,
-        "sequia_agrícola":0.8246333333
+        "sequia_agricola":0.8246333333,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"13.0(10)",
+        "precipitacion_maxima":"13.0(10)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":7.5,
         "temperatura_max_absoluta_mes":"15.6(23)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":5.1,
         "temperatura_max_absoluta_mes":"16.9(28)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"13.4(21)",
+        "precipitacion_maxima":"13.4(21)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"15.5(18)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"9.2(20)",
+        "precipitacion_maxima":"9.2(20)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"16.6(11)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"17.6(20)",
+        "precipitacion_maxima":"17.6(20)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"16.5(02)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2674545455,
-        "sequia_agrícola":0.2606874358
+        "sequia_agricola":0.2606874358,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"15.0(10)",
+        "precipitacion_maxima":"15.0(10)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"23.0(15)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"31.4(19)",
+        "precipitacion_maxima":"31.4(19)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"27.8(14)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0774545455,
-        "sequia_agrícola":0.0638664735
+        "sequia_agricola":0.0638664735,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"23.0(31)",
+        "precipitacion_maxima":"23.0(31)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"29.3(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.1574545455,
-        "sequia_agrícola":0.1427033387
+        "sequia_agricola":0.1427033387,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"11.8(23)",
+        "precipitacion_maxima":"11.8(23)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"33.0(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"45.8(01)",
+        "precipitacion_maxima":"45.8(01)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"24.9(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5634545455,
-        "sequia_agrícola":0.5541918333
+        "sequia_agricola":0.5541918333,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"13.6(29)",
+        "precipitacion_maxima":"13.6(29)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"19.7(03)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"36.4(22)",
+        "precipitacion_maxima":"36.4(22)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":7.2,
         "temperatura_max_absoluta_mes":"13.9(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4814545455,
-        "sequia_agrícola":0.4787545455
+        "sequia_agricola":0.4787545455,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"5.6(09)",
+        "precipitacion_maxima":"5.6(09)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":10.2,
         "temperatura_max_absoluta_mes":"19.6(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.4(04)",
+        "precipitacion_maxima":"2.4(04)",
         "temperatura_media_minima_mensual":0.7,
         "temperatura_media_maxima_mensual":8.4,
         "temperatura_max_absoluta_mes":"19.0(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"3.4(26)",
+        "precipitacion_maxima":"3.4(26)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"19.6(18)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"55.8(21)",
+        "precipitacion_maxima":"55.8(21)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":6.9,
         "temperatura_max_absoluta_mes":"12.5(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2726666667,
-        "sequia_agrícola":1.2679666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"54.6(20)",
+        "precipitacion_maxima":"54.6(20)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"19.3(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.8186666667,
-        "sequia_agrícola":0.8125347533
+        "sequia_agricola":0.8125347533,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"52.2(02)",
+        "precipitacion_maxima":"52.2(02)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"29.0(22)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"26.0(27)",
+        "precipitacion_maxima":"26.0(27)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"32.4(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"19.2(29)",
+        "precipitacion_maxima":"19.2(29)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"31.7(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"4.0(24)",
+        "precipitacion_maxima":"4.0(24)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"32.4(12)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"23.8(23)",
+        "precipitacion_maxima":"23.8(23)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"28.0(12)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"5.2(06)",
+        "precipitacion_maxima":"5.2(06)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"23.9(27)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"184.4(12)",
+        "precipitacion_maxima":"184.4(12)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"19.5(06)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.3266666667,
-        "sequia_agrícola":2.3238695708
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"6.8(08)",
+        "precipitacion_maxima":"6.8(08)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"17.9(23)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.4,
         "temperatura_media_maxima_mensual":6.9,
         "temperatura_max_absoluta_mes":"15.5(01)",
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.5,
         "temperatura_media_maxima_mensual":7.1,
         "temperatura_max_absoluta_mes":"14.7(21)",
@@ -946,13 +1094,17 @@
         "mes":2,
         "year":2023,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"3.8(09)",
+        "precipitacion_maxima":"3.8(09)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"22.1(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"16.4(29)",
+        "precipitacion_maxima":"16.4(29)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"24.5(29)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"40.2(25)",
+        "precipitacion_maxima":"40.2(25)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"23.7(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3956,
-        "sequia_agrícola":0.3885170812
+        "sequia_agricola":0.3885170812,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"21.6(09)",
+        "precipitacion_maxima":"21.6(09)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"29.1(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3356,
-        "sequia_agrícola":0.3255986125
+        "sequia_agricola":0.3255986125,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"12.4(03)",
+        "precipitacion_maxima":"12.4(03)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"33.7(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"25.2(26)",
+        "precipitacion_maxima":"25.2(26)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"34.2(10)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"75.8(03)",
+        "precipitacion_maxima":"75.8(03)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"24.2(30)",
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.0396,
-        "sequia_agrícola":1.0329
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"9.6(19)",
+        "precipitacion_maxima":"9.6(19)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"25.8(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"10.4(02)",
+        "precipitacion_maxima":"10.4(02)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"20.9(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"6.6(07)",
+        "precipitacion_maxima":"6.6(07)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"16.4(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"12.2(19)",
+        "precipitacion_maxima":"12.2(19)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":9.8,
         "temperatura_max_absoluta_mes":"21.5(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"10.2(16)",
+        "precipitacion_maxima":"10.2(16)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":11.5,
         "temperatura_max_absoluta_mes":"16.5(22)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"9.4(07)",
+        "precipitacion_maxima":"9.4(07)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":12.2,
         "temperatura_max_absoluta_mes":"20.1(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"8.4(29)",
+        "precipitacion_maxima":"8.4(29)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"22.2(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"40.8(19)",
+        "precipitacion_maxima":"40.8(19)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"24.3(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"22.2(20)",
+        "precipitacion_maxima":"22.2(20)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"25.3(27)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"9.8(01)",
+        "precipitacion_maxima":"9.8(01)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"31.4(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"4.2(25)",
+        "precipitacion_maxima":"4.2(25)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"31.3(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"27.4(03)",
+        "precipitacion_maxima":"27.4(03)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"26.3(26)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.392,
-        "sequia_agrícola":0.3840037076
+        "sequia_agricola":0.3840037076,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"58.4(31)",
+        "precipitacion_maxima":"58.4(31)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"23.0(06)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.704,
-        "sequia_agrícola":1.699228227
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"70.6(13)",
+        "precipitacion_maxima":"70.6(13)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"17.3(29)",
@@ -1471,13 +1703,17 @@
         "mes":11,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.248,
-        "sequia_agrícola":1.2453
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     },
     {
         "id_estacion":"8520X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"4.8(03)",
+        "precipitacion_maxima":"4.8(03)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":8.0,
         "temperatura_max_absoluta_mes":"16.3(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA POBLA DE BENIFASSÀ-FREDES",
+        "provincia":"CASTELLON",
+        "lat":"404137N",
+        "long":"000955E"
     }
 ]

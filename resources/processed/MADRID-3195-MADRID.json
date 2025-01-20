@@ -2,7 +2,7 @@
     {
         "id_estacion":2462,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"34.0(20)",
+        "precipitacion_maxima":"34.0(20)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":5.0,
         "temperatura_max_absoluta_mes":"14.4(01)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2945,
-        "sequia_agrícola":0.2916146084
+        "sequia_agricola":0.2916146084,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"3.8(01)",
+        "precipitacion_maxima":"3.8(01)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":9.6,
         "temperatura_max_absoluta_mes":"15.5(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"48.6(16)",
+        "precipitacion_maxima":"48.6(16)",
         "temperatura_media_minima_mensual":-0.6,
         "temperatura_media_maxima_mensual":6.4,
         "temperatura_max_absoluta_mes":"18.9(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5495,
-        "sequia_agrícola":0.544590744
+        "sequia_agricola":0.544590744,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"51.8(15)",
+        "precipitacion_maxima":"51.8(15)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":7.8,
         "temperatura_max_absoluta_mes":"13.1(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.5175,
-        "sequia_agrícola":0.5114532824
+        "sequia_agricola":0.5114532824,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"35.2(31)",
+        "precipitacion_maxima":"35.2(31)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"21.8(24)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"23.0(03)",
+        "precipitacion_maxima":"23.0(03)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"26.3(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"3.4(21)",
+        "precipitacion_maxima":"3.4(21)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"29.4(31)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"43.6(11)",
+        "precipitacion_maxima":"43.6(11)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"28.9(07)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"49.8(18)",
+        "precipitacion_maxima":"49.8(18)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"25.2(05)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1005,
-        "sequia_agrícola":0.0927200057
+        "sequia_agricola":0.0927200057,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"107.9(20)",
+        "precipitacion_maxima":"107.9(20)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":9.6,
         "temperatura_max_absoluta_mes":"18.5(09)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0205,
-        "sequia_agrícola":1.0154598212
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"35.0(05)",
+        "precipitacion_maxima":"35.0(05)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":9.2,
         "temperatura_max_absoluta_mes":"15.5(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3245,
-        "sequia_agrícola":0.3213207697
+        "sequia_agricola":0.3213207697,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"63.8(10)",
+        "precipitacion_maxima":"63.8(10)",
         "temperatura_media_minima_mensual":-2.9,
         "temperatura_media_maxima_mensual":2.3,
         "temperatura_max_absoluta_mes":"9.6(13)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.6705,
-        "sequia_agrícola":1.6688
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"51.3(25)",
+        "precipitacion_maxima":"51.3(25)",
         "temperatura_media_minima_mensual":-4.0,
         "temperatura_media_maxima_mensual":1.5,
         "temperatura_max_absoluta_mes":"12.0(28)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.00325,
-        "sequia_agrícola":1.00055
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"34.5(21)",
+        "precipitacion_maxima":"34.5(21)",
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":4.9,
         "temperatura_max_absoluta_mes":"11.4(27)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.67425,
-        "sequia_agrícola":0.6702616097
+        "sequia_agricola":0.6702616097,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"6.4(19)",
+        "precipitacion_maxima":"6.4(19)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":7.1,
         "temperatura_max_absoluta_mes":"13.8(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"13.6(21)",
+        "precipitacion_maxima":"13.6(21)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":8.9,
         "temperatura_max_absoluta_mes":"14.4(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.26425,
-        "sequia_agrícola":0.2578826387
+        "sequia_agricola":0.2578826387,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"24.0(31)",
+        "precipitacion_maxima":"24.0(31)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":12.9,
         "temperatura_max_absoluta_mes":"20.3(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"24.0(16)",
+        "precipitacion_maxima":"24.0(16)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"24.3(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"5.6(25)",
+        "precipitacion_maxima":"5.6(25)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"28.7(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"65.8(31)",
+        "precipitacion_maxima":"65.8(31)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"31.5(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"32.6(24)",
+        "precipitacion_maxima":"32.6(24)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"22.9(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.08025,
-        "sequia_agrícola":0.0720033469
+        "sequia_agricola":0.0720033469,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"64.3(29)",
+        "precipitacion_maxima":"64.3(29)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"18.2(20)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.38525,
-        "sequia_agrícola":0.3795023705
+        "sequia_agricola":0.3795023705,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"25.9(22)",
+        "precipitacion_maxima":"25.9(22)",
         "temperatura_media_minima_mensual":-2.0,
         "temperatura_media_maxima_mensual":3.1,
         "temperatura_max_absoluta_mes":"11.1(12)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.01525,
-        "sequia_agrícola":0.0123729745
+        "sequia_agricola":0.0123729745,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"19.8(26)",
+        "precipitacion_maxima":"19.8(26)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":5.2,
         "temperatura_max_absoluta_mes":"16.3(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.28625,
-        "sequia_agrícola":0.2841524165
+        "sequia_agricola":0.2841524165,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"24.2(04)",
+        "precipitacion_maxima":"24.2(04)",
         "temperatura_media_minima_mensual":-2.0,
         "temperatura_media_maxima_mensual":4.6,
         "temperatura_max_absoluta_mes":"13.7(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"11.2(26)",
+        "precipitacion_maxima":"11.2(26)",
         "temperatura_media_minima_mensual":-0.2,
         "temperatura_media_maxima_mensual":7.5,
         "temperatura_max_absoluta_mes":"16.8(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"67.8(21)",
+        "precipitacion_maxima":"67.8(21)",
         "temperatura_media_minima_mensual":-1.4,
         "temperatura_media_maxima_mensual":3.3,
         "temperatura_max_absoluta_mes":"11.0(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.564,
-        "sequia_agrícola":2.5593
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"49.8(22)",
+        "precipitacion_maxima":"49.8(22)",
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"15.9(18)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.556,
-        "sequia_agrícola":0.5501252475
+        "sequia_agricola":0.5501252475,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"29.4(02)",
+        "precipitacion_maxima":"29.4(02)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"24.7(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"2.6(23)",
+        "precipitacion_maxima":"2.6(23)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"30.0(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.5(30)",
+        "precipitacion_maxima":"0.5(30)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"33.4(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"3.2(02)",
+        "precipitacion_maxima":"3.2(02)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"30.3(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"45.8(13)",
+        "precipitacion_maxima":"45.8(13)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"25.4(10)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"45.2(21)",
+        "precipitacion_maxima":"45.2(21)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"21.6(03)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.273,
-        "sequia_agrícola":0.2675567894
+        "sequia_agricola":0.2675567894,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"35.2(22)",
+        "precipitacion_maxima":"35.2(22)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":7.3,
         "temperatura_max_absoluta_mes":"13.7(05)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.086,
-        "sequia_agrícola":1.0831238403
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"35.6(13)",
+        "precipitacion_maxima":"35.6(13)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":5.1,
         "temperatura_max_absoluta_mes":"11.5(23)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.952,
-        "sequia_agrícola":0.950178829
+        "sequia_agricola":0.950178829,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"42.6(08)",
+        "precipitacion_maxima":"42.6(08)",
         "temperatura_media_minima_mensual":-4.0,
         "temperatura_media_maxima_mensual":2.5,
         "temperatura_max_absoluta_mes":"11.5(05)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.87875,
-        "sequia_agrícola":0.87605
+        "sequia_agricola":0.87605,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"8.2(23)",
+        "precipitacion_maxima":"8.2(23)",
         "temperatura_media_minima_mensual":-3.0,
         "temperatura_media_maxima_mensual":4.2,
         "temperatura_max_absoluta_mes":"12.1(05)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"22.4(08)",
+        "precipitacion_maxima":"22.4(08)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":8.8,
         "temperatura_max_absoluta_mes":"16.9(28)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"10.8(21)",
+        "precipitacion_maxima":"10.8(21)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"22.5(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"37.8(25)",
+        "precipitacion_maxima":"37.8(25)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"20.7(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"23.0(02)",
+        "precipitacion_maxima":"23.0(02)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"26.5(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.33775,
-        "sequia_agrícola":0.3280345756
+        "sequia_agricola":0.3280345756,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"6.6(03)",
+        "precipitacion_maxima":"6.6(03)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"29.5(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"31.3(09)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"79.0(03)",
+        "precipitacion_maxima":"79.0(03)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"24.2(30)",
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.12575,
-        "sequia_agrícola":1.1184245087
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"88.8(29)",
+        "precipitacion_maxima":"88.8(29)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"23.9(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.91575,
-        "sequia_agrícola":1.9106592951
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"39.0(30)",
+        "precipitacion_maxima":"39.0(30)",
         "temperatura_media_minima_mensual":2.4,
         "temperatura_media_maxima_mensual":8.5,
         "temperatura_max_absoluta_mes":"18.4(18)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.40375,
-        "sequia_agrícola":0.4006355141
+        "sequia_agricola":0.4006355141,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"35.8(07)",
+        "precipitacion_maxima":"35.8(07)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"14.2(17)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"39.8(16)",
+        "precipitacion_maxima":"39.8(16)",
         "temperatura_media_minima_mensual":0.5,
         "temperatura_media_maxima_mensual":6.6,
         "temperatura_max_absoluta_mes":"18.3(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.9001666667,
-        "sequia_agrícola":0.8974159383
+        "sequia_agricola":0.8974159383,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"50.0(08)",
+        "precipitacion_maxima":"50.0(08)",
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":6.0,
         "temperatura_max_absoluta_mes":"13.9(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5481666667,
-        "sequia_agrícola":0.5444196404
+        "sequia_agricola":0.5444196404,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"33.2(30)",
+        "precipitacion_maxima":"33.2(30)",
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":6.4,
         "temperatura_max_absoluta_mes":"18.9(23)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2001666667,
-        "sequia_agrícola":1.1954666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"15.6(26)",
+        "precipitacion_maxima":"15.6(26)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"21.0(14)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"15.2(05)",
+        "precipitacion_maxima":"15.2(05)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"22.1(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"34.8(09)",
+        "precipitacion_maxima":"34.8(09)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"24.7(25)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"2.2(26)",
+        "precipitacion_maxima":"2.2(26)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"30.6(23)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"33.6(30)",
+        "precipitacion_maxima":"33.6(30)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"31.2(09)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"12.0(03)",
+        "precipitacion_maxima":"12.0(03)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"22.7(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"91.8(15)",
+        "precipitacion_maxima":"91.8(15)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"17.4(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.9061666667,
-        "sequia_agrícola":1.9013266162
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"19.8(25)",
+        "precipitacion_maxima":"19.8(25)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":8.6,
         "temperatura_max_absoluta_mes":"14.3(17)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":2462,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"15.8(03)",
+        "precipitacion_maxima":"15.8(03)",
         "temperatura_media_minima_mensual":-1.0,
         "temperatura_media_maxima_mensual":5.2,
         "temperatura_max_absoluta_mes":"12.7(25)",
@@ -1497,12 +1733,16 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PUERTO DE NAVACERRADA",
+        "provincia":"MADRID",
+        "lat":"404735N",
+        "long":"040038W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"16.3(19)",
+        "precipitacion_maxima":"16.3(19)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"18.8(26)",
@@ -1522,12 +1762,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.303,
-        "sequia_agrícola":0.3003
+        "sequia_agricola":0.3003,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"6.2(08)",
+        "precipitacion_maxima":"6.2(08)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"18.8(20)",
@@ -1547,12 +1791,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"12.9(30)",
+        "precipitacion_maxima":"12.9(30)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"25.5(22)",
@@ -1572,12 +1820,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.365,
-        "sequia_agrícola":0.359985444
+        "sequia_agricola":0.359985444,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"4.4(26)",
+        "precipitacion_maxima":"4.4(26)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"29.2(15)",
@@ -1597,12 +1849,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"5.4(05)",
+        "precipitacion_maxima":"5.4(05)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"34.4(30)",
@@ -1622,12 +1878,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"9.0(10)",
+        "precipitacion_maxima":"9.0(10)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"35.3(06)",
@@ -1647,12 +1907,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.041,
-        "sequia_agrícola":0.0290810334
+        "sequia_agricola":0.0290810334,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.1,
         "temperatura_media_maxima_mensual":35.2,
         "temperatura_max_absoluta_mes":"39.9(24)",
@@ -1672,12 +1936,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"14.7(02)",
+        "precipitacion_maxima":"14.7(02)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":35.0,
         "temperatura_max_absoluta_mes":"39.1(09)",
@@ -1697,12 +1965,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"6.7(19)",
+        "precipitacion_maxima":"6.7(19)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"32.1(02)",
@@ -1722,12 +1994,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"29.7(29)",
+        "precipitacion_maxima":"29.7(29)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"26.9(01)",
@@ -1747,12 +2023,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.786,
-        "sequia_agrícola":0.7812503074
+        "sequia_agricola":0.7812503074,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"5.2(25)",
+        "precipitacion_maxima":"5.2(25)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"19.5(06)",
@@ -1772,12 +2052,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     },
     {
         "id_estacion":3195,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"0.5(03)",
+        "precipitacion_maxima":"0.5(03)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"16.6(07)",
@@ -1797,6 +2081,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MADRID, RETIRO",
+        "provincia":"MADRID",
+        "lat":"402443N",
+        "long":"034041W"
     }
 ]

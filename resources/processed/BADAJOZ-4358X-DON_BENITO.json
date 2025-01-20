@@ -2,7 +2,7 @@
     {
         "id_estacion":"4358X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"11.0(24)",
+        "precipitacion_maxima":"11.0(24)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"18.7(16)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.8(29)",
+        "precipitacion_maxima":"0.8(29)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"24.7(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"17.2(20)",
+        "precipitacion_maxima":"17.2(20)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"28.9(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2286666667,
-        "sequia_agrícola":0.2233602559
+        "sequia_agricola":0.2233602559,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"14.2(12)",
+        "precipitacion_maxima":"14.2(12)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"25.4(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.5946666667,
-        "sequia_agrícola":0.5889666667
+        "sequia_agricola":0.5889666667,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"7.4(13)",
+        "precipitacion_maxima":"7.4(13)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"35.8(24)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0386666667,
-        "sequia_agrícola":0.0291601473
+        "sequia_agricola":0.0291601473,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"39.8(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"4.4(21)",
+        "precipitacion_maxima":"4.4(21)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":38.5,
         "temperatura_max_absoluta_mes":"42.0(06)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"3.0(11)",
+        "precipitacion_maxima":"3.0(11)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":35.3,
         "temperatura_max_absoluta_mes":"40.0(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"10.6(14)",
+        "precipitacion_maxima":"10.6(14)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"37.8(12)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"19.0(20)",
+        "precipitacion_maxima":"19.0(20)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"32.8(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2246666667,
-        "sequia_agrícola":0.2188564463
+        "sequia_agricola":0.2188564463,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"10.2(08)",
+        "precipitacion_maxima":"10.2(08)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"24.7(15)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2466666667,
-        "sequia_agrícola":0.2432357655
+        "sequia_agricola":0.2432357655,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"12.6(19)",
+        "precipitacion_maxima":"12.6(19)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"18.6(14)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"11.6(08)",
+        "precipitacion_maxima":"11.6(08)",
         "temperatura_media_minima_mensual":3.4,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"17.7(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1683636364,
-        "sequia_agrícola":0.1656636364
+        "sequia_agricola":0.1656636364,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"21.6(17)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"3.0(08)",
+        "precipitacion_maxima":"3.0(08)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"29.3(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"8.4(15)",
+        "precipitacion_maxima":"8.4(15)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"27.4(07)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2603636364,
-        "sequia_agrícola":0.2535213358
+        "sequia_agricola":0.2535213358,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"7.8(10)",
+        "precipitacion_maxima":"7.8(10)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"35.8(30)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"13.2(17)",
+        "precipitacion_maxima":"13.2(17)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":32.4,
         "temperatura_max_absoluta_mes":"37.7(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":35.0,
         "temperatura_max_absoluta_mes":"40.8(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"8.0(31)",
+        "precipitacion_maxima":"8.0(31)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":36.0,
         "temperatura_max_absoluta_mes":"43.7(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"18.8(14)",
+        "precipitacion_maxima":"18.8(14)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"37.6(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1143636364,
-        "sequia_agrícola":0.1048341654
+        "sequia_agricola":0.1048341654,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"26.8(30)",
+        "precipitacion_maxima":"26.8(30)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"31.0(08)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2743636364,
-        "sequia_agrícola":0.2682489232
+        "sequia_agricola":0.2682489232,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"1.0(22)",
+        "precipitacion_maxima":"1.0(22)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"21.9(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"15.6(23)",
+        "precipitacion_maxima":"15.6(23)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"20.5(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1963636364,
-        "sequia_agrícola":0.1940299495
+        "sequia_agricola":0.1940299495,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"1.4(04)",
+        "precipitacion_maxima":"1.4(04)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"20.8(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.0(12)",
+        "precipitacion_maxima":"1.0(12)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"23.4(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"11.6(21)",
+        "precipitacion_maxima":"11.6(21)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"22.3(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2986666667,
-        "sequia_agrícola":0.2928176124
+        "sequia_agricola":0.2928176124,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"18.2(22)",
+        "precipitacion_maxima":"18.2(22)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"29.5(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0786666667,
-        "sequia_agrícola":0.0707662528
+        "sequia_agricola":0.0707662528,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.8(03)",
+        "precipitacion_maxima":"0.8(03)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":31.3,
         "temperatura_max_absoluta_mes":"38.7(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"1.4(22)",
+        "precipitacion_maxima":"1.4(22)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"42.9(12)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.5,
         "temperatura_media_maxima_mensual":39.8,
         "temperatura_max_absoluta_mes":"44.1(13)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.4(12)",
+        "precipitacion_maxima":"0.4(12)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":37.7,
         "temperatura_max_absoluta_mes":"42.2(01)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"21.2(13)",
+        "precipitacion_maxima":"21.2(13)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"39.3(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0666666667,
-        "sequia_agrícola":0.0566510429
+        "sequia_agricola":0.0566510429,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"8.4(20)",
+        "precipitacion_maxima":"8.4(20)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"34.3(05)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"13.2(17)",
+        "precipitacion_maxima":"13.2(17)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"24.8(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0706666667,
-        "sequia_agrícola":0.0658095922
+        "sequia_agricola":0.0658095922,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"31.2(13)",
+        "precipitacion_maxima":"31.2(13)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"20.4(25)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.4866666667,
-        "sequia_agrícola":1.4849666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"13.6(07)",
+        "precipitacion_maxima":"13.6(07)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":13.4,
         "temperatura_max_absoluta_mes":"21.3(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0669090909,
-        "sequia_agrícola":0.0635755873
+        "sequia_agricola":0.0635755873,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"1.4(07)",
+        "precipitacion_maxima":"1.4(07)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"20.9(18)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"9.8(05)",
+        "precipitacion_maxima":"9.8(05)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"29.7(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"5.2(21)",
+        "precipitacion_maxima":"5.2(21)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":28.5,
         "temperatura_max_absoluta_mes":"37.3(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"8.4(26)",
+        "precipitacion_maxima":"8.4(26)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"34.0(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0129090909,
-        "sequia_agrícola":0.0027270739
+        "sequia_agricola":0.0027270739,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"4.0(07)",
+        "precipitacion_maxima":"4.0(07)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"42.5(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":36.5,
         "temperatura_max_absoluta_mes":"40.7(10)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.1,
         "temperatura_media_maxima_mensual":37.5,
         "temperatura_max_absoluta_mes":"42.2(21)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"11.6(02)",
+        "precipitacion_maxima":"11.6(02)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"35.9(29)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1229090909,
-        "sequia_agrícola":0.1134574112
+        "sequia_agricola":0.1134574112,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"34.6(19)",
+        "precipitacion_maxima":"34.6(19)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"35.8(02)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7589090909,
-        "sequia_agrícola":0.7542090909
+        "sequia_agricola":0.7542090909,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"14.6(30)",
+        "precipitacion_maxima":"14.6(30)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"22.9(19)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1069090909,
-        "sequia_agrícola":0.1027838108
+        "sequia_agricola":0.1027838108,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1196,13 +1384,17 @@
         "mes":12,
         "year":2023,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"26.4(18)",
+        "precipitacion_maxima":"26.4(18)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"21.8(26)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5393333333,
-        "sequia_agrícola":0.5366333333
+        "sequia_agricola":0.5366333333,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"18.2(11)",
+        "precipitacion_maxima":"18.2(11)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"22.1(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.2873333333,
-        "sequia_agrícola":0.2830653241
+        "sequia_agricola":0.2830653241,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"28.6(28)",
+        "precipitacion_maxima":"28.6(28)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"27.8(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6513333333,
-        "sequia_agrícola":0.646536831
+        "sequia_agricola":0.646536831,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"3.0(30)",
+        "precipitacion_maxima":"3.0(30)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"30.9(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"2.2(01)",
+        "precipitacion_maxima":"2.2(01)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"38.3(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"23.2(19)",
+        "precipitacion_maxima":"23.2(19)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":31.0,
         "temperatura_max_absoluta_mes":"38.0(06)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.2(29)",
+        "precipitacion_maxima":"0.2(29)",
         "temperatura_media_minima_mensual":19.4,
         "temperatura_media_maxima_mensual":36.6,
         "temperatura_max_absoluta_mes":"42.8(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":37.9,
         "temperatura_max_absoluta_mes":"40.8(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.8(19)",
+        "precipitacion_maxima":"0.8(19)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"35.6(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"24.6(14)",
+        "precipitacion_maxima":"24.6(14)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"30.3(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6193333333,
-        "sequia_agrícola":0.6140759489
+        "sequia_agricola":0.6140759489,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"7.2(25)",
+        "precipitacion_maxima":"7.2(25)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"24.7(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     },
     {
         "id_estacion":"4358X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"5.4(12)",
+        "precipitacion_maxima":"5.4(12)",
         "temperatura_media_minima_mensual":3.8,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"19.1(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"DON BENITO",
+        "provincia":"BADAJOZ",
+        "lat":"385720N",
+        "long":"055250W"
     }
 ]

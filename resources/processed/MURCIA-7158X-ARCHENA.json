@@ -2,7 +2,7 @@
     {
         "id_estacion":"7158X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"34.0(21)",
+        "precipitacion_maxima":"34.0(21)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"22.2(30)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3156666667,
-        "sequia_agrícola":0.3126705607
+        "sequia_agricola":0.3126705607,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.4(18)",
+        "precipitacion_maxima":"0.4(18)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"27.2(04)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"44.0(23)",
+        "precipitacion_maxima":"44.0(23)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"31.7(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6576666667,
-        "sequia_agrícola":0.6529666667
+        "sequia_agricola":0.6529666667,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"26.0(13)",
+        "precipitacion_maxima":"26.0(13)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"26.6(30)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3336666667,
-        "sequia_agrícola":0.3270324159
+        "sequia_agricola":0.3270324159,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"5.4(13)",
+        "precipitacion_maxima":"5.4(13)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"34.8(20)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"4.0(04)",
+        "precipitacion_maxima":"4.0(04)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":32.3,
         "temperatura_max_absoluta_mes":"37.4(27)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"4.2(14)",
+        "precipitacion_maxima":"4.2(14)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":35.4,
         "temperatura_max_absoluta_mes":"41.0(01)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":36.5,
         "temperatura_max_absoluta_mes":"43.0(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"2.6(18)",
+        "precipitacion_maxima":"2.6(18)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":31.0,
         "temperatura_max_absoluta_mes":"34.0(23)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"4.8(02)",
+        "precipitacion_maxima":"4.8(02)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"33.9(01)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"10.8(27)",
+        "precipitacion_maxima":"10.8(27)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"29.4(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1036666667,
-        "sequia_agrícola":0.098792266
+        "sequia_agricola":0.098792266,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"3.8(08)",
+        "precipitacion_maxima":"3.8(08)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"24.5(11)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"11.6(08)",
+        "precipitacion_maxima":"11.6(08)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"28.8(29)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0886666667,
-        "sequia_agrícola":0.0849347104
+        "sequia_agricola":0.0849347104,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"24.6(11)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"17.4(06)",
+        "precipitacion_maxima":"17.4(06)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"26.4(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3666666667,
-        "sequia_agrícola":0.3619666667
+        "sequia_agricola":0.3619666667,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"20.8(21)",
+        "precipitacion_maxima":"20.8(21)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"29.5(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2806666667,
-        "sequia_agrícola":0.2743057131
+        "sequia_agricola":0.2743057131,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"34.8(23)",
+        "precipitacion_maxima":"34.8(23)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"36.2(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1966666667,
-        "sequia_agrícola":0.188176734
+        "sequia_agricola":0.188176734,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"12.2(05)",
+        "precipitacion_maxima":"12.2(05)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"36.6(28)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0466666667,
-        "sequia_agrícola":0.0343236517
+        "sequia_agricola":0.0343236517,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.2(26)",
+        "precipitacion_maxima":"0.2(26)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":35.9,
         "temperatura_max_absoluta_mes":"42.3(12)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.1,
         "temperatura_media_maxima_mensual":36.0,
         "temperatura_max_absoluta_mes":"45.8(15)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"20.4(20)",
+        "precipitacion_maxima":"20.4(20)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":32.4,
         "temperatura_max_absoluta_mes":"36.3(10)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0746666667,
-        "sequia_agrícola":0.0644454604
+        "sequia_agricola":0.0644454604,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"3.8(03)",
+        "precipitacion_maxima":"3.8(03)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"31.3(21)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"3.2(22)",
+        "precipitacion_maxima":"3.2(22)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"26.9(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"24.0(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"24.3(04)",
@@ -621,13 +717,17 @@
         "mes":1,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"27.0(02)",
@@ -646,13 +746,17 @@
         "mes":2,
         "year":2022,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"23.6(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"30.0(17)",
@@ -696,13 +804,17 @@
         "mes":4,
         "year":2022,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"36.5(29)",
@@ -721,13 +833,17 @@
         "mes":5,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.4(21)",
+        "precipitacion_maxima":"6.4(21)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":35.1,
         "temperatura_max_absoluta_mes":"39.7(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.5,
         "temperatura_media_maxima_mensual":36.8,
         "temperatura_max_absoluta_mes":"45.3(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"1.8(30)",
+        "precipitacion_maxima":"1.8(30)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":36.7,
         "temperatura_max_absoluta_mes":"41.7(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"28.2(25)",
+        "precipitacion_maxima":"28.2(25)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":33.0,
         "temperatura_max_absoluta_mes":"38.1(09)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3428571429,
-        "sequia_agrícola":0.3361571429
+        "sequia_agricola":0.3361571429,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"18.0(10)",
+        "precipitacion_maxima":"18.0(10)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"31.1(14)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0988571429,
-        "sequia_agrícola":0.0925796318
+        "sequia_agricola":0.0925796318,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"15.4(10)",
+        "precipitacion_maxima":"15.4(10)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"29.4(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0828571429,
-        "sequia_agrícola":0.0791847346
+        "sequia_agricola":0.0791847346,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"3.0(14)",
+        "precipitacion_maxima":"3.0(14)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"25.1(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"0.2(17)",
+        "precipitacion_maxima":"0.2(17)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"22.5(09)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"3.0(11)",
+        "precipitacion_maxima":"3.0(11)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"24.3(22)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"2.4(01)",
+        "precipitacion_maxima":"2.4(01)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"33.5(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"5.4(30)",
+        "precipitacion_maxima":"5.4(30)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"35.0(25)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"27.8(22)",
+        "precipitacion_maxima":"27.8(22)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"34.2(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.7555,
-        "sequia_agrícola":0.7488
+        "sequia_agricola":0.7488,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"6.4(07)",
+        "precipitacion_maxima":"6.4(07)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":32.2,
         "temperatura_max_absoluta_mes":"38.7(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"5.0(20)",
+        "precipitacion_maxima":"5.0(20)",
         "temperatura_media_minima_mensual":23.8,
         "temperatura_media_maxima_mensual":37.3,
         "temperatura_max_absoluta_mes":"43.9(12)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"13.6(26)",
+        "precipitacion_maxima":"13.6(26)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":37.3,
         "temperatura_max_absoluta_mes":"44.2(10)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"15.2(15)",
+        "precipitacion_maxima":"15.2(15)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"33.9(05)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2395,
-        "sequia_agrícola":0.2302875091
+        "sequia_agricola":0.2302875091,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"2.2(19)",
+        "precipitacion_maxima":"2.2(19)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"34.2(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.2(02)",
+        "precipitacion_maxima":"0.2(02)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"30.0(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"0.6(05)",
+        "precipitacion_maxima":"0.6(05)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"29.5(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"8.4(09)",
+        "precipitacion_maxima":"8.4(09)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"27.5(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"4.0(09)",
+        "precipitacion_maxima":"4.0(09)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"27.2(22)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"2.0(31)",
+        "precipitacion_maxima":"2.0(31)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"32.1(18)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"5.2(29)",
+        "precipitacion_maxima":"5.2(29)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"32.6(16)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.4(06)",
+        "precipitacion_maxima":"4.4(06)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":29.0,
         "temperatura_max_absoluta_mes":"36.5(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"43.6(12)",
+        "precipitacion_maxima":"43.6(12)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"37.1(15)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.4306666667,
-        "sequia_agrícola":0.421454568
+        "sequia_agricola":0.421454568,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":37.0,
         "temperatura_max_absoluta_mes":"42.6(20)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"4.4(14)",
+        "precipitacion_maxima":"4.4(14)",
         "temperatura_media_minima_mensual":22.3,
         "temperatura_media_maxima_mensual":36.0,
         "temperatura_max_absoluta_mes":"39.4(01)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"9.8(20)",
+        "precipitacion_maxima":"9.8(20)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"36.1(26)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0486666667,
-        "sequia_agrícola":0.0381274646
+        "sequia_agricola":0.0381274646,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"49.2(28)",
+        "precipitacion_maxima":"49.2(28)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"35.1(02)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4486666667,
-        "sequia_agrícola":0.4439666667
+        "sequia_agricola":0.4439666667,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"4.0(13)",
+        "precipitacion_maxima":"4.0(13)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"26.1(01)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     },
     {
         "id_estacion":"7158X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"3.6(31)",
+        "precipitacion_maxima":"3.6(31)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"25.3(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARCHENA",
+        "provincia":"MURCIA",
+        "lat":"380741N",
+        "long":"011821W"
     }
 ]

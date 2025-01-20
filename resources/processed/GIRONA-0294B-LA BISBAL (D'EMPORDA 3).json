@@ -2,7 +2,7 @@
     {
         "id_estacion":"0294B",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.8(09)",
+        "precipitacion_maxima":"2.8(09)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"21.5(30)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"3.0(14)",
+        "precipitacion_maxima":"3.0(14)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"23.4(18)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"74.9(12)",
+        "precipitacion_maxima":"74.9(12)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"20.9(28)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1669166667,
-        "sequia_agrícola":1.1622166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"30.3(20)",
+        "precipitacion_maxima":"30.3(20)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"29.3(16)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1569166667,
-        "sequia_agrícola":0.1496021539
+        "sequia_agricola":0.1496021539,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"22.1(24)",
+        "precipitacion_maxima":"22.1(24)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"33.7(21)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.0(21)",
+        "precipitacion_maxima":"6.0(21)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"37.7(16)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"1.1(06)",
+        "precipitacion_maxima":"1.1(06)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":33.7,
         "temperatura_max_absoluta_mes":"38.2(15)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"3.7(13)",
+        "precipitacion_maxima":"3.7(13)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":33.4,
         "temperatura_max_absoluta_mes":"38.1(12)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"23.4(23)",
+        "precipitacion_maxima":"23.4(23)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"33.1(06)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2039166667,
-        "sequia_agrícola":0.1948081927
+        "sequia_agricola":0.1948081927,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"56.6(07)",
+        "precipitacion_maxima":"56.6(07)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"28.5(24)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2319166667,
-        "sequia_agrícola":0.2251356717
+        "sequia_agricola":0.2251356717,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"14.0(21)",
+        "precipitacion_maxima":"14.0(21)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"24.7(01)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     },
     {
         "id_estacion":"0294B",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"11.8(13)",
+        "precipitacion_maxima":"11.8(13)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"20.8(23)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
+        "provincia":"GIRONA",
+        "lat":"415804N",
+        "long":"030232E"
     }
 ]

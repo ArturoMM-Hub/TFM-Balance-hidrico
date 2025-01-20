@@ -2,7 +2,7 @@
     {
         "id_estacion":"9550C",
         "fecha":"2020-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.4,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"16.5(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5691666667,
-        "sequia_agrícola":0.5664666667
+        "sequia_agricola":0.5664666667,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"20.5(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"25.8(16)",
+        "precipitacion_maxima":"25.8(16)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"22.8(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1611666667,
-        "sequia_agrícola":0.155649842
+        "sequia_agricola":0.155649842,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"16.4(21)",
+        "precipitacion_maxima":"16.4(21)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"20.5(29)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1051666667,
-        "sequia_agrícola":0.0980516617
+        "sequia_agricola":0.0980516617,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"26.2(10)",
+        "precipitacion_maxima":"26.2(10)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"28.3(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.7871666667,
-        "sequia_agrícola":0.7797369883
+        "sequia_agricola":0.7797369883,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"9.2(16)",
+        "precipitacion_maxima":"9.2(16)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":24.7,
         "temperatura_max_absoluta_mes":"30.5(25)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.8(27)",
+        "precipitacion_maxima":"0.8(27)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":30.3,
         "temperatura_max_absoluta_mes":"35.3(31)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"19.0(09)",
+        "precipitacion_maxima":"19.0(09)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"35.2(09)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"3.4(20)",
+        "precipitacion_maxima":"3.4(20)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"29.5(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"12.0(02)",
+        "precipitacion_maxima":"12.0(02)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"23.7(06)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"24.2(27)",
+        "precipitacion_maxima":"24.2(27)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"22.8(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1351666667,
-        "sequia_agrícola":0.1313875596
+        "sequia_agricola":0.1313875596,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"12.8(10)",
+        "precipitacion_maxima":"12.8(10)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":10.1,
         "temperatura_max_absoluta_mes":"16.6(23)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"20.4(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"7.6(21)",
+        "precipitacion_maxima":"7.6(21)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"18.7(20)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"4.0(19)",
+        "precipitacion_maxima":"4.0(19)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"21.0(11)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"3.2(28)",
+        "precipitacion_maxima":"3.2(28)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"20.1(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"17.4(29)",
+        "precipitacion_maxima":"17.4(29)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"28.0(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0569090909,
-        "sequia_agrícola":0.0463295691
+        "sequia_agricola":0.0463295691,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"31.7(14)",
@@ -446,13 +514,17 @@
         "mes":6,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"4.8(31)",
+        "precipitacion_maxima":"4.8(31)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"37.7(23)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"7.2(11)",
+        "precipitacion_maxima":"7.2(11)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":28.8,
         "temperatura_max_absoluta_mes":"38.5(12)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"35.6(01)",
+        "precipitacion_maxima":"35.6(01)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"30.0(07)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3149090909,
-        "sequia_agrícola":0.3058212309
+        "sequia_agricola":0.3058212309,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"7.0(03)",
+        "precipitacion_maxima":"7.0(03)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"24.4(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"17.2(23)",
+        "precipitacion_maxima":"17.2(23)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":10.5,
         "temperatura_max_absoluta_mes":"15.6(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3089090909,
-        "sequia_agrícola":0.3062090909
+        "sequia_agricola":0.3062090909,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"2.6(24)",
+        "precipitacion_maxima":"2.6(24)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"19.2(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"3.0(04)",
+        "precipitacion_maxima":"3.0(04)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"20.1(02)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.6(19)",
+        "precipitacion_maxima":"1.6(19)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"19.3(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"13.2(11)",
+        "precipitacion_maxima":"13.2(11)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"16.1(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3213333333,
-        "sequia_agrícola":0.3165132644
+        "sequia_agricola":0.3165132644,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"31.6(20)",
+        "precipitacion_maxima":"31.6(20)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"22.7(07)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6833333333,
-        "sequia_agrícola":0.6776333333
+        "sequia_agricola":0.6776333333,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"25.4(02)",
+        "precipitacion_maxima":"25.4(02)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"32.1(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"3.4(27)",
+        "precipitacion_maxima":"3.4(27)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"37.6(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"55.6(06)",
+        "precipitacion_maxima":"55.6(06)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":31.8,
         "temperatura_max_absoluta_mes":"37.2(17)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.4553333333,
-        "sequia_agrícola":0.443720319
+        "sequia_agricola":0.443720319,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"11.6(07)",
+        "precipitacion_maxima":"11.6(07)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":31.8,
         "temperatura_max_absoluta_mes":"36.5(12)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"4.6(13)",
+        "precipitacion_maxima":"4.6(13)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"32.2(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"10.6(11)",
+        "precipitacion_maxima":"10.6(11)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"29.1(27)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"10.4(11)",
+        "precipitacion_maxima":"10.4(11)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"21.0(08)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"8.4(09)",
+        "precipitacion_maxima":"8.4(09)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"18.0(26)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"1.8(02)",
+        "precipitacion_maxima":"1.8(02)",
         "temperatura_media_minima_mensual":1.3,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"18.6(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":10.2,
         "temperatura_max_absoluta_mes":"18.3(21)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1189090909,
-        "sequia_agrícola":0.1152090909
+        "sequia_agricola":0.1152090909,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"1.2(09)",
+        "precipitacion_maxima":"1.2(09)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"26.3(13)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"4.4(01)",
+        "precipitacion_maxima":"4.4(01)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"28.1(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"11.0(31)",
+        "precipitacion_maxima":"11.0(31)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"27.5(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0849090909,
-        "sequia_agrícola":0.0749089866
+        "sequia_agricola":0.0749089866,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1046,13 +1210,17 @@
         "mes":6,
         "year":2023,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"5.0(03)",
+        "precipitacion_maxima":"5.0(03)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"39.8(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"2.2(12)",
+        "precipitacion_maxima":"2.2(12)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"38.4(24)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"20.4(02)",
+        "precipitacion_maxima":"20.4(02)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"31.1(01)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3929090909,
-        "sequia_agrícola":0.384837133
+        "sequia_agricola":0.384837133,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"3.8(15)",
+        "precipitacion_maxima":"3.8(15)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"30.2(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"5.2(02)",
+        "precipitacion_maxima":"5.2(02)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"24.0(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"3.4(07)",
+        "precipitacion_maxima":"3.4(07)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":12.4,
         "temperatura_max_absoluta_mes":"19.8(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"22.8(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"5.8(15)",
+        "precipitacion_maxima":"5.8(15)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"19.0(13)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"5.8(29)",
+        "precipitacion_maxima":"5.8(29)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"23.8(17)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.6(29)",
+        "precipitacion_maxima":"0.6(29)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"27.1(14)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.6(19)",
+        "precipitacion_maxima":"4.6(19)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"30.5(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"3.2(10)",
+        "precipitacion_maxima":"3.2(10)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"34.0(06)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"3.0(18)",
+        "precipitacion_maxima":"3.0(18)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1396,13 +1616,17 @@
         "mes":8,
         "year":2024,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"22.0(02)",
+        "precipitacion_maxima":"22.0(02)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"28.8(06)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1903636364,
-        "sequia_agrícola":0.1816749754
+        "sequia_agricola":0.1816749754,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"24.0(27)",
+        "precipitacion_maxima":"24.0(27)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"26.7(07)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8423636364,
-        "sequia_agrícola":0.8376636364
+        "sequia_agricola":0.8376636364,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"13.6(13)",
+        "precipitacion_maxima":"13.6(13)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"21.2(25)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0783636364,
-        "sequia_agrícola":0.0740414437
+        "sequia_agricola":0.0740414437,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     },
     {
         "id_estacion":"9550C",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"5.6(03)",
+        "precipitacion_maxima":"5.6(03)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"18.5(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ANDORRA, HORCALLANA",
+        "provincia":"TERUEL",
+        "lat":"405828N",
+        "long":"002428W"
     }
 ]

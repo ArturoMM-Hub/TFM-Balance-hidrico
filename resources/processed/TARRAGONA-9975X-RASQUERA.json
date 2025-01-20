@@ -2,7 +2,7 @@
     {
         "id_estacion":"9975X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"92.6(22)",
+        "precipitacion_maxima":"92.6(22)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":11.5,
         "temperatura_max_absoluta_mes":"19.6(31)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.5895,
-        "sequia_agrícola":1.5868
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.2(12)",
+        "precipitacion_maxima":"0.2(12)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"22.7(10)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"5.0(31)",
+        "precipitacion_maxima":"5.0(31)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"26.2(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"51.2(01)",
+        "precipitacion_maxima":"51.2(01)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"24.5(29)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6755,
-        "sequia_agrícola":0.6690246452
+        "sequia_agricola":0.6690246452,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"46.8(14)",
+        "precipitacion_maxima":"46.8(14)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"31.4(20)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3655,
-        "sequia_agrícola":0.3572955092
+        "sequia_agricola":0.3572955092,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"10.4(03)",
+        "precipitacion_maxima":"10.4(03)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"34.5(21)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.6(12)",
+        "precipitacion_maxima":"0.6(12)",
         "temperatura_media_minima_mensual":19.7,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"36.3(23)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"1.0(28)",
+        "precipitacion_maxima":"1.0(28)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":32.3,
         "temperatura_max_absoluta_mes":"37.1(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"5.4(18)",
+        "precipitacion_maxima":"5.4(18)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"34.2(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"5.2(02)",
+        "precipitacion_maxima":"5.2(02)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"27.9(06)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"119.6(05)",
+        "precipitacion_maxima":"119.6(05)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"27.1(01)",
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.1915,
-        "sequia_agrícola":1.1884068433
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"4.4(10)",
+        "precipitacion_maxima":"4.4(10)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"18.1(13)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"23.2(28)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"4.4(09)",
+        "precipitacion_maxima":"4.4(09)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"20.9(02)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"1.2(08)",
+        "precipitacion_maxima":"1.2(08)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"23.1(11)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"26.2(30)",
+        "precipitacion_maxima":"26.2(30)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.1(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0194545455,
-        "sequia_agrícola":0.0120075398
+        "sequia_agricola":0.0120075398,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"9.0(13)",
+        "precipitacion_maxima":"9.0(13)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"30.4(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"70.6(17)",
+        "precipitacion_maxima":"70.6(17)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":28.9,
         "temperatura_max_absoluta_mes":"36.2(14)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.6034545455,
-        "sequia_agrícola":0.593613744
+        "sequia_agricola":0.593613744,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"16.2(31)",
+        "precipitacion_maxima":"16.2(31)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":31.2,
         "temperatura_max_absoluta_mes":"36.3(24)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"32.2(30)",
+        "precipitacion_maxima":"32.2(30)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"38.4(12)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1334545455,
-        "sequia_agrícola":0.1219194389
+        "sequia_agricola":0.1219194389,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"30.8(01)",
+        "precipitacion_maxima":"30.8(01)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"30.9(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4014545455,
-        "sequia_agrícola":0.3931922276
+        "sequia_agricola":0.3931922276,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"19.2(03)",
+        "precipitacion_maxima":"19.2(03)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.8(03)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"66.2(23)",
+        "precipitacion_maxima":"66.2(23)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"20.6(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5854545455,
-        "sequia_agrícola":0.5827545455
+        "sequia_agricola":0.5827545455,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"2.2(24)",
+        "precipitacion_maxima":"2.2(24)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"20.2(27)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"3.6(04)",
+        "precipitacion_maxima":"3.6(04)",
         "temperatura_media_minima_mensual":0.5,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"18.8(10)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"0.8(13)",
+        "precipitacion_maxima":"0.8(13)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"24.3(18)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"17.8(11)",
+        "precipitacion_maxima":"17.8(11)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"20.2(27)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2852727273,
-        "sequia_agrícola":0.2800176813
+        "sequia_agricola":0.2800176813,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"47.2(20)",
+        "precipitacion_maxima":"47.2(20)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"26.4(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6752727273,
-        "sequia_agrícola":0.6695727273
+        "sequia_agricola":0.6695727273,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"10.6(24)",
+        "precipitacion_maxima":"10.6(24)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"34.7(28)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"7.4(27)",
+        "precipitacion_maxima":"7.4(27)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"39.3(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"12.0(06)",
+        "precipitacion_maxima":"12.0(06)",
         "temperatura_media_minima_mensual":21.1,
         "temperatura_media_maxima_mensual":33.4,
         "temperatura_max_absoluta_mes":"38.4(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -796,13 +920,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"10.0(13)",
+        "precipitacion_maxima":"10.0(13)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":28.9,
         "temperatura_max_absoluta_mes":"34.9(06)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"1.6(08)",
+        "precipitacion_maxima":"1.6(08)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"30.6(14)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"30.0(11)",
+        "precipitacion_maxima":"30.0(11)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"25.6(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1392727273,
-        "sequia_agrícola":0.1348243084
+        "sequia_agricola":0.1348243084,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"9.4(08)",
+        "precipitacion_maxima":"9.4(08)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"20.8(31)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0052727273,
-        "sequia_agrícola":0.001618723
+        "sequia_agricola":0.001618723,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"18.2(16)",
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"21.6(20)",
@@ -946,13 +1094,17 @@
         "mes":2,
         "year":2023,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"7.6(09)",
+        "precipitacion_maxima":"7.6(09)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"28.7(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"3.0(01)",
+        "precipitacion_maxima":"3.0(01)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"31.4(29)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"17.4(25)",
+        "precipitacion_maxima":"17.4(25)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"31.2(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0284,
-        "sequia_agrícola":0.0175480043
+        "sequia_agricola":0.0175480043,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"16.6(13)",
+        "precipitacion_maxima":"16.6(13)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"36.3(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0864,
-        "sequia_agrícola":0.0735627125
+        "sequia_agricola":0.0735627125,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"4.8(06)",
+        "precipitacion_maxima":"4.8(06)",
         "temperatura_media_minima_mensual":21.6,
         "temperatura_media_maxima_mensual":32.5,
         "temperatura_max_absoluta_mes":"38.3(19)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"3.8(26)",
+        "precipitacion_maxima":"3.8(26)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"41.6(23)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"55.0(02)",
+        "precipitacion_maxima":"55.0(02)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"32.2(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8044,
-        "sequia_agrícola":0.7977
+        "sequia_agricola":0.7977,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"15.0(19)",
+        "precipitacion_maxima":"15.0(19)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"30.4(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0204,
-        "sequia_agrícola":0.0113371516
+        "sequia_agricola":0.0113371516,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"4.6(02)",
+        "precipitacion_maxima":"4.6(02)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"5.8(07)",
+        "precipitacion_maxima":"5.8(07)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1221,13 +1413,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"14.4(16)",
+        "precipitacion_maxima":"14.4(16)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"21.6(14)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"12.8(07)",
+        "precipitacion_maxima":"12.8(07)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"27.9(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"11.8(28)",
+        "precipitacion_maxima":"11.8(28)",
         "temperatura_media_minima_mensual":8.8,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"30.7(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.6(19)",
+        "precipitacion_maxima":"4.6(19)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"32.5(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"20.6(11)",
+        "precipitacion_maxima":"20.6(11)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"32.0(27)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"6.2(01)",
+        "precipitacion_maxima":"6.2(01)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"7.8(31)",
+        "precipitacion_maxima":"7.8(31)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"26.6(03)",
+        "precipitacion_maxima":"26.6(03)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1152727273,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"58.4(31)",
+        "precipitacion_maxima":"58.4(31)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1712727273,
-        "sequia_agrícola":null
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"19.8(13)",
+        "precipitacion_maxima":"19.8(13)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"22.9(05)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4692727273,
-        "sequia_agrícola":0.4665727273
+        "sequia_agricola":0.4665727273,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     },
     {
         "id_estacion":"9975X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"1.4(12)",
+        "precipitacion_maxima":"1.4(12)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"21.0(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"RASQUERA",
+        "provincia":"TARRAGONA",
+        "lat":"410018N",
+        "long":"003649E"
     }
 ]

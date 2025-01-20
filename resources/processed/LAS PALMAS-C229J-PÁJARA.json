@@ -2,7 +2,7 @@
     {
         "id_estacion":"C229J",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"0.1(30)",
+        "precipitacion_maxima":"0.1(30)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"26.0(29)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"29.4(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"3.7(22)",
+        "precipitacion_maxima":"3.7(22)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"30.0(08)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0704166667,
-        "sequia_agrícola":0.0657166667
+        "sequia_agricola":0.0657166667,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"0.6(18)",
+        "precipitacion_maxima":"0.6(18)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"26.7(09)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"28.0(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.1(29)",
+        "precipitacion_maxima":"0.1(29)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"29.2(22)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.3,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"38.0(19)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.9,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"39.5(26)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.5(27)",
+        "precipitacion_maxima":"0.5(27)",
         "temperatura_media_minima_mensual":22.3,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"35.9(17)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"0.8(04)",
+        "precipitacion_maxima":"0.8(04)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"33.4(12)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"4.8(29)",
+        "precipitacion_maxima":"4.8(29)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"32.1(17)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0634166667,
-        "sequia_agrícola":0.0591823014
+        "sequia_agricola":0.0591823014,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"0.8(05)",
+        "precipitacion_maxima":"0.8(05)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"25.8(28)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0014166667,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"3.4(09)",
+        "precipitacion_maxima":"3.4(09)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"26.7(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0518181818,
-        "sequia_agrícola":0.0464655107
+        "sequia_agricola":0.0464655107,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"9.3(05)",
+        "precipitacion_maxima":"9.3(05)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"26.6(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0968181818,
-        "sequia_agrícola":0.0931181818
+        "sequia_agricola":0.0931181818,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"1.4(05)",
+        "precipitacion_maxima":"1.4(05)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"31.4(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"0.1(24)",
+        "precipitacion_maxima":"0.1(24)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"26.2(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -421,13 +485,17 @@
         "mes":5,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.9(17)",
+        "precipitacion_maxima":"0.9(17)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.3(03)",
+        "precipitacion_maxima":"0.3(03)",
         "temperatura_media_minima_mensual":21.6,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"37.6(12)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":29.0,
         "temperatura_max_absoluta_mes":"40.8(17)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.1(17)",
+        "precipitacion_maxima":"0.1(17)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.1(09)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.8,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"31.3(17)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"2.2(26)",
+        "precipitacion_maxima":"2.2(26)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.8(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0008181818,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"27.5(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"14.7(17)",
+        "precipitacion_maxima":"14.7(17)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"26.6(02)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1711666667,
-        "sequia_agrícola":0.1666964034
+        "sequia_agricola":0.1666964034,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"0.6(23)",
+        "precipitacion_maxima":"0.6(23)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"29.1(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"2.9(14)",
+        "precipitacion_maxima":"2.9(14)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"23.8(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"0.4(03)",
+        "precipitacion_maxima":"0.4(03)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"35.3(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.3(11)",
+        "precipitacion_maxima":"0.3(11)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"35.8(10)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"28.7(19)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.5(23)",
+        "precipitacion_maxima":"0.5(23)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"40.0(10)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.1(25)",
+        "precipitacion_maxima":"0.1(25)",
         "temperatura_media_minima_mensual":22.7,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"35.3(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"43.3(25)",
+        "precipitacion_maxima":"43.3(25)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"33.1(02)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4941666667,
-        "sequia_agrícola":0.4874666667
+        "sequia_agricola":0.4874666667,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"7.1(15)",
+        "precipitacion_maxima":"7.1(15)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.6(18)",
+        "precipitacion_maxima":"0.6(18)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"31.0(14)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     },
     {
         "id_estacion":"C229J",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"2.3(02)",
+        "precipitacion_maxima":"2.3(02)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"26.6(14)",
@@ -897,6 +1037,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PÁJARA",
+        "provincia":"LAS PALMAS",
+        "lat":"280257N",
+        "long":"142129W"
     }
 ]

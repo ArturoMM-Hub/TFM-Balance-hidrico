@@ -2,7 +2,7 @@
     {
         "id_estacion":"C468X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"16.4(26)",
+        "precipitacion_maxima":"16.4(26)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.1(01)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"36.8(19)",
+        "precipitacion_maxima":"36.8(19)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"24.7(10)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.527,
-        "sequia_agrícola":0.5229816962
+        "sequia_agricola":0.5229816962,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"20.8(14)",
+        "precipitacion_maxima":"20.8(14)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"19.1(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.523,
-        "sequia_agrícola":0.5183
+        "sequia_agricola":0.5183,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"10.2(22)",
+        "precipitacion_maxima":"10.2(22)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"30.4(17)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"5.0(24)",
+        "precipitacion_maxima":"5.0(24)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"24.0(13)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"11.4(20)",
+        "precipitacion_maxima":"11.4(20)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"22.9(09)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"5.4(01)",
+        "precipitacion_maxima":"5.4(01)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"33.6(26)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"10.2(16)",
+        "precipitacion_maxima":"10.2(16)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"33.3(21)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"30.6(24)",
+        "precipitacion_maxima":"30.6(24)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"26.3(11)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.199,
-        "sequia_agrícola":0.1903726511
+        "sequia_agricola":0.1903726511,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"29.4(14)",
+        "precipitacion_maxima":"29.4(14)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"30.3(04)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.323,
-        "sequia_agrícola":0.3169422449
+        "sequia_agricola":0.3169422449,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"5.8(05)",
+        "precipitacion_maxima":"5.8(05)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"27.0(16)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     },
     {
         "id_estacion":"C468X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"12.0(26)",
+        "precipitacion_maxima":"12.0(26)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"26.6(13)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN JUAN DE LA RAMBLA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282223N",
+        "long":"163733W"
     }
 ]

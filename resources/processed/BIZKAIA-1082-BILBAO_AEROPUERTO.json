@@ -2,7 +2,7 @@
     {
         "id_estacion":1082,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"18.1(18)",
+        "precipitacion_maxima":"18.1(18)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"22.4(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"9.4(26)",
+        "precipitacion_maxima":"9.4(26)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"26.0(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"29.7(06)",
+        "precipitacion_maxima":"29.7(06)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"24.3(19)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5835833333,
-        "sequia_agrícola":0.5780042481
+        "sequia_agricola":0.5780042481,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"11.3(21)",
+        "precipitacion_maxima":"11.3(21)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"27.0(09)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"16.4(08)",
+        "precipitacion_maxima":"16.4(08)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"32.8(28)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"24.1(04)",
+        "precipitacion_maxima":"24.1(04)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"32.2(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"15.9(11)",
+        "precipitacion_maxima":"15.9(11)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"41.5(30)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"19.4(29)",
+        "precipitacion_maxima":"19.4(29)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"38.8(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"32.9(26)",
+        "precipitacion_maxima":"32.9(26)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"37.7(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"35.8(02)",
+        "precipitacion_maxima":"35.8(02)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"26.5(31)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0195833333,
-        "sequia_agrícola":1.0139178309
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"10.1(06)",
+        "precipitacion_maxima":"10.1(06)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"26.5(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"31.3(06)",
+        "precipitacion_maxima":"31.3(06)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"23.0(22)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":2.0065833333,
-        "sequia_agrícola":2.0048833333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"28.0(04)",
+        "precipitacion_maxima":"28.0(04)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"19.9(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.39925,
-        "sequia_agrícola":0.3959366643
+        "sequia_agricola":0.3959366643,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"29.1(06)",
+        "precipitacion_maxima":"29.1(06)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"22.3(20)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"18.2(19)",
+        "precipitacion_maxima":"18.2(19)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"28.7(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"16.3(10)",
+        "precipitacion_maxima":"16.3(10)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"26.2(24)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"23.6(31)",
+        "precipitacion_maxima":"23.6(31)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"30.9(08)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"37.2(22)",
+        "precipitacion_maxima":"37.2(22)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"34.1(13)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.09225,
-        "sequia_agrícola":0.0810783949
+        "sequia_agricola":0.0810783949,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"7.1(07)",
+        "precipitacion_maxima":"7.1(07)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"34.7(05)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"16.3(03)",
+        "precipitacion_maxima":"16.3(03)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"29.0(05)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"18.7(20)",
+        "precipitacion_maxima":"18.7(20)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"38.8(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"21.9(02)",
+        "precipitacion_maxima":"21.9(02)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"29.5(20)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"50.3(28)",
+        "precipitacion_maxima":"50.3(28)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"21.0(02)",
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.46625,
-        "sequia_agrícola":2.46355
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"42.0(01)",
+        "precipitacion_maxima":"42.0(01)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"25.2(31)",
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.33825,
-        "sequia_agrícola":1.3361176075
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"37.3(09)",
+        "precipitacion_maxima":"37.3(09)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"24.4(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4898333333,
-        "sequia_agrícola":0.4871333333
+        "sequia_agricola":0.4871333333,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"12.0(14)",
+        "precipitacion_maxima":"12.0(14)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"21.7(28)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"25.8(03)",
+        "precipitacion_maxima":"25.8(03)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"22.7(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5228333333,
-        "sequia_agrícola":0.517777836
+        "sequia_agricola":0.517777836,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"37.2(20)",
+        "precipitacion_maxima":"37.2(20)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"26.3(26)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2818333333,
-        "sequia_agrícola":0.2755085597
+        "sequia_agricola":0.2755085597,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"11.0(24)",
+        "precipitacion_maxima":"11.0(24)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"34.2(18)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"16.4(21)",
+        "precipitacion_maxima":"16.4(21)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"40.9(18)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"2.5(29)",
+        "precipitacion_maxima":"2.5(29)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"41.2(17)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"19.5(17)",
+        "precipitacion_maxima":"19.5(17)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"39.6(11)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"59.9(29)",
+        "precipitacion_maxima":"59.9(29)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"39.4(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3588333333,
-        "sequia_agrícola":0.3508808201
+        "sequia_agricola":0.3508808201,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"12.4(31)",
+        "precipitacion_maxima":"12.4(31)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"30.4(28)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"27.4(21)",
+        "precipitacion_maxima":"27.4(21)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"24.2(13)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0308333333,
-        "sequia_agrícola":1.0280494405
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"13.2(03)",
+        "precipitacion_maxima":"13.2(03)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"23.2(31)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"94.6(16)",
+        "precipitacion_maxima":"94.6(16)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"25.1(01)",
@@ -921,13 +1065,17 @@
         "mes":1,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.8630833333,
-        "sequia_agrícola":1.8603833333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"36.1(22)",
+        "precipitacion_maxima":"36.1(22)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"25.0(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"15.2(11)",
+        "precipitacion_maxima":"15.2(11)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"30.1(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"9.9(01)",
+        "precipitacion_maxima":"9.9(01)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"26.8(19)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"40.2(11)",
+        "precipitacion_maxima":"40.2(11)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"33.7(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1600833333,
-        "sequia_agrícola":0.1515821921
+        "sequia_agricola":0.1515821921,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"33.5(18)",
+        "precipitacion_maxima":"33.5(18)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"31.0(24)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"3.1(07)",
+        "precipitacion_maxima":"3.1(07)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"34.7(14)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"22.2(28)",
+        "precipitacion_maxima":"22.2(28)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"44.0(23)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"31.7(16)",
+        "precipitacion_maxima":"31.7(16)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"35.4(07)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"22.3(26)",
+        "precipitacion_maxima":"22.3(26)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"36.7(02)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"27.2(30)",
+        "precipitacion_maxima":"27.2(30)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"25.2(13)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.9220833333,
-        "sequia_agrícola":0.9186433671
+        "sequia_agricola":0.9186433671,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"35.6(01)",
+        "precipitacion_maxima":"35.6(01)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"21.3(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.5430833333,
-        "sequia_agrícola":0.5406508676
+        "sequia_agricola":0.5406508676,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"27.0(05)",
+        "precipitacion_maxima":"27.0(05)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"23.1(28)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"40.7(26)",
+        "precipitacion_maxima":"40.7(26)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"26.2(15)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5084166667,
-        "sequia_agrícola":0.5045792661
+        "sequia_agricola":0.5045792661,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"21.9(02)",
+        "precipitacion_maxima":"21.9(02)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"24.8(16)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"19.7(23)",
+        "precipitacion_maxima":"19.7(23)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"30.6(06)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"21.7(13)",
+        "precipitacion_maxima":"21.7(13)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"27.9(10)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"12.9(28)",
+        "precipitacion_maxima":"12.9(28)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"29.7(17)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"10.1(20)",
+        "precipitacion_maxima":"10.1(20)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"35.2(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"33.3(13)",
+        "precipitacion_maxima":"33.3(13)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"42.9(11)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"46.5(21)",
+        "precipitacion_maxima":"46.5(21)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"29.3(25)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8314166667,
-        "sequia_agrícola":0.8242246932
+        "sequia_agricola":0.8242246932,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"47.7(26)",
+        "precipitacion_maxima":"47.7(26)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"28.8(09)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6284166667,
-        "sequia_agrícola":0.6230434052
+        "sequia_agricola":0.6230434052,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"30.9(20)",
+        "precipitacion_maxima":"30.9(20)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"25.7(05)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0764166667,
-        "sequia_agrícola":0.0726558666
+        "sequia_agricola":0.0726558666,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     },
     {
         "id_estacion":1082,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"31.7(08)",
+        "precipitacion_maxima":"31.7(08)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"20.8(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.5014166667,
-        "sequia_agrícola":0.4997166667
+        "sequia_agricola":0.4997166667,
+        "nomb_estacion":"BILBAO AEROPUERTO",
+        "provincia":"BIZKAIA",
+        "lat":"431753N",
+        "long":"025423W"
     }
 ]

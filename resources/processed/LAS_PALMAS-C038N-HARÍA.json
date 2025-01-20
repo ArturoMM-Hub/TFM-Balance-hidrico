@@ -2,7 +2,7 @@
     {
         "id_estacion":"C038N",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"1.6(09)",
+        "precipitacion_maxima":"1.6(09)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"24.6(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"26.4(05)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"7.4(22)",
+        "precipitacion_maxima":"7.4(22)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"25.0(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0816666667,
-        "sequia_agrícola":0.074279808
+        "sequia_agricola":0.074279808,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"1.6(23)",
+        "precipitacion_maxima":"1.6(23)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"23.7(08)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"2.0(13)",
+        "precipitacion_maxima":"2.0(13)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"32.4(25)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.2(17)",
+        "precipitacion_maxima":"0.2(17)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"26.6(15)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.2(02)",
+        "precipitacion_maxima":"0.2(02)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"36.1(07)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"1.8(29)",
+        "precipitacion_maxima":"1.8(29)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"38.6(27)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"32.3(07)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"6.4(03)",
+        "precipitacion_maxima":"6.4(03)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"29.2(20)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"12.8(30)",
+        "precipitacion_maxima":"12.8(30)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"30.7(18)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3756666667,
-        "sequia_agrícola":0.3729666667
+        "sequia_agricola":0.3729666667,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"10.2(13)",
+        "precipitacion_maxima":"10.2(13)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"20.5(27)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1696666667,
-        "sequia_agrícola":0.1666809239
+        "sequia_agricola":0.1666809239,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"9.2(09)",
+        "precipitacion_maxima":"9.2(09)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"25.5(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2486666667,
-        "sequia_agrícola":0.24460253
+        "sequia_agricola":0.24460253,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"34.8(05)",
+        "precipitacion_maxima":"34.8(05)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"22.4(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5286666667,
-        "sequia_agrícola":0.5249666667
+        "sequia_agricola":0.5249666667,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"5.2(29)",
+        "precipitacion_maxima":"5.2(29)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"25.8(24)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0206666667,
-        "sequia_agrícola":0.011208593
+        "sequia_agricola":0.011208593,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"1.2(25)",
+        "precipitacion_maxima":"1.2(25)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"25.0(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"24.4(20)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.2(21)",
+        "precipitacion_maxima":"0.2(21)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"34.3(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"34.7(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.4,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"38.7(15)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"29.5(07)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"27.7(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"1.4(25)",
+        "precipitacion_maxima":"1.4(25)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"23.4(02)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"2.2(26)",
+        "precipitacion_maxima":"2.2(26)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"26.1(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"6.0(17)",
+        "precipitacion_maxima":"6.0(17)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"25.4(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.6(23)",
+        "precipitacion_maxima":"4.6(23)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"27.2(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"20.4(14)",
+        "precipitacion_maxima":"20.4(14)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"23.0(27)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2405,
-        "sequia_agrícola":0.2350219235
+        "sequia_agricola":0.2350219235,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"16.8(03)",
+        "precipitacion_maxima":"16.8(03)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"27.5(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0345,
-        "sequia_agrícola":0.0256752866
+        "sequia_agricola":0.0256752866,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"27.4(09)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.6(25)",
+        "precipitacion_maxima":"0.6(25)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"23.9(07)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.2(30)",
+        "precipitacion_maxima":"0.2(30)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"39.9(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"31.7(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"54.4(25)",
+        "precipitacion_maxima":"54.4(25)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"29.6(02)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.6085,
-        "sequia_agrícola":0.6018
+        "sequia_agricola":0.6018,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"2.0(11)",
+        "precipitacion_maxima":"2.0(11)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"29.5(28)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.4(19)",
+        "precipitacion_maxima":"0.4(19)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"29.2(13)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"10.0(01)",
+        "precipitacion_maxima":"10.0(01)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"27.0(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1265,
-        "sequia_agrícola":0.122611615
+        "sequia_agricola":0.122611615,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"1.2(05)",
+        "precipitacion_maxima":"1.2(05)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"28.8(16)",
@@ -922,12 +1066,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"2.8(09)",
+        "precipitacion_maxima":"2.8(09)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"26.4(14)",
@@ -947,12 +1095,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.005,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"13.8(24)",
+        "precipitacion_maxima":"13.8(24)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"31.4(16)",
@@ -972,12 +1124,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.275,
-        "sequia_agrícola":0.2703
+        "sequia_agricola":0.2703,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.4(20)",
+        "precipitacion_maxima":"0.4(20)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"31.8(05)",
@@ -997,12 +1153,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"2.4(31)",
+        "precipitacion_maxima":"2.4(31)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"27.3(09)",
@@ -1022,12 +1182,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.011,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.6(26)",
+        "precipitacion_maxima":"0.6(26)",
         "temperatura_media_minima_mensual":17.0,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"24.1(28)",
@@ -1047,12 +1211,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"33.1(25)",
@@ -1072,12 +1240,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"28.6(19)",
@@ -1097,12 +1269,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.5,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"26.0(14)",
@@ -1122,12 +1298,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.2(15)",
@@ -1147,12 +1327,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"30.5(08)",
@@ -1172,12 +1356,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     },
     {
         "id_estacion":"C038N",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"0.8(16)",
+        "precipitacion_maxima":"0.8(16)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"27.3(01)",
@@ -1197,6 +1385,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HARÍA",
+        "provincia":"LAS PALMAS",
+        "lat":"290837N",
+        "long":"132921W"
     }
 ]

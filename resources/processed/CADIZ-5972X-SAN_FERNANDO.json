@@ -2,7 +2,7 @@
     {
         "id_estacion":"5972X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"47.8(24)",
+        "precipitacion_maxima":"47.8(24)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"19.0(01)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5439166667,
-        "sequia_agrícola":0.5409321611
+        "sequia_agricola":0.5409321611,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.5(07)",
+        "precipitacion_maxima":"1.5(07)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"24.9(02)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"64.9(17)",
+        "precipitacion_maxima":"64.9(17)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"27.5(11)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2349166667,
-        "sequia_agrícola":1.2302166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"20.1(24)",
+        "precipitacion_maxima":"20.1(24)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"24.2(07)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0249166667,
-        "sequia_agrícola":0.0174286921
+        "sequia_agricola":0.0174286921,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"13.9(13)",
+        "precipitacion_maxima":"13.9(13)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"36.1(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"1.4(11)",
+        "precipitacion_maxima":"1.4(11)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"36.1(22)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.2(20)",
+        "precipitacion_maxima":"0.2(20)",
         "temperatura_media_minima_mensual":23.0,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"38.3(20)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"1.9(10)",
+        "precipitacion_maxima":"1.9(10)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"37.3(05)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"3.6(18)",
+        "precipitacion_maxima":"3.6(18)",
         "temperatura_media_minima_mensual":20.9,
         "temperatura_media_maxima_mensual":29.0,
         "temperatura_max_absoluta_mes":"35.0(12)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"15.8(21)",
+        "precipitacion_maxima":"15.8(21)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"31.2(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"34.9(28)",
+        "precipitacion_maxima":"34.9(28)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"26.9(15)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.8919166667,
-        "sequia_agrícola":0.8888724983
+        "sequia_agricola":0.8888724983,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"11.4(16)",
+        "precipitacion_maxima":"11.4(16)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"20.6(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"37.0(20)",
+        "precipitacion_maxima":"37.0(20)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"19.8(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0785454545,
-        "sequia_agrícola":1.0758454545
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"15.6(07)",
+        "precipitacion_maxima":"15.6(07)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"21.5(14)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.4385454545,
-        "sequia_agrícola":0.4337942547
+        "sequia_agricola":0.4337942547,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"7.7(06)",
+        "precipitacion_maxima":"7.7(06)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"24.9(27)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"3.6(21)",
+        "precipitacion_maxima":"3.6(21)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"26.8(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"2.3(10)",
+        "precipitacion_maxima":"2.3(10)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"31.5(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"8.4(18)",
+        "precipitacion_maxima":"8.4(18)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"35.1(08)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.1(01)",
+        "precipitacion_maxima":"0.1(01)",
         "temperatura_media_minima_mensual":21.2,
         "temperatura_media_maxima_mensual":28.8,
         "temperatura_max_absoluta_mes":"36.2(10)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.5(24)",
+        "precipitacion_maxima":"0.5(24)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"36.8(15)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"9.2(13)",
+        "precipitacion_maxima":"9.2(13)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"36.0(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"7.4(29)",
+        "precipitacion_maxima":"7.4(29)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"31.7(06)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"7.5(20)",
+        "precipitacion_maxima":"7.5(20)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"23.6(13)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.4(24)",
+        "precipitacion_maxima":"2.4(24)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"21.6(31)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.1(13)",
+        "precipitacion_maxima":"4.1(13)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"25.1(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"35.2(24)",
+        "precipitacion_maxima":"35.2(24)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"21.9(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2020833333,
-        "sequia_agrícola":1.1972137443
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"18.7(04)",
+        "precipitacion_maxima":"18.7(04)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"27.3(30)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0110833333,
-        "sequia_agrícola":0.0031675618
+        "sequia_agricola":0.0031675618,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"1.5(04)",
+        "precipitacion_maxima":"1.5(04)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"33.7(18)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"38.8(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.4,
         "temperatura_media_maxima_mensual":33.4,
         "temperatura_max_absoluta_mes":"40.5(23)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.7(12)",
+        "precipitacion_maxima":"0.7(12)",
         "temperatura_media_minima_mensual":22.0,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"37.8(13)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"2.1(12)",
+        "precipitacion_maxima":"2.1(12)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"33.3(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"10.6(11)",
+        "precipitacion_maxima":"10.6(11)",
         "temperatura_media_minima_mensual":19.4,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"33.4(27)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"11.2(15)",
+        "precipitacion_maxima":"11.2(15)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"25.1(12)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0360833333,
-        "sequia_agrícola":0.0311362655
+        "sequia_agricola":0.0311362655,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"67.9(08)",
+        "precipitacion_maxima":"67.9(08)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"21.8(26)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.8230833333,
-        "sequia_agrícola":1.8213833333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"19.5(02)",
+        "precipitacion_maxima":"19.5(02)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"20.7(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1856666667,
-        "sequia_agrícola":0.1829666667
+        "sequia_agricola":0.1829666667,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"6.8(24)",
+        "precipitacion_maxima":"6.8(24)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"20.4(05)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"20.3(06)",
+        "precipitacion_maxima":"20.3(06)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"26.8(27)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0706666667,
-        "sequia_agrícola":0.0640613115
+        "sequia_agricola":0.0640613115,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.4(22)",
+        "precipitacion_maxima":"0.4(22)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"34.9(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"13.0(22)",
+        "precipitacion_maxima":"13.0(22)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"32.3(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0736666667,
-        "sequia_agrícola":0.0644267193
+        "sequia_agricola":0.0644267193,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"9.0(07)",
+        "precipitacion_maxima":"9.0(07)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"42.7(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":29.0,
         "temperatura_max_absoluta_mes":"36.9(02)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":31.7,
         "temperatura_max_absoluta_mes":"40.5(21)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"14.8(02)",
+        "precipitacion_maxima":"14.8(02)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"34.3(28)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0996666667,
-        "sequia_agrícola":0.090270447
+        "sequia_agricola":0.090270447,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"19.1(19)",
+        "precipitacion_maxima":"19.1(19)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"34.8(02)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3066666667,
-        "sequia_agrícola":0.3011661681
+        "sequia_agricola":0.3011661681,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"5.7(30)",
+        "precipitacion_maxima":"5.7(30)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"25.3(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"7.1(05)",
+        "precipitacion_maxima":"7.1(05)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"20.6(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"13.4(04)",
+        "precipitacion_maxima":"13.4(04)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.4(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"22.9(08)",
+        "precipitacion_maxima":"22.9(08)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"24.2(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.106,
-        "sequia_agrícola":0.1008440838
+        "sequia_agricola":0.1008440838,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"21.5(07)",
+        "precipitacion_maxima":"21.5(07)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"27.1(17)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.802,
-        "sequia_agrícola":0.7968192053
+        "sequia_agricola":0.7968192053,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"5.1(30)",
+        "precipitacion_maxima":"5.1(30)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"28.9(11)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.8(01)",
+        "precipitacion_maxima":"0.8(01)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"33.0(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"19.7(27)",
+        "precipitacion_maxima":"19.7(27)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"36.1(23)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.1(28)",
+        "precipitacion_maxima":"0.1(28)",
         "temperatura_media_minima_mensual":21.0,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"39.3(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"39.6(17)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"4.7(07)",
+        "precipitacion_maxima":"4.7(07)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"34.2(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"80.4(31)",
+        "precipitacion_maxima":"80.4(31)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"28.1(21)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.551,
-        "sequia_agrícola":2.5463
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"16.8(13)",
+        "precipitacion_maxima":"16.8(13)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"24.4(04)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     },
     {
         "id_estacion":"5972X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"18.4(12)",
+        "precipitacion_maxima":"18.4(12)",
         "temperatura_media_minima_mensual":9.7,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"21.2(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN FERNANDO",
+        "provincia":"CADIZ",
+        "lat":"362756N",
+        "long":"061220W"
     }
 ]

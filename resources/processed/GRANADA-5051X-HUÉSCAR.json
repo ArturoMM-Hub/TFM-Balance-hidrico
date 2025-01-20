@@ -2,7 +2,7 @@
     {
         "id_estacion":"5051X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -46,13 +50,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2024,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -121,13 +137,17 @@
         "mes":5,
         "year":2024,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2024,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -172,12 +196,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"19.0(25)",
+        "precipitacion_maxima":"19.0(25)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":35.2,
         "temperatura_max_absoluta_mes":"41.2(01)",
@@ -197,12 +225,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0146666667,
-        "sequia_agrícola":0.0017666686
+        "sequia_agricola":0.0017666686,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"8.8(07)",
+        "precipitacion_maxima":"8.8(07)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"33.4(01)",
@@ -222,12 +254,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0386666667,
-        "sequia_agrícola":0.028977246
+        "sequia_agricola":0.028977246,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"23.2(28)",
+        "precipitacion_maxima":"23.2(28)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"30.7(06)",
@@ -247,12 +283,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3126666667,
-        "sequia_agrícola":0.3079666667
+        "sequia_agricola":0.3079666667,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"13.6(13)",
+        "precipitacion_maxima":"13.6(13)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"22.1(30)",
@@ -272,12 +312,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0386666667,
-        "sequia_agrícola":0.0346081652
+        "sequia_agricola":0.0346081652,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     },
     {
         "id_estacion":"5051X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"0.2(31)",
+        "precipitacion_maxima":"0.2(31)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"21.9(01)",
@@ -297,6 +341,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HUÉSCAR",
+        "provincia":"GRANADA",
+        "lat":"375141N",
+        "long":"023910W"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":"C623I",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"0.2(06)",
+        "precipitacion_maxima":"0.2(06)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"20.9(29)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"22.2(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"10.4(23)",
+        "precipitacion_maxima":"10.4(23)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"23.6(04)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1643636364,
-        "sequia_agrícola":0.1575887057
+        "sequia_agricola":0.1575887057,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"1.2(18)",
+        "precipitacion_maxima":"1.2(18)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"23.9(08)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"31.3(24)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"1.4(14)",
+        "precipitacion_maxima":"1.4(14)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"29.1(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":24.7,
         "temperatura_media_maxima_mensual":32.8,
         "temperatura_max_absoluta_mes":"37.6(07)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.7,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"36.7(22)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"2.8(23)",
+        "precipitacion_maxima":"2.8(23)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"33.8(08)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"1.0(20)",
+        "precipitacion_maxima":"1.0(20)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"28.1(13)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"34.8(30)",
+        "precipitacion_maxima":"34.8(30)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"24.1(12)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.6923636364,
-        "sequia_agrícola":0.6896636364
+        "sequia_agricola":0.6896636364,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2020-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"106.2(07)",
+        "precipitacion_maxima":"106.2(07)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"23.2(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.9528333333,
-        "sequia_agrícola":1.9501333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"7.2(05)",
+        "precipitacion_maxima":"7.2(05)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"22.4(02)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0088333333,
-        "sequia_agrícola":0.0019686625
+        "sequia_agricola":0.0019686625,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"3.0(06)",
+        "precipitacion_maxima":"3.0(06)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"21.5(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"0.2(30)",
+        "precipitacion_maxima":"0.2(30)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"22.7(19)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"32.3(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"33.7(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.6,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"35.7(17)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"37.9(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"33.6(08)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"32.4(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"2.4(27)",
+        "precipitacion_maxima":"2.4(27)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"23.6(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"1.4(19)",
+        "precipitacion_maxima":"1.4(19)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"20.4(29)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"13.8(17)",
+        "precipitacion_maxima":"13.8(17)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"21.1(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0206666667,
-        "sequia_agrícola":0.0164547992
+        "sequia_agricola":0.0164547992,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"7.2(19)",
+        "precipitacion_maxima":"7.2(19)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"20.4(10)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"20.6(28)",
+        "precipitacion_maxima":"20.6(28)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"19.2(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2606666667,
-        "sequia_agrícola":0.2554820684
+        "sequia_agricola":0.2554820684,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"24.6(03)",
+        "precipitacion_maxima":"24.6(03)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"27.1(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"2.0(10)",
+        "precipitacion_maxima":"2.0(10)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"27.4(09)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"31.9(08)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.5,
         "temperatura_media_maxima_mensual":31.8,
         "temperatura_max_absoluta_mes":"37.6(10)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.6(31)",
+        "precipitacion_maxima":"2.6(31)",
         "temperatura_media_minima_mensual":22.4,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"36.4(03)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"108.8(25)",
+        "precipitacion_maxima":"108.8(25)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"28.6(09)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.2746666667,
-        "sequia_agrícola":1.2679666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"4.2(04)",
+        "precipitacion_maxima":"4.2(04)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"28.5(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"25.7(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"58.4(07)",
+        "precipitacion_maxima":"58.4(07)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"22.5(11)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.5266666667,
-        "sequia_agrícola":0.5246791044
+        "sequia_agricola":0.5246791044,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"1.8(28)",
+        "precipitacion_maxima":"1.8(28)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"17.1(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"10.4(10)",
+        "precipitacion_maxima":"10.4(10)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"17.8(28)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.172,
-        "sequia_agrícola":0.1683
+        "sequia_agricola":0.1683,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"28.8(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.4(04)",
+        "precipitacion_maxima":"0.4(04)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"27.4(02)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"30.8(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"22.2(07)",
+        "precipitacion_maxima":"22.2(07)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"35.9(28)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.308,
-        "sequia_agrícola":0.298485737
+        "sequia_agricola":0.298485737,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"37.2(11)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"4.8(19)",
+        "precipitacion_maxima":"4.8(19)",
         "temperatura_media_minima_mensual":23.5,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"38.3(12)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"0.8(03)",
+        "precipitacion_maxima":"0.8(03)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"30.0(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"4.0(22)",
+        "precipitacion_maxima":"4.0(22)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"29.9(08)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"28.4(30)",
+        "precipitacion_maxima":"28.4(30)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"25.8(16)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.198,
-        "sequia_agrícola":0.193875421
+        "sequia_agricola":0.193875421,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"3.6(01)",
+        "precipitacion_maxima":"3.6(01)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"24.2(09)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.012,
-        "sequia_agrícola":0.0065713737
+        "sequia_agricola":0.0065713737,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"0.4(16)",
+        "precipitacion_maxima":"0.4(16)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"21.2(15)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"26.1(17)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"20.0(22)",
+        "precipitacion_maxima":"20.0(22)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"26.1(16)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1941666667,
-        "sequia_agrícola":0.1881192654
+        "sequia_agricola":0.1881192654,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.4(27)",
+        "precipitacion_maxima":"0.4(27)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"30.2(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"27.1(08)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"28.1(30)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.9,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"36.9(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.3,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"36.7(03)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"29.0(10)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"1.8(26)",
+        "precipitacion_maxima":"1.8(26)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"29.8(04)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"8.2(17)",
+        "precipitacion_maxima":"8.2(17)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"26.2(09)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1141666667,
-        "sequia_agrícola":0.1082736601
+        "sequia_agricola":0.1082736601,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C623I",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"23.0(22)",
+        "precipitacion_maxima":"23.0(22)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"21.6(01)",
@@ -1497,12 +1733,16 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3801666667,
-        "sequia_agrícola":0.3784666667
+        "sequia_agricola":0.3784666667,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, CUEVAS DEL PINAR",
+        "provincia":"LAS PALMAS",
+        "lat":"275536N",
+        "long":"153559W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"0.4(06)",
+        "precipitacion_maxima":"0.4(06)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"24.7(16)",
@@ -1522,12 +1762,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"28.9(17)",
@@ -1547,12 +1791,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"18.0(22)",
+        "precipitacion_maxima":"18.0(22)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"30.5(16)",
@@ -1572,12 +1820,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.215,
-        "sequia_agrícola":0.2092542686
+        "sequia_agricola":0.2092542686,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.4(06)",
+        "precipitacion_maxima":"0.4(06)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"33.9(12)",
@@ -1597,12 +1849,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"30.3(05)",
@@ -1622,12 +1878,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"31.2(29)",
@@ -1647,12 +1907,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.4(29)",
+        "precipitacion_maxima":"0.4(29)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":33.8,
         "temperatura_max_absoluta_mes":"41.1(25)",
@@ -1672,12 +1936,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":33.9,
         "temperatura_max_absoluta_mes":"41.0(03)",
@@ -1697,12 +1965,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":27.1,
         "temperatura_max_absoluta_mes":"31.9(13)",
@@ -1722,12 +1994,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"1.4(28)",
+        "precipitacion_maxima":"1.4(28)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"34.0(03)",
@@ -1747,12 +2023,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"5.6(17)",
+        "precipitacion_maxima":"5.6(17)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"30.1(09)",
@@ -1772,12 +2052,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.051,
-        "sequia_agrícola":0.0436137761
+        "sequia_agricola":0.0436137761,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"19.0(22)",
+        "precipitacion_maxima":"19.0(22)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"25.3(01)",
@@ -1797,6 +2081,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.323,
-        "sequia_agrícola":0.3213
+        "sequia_agricola":0.3213,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     }
 ]

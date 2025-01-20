@@ -2,7 +2,7 @@
     {
         "id_estacion":"7275C",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"22.2(19)",
+        "precipitacion_maxima":"22.2(19)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"17.5(07)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.4(18)",
+        "precipitacion_maxima":"0.4(18)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"24.4(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"42.0(23)",
+        "precipitacion_maxima":"42.0(23)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"28.6(11)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0401666667,
-        "sequia_agrícola":1.0354666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"15.8(13)",
+        "precipitacion_maxima":"15.8(13)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"22.8(30)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2101666667,
-        "sequia_agrícola":0.2029827367
+        "sequia_agricola":0.2029827367,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"11.8(13)",
+        "precipitacion_maxima":"11.8(13)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"32.8(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1101666667,
-        "sequia_agrícola":0.1008052595
+        "sequia_agricola":0.1008052595,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"14.2(17)",
+        "precipitacion_maxima":"14.2(17)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"35.9(21)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"7.2(24)",
+        "precipitacion_maxima":"7.2(24)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":34.2,
         "temperatura_max_absoluta_mes":"40.7(31)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"3.4(12)",
+        "precipitacion_maxima":"3.4(12)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":34.6,
         "temperatura_max_absoluta_mes":"41.3(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"11.8(02)",
+        "precipitacion_maxima":"11.8(02)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"31.9(11)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"11.0(02)",
+        "precipitacion_maxima":"11.0(02)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"29.3(01)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"10.6(27)",
+        "precipitacion_maxima":"10.6(27)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"27.8(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"5.0(07)",
+        "precipitacion_maxima":"5.0(07)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"19.5(11)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"11.4(07)",
+        "precipitacion_maxima":"11.4(07)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"24.3(29)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0656666667,
-        "sequia_agrícola":0.0626753549
+        "sequia_agricola":0.0626753549,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"0.6(22)",
+        "precipitacion_maxima":"0.6(22)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"22.9(17)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"14.6(18)",
+        "precipitacion_maxima":"14.6(18)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"23.8(26)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0676666667,
-        "sequia_agrícola":0.0619497706
+        "sequia_agricola":0.0619497706,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"15.0(30)",
+        "precipitacion_maxima":"15.0(30)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.5(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.5296666667,
-        "sequia_agrícola":0.5239666667
+        "sequia_agricola":0.5239666667,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"32.8(23)",
+        "precipitacion_maxima":"32.8(23)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"31.8(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0496666667,
-        "sequia_agrícola":0.0404006848
+        "sequia_agricola":0.0404006848,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"54.8(05)",
+        "precipitacion_maxima":"54.8(05)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"34.2(27)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3976666667,
-        "sequia_agrícola":0.3876520131
+        "sequia_agricola":0.3876520131,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"6.8(26)",
+        "precipitacion_maxima":"6.8(26)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":35.2,
         "temperatura_max_absoluta_mes":"40.2(24)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"1.0(23)",
+        "precipitacion_maxima":"1.0(23)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":35.2,
         "temperatura_max_absoluta_mes":"44.3(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"11.6(01)",
+        "precipitacion_maxima":"11.6(01)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":29.6,
         "temperatura_max_absoluta_mes":"34.1(08)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0316666667,
-        "sequia_agrícola":0.0215968828
+        "sequia_agricola":0.0215968828,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"7.2(03)",
+        "precipitacion_maxima":"7.2(03)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"28.9(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"18.0(22)",
+        "precipitacion_maxima":"18.0(22)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"23.4(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0336666667,
-        "sequia_agrícola":0.0296549142
+        "sequia_agricola":0.0296549142,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.6(25)",
+        "precipitacion_maxima":"0.6(25)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"26.9(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"26.7(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"0.2(13)",
+        "precipitacion_maxima":"0.2(13)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"25.8(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"29.2(03)",
+        "precipitacion_maxima":"29.2(03)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"21.1(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.739,
-        "sequia_agrícola":0.7343
+        "sequia_agricola":0.7343,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"17.6(05)",
+        "precipitacion_maxima":"17.6(05)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"27.4(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.321,
-        "sequia_agrícola":0.3143445565
+        "sequia_agricola":0.3143445565,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"13.0(02)",
+        "precipitacion_maxima":"13.0(02)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"36.1(22)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.065,
-        "sequia_agrícola":0.055106716
+        "sequia_agricola":0.055106716,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"2.6(21)",
+        "precipitacion_maxima":"2.6(21)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"4.6(06)",
+        "precipitacion_maxima":"4.6(06)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":35.9,
         "temperatura_max_absoluta_mes":"41.0(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"4.6(30)",
+        "precipitacion_maxima":"4.6(30)",
         "temperatura_media_minima_mensual":17.0,
         "temperatura_media_maxima_mensual":34.9,
         "temperatura_max_absoluta_mes":"39.5(12)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"6.6(22)",
+        "precipitacion_maxima":"6.6(22)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"35.6(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"24.6(10)",
+        "precipitacion_maxima":"24.6(10)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"30.3(19)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.063,
-        "sequia_agrícola":0.0551035395
+        "sequia_agricola":0.0551035395,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"13.2(11)",
+        "precipitacion_maxima":"13.2(11)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"27.1(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"9.0(11)",
+        "precipitacion_maxima":"9.0(11)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"22.7(23)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.029,
-        "sequia_agrícola":0.0251698601
+        "sequia_agricola":0.0251698601,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"0.6(17)",
+        "precipitacion_maxima":"0.6(17)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"19.5(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"1.4(06)",
+        "precipitacion_maxima":"1.4(06)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"20.7(21)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"0.6(05)",
+        "precipitacion_maxima":"0.6(05)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"29.2(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"33.6(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"39.6(23)",
+        "precipitacion_maxima":"39.6(23)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"32.7(09)",
@@ -1021,13 +1181,17 @@
         "mes":5,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.3430833333,
-        "sequia_agrícola":1.3363833333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"7.8(21)",
+        "precipitacion_maxima":"7.8(21)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"36.4(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1120833333,
-        "sequia_agrícola":0.0998077662
+        "sequia_agricola":0.0998077662,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"1.2(20)",
+        "precipitacion_maxima":"1.2(20)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":36.1,
         "temperatura_max_absoluta_mes":"41.6(12)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"9.2(03)",
+        "precipitacion_maxima":"9.2(03)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":35.6,
         "temperatura_max_absoluta_mes":"42.5(10)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"10.2(02)",
+        "precipitacion_maxima":"10.2(02)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"31.6(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0300833333,
-        "sequia_agrícola":0.0190043151
+        "sequia_agricola":0.0190043151,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"4.2(19)",
+        "precipitacion_maxima":"4.2(19)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"32.5(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.6(02)",
+        "precipitacion_maxima":"0.6(02)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"25.4(15)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"0.6(05)",
+        "precipitacion_maxima":"0.6(05)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"25.5(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"9.2(09)",
+        "precipitacion_maxima":"9.2(09)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"25.9(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0055,
-        "sequia_agrícola":0.0019422317
+        "sequia_agricola":0.0019422317,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"5.4(09)",
+        "precipitacion_maxima":"5.4(09)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"23.1(21)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"8.6(09)",
+        "precipitacion_maxima":"8.6(09)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"28.6(19)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1175,
-        "sequia_agrícola":0.1128
+        "sequia_agricola":0.1128,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"8.4(29)",
+        "precipitacion_maxima":"8.4(29)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"29.3(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"1.6(31)",
+        "precipitacion_maxima":"1.6(31)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"35.8(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"17.0(12)",
+        "precipitacion_maxima":"17.0(12)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"33.5(07)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2455,
-        "sequia_agrícola":0.2359913877
+        "sequia_agricola":0.2359913877,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"4.8(01)",
+        "precipitacion_maxima":"4.8(01)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":35.8,
         "temperatura_max_absoluta_mes":"42.3(31)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"17.0(14)",
+        "precipitacion_maxima":"17.0(14)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"42.3(01)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0475,
-        "sequia_agrícola":0.0350711409
+        "sequia_agricola":0.0350711409,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"19.6(19)",
+        "precipitacion_maxima":"19.6(19)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"32.2(01)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2755,
-        "sequia_agrícola":0.268353469
+        "sequia_agricola":0.268353469,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"10.4(27)",
+        "precipitacion_maxima":"10.4(27)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"31.0(06)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1055,
-        "sequia_agrícola":0.0994791409
+        "sequia_agricola":0.0994791409,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"0.8(13)",
+        "precipitacion_maxima":"0.8(13)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"23.8(18)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     },
     {
         "id_estacion":"7275C",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"4.2(31)",
+        "precipitacion_maxima":"4.2(31)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"22.6(02)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"YECLA",
+        "provincia":"MURCIA",
+        "lat":"383606N",
+        "long":"010935W"
     }
 ]

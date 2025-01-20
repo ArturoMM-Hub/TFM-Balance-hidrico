@@ -2,7 +2,7 @@
     {
         "id_estacion":349,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"93.5(21)",
+        "precipitacion_maxima":"93.5(21)",
         "temperatura_media_minima_mensual":-0.4,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"17.2(31)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.439,
-        "sequia_agrícola":1.4363
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.1(11)",
+        "precipitacion_maxima":"0.1(11)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"20.7(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"0.8(01)",
+        "precipitacion_maxima":"0.8(01)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"24.5(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"22.4(17)",
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -121,13 +137,17 @@
         "mes":5,
         "year":2020,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -171,13 +195,17 @@
         "mes":7,
         "year":2020,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2020,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-10-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2020-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"18.9(09)",
+        "precipitacion_maxima":"18.9(09)",
         "temperatura_media_minima_mensual":-1.3,
         "temperatura_media_maxima_mensual":8.5,
         "temperatura_max_absoluta_mes":"16.1(29)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"13.9(22)",
+        "precipitacion_maxima":"13.9(22)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"19.3(18)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"22.4(30)",
@@ -371,13 +427,17 @@
         "mes":3,
         "year":2021,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"32.6(30)",
+        "precipitacion_maxima":"32.6(30)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"23.1(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3043,
-        "sequia_agrícola":0.297974877
+        "sequia_agricola":0.297974877,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"15.8(30)",
+        "precipitacion_maxima":"15.8(30)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"27.2(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"28.9(11)",
+        "precipitacion_maxima":"28.9(11)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"32.0(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2093,
-        "sequia_agrícola":0.1979876528
+        "sequia_agricola":0.1979876528,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"13.6(31)",
+        "precipitacion_maxima":"13.6(31)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":30.0,
         "temperatura_max_absoluta_mes":"35.3(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -496,13 +572,17 @@
         "mes":8,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"37.9(10)",
+        "precipitacion_maxima":"37.9(10)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"31.3(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3203,
-        "sequia_agrícola":0.3114936222
+        "sequia_agricola":0.3114936222,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"18.9(03)",
+        "precipitacion_maxima":"18.9(03)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"23.6(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"26.3(23)",
+        "precipitacion_maxima":"26.3(23)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"18.7(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3713,
-        "sequia_agrícola":0.3686
+        "sequia_agricola":0.3686,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.8(01)",
+        "precipitacion_maxima":"0.8(01)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"17.6(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -621,13 +717,17 @@
         "mes":1,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.2(19)",
+        "precipitacion_maxima":"4.2(19)",
         "temperatura_media_minima_mensual":0.6,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"21.8(18)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"24.6(30)",
+        "precipitacion_maxima":"24.6(30)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"18.3(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.615,
-        "sequia_agrícola":0.6103
+        "sequia_agricola":0.6103,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"25.0(30)",
+        "precipitacion_maxima":"25.0(30)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"25.7(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.26,
-        "sequia_agrícola":0.2533742155
+        "sequia_agricola":0.2533742155,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"11.7(01)",
+        "precipitacion_maxima":"11.7(01)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"34.1(22)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"37.0(17)",
@@ -746,13 +862,17 @@
         "mes":6,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.6(31)",
+        "precipitacion_maxima":"0.6(31)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":33.0,
         "temperatura_max_absoluta_mes":"36.7(17)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -796,13 +920,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"13.0(23)",
+        "precipitacion_maxima":"13.0(23)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"32.8(12)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-10-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"4.8(09)",
+        "precipitacion_maxima":"4.8(09)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"22.4(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2022-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"2.6(24)",
+        "precipitacion_maxima":"2.6(24)",
         "temperatura_media_minima_mensual":-2.9,
         "temperatura_media_maxima_mensual":9.6,
         "temperatura_max_absoluta_mes":"13.8(03)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"37.5(07)",
+        "precipitacion_maxima":"37.5(07)",
         "temperatura_media_minima_mensual":-1.7,
         "temperatura_media_maxima_mensual":12.9,
         "temperatura_max_absoluta_mes":"21.2(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0658181818,
-        "sequia_agrícola":0.0619737259
+        "sequia_agricola":0.0619737259,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"6.7(18)",
+        "precipitacion_maxima":"6.7(18)",
         "temperatura_media_minima_mensual":3.0,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.1(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"8.8(25)",
+        "precipitacion_maxima":"8.8(25)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"27.3(29)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"28.6(24)",
+        "precipitacion_maxima":"28.6(24)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"27.0(27)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5318181818,
-        "sequia_agrícola":0.5244822808
+        "sequia_agricola":0.5244822808,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"48.0(29)",
+        "precipitacion_maxima":"48.0(29)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"33.2(25)",
@@ -1046,13 +1210,17 @@
         "mes":6,
         "year":2023,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.4618181818,
-        "sequia_agrícola":1.4531181818
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"5.3(04)",
+        "precipitacion_maxima":"5.3(04)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"39.8(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"31.1(26)",
+        "precipitacion_maxima":"31.1(26)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":31.3,
         "temperatura_max_absoluta_mes":"38.1(24)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0448181818,
-        "sequia_agrícola":0.0318800637
+        "sequia_agricola":0.0318800637,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"6.7(19)",
+        "precipitacion_maxima":"6.7(19)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"31.0(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"5.6(20)",
+        "precipitacion_maxima":"5.6(20)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"22.9(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"2.4(01)",
+        "precipitacion_maxima":"2.4(01)",
         "temperatura_media_minima_mensual":-1.4,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"16.9(22)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"12.3(19)",
+        "precipitacion_maxima":"12.3(19)",
         "temperatura_media_minima_mensual":0.1,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"20.4(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"4.8(24)",
+        "precipitacion_maxima":"4.8(24)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"21.4(04)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"37.2(09)",
+        "precipitacion_maxima":"37.2(09)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"25.3(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4141818182,
-        "sequia_agrícola":0.4094818182
+        "sequia_agricola":0.4094818182,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"22.1(29)",
+        "precipitacion_maxima":"22.1(29)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"29.2(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0421818182,
-        "sequia_agrícola":0.0345166921
+        "sequia_agricola":0.0345166921,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"25.7(30)",
+        "precipitacion_maxima":"25.7(30)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"26.3(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2091818182,
-        "sequia_agrícola":0.2006842494
+        "sequia_agricola":0.2006842494,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"29.9(09)",
+        "precipitacion_maxima":"29.9(09)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"31.9(27)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.5281818182,
-        "sequia_agrícola":0.5180714566
+        "sequia_agricola":0.5180714566,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"19.7(06)",
+        "precipitacion_maxima":"19.7(06)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":31.9,
         "temperatura_max_absoluta_mes":"38.5(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":32.1,
         "temperatura_max_absoluta_mes":"37.8(01)",
@@ -1396,13 +1616,17 @@
         "mes":8,
         "year":2024,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"11.2(04)",
+        "precipitacion_maxima":"11.2(04)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"29.8(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"35.3(02)",
+        "precipitacion_maxima":"35.3(02)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"26.3(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5331818182,
-        "sequia_agrícola":0.5277835768
+        "sequia_agricola":0.5277835768,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"13.2(05)",
+        "precipitacion_maxima":"13.2(05)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"20.0(05)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     },
     {
         "id_estacion":349,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"3.1(10)",
+        "precipitacion_maxima":"3.1(10)",
         "temperatura_media_minima_mensual":-0.6,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"14.6(26)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SANT JULIÀ  DE VILATORTA",
+        "provincia":"BARCELONA",
+        "lat":"415534N",
+        "long":"021903E"
     }
 ]

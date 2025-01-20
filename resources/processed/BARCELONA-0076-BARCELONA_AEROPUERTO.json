@@ -2,7 +2,7 @@
     {
         "id_estacion":76,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"87.9(21)",
+        "precipitacion_maxima":"87.9(21)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"19.2(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.89425,
-        "sequia_agrícola":0.8915238642
+        "sequia_agricola":0.8915238642,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.1(17)",
+        "precipitacion_maxima":"1.1(17)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"21.6(10)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"20.4(23)",
+        "precipitacion_maxima":"20.4(23)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"21.1(09)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"78.5(19)",
+        "precipitacion_maxima":"78.5(19)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"25.3(30)",
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":1.79125,
-        "sequia_agrícola":1.78555
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"6.3(09)",
+        "precipitacion_maxima":"6.3(09)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"27.5(19)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"18.2(07)",
+        "precipitacion_maxima":"18.2(07)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"28.9(26)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"51.7(02)",
+        "precipitacion_maxima":"51.7(02)",
         "temperatura_media_minima_mensual":22.1,
         "temperatura_media_maxima_mensual":28.9,
         "temperatura_max_absoluta_mes":"31.6(30)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.26825,
-        "sequia_agrícola":0.2570358727
+        "sequia_agricola":0.2570358727,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"13.5(28)",
+        "precipitacion_maxima":"13.5(28)",
         "temperatura_media_minima_mensual":22.5,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"32.1(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"62.7(06)",
+        "precipitacion_maxima":"62.7(06)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"30.4(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.68625,
-        "sequia_agrícola":0.6787141913
+        "sequia_agricola":0.6787141913,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"74.5(10)",
+        "precipitacion_maxima":"74.5(10)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"25.9(01)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"32.5(27)",
+        "precipitacion_maxima":"32.5(27)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"21.6(14)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"21.0(17)",
+        "precipitacion_maxima":"21.0(17)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"17.8(12)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"14.4(09)",
+        "precipitacion_maxima":"14.4(09)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"21.3(29)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1616666667,
-        "sequia_agrícola":0.1581134493
+        "sequia_agricola":0.1581134493,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"9.1(22)",
+        "precipitacion_maxima":"9.1(22)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"20.9(01)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"8.3(18)",
+        "precipitacion_maxima":"8.3(18)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"18.8(29)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"22.2(30)",
+        "precipitacion_maxima":"22.2(30)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"21.8(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0546666667,
-        "sequia_agrícola":0.0466279207
+        "sequia_agricola":0.0466279207,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"5.1(10)",
+        "precipitacion_maxima":"5.1(10)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"26.2(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"2.4(23)",
+        "precipitacion_maxima":"2.4(23)",
         "temperatura_media_minima_mensual":20.3,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"32.5(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"2.1(14)",
+        "precipitacion_maxima":"2.1(14)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"30.5(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"6.3(30)",
+        "precipitacion_maxima":"6.3(30)",
         "temperatura_media_minima_mensual":22.2,
         "temperatura_media_maxima_mensual":28.8,
         "temperatura_max_absoluta_mes":"32.5(13)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"11.8(20)",
+        "precipitacion_maxima":"11.8(20)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"29.6(08)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0966666667,
-        "sequia_agrícola":0.0865107618
+        "sequia_agricola":0.0865107618,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"20.7(03)",
+        "precipitacion_maxima":"20.7(03)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"26.7(03)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1946666667,
-        "sequia_agrícola":0.1877608671
+        "sequia_agricola":0.1877608671,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"50.6(24)",
+        "precipitacion_maxima":"50.6(24)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"25.0(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.9246666667,
-        "sequia_agrícola":0.9219666667
+        "sequia_agricola":0.9219666667,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.5(01)",
+        "precipitacion_maxima":"0.5(01)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"22.2(27)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"13.9(04)",
+        "precipitacion_maxima":"13.9(04)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"18.5(04)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.4(12)",
+        "precipitacion_maxima":"4.4(12)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"20.8(21)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"19.7(11)",
+        "precipitacion_maxima":"19.7(11)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"20.3(27)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3475,
-        "sequia_agrícola":0.3428
+        "sequia_agricola":0.3428,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"12.7(21)",
+        "precipitacion_maxima":"12.7(21)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"24.2(24)",
+        "precipitacion_maxima":"24.2(24)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"29.3(28)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"3.8(21)",
+        "precipitacion_maxima":"3.8(21)",
         "temperatura_media_minima_mensual":21.3,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"32.9(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"2.1(05)",
+        "precipitacion_maxima":"2.1(05)",
         "temperatura_media_minima_mensual":23.4,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"33.3(15)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"45.9(17)",
+        "precipitacion_maxima":"45.9(17)",
         "temperatura_media_minima_mensual":23.1,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"34.6(14)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.5465,
-        "sequia_agrícola":0.5367156043
+        "sequia_agricola":0.5367156043,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"13.7(23)",
+        "precipitacion_maxima":"13.7(23)",
         "temperatura_media_minima_mensual":20.2,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"32.8(13)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"35.2(07)",
+        "precipitacion_maxima":"35.2(07)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"27.0(24)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0825,
-        "sequia_agrícola":0.0749874624
+        "sequia_agricola":0.0749874624,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"23.0(09)",
+        "precipitacion_maxima":"23.0(09)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"24.9(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0165,
-        "sequia_agrícola":0.0112029238
+        "sequia_agricola":0.0112029238,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"13.8(08)",
+        "precipitacion_maxima":"13.8(08)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"21.4(23)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"0.8(17)",
+        "precipitacion_maxima":"0.8(17)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"17.6(03)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"23.3(26)",
+        "precipitacion_maxima":"23.3(26)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"20.9(04)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.21225,
-        "sequia_agrícola":0.20855
+        "sequia_agricola":0.20855,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"1.4(09)",
+        "precipitacion_maxima":"1.4(09)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"26.6(11)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"3.5(29)",
+        "precipitacion_maxima":"3.5(29)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"23.6(01)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"8.8(25)",
+        "precipitacion_maxima":"8.8(25)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"25.3(31)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.00025,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"5.8(29)",
+        "precipitacion_maxima":"5.8(29)",
         "temperatura_media_minima_mensual":20.1,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"30.3(22)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.9(27)",
+        "precipitacion_maxima":"0.9(27)",
         "temperatura_media_minima_mensual":23.5,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"32.5(25)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"19.7(27)",
+        "precipitacion_maxima":"19.7(27)",
         "temperatura_media_minima_mensual":22.8,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"35.1(23)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.40425,
-        "sequia_agrícola":0.3940282229
+        "sequia_agricola":0.3940282229,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"26.4(15)",
+        "precipitacion_maxima":"26.4(15)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"30.8(04)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.15925,
-        "sequia_agrícola":0.1499185391
+        "sequia_agricola":0.1499185391,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"53.6(15)",
+        "precipitacion_maxima":"53.6(15)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"27.3(04)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.62825,
-        "sequia_agrícola":0.6233207292
+        "sequia_agricola":0.6233207292,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.6(02)",
+        "precipitacion_maxima":"0.6(02)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"23.3(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"1.1(07)",
+        "precipitacion_maxima":"1.1(07)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"11.8(05)",
+        "precipitacion_maxima":"11.8(05)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"21.0(26)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"5.8(09)",
+        "precipitacion_maxima":"5.8(09)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"20.6(12)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"22.8(25)",
+        "precipitacion_maxima":"22.8(25)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"23.1(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"68.4(29)",
+        "precipitacion_maxima":"68.4(29)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"25.4(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3179166667,
-        "sequia_agrícola":0.3113638113
+        "sequia_agricola":0.3113638113,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"12.8(14)",
+        "precipitacion_maxima":"12.8(14)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"24.5(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"24.5(11)",
+        "precipitacion_maxima":"24.5(11)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"29.0(28)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1009166667,
-        "sequia_agrícola":0.0898750877
+        "sequia_agricola":0.0898750877,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"14.1(01)",
+        "precipitacion_maxima":"14.1(01)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"34.5(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"9.1(02)",
+        "precipitacion_maxima":"9.1(02)",
         "temperatura_media_minima_mensual":23.2,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"32.3(02)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"42.0(08)",
+        "precipitacion_maxima":"42.0(08)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"29.4(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3779166667,
-        "sequia_agrícola":0.3697397645
+        "sequia_agricola":0.3697397645,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"33.9(25)",
+        "precipitacion_maxima":"33.9(25)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"26.6(17)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5429166667,
-        "sequia_agrícola":0.5372768486
+        "sequia_agricola":0.5372768486,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"144.2(04)",
+        "precipitacion_maxima":"144.2(04)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"23.1(05)",
@@ -1471,13 +1703,17 @@
         "mes":11,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.1369166667,
-        "sequia_agrícola":1.1342166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     },
     {
         "id_estacion":76,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"30.3(12)",
+        "precipitacion_maxima":"30.3(12)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"21.4(02)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BARCELONA AEROPUERTO",
+        "provincia":"BARCELONA",
+        "lat":"411734N",
+        "long":"020412E"
     }
 ]

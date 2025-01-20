@@ -2,7 +2,7 @@
     {
         "id_estacion":"3100B",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"2.8(24)",
+        "precipitacion_maxima":"2.8(24)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"16.4(08)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.3(08)",
+        "precipitacion_maxima":"0.3(08)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"22.4(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"24.8(31)",
+        "precipitacion_maxima":"24.8(31)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"26.8(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4485,
-        "sequia_agrícola":0.4438
+        "sequia_agricola":0.4438,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"11.1(09)",
+        "precipitacion_maxima":"11.1(09)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"23.5(25)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2335,
-        "sequia_agrícola":0.2268510646
+        "sequia_agricola":0.2268510646,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"12.0(13)",
+        "precipitacion_maxima":"12.0(13)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"33.9(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1065,
-        "sequia_agrícola":0.097463422
+        "sequia_agricola":0.097463422,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"8.8(12)",
+        "precipitacion_maxima":"8.8(12)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"38.4(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"1.8(21)",
+        "precipitacion_maxima":"1.8(21)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":36.8,
         "temperatura_max_absoluta_mes":"41.3(27)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"21.2(11)",
+        "precipitacion_maxima":"21.2(11)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":33.9,
         "temperatura_max_absoluta_mes":"40.6(07)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"16.3(18)",
+        "precipitacion_maxima":"16.3(18)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"35.0(05)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"13.6(02)",
+        "precipitacion_maxima":"13.6(02)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"28.5(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0525,
-        "sequia_agrícola":0.0459748126
+        "sequia_agricola":0.0459748126,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"10.3(06)",
+        "precipitacion_maxima":"10.3(06)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"22.9(01)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1525,
-        "sequia_agrícola":0.14893118
+        "sequia_agricola":0.14893118,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"13.3(07)",
+        "precipitacion_maxima":"13.3(07)",
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"16.3(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0565,
-        "sequia_agrícola":0.0543771866
+        "sequia_agricola":0.0543771866,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"10.1(07)",
+        "precipitacion_maxima":"10.1(07)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"20.7(19)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"1.0(19)",
+        "precipitacion_maxima":"1.0(19)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"25.0(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"17.6(10)",
+        "precipitacion_maxima":"17.6(10)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4333636364,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"11.9(31)",
+        "precipitacion_maxima":"11.9(31)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0083636364,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"19.1(16)",
+        "precipitacion_maxima":"19.1(16)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"35.5(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"2.0(25)",
+        "precipitacion_maxima":"2.0(25)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":34.2,
         "temperatura_max_absoluta_mes":"41.3(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"26.7(31)",
+        "precipitacion_maxima":"26.7(31)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":35.5,
         "temperatura_max_absoluta_mes":"42.8(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"16.8(14)",
+        "precipitacion_maxima":"16.8(14)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0893636364,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"28.4(29)",
+        "precipitacion_maxima":"28.4(29)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4943636364,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"9.2(22)",
+        "precipitacion_maxima":"9.2(22)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"19.9(08)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"15.1(27)",
+        "precipitacion_maxima":"15.1(27)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"19.0(11)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.8(05)",
+        "precipitacion_maxima":"2.8(05)",
         "temperatura_media_minima_mensual":-2.5,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"18.3(29)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.3(26)",
+        "precipitacion_maxima":"4.3(26)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"22.2(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"21.6(03)",
+        "precipitacion_maxima":"21.6(03)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"19.1(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.632,
-        "sequia_agrícola":0.6271419426
+        "sequia_agricola":0.6271419426,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"17.2(22)",
+        "precipitacion_maxima":"17.2(22)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"26.7(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.411,
-        "sequia_agrícola":0.4046309936
+        "sequia_agricola":0.4046309936,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"1.3(02)",
+        "precipitacion_maxima":"1.3(02)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"36.7(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.1(16)",
+        "precipitacion_maxima":"0.1(16)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"41.1(18)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.8(30)",
+        "precipitacion_maxima":"0.8(30)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":38.2,
         "temperatura_max_absoluta_mes":"42.3(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"3.0(02)",
+        "precipitacion_maxima":"3.0(02)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":36.1,
         "temperatura_max_absoluta_mes":"40.5(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"37.3(11)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"7.4(20)",
+        "precipitacion_maxima":"7.4(20)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"31.5(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"4.6(09)",
+        "precipitacion_maxima":"4.6(09)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"24.0(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.006,
-        "sequia_agrícola":0.0012834766
+        "sequia_agricola":0.0012834766,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"26.2(12)",
+        "precipitacion_maxima":"26.2(12)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"18.7(26)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.771,
-        "sequia_agrícola":0.7693
+        "sequia_agricola":0.7693,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"8.6(08)",
+        "precipitacion_maxima":"8.6(08)",
         "temperatura_media_minima_mensual":-0.5,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"17.7(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":-1.7,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"20.9(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"3.9(05)",
+        "precipitacion_maxima":"3.9(05)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"28.1(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"1.8(21)",
+        "precipitacion_maxima":"1.8(21)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"22.5(25)",
+        "precipitacion_maxima":"22.5(25)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"32.8(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2189090909,
-        "sequia_agrícola":0.2107409939
+        "sequia_agricola":0.2107409939,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"14.6(21)",
+        "precipitacion_maxima":"14.6(21)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"38.2(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2069090909,
-        "sequia_agrícola":0.1960189773
+        "sequia_agricola":0.1960189773,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":36.1,
         "temperatura_max_absoluta_mes":"41.7(17)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.3(26)",
+        "precipitacion_maxima":"0.3(26)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":36.3,
         "temperatura_max_absoluta_mes":"41.5(21)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":27.6,
         "temperatura_max_absoluta_mes":"34.0(01)",
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"59.6(19)",
+        "precipitacion_maxima":"59.6(19)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":24.7,
         "temperatura_max_absoluta_mes":"34.4(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.9819090909,
-        "sequia_agrícola":0.9772090909
+        "sequia_agricola":0.9772090909,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"48.2(30)",
+        "precipitacion_maxima":"48.2(30)",
         "temperatura_media_minima_mensual":5.9,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"20.8(13)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3149090909,
-        "sequia_agrícola":0.3118409082
+        "sequia_agricola":0.3118409082,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"10.7(07)",
+        "precipitacion_maxima":"10.7(07)",
         "temperatura_media_minima_mensual":0.1,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"16.7(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"14.6(18)",
+        "precipitacion_maxima":"14.6(18)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"20.0(28)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.273,
-        "sequia_agrícola":0.2698235047
+        "sequia_agricola":0.2698235047,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"12.7(08)",
+        "precipitacion_maxima":"12.7(08)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"20.5(19)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.003,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"24.9(28)",
+        "precipitacion_maxima":"24.9(28)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"26.0(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.978,
-        "sequia_agrícola":0.9733
+        "sequia_agricola":0.9733,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"4.0(26)",
+        "precipitacion_maxima":"4.0(26)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"30.1(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.7(01)",
+        "precipitacion_maxima":"4.7(01)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"37.4(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":32.2,
         "temperatura_max_absoluta_mes":"38.2(06)",
@@ -1346,13 +1558,17 @@
         "mes":6,
         "year":2024,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"1.8(29)",
+        "precipitacion_maxima":"1.8(29)",
         "temperatura_media_minima_mensual":16.6,
         "temperatura_media_maxima_mensual":37.5,
         "temperatura_max_absoluta_mes":"42.3(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"1.6(30)",
+        "precipitacion_maxima":"1.6(30)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":37.6,
         "temperatura_max_absoluta_mes":"41.4(09)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"1.1(01)",
+        "precipitacion_maxima":"1.1(01)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":29.0,
         "temperatura_max_absoluta_mes":"34.1(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-10-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"29.8(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"22.2(06)",
@@ -1471,13 +1703,17 @@
         "mes":11,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     },
     {
         "id_estacion":"3100B",
         "fecha":"2024-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1496,7 +1732,11 @@
         "mes":12,
         "year":2024,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARANJUEZ",
+        "provincia":"MADRID",
+        "lat":"400402N",
+        "long":"033246W"
     }
 ]

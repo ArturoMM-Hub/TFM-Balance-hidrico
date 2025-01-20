@@ -2,7 +2,7 @@
     {
         "id_estacion":"3504X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"9.0(17)",
+        "precipitacion_maxima":"9.0(17)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"13.8(08)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"1.0(08)",
+        "precipitacion_maxima":"1.0(08)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"20.2(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"36.2(16)",
+        "precipitacion_maxima":"36.2(16)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"22.4(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4008333333,
-        "sequia_agrícola":0.3958559431
+        "sequia_agricola":0.3958559431,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"51.4(16)",
+        "precipitacion_maxima":"51.4(16)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"20.7(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.7588333333,
-        "sequia_agrícola":0.7528958509
+        "sequia_agricola":0.7528958509,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"14.6(13)",
+        "precipitacion_maxima":"14.6(13)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"29.4(30)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"1.2(12)",
+        "precipitacion_maxima":"1.2(12)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"34.4(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"9.4(21)",
+        "precipitacion_maxima":"9.4(21)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"36.2(29)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.8(11)",
+        "precipitacion_maxima":"0.8(11)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"36.0(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"23.4(18)",
+        "precipitacion_maxima":"23.4(18)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"32.9(06)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"172.4(20)",
+        "precipitacion_maxima":"172.4(20)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"26.2(09)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.8508333333,
-        "sequia_agrícola":1.8461333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"42.0(06)",
+        "precipitacion_maxima":"42.0(06)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"22.4(19)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.8768333333,
-        "sequia_agrícola":0.8739653833
+        "sequia_agricola":0.8739653833,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"22.4(11)",
+        "precipitacion_maxima":"22.4(11)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":9.5,
         "temperatura_max_absoluta_mes":"14.9(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3108333333,
-        "sequia_agrícola":0.3090762313
+        "sequia_agricola":0.3090762313,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"14.0(25)",
+        "precipitacion_maxima":"14.0(25)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"17.2(27)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1921666667,
-        "sequia_agrícola":0.1892539081
+        "sequia_agricola":0.1892539081,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"52.0(04)",
+        "precipitacion_maxima":"52.0(04)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":13.4,
         "temperatura_max_absoluta_mes":"17.6(27)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.5261666667,
-        "sequia_agrícola":1.5224666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"10.0(07)",
+        "precipitacion_maxima":"10.0(07)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"24.4(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"16.8(15)",
+        "precipitacion_maxima":"16.8(15)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"21.8(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3861666667,
-        "sequia_agrícola":0.3797891913
+        "sequia_agricola":0.3797891913,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"14.2(10)",
+        "precipitacion_maxima":"14.2(10)",
         "temperatura_media_minima_mensual":8.8,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"29.5(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"20.6(18)",
+        "precipitacion_maxima":"20.6(18)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"31.9(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.6(06)",
+        "precipitacion_maxima":"0.6(06)",
         "temperatura_media_minima_mensual":15.3,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"36.3(17)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.4(31)",
+        "precipitacion_maxima":"0.4(31)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":31.7,
         "temperatura_max_absoluta_mes":"38.8(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"49.8(23)",
+        "precipitacion_maxima":"49.8(23)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"31.8(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3441666667,
-        "sequia_agrícola":0.3362309917
+        "sequia_agricola":0.3362309917,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"52.4(29)",
+        "precipitacion_maxima":"52.4(29)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"25.4(08)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5721666667,
-        "sequia_agrícola":0.5666944186
+        "sequia_agricola":0.5666944186,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"7.4(22)",
+        "precipitacion_maxima":"7.4(22)",
         "temperatura_media_minima_mensual":3.4,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"20.1(09)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"11.2(21)",
+        "precipitacion_maxima":"11.2(21)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":12.9,
         "temperatura_max_absoluta_mes":"17.8(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"12.0(04)",
+        "precipitacion_maxima":"12.0(04)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"17.6(31)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.6(13)",
+        "precipitacion_maxima":"2.6(13)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"19.5(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"31.6(20)",
+        "precipitacion_maxima":"31.6(20)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"20.7(15)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7873333333,
-        "sequia_agrícola":0.7824187442
+        "sequia_agricola":0.7824187442,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"42.0(22)",
+        "precipitacion_maxima":"42.0(22)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"25.1(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1593333333,
-        "sequia_agrícola":0.1530195334
+        "sequia_agricola":0.1530195334,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.4(02)",
+        "precipitacion_maxima":"0.4(02)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":24.7,
         "temperatura_max_absoluta_mes":"31.0(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"7.4(01)",
+        "precipitacion_maxima":"7.4(01)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"36.3(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":35.0,
         "temperatura_max_absoluta_mes":"39.8(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"21.4(26)",
+        "precipitacion_maxima":"21.4(26)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"38.7(01)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"26.8(13)",
+        "precipitacion_maxima":"26.8(13)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"32.6(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"76.4(20)",
+        "precipitacion_maxima":"76.4(20)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"28.9(04)",
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.6233333333,
-        "sequia_agrícola":1.6182692531
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"26.0(08)",
+        "precipitacion_maxima":"26.0(08)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"19.1(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4353333333,
-        "sequia_agrícola":0.4321996003
+        "sequia_agricola":0.4321996003,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"98.8(12)",
+        "precipitacion_maxima":"98.8(12)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"16.2(12)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":2.1833333333,
-        "sequia_agrícola":2.1816333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"31.6(01)",
+        "precipitacion_maxima":"31.6(01)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"15.5(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3181818182,
-        "sequia_agrícola":0.3154818182
+        "sequia_agricola":0.3154818182,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"2.8(18)",
+        "precipitacion_maxima":"2.8(18)",
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":12.4,
         "temperatura_max_absoluta_mes":"18.2(04)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"53.2(08)",
+        "precipitacion_maxima":"53.2(08)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"23.3(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"19.2(21)",
+        "precipitacion_maxima":"19.2(21)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"29.5(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"19.6(26)",
+        "precipitacion_maxima":"19.6(26)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"27.5(08)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2641818182,
-        "sequia_agrícola":0.2566198503
+        "sequia_agricola":0.2566198503,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"26.2(08)",
+        "precipitacion_maxima":"26.2(08)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"34.9(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"35.7(10)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"38.8(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"33.6(16)",
+        "precipitacion_maxima":"33.6(16)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"30.8(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2341818182,
-        "sequia_agrícola":0.2262675899
+        "sequia_agricola":0.2262675899,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"58.4(19)",
+        "precipitacion_maxima":"58.4(19)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"30.8(06)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.5861818182,
-        "sequia_agrícola":1.5813145572
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"45.4(30)",
+        "precipitacion_maxima":"45.4(30)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"19.5(17)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5081818182,
-        "sequia_agrícola":0.5051756399
+        "sequia_agricola":0.5051756399,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1196,13 +1384,17 @@
         "mes":12,
         "year":2023,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"72.6(16)",
+        "precipitacion_maxima":"72.6(16)",
         "temperatura_media_minima_mensual":4.9,
         "temperatura_media_maxima_mensual":12.9,
         "temperatura_max_absoluta_mes":"20.1(26)",
@@ -1221,13 +1413,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0624166667,
-        "sequia_agrícola":1.0595881317
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"31.6(08)",
+        "precipitacion_maxima":"31.6(08)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"20.7(15)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"56.8(28)",
+        "precipitacion_maxima":"56.8(28)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"24.6(22)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.1924166667,
-        "sequia_agrícola":2.1877166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"16.2(08)",
+        "precipitacion_maxima":"16.2(08)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"25.8(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"16.0(01)",
+        "precipitacion_maxima":"16.0(01)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"31.9(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"22.4(18)",
+        "precipitacion_maxima":"22.4(18)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"31.7(24)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"1.2(15)",
+        "precipitacion_maxima":"1.2(15)",
         "temperatura_media_minima_mensual":17.0,
         "temperatura_media_maxima_mensual":31.8,
         "temperatura_max_absoluta_mes":"37.6(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.9,
         "temperatura_media_maxima_mensual":33.5,
         "temperatura_max_absoluta_mes":"37.6(09)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"9.8(24)",
+        "precipitacion_maxima":"9.8(24)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"30.4(15)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"26.5(11)",
+        "precipitacion_maxima":"26.5(11)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"27.0(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0194166667,
-        "sequia_agrícola":1.0142693319
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"20.0(13)",
+        "precipitacion_maxima":"20.0(13)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"20.6(17)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     },
     {
         "id_estacion":"3504X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"5.6(18)",
+        "precipitacion_maxima":"5.6(18)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"19.4(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERVÁS",
+        "provincia":"CACERES",
+        "lat":"401554N",
+        "long":"055140W"
     }
 ]

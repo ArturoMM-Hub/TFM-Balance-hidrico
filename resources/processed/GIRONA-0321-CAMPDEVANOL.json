@@ -2,7 +2,7 @@
     {
         "id_estacion":321,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"139.0(21)",
+        "precipitacion_maxima":"139.0(21)",
         "temperatura_media_minima_mensual":-1.4,
         "temperatura_media_maxima_mensual":11.3,
         "temperatura_max_absoluta_mes":"17.6(31)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0114166667,
-        "sequia_agrícola":1.0087166667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"21.8(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"18.0(01)",
+        "precipitacion_maxima":"18.0(01)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"24.6(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"16.2(21)",
+        "precipitacion_maxima":"16.2(21)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"23.1(18)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"60.3(10)",
+        "precipitacion_maxima":"60.3(10)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"29.9(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0744166667,
-        "sequia_agrícola":0.066663487
+        "sequia_agricola":0.066663487,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"61.4(07)",
+        "precipitacion_maxima":"61.4(07)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"29.5(25)",
@@ -146,13 +166,17 @@
         "mes":6,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.5834166667,
-        "sequia_agrícola":1.5743172459
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"33.7(13)",
+        "precipitacion_maxima":"33.7(13)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"36.0(31)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"161.2(28)",
+        "precipitacion_maxima":"161.2(28)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":30.0,
         "temperatura_max_absoluta_mes":"35.1(01)",
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":1.2984166667,
-        "sequia_agrícola":1.2890685537
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"32.6(21)",
+        "precipitacion_maxima":"32.6(21)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"28.4(14)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"21.8(10)",
+        "precipitacion_maxima":"21.8(10)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"23.1(09)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"36.1(28)",
+        "precipitacion_maxima":"36.1(28)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"21.4(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2454166667,
-        "sequia_agrícola":0.2422932962
+        "sequia_agricola":0.2422932962,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"4.2(18)",
+        "precipitacion_maxima":"4.2(18)",
         "temperatura_media_minima_mensual":-0.9,
         "temperatura_media_maxima_mensual":9.7,
         "temperatura_max_absoluta_mes":"16.7(23)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"13.3(22)",
+        "precipitacion_maxima":"13.3(22)",
         "temperatura_media_minima_mensual":-2.7,
         "temperatura_media_maxima_mensual":8.6,
         "temperatura_max_absoluta_mes":"17.8(27)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"14.9(22)",
+        "precipitacion_maxima":"14.9(22)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"18.6(18)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"18.8(05)",
+        "precipitacion_maxima":"18.8(05)",
         "temperatura_media_minima_mensual":1.3,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"22.4(30)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"36.5(28)",
+        "precipitacion_maxima":"36.5(28)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"23.0(03)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6008333333,
-        "sequia_agrícola":0.5951333333
+        "sequia_agricola":0.5951333333,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"19.2(30)",
+        "precipitacion_maxima":"19.2(30)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"26.3(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"34.9(02)",
+        "precipitacion_maxima":"34.9(02)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"31.4(14)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.5858333333,
-        "sequia_agrícola":0.5759278784
+        "sequia_agricola":0.5759278784,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"15.5(31)",
+        "precipitacion_maxima":"15.5(31)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"36.3(22)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"36.9(31)",
+        "precipitacion_maxima":"36.9(31)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"39.2(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0738333333,
-        "sequia_agrícola":0.0617798479
+        "sequia_agricola":0.0617798479,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"50.6(03)",
+        "precipitacion_maxima":"50.6(03)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"29.8(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.6698333333,
-        "sequia_agrícola":0.6621982656
+        "sequia_agricola":0.6621982656,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"24.0(03)",
+        "precipitacion_maxima":"24.0(03)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"22.5(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"29.4(23)",
+        "precipitacion_maxima":"29.4(23)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":12.6,
         "temperatura_max_absoluta_mes":"18.0(08)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1188333333,
-        "sequia_agrícola":0.115919852
+        "sequia_agricola":0.115919852,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"2.3(09)",
+        "precipitacion_maxima":"2.3(09)",
         "temperatura_media_minima_mensual":-1.1,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"17.8(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"1.5(10)",
+        "precipitacion_maxima":"1.5(10)",
         "temperatura_media_minima_mensual":-4.3,
         "temperatura_media_maxima_mensual":12.6,
         "temperatura_max_absoluta_mes":"18.5(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"7.3(19)",
+        "precipitacion_maxima":"7.3(19)",
         "temperatura_media_minima_mensual":0.0,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"21.8(03)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"24.4(11)",
+        "precipitacion_maxima":"24.4(11)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"18.0(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5026,
-        "sequia_agrícola":0.4979
+        "sequia_agricola":0.4979,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"21.5(30)",
+        "precipitacion_maxima":"21.5(30)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"26.5(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"24.1(24)",
+        "precipitacion_maxima":"24.1(24)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"34.4(22)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0246,
-        "sequia_agrícola":0.0146281622
+        "sequia_agricola":0.0146281622,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"20.2(22)",
+        "precipitacion_maxima":"20.2(22)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"37.7(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -771,13 +891,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"19.9(07)",
+        "precipitacion_maxima":"19.9(07)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"35.6(03)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.9496,
-        "sequia_agrícola":0.9397386372
+        "sequia_agricola":0.9397386372,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"5.5(20)",
+        "precipitacion_maxima":"5.5(20)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"26.6(19)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"8.7(21)",
+        "precipitacion_maxima":"8.7(21)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"20.6(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"8.7(14)",
+        "precipitacion_maxima":"8.7(14)",
         "temperatura_media_minima_mensual":0.6,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"19.1(25)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"3.5(19)",
+        "precipitacion_maxima":"3.5(19)",
         "temperatura_media_minima_mensual":-2.6,
         "temperatura_media_maxima_mensual":10.1,
         "temperatura_max_absoluta_mes":"17.2(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"30.0(07)",
+        "precipitacion_maxima":"30.0(07)",
         "temperatura_media_minima_mensual":-1.9,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"20.5(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"10.8(18)",
+        "precipitacion_maxima":"10.8(18)",
         "temperatura_media_minima_mensual":2.4,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"25.0(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"22.4(29)",
+        "precipitacion_maxima":"22.4(29)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"27.2(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"27.8(25)",
+        "precipitacion_maxima":"27.8(25)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"27.9(06)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8534166667,
-        "sequia_agrícola":0.8467166667
+        "sequia_agricola":0.8467166667,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"27.7(13)",
+        "precipitacion_maxima":"27.7(13)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"32.8(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.5714166667,
-        "sequia_agrícola":0.5610238476
+        "sequia_agricola":0.5610238476,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"23.1(27)",
+        "precipitacion_maxima":"23.1(27)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":31.6,
         "temperatura_max_absoluta_mes":"40.4(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"59.2(26)",
+        "precipitacion_maxima":"59.2(26)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":32.1,
         "temperatura_max_absoluta_mes":"39.2(23)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.5304166667,
-        "sequia_agrícola":0.5191237947
+        "sequia_agricola":0.5191237947,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"25.0(15)",
+        "precipitacion_maxima":"25.0(15)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"30.9(05)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"25.2(19)",
+        "precipitacion_maxima":"25.2(19)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"30.2(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"10.9(02)",
+        "precipitacion_maxima":"10.9(02)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"21.6(19)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"17.0(01)",
+        "precipitacion_maxima":"17.0(01)",
         "temperatura_media_minima_mensual":-1.6,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"18.8(22)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"8.0(19)",
+        "precipitacion_maxima":"8.0(19)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"21.5(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"3.9(22)",
+        "precipitacion_maxima":"3.9(22)",
         "temperatura_media_minima_mensual":1.1,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"21.1(04)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"38.5(09)",
+        "precipitacion_maxima":"38.5(09)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"24.6(21)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6104545455,
-        "sequia_agrícola":0.6057545455
+        "sequia_agricola":0.6057545455,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"44.3(29)",
+        "precipitacion_maxima":"44.3(29)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"29.0(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.1364545455,
-        "sequia_agrícola":0.1292488969
+        "sequia_agricola":0.1292488969,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"48.5(30)",
+        "precipitacion_maxima":"48.5(30)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"26.0(26)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4874545455,
-        "sequia_agrícola":0.4795756097
+        "sequia_agricola":0.4795756097,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"34.8(10)",
+        "precipitacion_maxima":"34.8(10)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"31.0(27)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.4804545455,
-        "sequia_agrícola":0.4698070336
+        "sequia_agricola":0.4698070336,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"30.2(21)",
+        "precipitacion_maxima":"30.2(21)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":31.2,
         "temperatura_max_absoluta_mes":"38.0(30)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"37.2(23)",
+        "precipitacion_maxima":"37.2(23)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":31.1,
         "temperatura_max_absoluta_mes":"36.7(01)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0924545455,
-        "sequia_agrícola":0.0793108441
+        "sequia_agricola":0.0793108441,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"34.3(04)",
+        "precipitacion_maxima":"34.3(04)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"27.7(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0454545455,
-        "sequia_agrícola":0.0357477707
+        "sequia_agricola":0.0357477707,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"29.0(25)",
+        "precipitacion_maxima":"29.0(25)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"24.2(13)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4214545455,
-        "sequia_agrícola":0.4154848471
+        "sequia_agricola":0.4154848471,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"6.0(06)",
+        "precipitacion_maxima":"6.0(06)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"19.5(03)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     },
     {
         "id_estacion":321,
         "fecha":"2024-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1496,7 +1732,11 @@
         "mes":12,
         "year":2024,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"CAMPDEVANOL",
+        "provincia":"GIRONA",
+        "lat":"421322N",
+        "long":"021002E"
     }
 ]

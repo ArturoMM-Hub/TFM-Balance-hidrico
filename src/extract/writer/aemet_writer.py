@@ -38,7 +38,7 @@ class AemetWriter:
     
     def get_file_name(year, provincia, id_estacion_meteorologica, nombre_estacion_meteorologica):
         nombre_archivo_salida = provincia + "-" + str(id_estacion_meteorologica) + "-" + str(nombre_estacion_meteorologica) + "-" + str(year) + ".json" # Nombre del archivo
-        nombre_archivo_salida = nombre_archivo_salida.replace(",", "-").replace("/", "-").replace(" ", "_")
+        nombre_archivo_salida = nombre_archivo_salida.replace(",", "_").replace("/", "_").replace(" ", "_")
         return nombre_archivo_salida
     
     def guardarEstaciones(datos):

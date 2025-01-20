@@ -2,7 +2,7 @@
     {
         "id_estacion":"C328W",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"7.8(21)",
+        "precipitacion_maxima":"7.8(21)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"24.9(30)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.2(27)",
+        "precipitacion_maxima":"0.2(27)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"29.5(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"7.4(23)",
+        "precipitacion_maxima":"7.4(23)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"21.3(27)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0235,
-        "sequia_agrícola":0.0160329785
+        "sequia_agricola":0.0160329785,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"4.2(23)",
+        "precipitacion_maxima":"4.2(23)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"25.6(16)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"2.4(09)",
+        "precipitacion_maxima":"2.4(09)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"24.2(11)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"2.8(14)",
+        "precipitacion_maxima":"2.8(14)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"27.6(15)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.6(01)",
+        "precipitacion_maxima":"0.6(01)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"30.1(19)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"32.2(27)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"1.4(28)",
+        "precipitacion_maxima":"1.4(28)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"30.4(16)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"37.0(21)",
+        "precipitacion_maxima":"37.0(21)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":23.9,
         "temperatura_max_absoluta_mes":"31.2(31)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3595,
-        "sequia_agrícola":0.3536689804
+        "sequia_agricola":0.3536689804,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"39.0(28)",
+        "precipitacion_maxima":"39.0(28)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"30.0(17)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4955,
-        "sequia_agrícola":0.4923137889
+        "sequia_agricola":0.4923137889,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"35.8(26)",
+        "precipitacion_maxima":"35.8(26)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"21.4(25)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.5835,
-        "sequia_agrícola":0.5818
+        "sequia_agricola":0.5818,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"20.2(07)",
+        "precipitacion_maxima":"20.2(07)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":18.6,
         "temperatura_max_absoluta_mes":"22.1(06)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4421666667,
-        "sequia_agrícola":0.4391222579
+        "sequia_agricola":0.4391222579,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"42.0(04)",
+        "precipitacion_maxima":"42.0(04)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"25.6(15)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.5701666667,
-        "sequia_agrícola":0.5664666667
+        "sequia_agricola":0.5664666667,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"4.0(08)",
+        "precipitacion_maxima":"4.0(08)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"28.9(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"7.6(26)",
+        "precipitacion_maxima":"7.6(26)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"26.1(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"25.6(09)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.2(17)",
+        "precipitacion_maxima":"0.2(17)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":22.6,
         "temperatura_max_absoluta_mes":"27.5(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"1.0(07)",
+        "precipitacion_maxima":"1.0(07)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"25.0(23)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"5.2(05)",
+        "precipitacion_maxima":"5.2(05)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"30.3(17)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.3,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"31.3(12)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"0.2(04)",
+        "precipitacion_maxima":"0.2(04)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"28.3(19)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"36.6(26)",
+        "precipitacion_maxima":"36.6(26)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"25.4(24)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2501666667,
-        "sequia_agrícola":0.2460330304
+        "sequia_agricola":0.2460330304,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"21.8(21)",
+        "precipitacion_maxima":"21.8(21)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"28.4(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0881666667,
-        "sequia_agrícola":0.0841185386
+        "sequia_agricola":0.0841185386,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"68.0(17)",
+        "precipitacion_maxima":"68.0(17)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"26.5(02)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.7445,
-        "sequia_agrícola":0.7418
+        "sequia_agricola":0.7418,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"14.8(21)",
+        "precipitacion_maxima":"14.8(21)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"27.1(10)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"14.6(26)",
+        "precipitacion_maxima":"14.6(26)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"22.8(26)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0825,
-        "sequia_agrícola":0.0761762182
+        "sequia_agricola":0.0761762182,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"18.0(03)",
+        "precipitacion_maxima":"18.0(03)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"26.6(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.4(30)",
+        "precipitacion_maxima":"0.4(30)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"25.8(11)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"2.2(19)",
+        "precipitacion_maxima":"2.2(19)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"25.9(01)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"5.2(01)",
+        "precipitacion_maxima":"5.2(01)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"30.7(24)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"10.2(31)",
+        "precipitacion_maxima":"10.2(31)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"33.4(21)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"35.6(24)",
+        "precipitacion_maxima":"35.6(24)",
         "temperatura_media_minima_mensual":20.4,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"29.3(12)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4565,
-        "sequia_agrícola":0.4487527597
+        "sequia_agricola":0.4487527597,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"1.8(15)",
+        "precipitacion_maxima":"1.8(15)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"27.8(05)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"3.2(05)",
+        "precipitacion_maxima":"3.2(05)",
         "temperatura_media_minima_mensual":16.7,
         "temperatura_media_maxima_mensual":23.2,
         "temperatura_max_absoluta_mes":"26.5(15)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     },
     {
         "id_estacion":"C328W",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"37.4(07)",
+        "precipitacion_maxima":"37.4(07)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"26.4(13)",
@@ -897,6 +1037,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.7345,
-        "sequia_agrícola":0.7326515214
+        "sequia_agricola":0.7326515214,
+        "nomb_estacion":"HERMIGUA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280949N",
+        "long":"171139W"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":"C649I",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"4.5(17)",
+        "precipitacion_maxima":"4.5(17)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"25.4(02)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0071666667,
-        "sequia_agrícola":0.0002060903
+        "sequia_agricola":0.0002060903,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.3(19)",
+        "precipitacion_maxima":"4.3(19)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"26.9(08)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"2.9(14)",
+        "precipitacion_maxima":"2.9(14)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"24.8(27)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"2.4(03)",
+        "precipitacion_maxima":"2.4(03)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"30.8(17)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.2(10)",
+        "precipitacion_maxima":"0.2(10)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"32.8(10)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.1(26)",
+        "precipitacion_maxima":"0.1(26)",
         "temperatura_media_minima_mensual":19.6,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"27.7(15)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.4(01)",
+        "precipitacion_maxima":"0.4(01)",
         "temperatura_media_minima_mensual":21.4,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"36.5(24)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.6(31)",
+        "precipitacion_maxima":"0.6(31)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"31.5(22)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"104.0(25)",
+        "precipitacion_maxima":"104.0(25)",
         "temperatura_media_minima_mensual":21.5,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"30.7(17)",
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.3591666667,
-        "sequia_agrícola":1.3524666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.4(04)",
+        "precipitacion_maxima":"0.4(04)",
         "temperatura_media_minima_mensual":20.5,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"29.3(28)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.3(20)",
+        "precipitacion_maxima":"0.3(20)",
         "temperatura_media_minima_mensual":19.7,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"30.2(13)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     },
     {
         "id_estacion":"C649I",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"10.9(07)",
+        "precipitacion_maxima":"10.9(07)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"26.4(13)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRAN CANARIA AEROPUERTO",
+        "provincia":"LAS PALMAS",
+        "lat":"275504N",
+        "long":"152343W"
     }
 ]

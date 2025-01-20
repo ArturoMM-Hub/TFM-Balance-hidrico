@@ -2,7 +2,7 @@
     {
         "id_estacion":"6325O",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"27.0(07)",
+        "precipitacion_maxima":"27.0(07)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"23.5(26)",
@@ -22,12 +22,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5065,
-        "sequia_agrícola":0.5038
+        "sequia_agricola":0.5038,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"1.4(21)",
+        "precipitacion_maxima":"1.4(21)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"24.1(01)",
@@ -47,12 +51,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"43.5(07)",
+        "precipitacion_maxima":"43.5(07)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"25.3(31)",
@@ -72,12 +80,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3715,
-        "sequia_agrícola":0.3660070638
+        "sequia_agricola":0.3660070638,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"7.5(15)",
+        "precipitacion_maxima":"7.5(15)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"26.2(25)",
@@ -97,12 +109,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"17.1(23)",
+        "precipitacion_maxima":"17.1(23)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"32.5(08)",
@@ -122,12 +138,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0865,
-        "sequia_agrícola":0.0764671077
+        "sequia_agricola":0.0764671077,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"4.2(04)",
+        "precipitacion_maxima":"4.2(04)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.9(11)",
@@ -147,12 +167,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":21.9,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"34.3(16)",
@@ -172,12 +196,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":23.8,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"36.5(12)",
@@ -197,12 +225,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.2(14)",
+        "precipitacion_maxima":"0.2(14)",
         "temperatura_media_minima_mensual":21.8,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"38.4(07)",
@@ -222,12 +254,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"14.2(26)",
+        "precipitacion_maxima":"14.2(26)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"29.3(20)",
@@ -247,12 +283,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0965,
-        "sequia_agrícola":0.0883684356
+        "sequia_agricola":0.0883684356,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"4.3(17)",
+        "precipitacion_maxima":"4.3(17)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"25.0(01)",
@@ -272,12 +312,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     },
     {
         "id_estacion":"6325O",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"22.4(12)",
@@ -297,6 +341,10 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CARBONERAS",
+        "provincia":"ALMERIA",
+        "lat":"365849N",
+        "long":"015413W"
     }
 ]

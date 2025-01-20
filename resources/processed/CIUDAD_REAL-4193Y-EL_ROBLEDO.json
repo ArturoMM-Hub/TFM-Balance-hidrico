@@ -11,7 +11,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -25,7 +29,11 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -39,7 +47,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3946666667,
-        "sequia_agrícola":0.3899666667
+        "sequia_agricola":0.3899666667,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -53,7 +65,11 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4786666667,
-        "sequia_agrícola":0.4728045928
+        "sequia_agricola":0.4728045928,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -67,7 +83,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3106666667,
-        "sequia_agrícola":0.3029686549
+        "sequia_agricola":0.3029686549,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -81,7 +101,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -95,7 +119,11 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -109,7 +137,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -123,7 +155,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -137,7 +173,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -151,7 +191,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4126666667,
-        "sequia_agrícola":0.4098998743
+        "sequia_agricola":0.4098998743,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -165,7 +209,11 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0086666667,
-        "sequia_agrícola":0.0066298709
+        "sequia_agricola":0.0066298709,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -179,7 +227,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5143333333,
-        "sequia_agrícola":0.5116333333
+        "sequia_agricola":0.5116333333,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -193,7 +245,11 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -207,7 +263,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -221,7 +281,11 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6843333333,
-        "sequia_agrícola":0.6781105367
+        "sequia_agricola":0.6781105367,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -235,7 +299,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -249,7 +317,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0563333333,
-        "sequia_agrícola":0.0452097158
+        "sequia_agricola":0.0452097158,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -263,7 +335,11 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -277,7 +353,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -291,7 +371,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2023333333,
-        "sequia_agrícola":0.1937563664
+        "sequia_agricola":0.1937563664,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -305,7 +389,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7283333333,
-        "sequia_agrícola":0.7228940614
+        "sequia_agricola":0.7228940614,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -319,7 +407,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -333,7 +425,11 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -347,7 +443,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -361,7 +461,11 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -375,7 +479,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.971,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -389,7 +497,11 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.523,
-        "sequia_agrícola":0.516670408
+        "sequia_agricola":0.516670408,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -403,7 +515,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -417,7 +533,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -431,7 +551,11 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -445,7 +569,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -459,7 +587,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -473,7 +605,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -487,7 +623,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -500,8 +640,12 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.743,
-        "sequia_agrícola":1.7413
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -515,7 +659,11 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -529,7 +677,11 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -543,7 +695,11 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -557,7 +713,11 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -571,7 +731,11 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4455,
-        "sequia_agrícola":0.4383201827
+        "sequia_agricola":0.4383201827,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -585,7 +749,11 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2875,
-        "sequia_agrícola":0.2773870175
+        "sequia_agricola":0.2773870175,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -599,7 +767,11 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -613,7 +785,11 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -627,7 +803,11 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3675,
-        "sequia_agrícola":0.3598538504
+        "sequia_agricola":0.3598538504,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -641,7 +821,11 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6915,
-        "sequia_agrícola":0.6868
+        "sequia_agricola":0.6868,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -655,7 +839,11 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2695,
-        "sequia_agrícola":0.266723252
+        "sequia_agricola":0.266723252,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -669,7 +857,11 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -682,8 +874,12 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0063636364,
-        "sequia_agrícola":1.0036636364
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -697,7 +893,11 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -710,8 +910,12 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4583636364,
-        "sequia_agrícola":1.4536426172
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -725,7 +929,11 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -739,7 +947,11 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -753,7 +965,11 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -766,8 +982,12 @@
         "mes":7,
         "year":2024,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -781,7 +1001,11 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -795,7 +1019,11 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -809,7 +1037,11 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.9743636364,
-        "sequia_agrícola":0.9691934567
+        "sequia_agricola":0.9691934567,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -823,7 +1055,11 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     },
     {
         "id_estacion":"4193Y",
@@ -837,6 +1073,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"EL ROBLEDO",
+        "provincia":"CIUDAD REAL",
+        "lat":"391301N",
+        "long":"041658W"
     }
 ]

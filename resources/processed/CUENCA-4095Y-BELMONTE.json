@@ -2,7 +2,7 @@
     {
         "id_estacion":"4095Y",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"11.8(21)",
+        "precipitacion_maxima":"11.8(21)",
         "temperatura_media_minima_mensual":1.3,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"15.0(16)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.6(08)",
+        "precipitacion_maxima":"0.6(08)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"22.5(22)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"16.4(12)",
+        "precipitacion_maxima":"16.4(12)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"33.6(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.206,
-        "sequia_agrícola":0.1979866522
+        "sequia_agricola":0.1979866522,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"31.4(04)",
+        "precipitacion_maxima":"31.4(04)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":29.6,
         "temperatura_max_absoluta_mes":"37.1(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.154,
-        "sequia_agrícola":0.1431775581
+        "sequia_agricola":0.1431775581,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"16.0(09)",
+        "precipitacion_maxima":"16.0(09)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"5.8(11)",
+        "precipitacion_maxima":"5.8(11)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":34.0,
         "temperatura_max_absoluta_mes":"39.3(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"8.2(24)",
+        "precipitacion_maxima":"8.2(24)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":27.5,
         "temperatura_max_absoluta_mes":"32.6(11)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"6.6(25)",
+        "precipitacion_maxima":"6.6(25)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"30.8(05)",
+        "precipitacion_maxima":"30.8(05)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.404,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"9.8(19)",
+        "precipitacion_maxima":"9.8(19)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.084,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"1.4(19)",
+        "precipitacion_maxima":"1.4(19)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"21.9(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"18.8(10)",
+        "precipitacion_maxima":"18.8(10)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.1(06)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3442857143,
-        "sequia_agrícola":0.3385857143
+        "sequia_agricola":0.3385857143,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"9.2(23)",
+        "precipitacion_maxima":"9.2(23)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"31.0(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"11.8(05)",
+        "precipitacion_maxima":"11.8(05)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"34.5(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0962857143,
-        "sequia_agrícola":0.0843849576
+        "sequia_agricola":0.0843849576,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -471,13 +543,17 @@
         "mes":7,
         "year":2021,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -496,13 +572,17 @@
         "mes":8,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"9.4(14)",
+        "precipitacion_maxima":"9.4(14)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-10-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -546,13 +630,17 @@
         "mes":10,
         "year":2021,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"13.2(22)",
+        "precipitacion_maxima":"13.2(22)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0902857143,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"8.8(26)",
+        "precipitacion_maxima":"8.8(26)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"4.0(04)",
+        "precipitacion_maxima":"4.0(04)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"21.6(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.8(24)",
+        "precipitacion_maxima":"4.8(24)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"17.2(22)",
+        "precipitacion_maxima":"17.2(22)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.257,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"2.2(04)",
+        "precipitacion_maxima":"2.2(04)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -746,13 +862,17 @@
         "mes":6,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -771,13 +891,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"7.2(26)",
+        "precipitacion_maxima":"7.2(26)",
         "temperatura_media_minima_mensual":19.8,
         "temperatura_media_maxima_mensual":34.9,
         "temperatura_max_absoluta_mes":"38.2(01)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"1.0(12)",
+        "precipitacion_maxima":"1.0(12)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":28.5,
         "temperatura_max_absoluta_mes":"35.5(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"53.0(11)",
+        "precipitacion_maxima":"53.0(11)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"30.1(18)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.421,
-        "sequia_agrícola":0.4163
+        "sequia_agricola":0.4163,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"10.6(12)",
+        "precipitacion_maxima":"10.6(12)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"23.4(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.103,
-        "sequia_agrícola":0.0999145201
+        "sequia_agricola":0.0999145201,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2022-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"18.1(26)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"5.8(08)",
+        "precipitacion_maxima":"5.8(08)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"17.8(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"19.8(21)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"2.2(06)",
+        "precipitacion_maxima":"2.2(06)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"27.8(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"2.6(22)",
+        "precipitacion_maxima":"2.6(22)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"32.7(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"24.0(25)",
+        "precipitacion_maxima":"24.0(25)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"29.7(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2776666667,
-        "sequia_agrícola":0.27049505
+        "sequia_agricola":0.27049505,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"12.8(03)",
+        "precipitacion_maxima":"12.8(03)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":28.9,
         "temperatura_max_absoluta_mes":"37.2(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2916666667,
-        "sequia_agrícola":0.2818607153
+        "sequia_agricola":0.2818607153,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.4(03)",
+        "precipitacion_maxima":"0.4(03)",
         "temperatura_media_minima_mensual":20.1,
         "temperatura_media_maxima_mensual":35.6,
         "temperatura_max_absoluta_mes":"40.5(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"1.6(26)",
+        "precipitacion_maxima":"1.6(26)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":35.0,
         "temperatura_max_absoluta_mes":"39.5(09)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"46.8(04)",
+        "precipitacion_maxima":"46.8(04)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":27.4,
         "temperatura_max_absoluta_mes":"32.9(01)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5396666667,
-        "sequia_agrícola":0.5329666667
+        "sequia_agricola":0.5329666667,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"25.8(19)",
+        "precipitacion_maxima":"25.8(19)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"32.4(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2396666667,
-        "sequia_agrícola":0.2341889888
+        "sequia_agricola":0.2341889888,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"8.4(30)",
+        "precipitacion_maxima":"8.4(30)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"21.9(19)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"4.4(01)",
+        "precipitacion_maxima":"4.4(01)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"16.0(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"14.8(04)",
+        "precipitacion_maxima":"14.8(04)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"20.7(24)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3291666667,
-        "sequia_agrícola":0.3262330062
+        "sequia_agricola":0.3262330062,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"11.6(25)",
+        "precipitacion_maxima":"11.6(25)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"20.6(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"16.6(30)",
+        "precipitacion_maxima":"16.6(30)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"26.4(19)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7091666667,
-        "sequia_agrícola":0.7044666667
+        "sequia_agricola":0.7044666667,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"7.4(29)",
+        "precipitacion_maxima":"7.4(29)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"28.0(15)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.0(13)",
+        "precipitacion_maxima":"4.0(13)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"33.9(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"30.0(08)",
+        "precipitacion_maxima":"30.0(08)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"34.4(25)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2291666667,
-        "sequia_agrícola":0.2183669424
+        "sequia_agricola":0.2183669424,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.4(29)",
+        "precipitacion_maxima":"0.4(29)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"39.5(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"13.6(30)",
+        "precipitacion_maxima":"13.6(30)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"38.4(05)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"10.0(19)",
+        "precipitacion_maxima":"10.0(19)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"32.0(02)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"18.6(29)",
+        "precipitacion_maxima":"18.6(29)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"28.0(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4811666667,
-        "sequia_agrícola":0.4756317659
+        "sequia_agricola":0.4756317659,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"5.4(25)",
+        "precipitacion_maxima":"5.4(25)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"21.2(05)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     },
     {
         "id_estacion":"4095Y",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"0.8(19)",
+        "precipitacion_maxima":"0.8(19)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"19.9(01)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BELMONTE",
+        "provincia":"CUENCA",
+        "lat":"393319N",
+        "long":"024220W"
     }
 ]

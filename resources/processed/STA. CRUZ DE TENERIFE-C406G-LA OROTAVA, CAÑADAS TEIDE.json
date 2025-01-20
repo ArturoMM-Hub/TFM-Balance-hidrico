@@ -2,7 +2,7 @@
     {
         "id_estacion":"C406G",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"59.6(17)",
+        "precipitacion_maxima":"59.6(17)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"16.7(01)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5829090909,
-        "sequia_agrícola":0.5802090909
+        "sequia_agricola":0.5802090909,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"21.0(02)",
+        "precipitacion_maxima":"21.0(02)",
         "temperatura_media_minima_mensual":0.5,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"15.6(09)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0849090909,
-        "sequia_agrícola":0.0805328925
+        "sequia_agricola":0.0805328925,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"28.0(26)",
+        "precipitacion_maxima":"28.0(26)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"19.6(12)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1369090909,
-        "sequia_agrícola":0.1313450029
+        "sequia_agricola":0.1313450029,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"33.8(03)",
+        "precipitacion_maxima":"33.8(03)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"21.6(27)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.2(12)",
+        "precipitacion_maxima":"0.2(12)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"23.0(12)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"27.6(08)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":27.1,
         "temperatura_max_absoluta_mes":"30.0(31)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"19.0(31)",
+        "precipitacion_maxima":"19.0(31)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"30.6(02)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"121.4(24)",
+        "precipitacion_maxima":"121.4(24)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"25.5(09)",
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.2889090909,
-        "sequia_agrícola":1.2818511761
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.4(04)",
+        "precipitacion_maxima":"0.4(04)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"22.8(06)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"19.3(03)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     },
     {
         "id_estacion":"C406G",
         "fecha":"2022-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -296,7 +340,11 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"LA OROTAVA, CAÑADAS TEIDE",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281327N",
+        "long":"163734W"
     }
 ]

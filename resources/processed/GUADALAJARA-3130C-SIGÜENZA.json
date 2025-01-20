@@ -2,7 +2,7 @@
     {
         "id_estacion":"3130C",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"8.2(21)",
+        "precipitacion_maxima":"8.2(21)",
         "temperatura_media_minima_mensual":-2.2,
         "temperatura_media_maxima_mensual":9.9,
         "temperatura_max_absoluta_mes":"17.8(05)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"22.1(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"37.0(15)",
+        "precipitacion_maxima":"37.0(15)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"24.6(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6782,
-        "sequia_agrícola":0.6735
+        "sequia_agricola":0.6735,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"20.3(08)",
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"23.0(12)",
+        "precipitacion_maxima":"23.0(12)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"28.5(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0842,
-        "sequia_agrícola":0.0755520992
+        "sequia_agricola":0.0755520992,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"13.2(07)",
+        "precipitacion_maxima":"13.2(07)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"33.4(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"11.4(09)",
+        "precipitacion_maxima":"11.4(09)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":31.4,
         "temperatura_max_absoluta_mes":"36.6(30)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -196,13 +224,17 @@
         "mes":8,
         "year":2020,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"10.2(23)",
+        "precipitacion_maxima":"10.2(23)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"31.0(05)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0522,
-        "sequia_agrícola":0.0432323097
+        "sequia_agricola":0.0432323097,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"17.8(20)",
+        "precipitacion_maxima":"17.8(20)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"25.1(09)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1362,
-        "sequia_agrícola":0.1304810415
+        "sequia_agricola":0.1304810415,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"15.6(06)",
+        "precipitacion_maxima":"15.6(06)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"20.9(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"8.8(27)",
+        "precipitacion_maxima":"8.8(27)",
         "temperatura_media_minima_mensual":-0.5,
         "temperatura_media_maxima_mensual":8.4,
         "temperatura_max_absoluta_mes":"15.6(22)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-4.1,
         "temperatura_media_maxima_mensual":6.8,
         "temperatura_max_absoluta_mes":"15.7(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"24.0(09)",
+        "precipitacion_maxima":"24.0(09)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"17.5(20)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.2948888889,
-        "sequia_agrícola":0.2911888889
+        "sequia_agricola":0.2911888889,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"6.2(19)",
+        "precipitacion_maxima":"6.2(19)",
         "temperatura_media_minima_mensual":-1.0,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"23.1(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"14.6(20)",
+        "precipitacion_maxima":"14.6(20)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"22.4(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2628888889,
-        "sequia_agrícola":0.2567372429
+        "sequia_agricola":0.2567372429,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"18.6(03)",
+        "precipitacion_maxima":"18.6(03)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"26.9(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0988888889,
-        "sequia_agrícola":0.0904731701
+        "sequia_agricola":0.0904731701,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"5.0(16)",
+        "precipitacion_maxima":"5.0(16)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"30.0(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"5.4(06)",
+        "precipitacion_maxima":"5.4(06)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"35.0(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -496,13 +572,17 @@
         "mes":8,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"29.5(05)",
@@ -521,13 +601,17 @@
         "mes":9,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"29.0(29)",
+        "precipitacion_maxima":"29.0(29)",
         "temperatura_media_minima_mensual":3.0,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"23.4(07)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3368888889,
-        "sequia_agrícola":0.3315464895
+        "sequia_agricola":0.3315464895,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"20.6(22)",
+        "precipitacion_maxima":"20.6(22)",
         "temperatura_media_minima_mensual":-1.5,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"17.3(12)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"8.4(01)",
+        "precipitacion_maxima":"8.4(01)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"19.9(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"11.4(04)",
+        "precipitacion_maxima":"11.4(04)",
         "temperatura_media_minima_mensual":-5.9,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"19.9(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.8(13)",
+        "precipitacion_maxima":"2.8(13)",
         "temperatura_media_minima_mensual":-4.2,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"21.0(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"13.8(12)",
+        "precipitacion_maxima":"13.8(12)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"17.2(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.25725,
-        "sequia_agrícola":0.252269815
+        "sequia_agricola":0.252269815,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"24.0(17)",
@@ -696,13 +804,17 @@
         "mes":4,
         "year":2022,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -721,13 +833,17 @@
         "mes":5,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":28.2,
         "temperatura_max_absoluta_mes":"36.4(18)",
@@ -746,13 +862,17 @@
         "mes":6,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"36.5(13)",
@@ -771,13 +891,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"19.0(17)",
+        "precipitacion_maxima":"19.0(17)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":31.1,
         "temperatura_max_absoluta_mes":"35.5(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"4.8(13)",
+        "precipitacion_maxima":"4.8(13)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"32.1(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"28.6(21)",
+        "precipitacion_maxima":"28.6(21)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"28.0(03)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.22925,
-        "sequia_agrícola":0.2222186547
+        "sequia_agricola":0.2222186547,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"9.0(21)",
+        "precipitacion_maxima":"9.0(21)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"18.8(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.10725,
-        "sequia_agrícola":0.1033077148
+        "sequia_agricola":0.1033077148,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"15.4(13)",
+        "precipitacion_maxima":"15.4(13)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"15.4(26)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.45325,
-        "sequia_agrícola":0.45155
+        "sequia_agricola":0.45155,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"14.4(08)",
+        "precipitacion_maxima":"14.4(08)",
         "temperatura_media_minima_mensual":-3.3,
         "temperatura_media_maxima_mensual":8.8,
         "temperatura_max_absoluta_mes":"15.4(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0073333333,
-        "sequia_agrícola":0.0046333333
+        "sequia_agricola":0.0046333333,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"3.2(23)",
+        "precipitacion_maxima":"3.2(23)",
         "temperatura_media_minima_mensual":-6.0,
         "temperatura_media_maxima_mensual":11.4,
         "temperatura_max_absoluta_mes":"19.7(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"9.4(08)",
+        "precipitacion_maxima":"9.4(08)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"23.1(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"12.4(29)",
+        "precipitacion_maxima":"12.4(29)",
         "temperatura_media_minima_mensual":1.0,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"27.7(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"7.4(29)",
+        "precipitacion_maxima":"7.4(29)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"25.5(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"10.4(02)",
+        "precipitacion_maxima":"10.4(02)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"32.3(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1133333333,
-        "sequia_agrícola":0.1023964283
+        "sequia_agricola":0.1023964283,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.6(03)",
+        "precipitacion_maxima":"0.6(03)",
         "temperatura_media_minima_mensual":12.0,
         "temperatura_media_maxima_mensual":31.2,
         "temperatura_max_absoluta_mes":"36.4(17)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":31.5,
         "temperatura_max_absoluta_mes":"37.8(09)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"15.8(14)",
+        "precipitacion_maxima":"15.8(14)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"29.8(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0653333333,
-        "sequia_agrícola":0.0563100477
+        "sequia_agricola":0.0563100477,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"56.6(19)",
+        "precipitacion_maxima":"56.6(19)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"30.4(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.9893333333,
-        "sequia_agrícola":0.9843945349
+        "sequia_agricola":0.9843945349,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"41.6(30)",
+        "precipitacion_maxima":"41.6(30)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"21.4(19)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2653333333,
-        "sequia_agrícola":0.2620944369
+        "sequia_agricola":0.2620944369,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"13.8(07)",
+        "precipitacion_maxima":"13.8(07)",
         "temperatura_media_minima_mensual":-1.9,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"16.3(19)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"8.2(04)",
+        "precipitacion_maxima":"8.2(04)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"21.0(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"16.6(08)",
+        "precipitacion_maxima":"16.6(08)",
         "temperatura_media_minima_mensual":0.1,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"19.3(04)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0945454545,
-        "sequia_agrícola":0.0902316473
+        "sequia_agricola":0.0902316473,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"19.0(28)",
+        "precipitacion_maxima":"19.0(28)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"24.8(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7245454545,
-        "sequia_agrícola":0.7198454545
+        "sequia_agricola":0.7198454545,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"4.6(27)",
+        "precipitacion_maxima":"4.6(27)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"26.3(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"11.4(05)",
+        "precipitacion_maxima":"11.4(05)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"27.5(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0085454545,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"11.4(19)",
+        "precipitacion_maxima":"11.4(19)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"30.8(07)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"5.4(05)",
+        "precipitacion_maxima":"5.4(05)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":30.8,
         "temperatura_max_absoluta_mes":"35.5(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"22.2(30)",
+        "precipitacion_maxima":"22.2(30)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":31.1,
         "temperatura_max_absoluta_mes":"35.9(09)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2085454545,
-        "sequia_agrícola":0.1972306149
+        "sequia_agricola":0.1972306149,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1421,13 +1645,17 @@
         "mes":9,
         "year":2024,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"43.4(29)",
+        "precipitacion_maxima":"43.4(29)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"24.5(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6665454545,
-        "sequia_agrícola":0.6612990834
+        "sequia_agricola":0.6612990834,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"5.6(25)",
+        "precipitacion_maxima":"5.6(25)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"19.5(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     },
     {
         "id_estacion":"3130C",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"2.6(03)",
+        "precipitacion_maxima":"2.6(03)",
         "temperatura_media_minima_mensual":-2.2,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"18.8(25)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SIGÜENZA",
+        "provincia":"GUADALAJARA",
+        "lat":"410511N",
+        "long":"023705W"
     }
 ]

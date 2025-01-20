@@ -2,7 +2,7 @@
     {
         "id_estacion":"1021Y",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"16.4(18)",
+        "precipitacion_maxima":"16.4(18)",
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"16.8(30)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"21.0(24)",
@@ -46,13 +50,17 @@
         "mes":2,
         "year":2020,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"58.8(15)",
+        "precipitacion_maxima":"58.8(15)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"20.7(19)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8601818182,
-        "sequia_agrícola":0.8549827199
+        "sequia_agricola":0.8549827199,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"37.0(21)",
+        "precipitacion_maxima":"37.0(21)",
         "temperatura_media_minima_mensual":9.2,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"24.3(09)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"84.6(10)",
+        "precipitacion_maxima":"84.6(10)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"29.6(28)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"43.0(04)",
+        "precipitacion_maxima":"43.0(04)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"32.1(24)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1941818182,
-        "sequia_agrícola":0.183474406
+        "sequia_agricola":0.183474406,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"10.6(11)",
+        "precipitacion_maxima":"10.6(11)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"35.8(30)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"79.2(29)",
+        "precipitacion_maxima":"79.2(29)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"34.6(20)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"55.6(25)",
+        "precipitacion_maxima":"55.6(25)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"31.0(14)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2101818182,
-        "sequia_agrícola":0.2014177359
+        "sequia_agricola":0.2014177359,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"39.2(25)",
+        "precipitacion_maxima":"39.2(25)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"22.0(31)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4221818182,
-        "sequia_agrícola":1.4169211206
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"21.0(15)",
+        "precipitacion_maxima":"21.0(15)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"22.1(02)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"50.2(06)",
+        "precipitacion_maxima":"50.2(06)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":9.9,
         "temperatura_max_absoluta_mes":"16.5(22)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.8321818182,
-        "sequia_agrícola":1.8304818182
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"15.2(21)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"21.2(20)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"25.0(19)",
+        "precipitacion_maxima":"25.0(19)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"25.3(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"16.6(10)",
+        "precipitacion_maxima":"16.6(10)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"24.8(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"29.8(13)",
+        "precipitacion_maxima":"29.8(13)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"29.4(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"45.0(03)",
+        "precipitacion_maxima":"45.0(03)",
         "temperatura_media_minima_mensual":12.4,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"31.9(13)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0496,
-        "sequia_agrícola":0.0386280041
+        "sequia_agricola":0.0386280041,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"36.6(12)",
+        "precipitacion_maxima":"36.6(12)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"31.7(05)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"14.2(03)",
+        "precipitacion_maxima":"14.2(03)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"29.2(20)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"47.2(15)",
+        "precipitacion_maxima":"47.2(15)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"29.6(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"27.4(03)",
+        "precipitacion_maxima":"27.4(03)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"23.4(20)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"92.6(28)",
+        "precipitacion_maxima":"92.6(28)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":10.2,
         "temperatura_max_absoluta_mes":"15.6(02)",
@@ -571,13 +659,17 @@
         "mes":11,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":3.2376,
-        "sequia_agrícola":3.2349
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"185.2(09)",
+        "precipitacion_maxima":"185.2(09)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"17.2(29)",
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":2.9016,
-        "sequia_agrícola":2.8998590941
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"168.8(09)",
+        "precipitacion_maxima":"168.8(09)",
         "temperatura_media_minima_mensual":0.7,
         "temperatura_media_maxima_mensual":8.0,
         "temperatura_max_absoluta_mes":"16.9(03)",
@@ -621,13 +717,17 @@
         "mes":1,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.882,
-        "sequia_agrícola":1.8793
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"24.2(14)",
+        "precipitacion_maxima":"24.2(14)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"17.5(28)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"60.4(03)",
+        "precipitacion_maxima":"60.4(03)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"19.7(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.114,
-        "sequia_agrícola":1.1088865065
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"138.4(20)",
+        "precipitacion_maxima":"138.4(20)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"24.9(26)",
@@ -696,13 +804,17 @@
         "mes":4,
         "year":2022,
         "indice_solar":0.6,
-        "sequia_meteorologica":1.454,
-        "sequia_agrícola":1.4479565016
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"19.0(24)",
+        "precipitacion_maxima":"19.0(24)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"32.7(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"12.2(23)",
+        "precipitacion_maxima":"12.2(23)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"38.7(18)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"4.0(20)",
+        "precipitacion_maxima":"4.0(20)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"38.7(18)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"89.2(17)",
+        "precipitacion_maxima":"89.2(17)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"36.6(11)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.69,
-        "sequia_agrícola":0.6800676171
+        "sequia_agricola":0.6800676171,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"45.6(27)",
+        "precipitacion_maxima":"45.6(27)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"29.4(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.464,
-        "sequia_agrícola":0.4562167951
+        "sequia_agricola":0.4562167951,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"21.2(31)",
+        "precipitacion_maxima":"21.2(31)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"26.3(19)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"20.1(12)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"28.6(15)",
+        "precipitacion_maxima":"28.6(15)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":12.4,
         "temperatura_max_absoluta_mes":"19.3(23)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"82.6(16)",
+        "precipitacion_maxima":"82.6(16)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":8.5,
         "temperatura_max_absoluta_mes":"19.0(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.889,
-        "sequia_agrícola":0.8863
+        "sequia_agricola":0.8863,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"27.2(22)",
+        "precipitacion_maxima":"27.2(22)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"21.4(20)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"53.2(11)",
+        "precipitacion_maxima":"53.2(11)",
         "temperatura_media_minima_mensual":4.9,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"25.4(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"59.4(01)",
+        "precipitacion_maxima":"59.4(01)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"28.4(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"96.0(13)",
+        "precipitacion_maxima":"96.0(13)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"29.5(03)",
@@ -1021,13 +1181,17 @@
         "mes":5,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.125,
-        "sequia_agrícola":1.1173440007
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"98.8(13)",
+        "precipitacion_maxima":"98.8(13)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"29.0(24)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"16.0(25)",
+        "precipitacion_maxima":"16.0(25)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"32.9(14)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"78.4(28)",
+        "precipitacion_maxima":"78.4(28)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"33.3(23)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.657,
-        "sequia_agrícola":0.6463011494
+        "sequia_agricola":0.6463011494,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"46.8(12)",
+        "precipitacion_maxima":"46.8(12)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"29.7(09)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"26.4(23)",
+        "precipitacion_maxima":"26.4(23)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"27.2(02)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"87.4(21)",
+        "precipitacion_maxima":"87.4(21)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"20.1(02)",
@@ -1171,13 +1355,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.177,
-        "sequia_agrícola":2.1740366355
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"62.8(13)",
+        "precipitacion_maxima":"62.8(13)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":10.6,
         "temperatura_max_absoluta_mes":"16.7(11)",
@@ -1196,13 +1384,17 @@
         "mes":12,
         "year":2023,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.397,
-        "sequia_agrícola":1.3951550685
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"82.2(05)",
+        "precipitacion_maxima":"82.2(05)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":10.7,
         "temperatura_max_absoluta_mes":"18.1(28)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"137.8(26)",
+        "precipitacion_maxima":"137.8(26)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":12.9,
         "temperatura_max_absoluta_mes":"21.7(15)",
@@ -1246,13 +1442,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":2.2930909091,
-        "sequia_agrícola":2.2893909091
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"40.0(02)",
+        "precipitacion_maxima":"40.0(02)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"23.0(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"29.2(08)",
+        "precipitacion_maxima":"29.2(08)",
         "temperatura_media_minima_mensual":6.1,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"28.9(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"34.2(13)",
+        "precipitacion_maxima":"34.2(13)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"28.1(11)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"33.8(28)",
+        "precipitacion_maxima":"33.8(28)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"30.1(26)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"29.2(20)",
+        "precipitacion_maxima":"29.2(20)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"32.6(29)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"31.0(13)",
+        "precipitacion_maxima":"31.0(13)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"33.4(11)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"47.4(11)",
+        "precipitacion_maxima":"47.4(11)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"24.3(01)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.5950909091,
-        "sequia_agrícola":0.5863742322
+        "sequia_agricola":0.5863742322,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"106.2(17)",
+        "precipitacion_maxima":"106.2(17)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"23.5(13)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.7830909091,
-        "sequia_agrícola":1.7774558493
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"55.4(20)",
+        "precipitacion_maxima":"55.4(20)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"19.4(25)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     },
     {
         "id_estacion":"1021Y",
         "fecha":"2024-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -1496,7 +1732,11 @@
         "mes":12,
         "year":2024,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
+        "provincia":"NAVARRA",
+        "lat":"431244N",
+        "long":"014752W"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":"C635B",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"19.4(17)",
+        "precipitacion_maxima":"19.4(17)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"24.8(01)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"8.2(19)",
+        "precipitacion_maxima":"8.2(19)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"25.3(11)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"19.6(28)",
+        "precipitacion_maxima":"19.6(28)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":18.7,
         "temperatura_max_absoluta_mes":"23.2(02)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2156666667,
-        "sequia_agrícola":0.2099562501
+        "sequia_agricola":0.2099562501,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"27.4(03)",
+        "precipitacion_maxima":"27.4(03)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"30.3(17)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"1.0(10)",
+        "precipitacion_maxima":"1.0(10)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"32.8(09)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"34.7(08)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":22.9,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"41.2(26)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"3.6(31)",
+        "precipitacion_maxima":"3.6(31)",
         "temperatura_media_minima_mensual":21.7,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"40.9(03)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"127.8(25)",
+        "precipitacion_maxima":"127.8(25)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"32.1(02)",
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.5596666667,
-        "sequia_agrícola":1.5529666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"2.6(04)",
+        "precipitacion_maxima":"2.6(04)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"31.5(05)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"28.3(01)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     },
     {
         "id_estacion":"C635B",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"62.8(07)",
+        "precipitacion_maxima":"62.8(07)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"26.3(13)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.5056666667,
-        "sequia_agrícola":0.5033715682
+        "sequia_agricola":0.5033715682,
+        "nomb_estacion":"SAN BARTOLOME TIRAJANA, LAS TIRAJANAS",
+        "provincia":"LAS PALMAS",
+        "lat":"275512N",
+        "long":"153427W"
     }
 ]

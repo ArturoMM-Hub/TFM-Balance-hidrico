@@ -11,7 +11,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -25,7 +29,11 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -38,8 +46,12 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2096666667,
-        "sequia_agrícola":1.2049666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -53,7 +65,11 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4136666667,
-        "sequia_agrícola":0.4073688134
+        "sequia_agricola":0.4073688134,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -67,7 +83,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -81,7 +101,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -95,7 +119,11 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -109,7 +137,11 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -123,7 +155,11 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -137,7 +173,11 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -151,7 +191,11 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.7216666667,
-        "sequia_agrícola":0.7184511601
+        "sequia_agricola":0.7184511601,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -165,7 +209,11 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1436666667,
-        "sequia_agrícola":0.141013981
+        "sequia_agricola":0.141013981,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -178,8 +226,12 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.5810833333,
-        "sequia_agrícola":1.5783833333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -192,8 +244,12 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.1030833333,
-        "sequia_agrícola":1.0993073485
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -207,7 +263,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -221,7 +281,11 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4570833333,
-        "sequia_agrícola":0.4508140127
+        "sequia_agricola":0.4508140127,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -235,7 +299,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -249,7 +317,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -263,7 +335,11 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -277,7 +353,11 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -291,7 +371,11 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -305,7 +389,11 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -319,7 +407,11 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3380833333,
-        "sequia_agrícola":0.3346752886
+        "sequia_agricola":0.3346752886,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -333,7 +425,11 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -347,7 +443,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4605,
-        "sequia_agrícola":0.457407688
+        "sequia_agricola":0.457407688,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -361,7 +461,11 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.9395,
-        "sequia_agrícola":0.9357304059
+        "sequia_agricola":0.9357304059,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -375,7 +479,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6345,
-        "sequia_agrícola":0.6298
+        "sequia_agricola":0.6298,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -389,7 +497,11 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -403,7 +515,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -417,7 +533,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -431,7 +551,11 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -445,7 +569,11 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -459,7 +587,11 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3925,
-        "sequia_agrícola":0.3847547931
+        "sequia_agricola":0.3847547931,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -473,7 +605,11 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -487,7 +623,11 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     },
     {
         "id_estacion":"C455M",
@@ -501,6 +641,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0735,
-        "sequia_agrícola":0.0704784384
+        "sequia_agricola":0.0704784384,
+        "nomb_estacion":"CITFAGRO_87_AGUAMANSA",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"282142N",
+        "long":"162949W"
     }
 ]

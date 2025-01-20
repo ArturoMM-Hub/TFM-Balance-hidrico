@@ -2,7 +2,7 @@
     {
         "id_estacion":"4520X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"13.2(18)",
+        "precipitacion_maxima":"13.2(18)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"19.3(08)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"2.8(08)",
+        "precipitacion_maxima":"2.8(08)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"23.6(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"31.8(20)",
+        "precipitacion_maxima":"31.8(20)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"26.0(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1523333333,
-        "sequia_agrícola":0.1470082873
+        "sequia_agricola":0.1470082873,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"16.0(09)",
+        "precipitacion_maxima":"16.0(09)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"22.0(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3743333333,
-        "sequia_agrícola":0.368180793
+        "sequia_agricola":0.368180793,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"11.8(10)",
+        "precipitacion_maxima":"11.8(10)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"32.2(24)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"1.4(12)",
+        "precipitacion_maxima":"1.4(12)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"37.6(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":36.1,
         "temperatura_max_absoluta_mes":"40.2(26)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":32.9,
         "temperatura_max_absoluta_mes":"37.8(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"23.8(18)",
+        "precipitacion_maxima":"23.8(18)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"35.6(06)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"65.0(20)",
+        "precipitacion_maxima":"65.0(20)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"30.0(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8583333333,
-        "sequia_agrícola":0.8535003667
+        "sequia_agricola":0.8535003667,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"40.8(04)",
+        "precipitacion_maxima":"40.8(04)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":17.8,
         "temperatura_max_absoluta_mes":"25.4(18)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.6523333333,
-        "sequia_agrícola":0.6494741057
+        "sequia_agricola":0.6494741057,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"15.8(10)",
+        "precipitacion_maxima":"15.8(10)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"19.3(22)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3943333333,
-        "sequia_agrícola":0.3926333333
+        "sequia_agricola":0.3926333333,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"21.4(20)",
+        "precipitacion_maxima":"21.4(20)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":11.3,
         "temperatura_max_absoluta_mes":"23.2(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5211666667,
-        "sequia_agrícola":0.5184666667
+        "sequia_agricola":0.5184666667,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"28.4(09)",
+        "precipitacion_maxima":"28.4(09)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"21.1(17)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.7431666667,
-        "sequia_agrícola":0.7393221157
+        "sequia_agricola":0.7393221157,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"6.0(05)",
+        "precipitacion_maxima":"6.0(05)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"25.1(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"18.2(10)",
+        "precipitacion_maxima":"18.2(10)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"24.6(07)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0011666667,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"9.4(09)",
+        "precipitacion_maxima":"9.4(09)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"31.7(29)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"41.4(17)",
+        "precipitacion_maxima":"41.4(17)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":28.5,
         "temperatura_max_absoluta_mes":"34.8(08)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":32.3,
         "temperatura_max_absoluta_mes":"40.3(10)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":33.2,
         "temperatura_max_absoluta_mes":"43.2(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"27.4(22)",
+        "precipitacion_maxima":"27.4(22)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":27.0,
         "temperatura_max_absoluta_mes":"34.5(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1491666667,
-        "sequia_agrícola":0.1405391013
+        "sequia_agricola":0.1405391013,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"35.4(30)",
+        "precipitacion_maxima":"35.4(30)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"28.0(19)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3291666667,
-        "sequia_agrícola":0.3232946944
+        "sequia_agricola":0.3232946944,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"4.0(25)",
+        "precipitacion_maxima":"4.0(25)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"20.6(09)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"25.2(21)",
+        "precipitacion_maxima":"25.2(21)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"22.9(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.2791666667,
-        "sequia_agrícola":0.2769006745
+        "sequia_agricola":0.2769006745,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.4(04)",
+        "precipitacion_maxima":"2.4(04)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"22.8(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.2(13)",
+        "precipitacion_maxima":"2.2(13)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"21.6(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"22.0(20)",
+        "precipitacion_maxima":"22.0(20)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"20.4(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.417,
-        "sequia_agrícola":0.4118371377
+        "sequia_agricola":0.4118371377,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"38.6(22)",
+        "precipitacion_maxima":"38.6(22)",
         "temperatura_media_minima_mensual":5.8,
         "temperatura_media_maxima_mensual":17.7,
         "temperatura_max_absoluta_mes":"25.8(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.251,
-        "sequia_agrícola":0.244417969
+        "sequia_agricola":0.244417969,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"2.4(02)",
+        "precipitacion_maxima":"2.4(02)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"34.4(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"3.8(22)",
+        "precipitacion_maxima":"3.8(22)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"39.3(12)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":36.9,
         "temperatura_max_absoluta_mes":"41.2(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.2(12)",
+        "precipitacion_maxima":"0.2(12)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":33.7,
         "temperatura_max_absoluta_mes":"39.7(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"15.6(14)",
+        "precipitacion_maxima":"15.6(14)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":27.1,
         "temperatura_max_absoluta_mes":"34.9(10)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"45.4(09)",
+        "precipitacion_maxima":"45.4(09)",
         "temperatura_media_minima_mensual":12.8,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"30.6(02)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.531,
-        "sequia_agrícola":0.5252345752
+        "sequia_agricola":0.5252345752,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"14.6(15)",
+        "precipitacion_maxima":"14.6(15)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"23.0(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.203,
-        "sequia_agrícola":0.1992735847
+        "sequia_agricola":0.1992735847,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"32.0(07)",
+        "precipitacion_maxima":"32.0(07)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":15.2,
         "temperatura_max_absoluta_mes":"20.2(26)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.203,
-        "sequia_agrícola":1.2013
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"13.6(08)",
+        "precipitacion_maxima":"13.6(08)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"18.1(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1513333333,
-        "sequia_agrícola":0.1484538825
+        "sequia_agricola":0.1484538825,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"2.8(07)",
+        "precipitacion_maxima":"2.8(07)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"19.2(05)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"4.2(09)",
+        "precipitacion_maxima":"4.2(09)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"26.5(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"6.6(21)",
+        "precipitacion_maxima":"6.6(21)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"34.0(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"5.4(23)",
+        "precipitacion_maxima":"5.4(23)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"30.8(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"10.8(05)",
+        "precipitacion_maxima":"10.8(05)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"39.6(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0413333333,
-        "sequia_agrícola":0.0296428967
+        "sequia_agricola":0.0296428967,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":33.9,
         "temperatura_max_absoluta_mes":"40.3(10)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":34.9,
         "temperatura_max_absoluta_mes":"40.5(07)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"16.2(03)",
+        "precipitacion_maxima":"16.2(03)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"34.5(29)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"38.0(22)",
+        "precipitacion_maxima":"38.0(22)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"34.1(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1513333333,
-        "sequia_agrícola":1.1466333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"30.0(30)",
+        "precipitacion_maxima":"30.0(30)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"24.0(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3773333333,
-        "sequia_agrícola":0.3741769574
+        "sequia_agricola":0.3741769574,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"6.4(07)",
+        "precipitacion_maxima":"6.4(07)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"20.6(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"49.8(18)",
+        "precipitacion_maxima":"49.8(18)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"23.5(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5623333333,
-        "sequia_agrícola":0.5593708085
+        "sequia_agricola":0.5593708085,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"27.4(11)",
+        "precipitacion_maxima":"27.4(11)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"20.4(14)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3963333333,
-        "sequia_agrícola":0.3922262065
+        "sequia_agricola":0.3922262065,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"46.6(27)",
+        "precipitacion_maxima":"46.6(27)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"24.9(23)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3503333333,
-        "sequia_agrícola":1.3456333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"10.6(30)",
+        "precipitacion_maxima":"10.6(30)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"27.3(16)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.8(01)",
+        "precipitacion_maxima":"0.8(01)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":24.2,
         "temperatura_max_absoluta_mes":"35.0(31)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"13.6(19)",
+        "precipitacion_maxima":"13.6(19)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"35.2(23)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":34.4,
         "temperatura_max_absoluta_mes":"40.9(24)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":35.1,
         "temperatura_max_absoluta_mes":"38.1(04)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"7.6(26)",
+        "precipitacion_maxima":"7.6(26)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":27.8,
         "temperatura_max_absoluta_mes":"33.4(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"70.0(31)",
+        "precipitacion_maxima":"70.0(31)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"27.9(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.9223333333,
-        "sequia_agrícola":1.9175795925
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"6.0(14)",
+        "precipitacion_maxima":"6.0(14)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.4(30)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     },
     {
         "id_estacion":"4520X",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"2.8(19)",
+        "precipitacion_maxima":"2.8(19)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"20.1(18)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"FREGENAL DE LA SIERRA",
+        "provincia":"BADAJOZ",
+        "lat":"381042N",
+        "long":"063942W"
     }
 ]

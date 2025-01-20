@@ -2,7 +2,7 @@
     {
         "id_estacion":"B373X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"5.2(23)",
+        "precipitacion_maxima":"5.2(23)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"18.4(31)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"0.4(05)",
+        "precipitacion_maxima":"0.4(05)",
         "temperatura_media_minima_mensual":2.9,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"20.2(17)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"11.2(26)",
+        "precipitacion_maxima":"11.2(26)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"19.0(28)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2355,
-        "sequia_agrícola":0.2303150252
+        "sequia_agricola":0.2303150252,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"6.4(13)",
+        "precipitacion_maxima":"6.4(13)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"25.5(29)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"7.4(24)",
+        "precipitacion_maxima":"7.4(24)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":25.3,
         "temperatura_max_absoluta_mes":"34.2(22)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"1.2(21)",
+        "precipitacion_maxima":"1.2(21)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"34.1(16)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.9,
         "temperatura_media_maxima_mensual":32.5,
         "temperatura_max_absoluta_mes":"35.4(24)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.4(27)",
+        "precipitacion_maxima":"2.4(27)",
         "temperatura_media_minima_mensual":20.7,
         "temperatura_media_maxima_mensual":32.5,
         "temperatura_max_absoluta_mes":"38.6(13)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"116.6(25)",
+        "precipitacion_maxima":"116.6(25)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":28.9,
         "temperatura_max_absoluta_mes":"33.9(13)",
@@ -221,13 +253,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.0195,
-        "sequia_agrícola":1.0128
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"15.8(11)",
+        "precipitacion_maxima":"15.8(11)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"29.7(26)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0675,
-        "sequia_agrícola":0.0602096841
+        "sequia_agricola":0.0602096841,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"23.8(10)",
+        "precipitacion_maxima":"23.8(10)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"24.9(02)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1695,
-        "sequia_agrícola":0.1655476315
+        "sequia_agricola":0.1655476315,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     },
     {
         "id_estacion":"B373X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"7.8(11)",
+        "precipitacion_maxima":"7.8(11)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"22.5(26)",
@@ -297,6 +341,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"CAMPOS, SALINES LLEVANT",
+        "provincia":"ILLES BALEARS",
+        "lat":"392104N",
+        "long":"030043E"
     }
 ]

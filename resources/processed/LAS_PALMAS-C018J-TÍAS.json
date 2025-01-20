@@ -2,7 +2,7 @@
     {
         "id_estacion":"C018J",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"2.0(20)",
+        "precipitacion_maxima":"2.0(20)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"25.2(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"27.1(25)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"9.8(22)",
+        "precipitacion_maxima":"9.8(22)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"27.7(09)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1255,
-        "sequia_agrícola":0.1197762078
+        "sequia_agricola":0.1197762078,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"10.0(17)",
+        "precipitacion_maxima":"10.0(17)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":21.7,
         "temperatura_max_absoluta_mes":"24.5(07)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0855,
-        "sequia_agrícola":0.0775776042
+        "sequia_agricola":0.0775776042,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"0.6(12)",
+        "precipitacion_maxima":"0.6(12)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":24.6,
         "temperatura_max_absoluta_mes":"32.1(25)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"0.4(17)",
+        "precipitacion_maxima":"0.4(17)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"29.7(15)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.9,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"34.6(07)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.4(29)",
+        "precipitacion_maxima":"0.4(29)",
         "temperatura_media_minima_mensual":18.8,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"40.8(26)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.5,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"32.9(25)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"2.6(21)",
+        "precipitacion_maxima":"2.6(21)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":24.9,
         "temperatura_max_absoluta_mes":"33.8(12)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"8.2(26)",
+        "precipitacion_maxima":"8.2(26)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"30.9(18)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2295,
-        "sequia_agrícola":0.2268
+        "sequia_agricola":0.2268,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"4.8(05)",
+        "precipitacion_maxima":"4.8(05)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"22.6(28)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0695,
-        "sequia_agrícola":0.0654838679
+        "sequia_agricola":0.0654838679,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"26.2(07)",
+        "precipitacion_maxima":"26.2(07)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"27.0(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4511666667,
-        "sequia_agrícola":0.4484666667
+        "sequia_agricola":0.4484666667,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"21.6(05)",
+        "precipitacion_maxima":"21.6(05)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"22.7(14)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3431666667,
-        "sequia_agrícola":0.338945285
+        "sequia_agricola":0.338945285,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"2.4(06)",
+        "precipitacion_maxima":"2.4(06)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":20.2,
         "temperatura_max_absoluta_mes":"27.2(25)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"2.2(30)",
+        "precipitacion_maxima":"2.2(30)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"27.0(13)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"26.0(21)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"33.0(10)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"1.0(27)",
+        "precipitacion_maxima":"1.0(27)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"38.7(12)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"1.0(06)",
+        "precipitacion_maxima":"1.0(06)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":27.2,
         "temperatura_max_absoluta_mes":"37.2(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":27.1,
         "temperatura_max_absoluta_mes":"32.5(11)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"1.6(21)",
+        "precipitacion_maxima":"1.6(21)",
         "temperatura_media_minima_mensual":16.8,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"31.4(01)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"9.6(26)",
+        "precipitacion_maxima":"9.6(26)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"25.0(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0011666667,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"0.6(26)",
+        "precipitacion_maxima":"0.6(26)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"24.3(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"9.0(17)",
+        "precipitacion_maxima":"9.0(17)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":19.1,
         "temperatura_max_absoluta_mes":"24.6(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"4.8(23)",
+        "precipitacion_maxima":"4.8(23)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":21.2,
         "temperatura_max_absoluta_mes":"27.6(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"12.4(14)",
+        "precipitacion_maxima":"12.4(14)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"21.2(27)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1711666667,
-        "sequia_agrícola":0.1649995805
+        "sequia_agricola":0.1649995805,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"14.4(03)",
+        "precipitacion_maxima":"14.4(03)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":21.4,
         "temperatura_max_absoluta_mes":"31.9(18)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.2(02)",
+        "precipitacion_maxima":"0.2(02)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"31.7(10)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.8(25)",
+        "precipitacion_maxima":"0.8(25)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"25.2(08)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"39.6(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"31.7(20)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"55.8(25)",
+        "precipitacion_maxima":"55.8(25)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"29.4(01)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8751666667,
-        "sequia_agrícola":0.8684666667
+        "sequia_agricola":0.8684666667,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"9.6(15)",
+        "precipitacion_maxima":"9.6(15)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"30.9(28)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.4(18)",
+        "precipitacion_maxima":"0.4(18)",
         "temperatura_media_minima_mensual":16.5,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"28.9(16)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"11.6(07)",
+        "precipitacion_maxima":"11.6(07)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"25.1(13)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1511666667,
-        "sequia_agrícola":0.1474403886
+        "sequia_agricola":0.1474403886,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"26.6(16)",
@@ -922,12 +1066,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"1.8(09)",
+        "precipitacion_maxima":"1.8(09)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":22.0,
         "temperatura_max_absoluta_mes":"30.1(14)",
@@ -947,12 +1095,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"14.0(23)",
+        "precipitacion_maxima":"14.0(23)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"31.4(17)",
@@ -972,12 +1124,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3493333333,
-        "sequia_agrícola":0.3446333333
+        "sequia_agricola":0.3446333333,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"0.4(27)",
+        "precipitacion_maxima":"0.4(27)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"34.7(11)",
@@ -997,12 +1153,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"2.6(31)",
+        "precipitacion_maxima":"2.6(31)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"31.6(08)",
@@ -1022,12 +1182,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.2(25)",
+        "precipitacion_maxima":"0.2(25)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":22.9,
         "temperatura_max_absoluta_mes":"25.5(08)",
@@ -1047,12 +1211,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.8(29)",
+        "precipitacion_maxima":"0.8(29)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"31.7(25)",
@@ -1072,12 +1240,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"2.2(20)",
+        "precipitacion_maxima":"2.2(20)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":26.6,
         "temperatura_max_absoluta_mes":"34.4(19)",
@@ -1097,12 +1269,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"26.6(16)",
@@ -1122,12 +1298,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"3.4(13)",
+        "precipitacion_maxima":"3.4(13)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"28.1(11)",
@@ -1147,12 +1327,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0353333333,
-        "sequia_agrícola":0.0255218301
+        "sequia_agricola":0.0255218301,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"7.2(12)",
+        "precipitacion_maxima":"7.2(12)",
         "temperatura_media_minima_mensual":17.6,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"31.8(10)",
@@ -1172,12 +1356,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0473333333,
-        "sequia_agrícola":0.0397573705
+        "sequia_agricola":0.0397573705,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     },
     {
         "id_estacion":"C018J",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"4.2(14)",
+        "precipitacion_maxima":"4.2(14)",
         "temperatura_media_minima_mensual":14.3,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"25.9(01)",
@@ -1197,6 +1385,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0513333333,
-        "sequia_agrícola":0.045572846
+        "sequia_agricola":0.045572846,
+        "nomb_estacion":"TÍAS",
+        "provincia":"LAS PALMAS",
+        "lat":"285811N",
+        "long":"134125W"
     }
 ]

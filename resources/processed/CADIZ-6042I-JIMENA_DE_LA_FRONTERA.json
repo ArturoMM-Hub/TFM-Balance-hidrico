@@ -2,7 +2,7 @@
     {
         "id_estacion":"6042I",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"50.8(24)",
+        "precipitacion_maxima":"50.8(24)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"22.4(29)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.789,
-        "sequia_agrícola":0.7863
+        "sequia_agricola":0.7863,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.6(29)",
+        "precipitacion_maxima":"0.6(29)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"26.2(04)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"17.4(20)",
+        "precipitacion_maxima":"17.4(20)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"27.3(09)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.235,
-        "sequia_agrícola":0.2292619123
+        "sequia_agricola":0.2292619123,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"17.4(14)",
+        "precipitacion_maxima":"17.4(14)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"24.1(29)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.153,
-        "sequia_agrícola":0.1458712183
+        "sequia_agricola":0.1458712183,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"14.4(13)",
+        "precipitacion_maxima":"14.4(13)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"32.9(20)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"4.0(04)",
+        "precipitacion_maxima":"4.0(04)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"36.1(21)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":32.7,
         "temperatura_max_absoluta_mes":"38.2(28)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.4(10)",
+        "precipitacion_maxima":"0.4(10)",
         "temperatura_media_minima_mensual":17.4,
         "temperatura_media_maxima_mensual":33.6,
         "temperatura_max_absoluta_mes":"42.7(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"8.6(17)",
+        "precipitacion_maxima":"8.6(17)",
         "temperatura_media_minima_mensual":16.2,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"34.2(24)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"25.6(22)",
+        "precipitacion_maxima":"25.6(22)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"28.2(07)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.217,
-        "sequia_agrícola":0.2108874949
+        "sequia_agricola":0.2108874949,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"46.6(25)",
+        "precipitacion_maxima":"46.6(25)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"27.1(16)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.377,
-        "sequia_agrícola":0.3733953577
+        "sequia_agricola":0.3733953577,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"15.0(16)",
+        "precipitacion_maxima":"15.0(16)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"22.2(13)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.061,
-        "sequia_agrícola":0.0579717383
+        "sequia_agricola":0.0579717383,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"46.2(08)",
+        "precipitacion_maxima":"46.2(08)",
         "temperatura_media_minima_mensual":5.1,
         "temperatura_media_maxima_mensual":16.2,
         "temperatura_max_absoluta_mes":"23.5(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.8818333333,
-        "sequia_agrícola":0.8791333333
+        "sequia_agricola":0.8791333333,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"12.8(07)",
+        "precipitacion_maxima":"12.8(07)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"22.6(13)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0338333333,
-        "sequia_agrícola":0.0285031847
+        "sequia_agricola":0.0285031847,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"108.6(05)",
+        "precipitacion_maxima":"108.6(05)",
         "temperatura_media_minima_mensual":7.0,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"24.7(24)",
@@ -371,13 +427,17 @@
         "mes":3,
         "year":2021,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0278333333,
-        "sequia_agrícola":1.023044772
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"23.6(26)",
+        "precipitacion_maxima":"23.6(26)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"25.8(07)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0938333333,
-        "sequia_agrícola":0.0863617526
+        "sequia_agricola":0.0863617526,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"0.2(10)",
+        "precipitacion_maxima":"0.2(10)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":25.9,
         "temperatura_max_absoluta_mes":"35.4(16)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"3.0(16)",
+        "precipitacion_maxima":"3.0(16)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"33.8(29)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.1,
         "temperatura_media_maxima_mensual":32.4,
         "temperatura_max_absoluta_mes":"36.8(30)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":32.8,
         "temperatura_max_absoluta_mes":"43.3(16)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"11.2(23)",
+        "precipitacion_maxima":"11.2(23)",
         "temperatura_media_minima_mensual":16.4,
         "temperatura_media_maxima_mensual":30.0,
         "temperatura_max_absoluta_mes":"34.3(10)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"2.2(30)",
+        "precipitacion_maxima":"2.2(30)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"30.6(02)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"11.4(20)",
+        "precipitacion_maxima":"11.4(20)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"24.1(15)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"24.4(23)",
+        "precipitacion_maxima":"24.4(23)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"25.6(11)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.1178333333,
-        "sequia_agrícola":0.1147843511
+        "sequia_agricola":0.1147843511,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"2.4(05)",
+        "precipitacion_maxima":"2.4(05)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"25.5(31)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"2.6(24)",
+        "precipitacion_maxima":"2.6(24)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"24.9(17)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"70.0(24)",
+        "precipitacion_maxima":"70.0(24)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":17.6,
         "temperatura_max_absoluta_mes":"21.8(02)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.4338333333,
-        "sequia_agrícola":2.4291333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"30.0(05)",
+        "precipitacion_maxima":"30.0(05)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":20.8,
         "temperatura_max_absoluta_mes":"31.3(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3998333333,
-        "sequia_agrícola":0.3931759337
+        "sequia_agricola":0.3931759337,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"6.0(04)",
+        "precipitacion_maxima":"6.0(04)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"33.4(31)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":30.9,
         "temperatura_max_absoluta_mes":"37.3(07)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":33.1,
         "temperatura_max_absoluta_mes":"39.7(25)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"8.6(28)",
+        "precipitacion_maxima":"8.6(28)",
         "temperatura_media_minima_mensual":18.6,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"39.5(13)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"4.4(29)",
+        "precipitacion_maxima":"4.4(29)",
         "temperatura_media_minima_mensual":15.6,
         "temperatura_media_maxima_mensual":31.0,
         "temperatura_max_absoluta_mes":"37.9(08)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.6(19)",
+        "precipitacion_maxima":"0.6(19)",
         "temperatura_media_minima_mensual":13.8,
         "temperatura_media_maxima_mensual":27.7,
         "temperatura_max_absoluta_mes":"34.7(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"39.2(15)",
+        "precipitacion_maxima":"39.2(15)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"29.9(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"48.0(08)",
+        "precipitacion_maxima":"48.0(08)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"23.5(23)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.1558333333,
-        "sequia_agrícola":1.1537484134
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"11.4(08)",
+        "precipitacion_maxima":"11.4(08)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":17.3,
         "temperatura_max_absoluta_mes":"21.4(10)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"42.6(08)",
+        "precipitacion_maxima":"42.6(08)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"23.5(22)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3043333333,
-        "sequia_agrícola":0.3006333333
+        "sequia_agricola":0.3006333333,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"33.8(06)",
+        "precipitacion_maxima":"33.8(06)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"29.5(30)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1283333333,
-        "sequia_agrícola":0.1223336699
+        "sequia_agricola":0.1223336699,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":26.0,
         "temperatura_max_absoluta_mes":"33.0(26)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"13.0(23)",
+        "precipitacion_maxima":"13.0(23)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"35.3(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1143333333,
-        "sequia_agrícola":0.1054654897
+        "sequia_agricola":0.1054654897,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"6.0(09)",
+        "precipitacion_maxima":"6.0(09)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":30.1,
         "temperatura_max_absoluta_mes":"37.0(29)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":35.7,
         "temperatura_max_absoluta_mes":"42.3(19)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.0,
         "temperatura_media_maxima_mensual":34.4,
         "temperatura_max_absoluta_mes":"42.4(19)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"8.8(03)",
+        "precipitacion_maxima":"8.8(03)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"32.8(05)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"29.4(19)",
+        "precipitacion_maxima":"29.4(19)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"30.4(14)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4743333333,
-        "sequia_agrícola":0.4691858211
+        "sequia_agricola":0.4691858211,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"4.6(29)",
+        "precipitacion_maxima":"4.6(29)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":22.4,
         "temperatura_max_absoluta_mes":"30.5(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"6.8(06)",
+        "precipitacion_maxima":"6.8(06)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"26.6(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"20.2(16)",
+        "precipitacion_maxima":"20.2(16)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"24.1(14)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1376666667,
-        "sequia_agrícola":0.1341602999
+        "sequia_agricola":0.1341602999,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"22.6(11)",
+        "precipitacion_maxima":"22.6(11)",
         "temperatura_media_minima_mensual":7.3,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.1(13)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1256666667,
-        "sequia_agrícola":0.1210242983
+        "sequia_agricola":0.1210242983,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"41.8(08)",
+        "precipitacion_maxima":"41.8(08)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"26.5(18)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3536666667,
-        "sequia_agrícola":1.3489666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"5.8(26)",
+        "precipitacion_maxima":"5.8(26)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"32.7(16)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":26.1,
         "temperatura_max_absoluta_mes":"33.7(27)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"2.0(27)",
+        "precipitacion_maxima":"2.0(27)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":28.4,
         "temperatura_max_absoluta_mes":"33.3(17)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":16.9,
         "temperatura_media_maxima_mensual":34.1,
         "temperatura_max_absoluta_mes":"40.9(11)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.5,
         "temperatura_media_maxima_mensual":34.0,
         "temperatura_max_absoluta_mes":"39.7(18)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"5.4(07)",
+        "precipitacion_maxima":"5.4(07)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":29.8,
         "temperatura_max_absoluta_mes":"35.5(01)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"40.8(12)",
+        "precipitacion_maxima":"40.8(12)",
         "temperatura_media_minima_mensual":14.8,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"36.0(06)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.7096666667,
-        "sequia_agrícola":1.7048324304
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"59.2(13)",
+        "precipitacion_maxima":"59.2(13)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"27.0(30)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5016666667,
-        "sequia_agrícola":0.4982592462
+        "sequia_agricola":0.4982592462,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     },
     {
         "id_estacion":"6042I",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"20.8(12)",
+        "precipitacion_maxima":"20.8(12)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"24.6(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"JIMENA DE LA FRONTERA",
+        "provincia":"CADIZ",
+        "lat":"362608N",
+        "long":"052342W"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":"3111D",
         "fecha":"2020-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.3,
         "temperatura_media_maxima_mensual":6.6,
         "temperatura_max_absoluta_mes":"14.4(02)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -46,13 +50,17 @@
         "mes":2,
         "year":2020,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":1.1,
         "temperatura_media_maxima_mensual":10.1,
         "temperatura_max_absoluta_mes":"22.6(11)",
@@ -71,13 +79,17 @@
         "mes":3,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"23.9(15)",
+        "precipitacion_maxima":"23.9(15)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"16.2(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3994285714,
-        "sequia_agrícola":0.3937285714
+        "sequia_agricola":0.3937285714,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"22.4(31)",
+        "precipitacion_maxima":"22.4(31)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"26.0(21)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"25.7(03)",
+        "precipitacion_maxima":"25.7(03)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"30.0(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"8.4(09)",
+        "precipitacion_maxima":"8.4(09)",
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"32.9(26)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"18.8(11)",
+        "precipitacion_maxima":"18.8(11)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"43.6(18)",
+        "precipitacion_maxima":"43.6(18)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1944285714,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"47.9(20)",
+        "precipitacion_maxima":"47.9(20)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7294285714,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -271,13 +311,17 @@
         "mes":11,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2020-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -371,13 +427,17 @@
         "mes":3,
         "year":2021,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-04-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -396,13 +456,17 @@
         "mes":4,
         "year":2021,
         "indice_solar":0.6,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -421,13 +485,17 @@
         "mes":5,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-06-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -446,13 +514,17 @@
         "mes":6,
         "year":2021,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -471,13 +543,17 @@
         "mes":7,
         "year":2021,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"30.2(31)",
+        "precipitacion_maxima":"30.2(31)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"15.4(02)",
+        "precipitacion_maxima":"15.4(02)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0778,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"22.5(03)",
+        "precipitacion_maxima":"22.5(03)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"20.3(22)",
+        "precipitacion_maxima":"20.3(22)",
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0178,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"31.0(26)",
+        "precipitacion_maxima":"31.0(26)",
         "temperatura_media_minima_mensual":1.7,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"17.1(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.4618,
-        "sequia_agrícola":null
+        "sequia_agricola":0.5,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"28.2(04)",
+        "precipitacion_maxima":"28.2(04)",
         "temperatura_media_minima_mensual":-1.1,
         "temperatura_media_maxima_mensual":7.1,
         "temperatura_max_absoluta_mes":"15.8(02)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"8.5(26)",
+        "precipitacion_maxima":"8.5(26)",
         "temperatura_media_minima_mensual":0.4,
         "temperatura_media_maxima_mensual":9.9,
         "temperatura_max_absoluta_mes":"14.2(09)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"36.7(21)",
+        "precipitacion_maxima":"36.7(21)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":7.1,
         "temperatura_max_absoluta_mes":"13.4(01)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.1223333333,
-        "sequia_agrícola":1.1176333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"41.8(19)",
+        "precipitacion_maxima":"41.8(19)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":11.3,
         "temperatura_max_absoluta_mes":"19.8(18)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.6663333333,
-        "sequia_agrícola":0.6604086431
+        "sequia_agricola":0.6604086431,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"10.0(02)",
+        "precipitacion_maxima":"10.0(02)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"26.1(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"4.6(23)",
+        "precipitacion_maxima":"4.6(23)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":24.1,
         "temperatura_max_absoluta_mes":"32.5(15)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.3(06)",
+        "precipitacion_maxima":"0.3(06)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"35.4(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"4.2(27)",
+        "precipitacion_maxima":"4.2(27)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":28.3,
         "temperatura_max_absoluta_mes":"32.9(01)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"23.2(13)",
+        "precipitacion_maxima":"23.2(13)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"28.4(10)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"20.1(20)",
+        "precipitacion_maxima":"20.1(20)",
         "temperatura_media_minima_mensual":8.9,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"24.8(03)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2093333333,
-        "sequia_agrícola":0.2036040164
+        "sequia_agricola":0.2036040164,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"26.6(22)",
+        "precipitacion_maxima":"26.6(22)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":9.8,
         "temperatura_max_absoluta_mes":"15.4(26)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.0143333333,
-        "sequia_agrícola":1.0114928153
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"40.2(13)",
+        "precipitacion_maxima":"40.2(13)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":6.7,
         "temperatura_max_absoluta_mes":"11.9(26)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.9623333333,
-        "sequia_agrícola":0.9605904569
+        "sequia_agricola":0.9605904569,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"45.0(16)",
+        "precipitacion_maxima":"45.0(16)",
         "temperatura_media_minima_mensual":-2.5,
         "temperatura_media_maxima_mensual":4.7,
         "temperatura_max_absoluta_mes":"11.5(14)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.6995,
-        "sequia_agrícola":0.6968
+        "sequia_agricola":0.6968,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"21.2(23)",
+        "precipitacion_maxima":"21.2(23)",
         "temperatura_media_minima_mensual":-2.1,
         "temperatura_media_maxima_mensual":7.0,
         "temperatura_max_absoluta_mes":"13.6(05)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"21.1(08)",
+        "precipitacion_maxima":"21.1(08)",
         "temperatura_media_minima_mensual":1.8,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"19.1(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"11.2(21)",
+        "precipitacion_maxima":"11.2(21)",
         "temperatura_media_minima_mensual":4.3,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"24.5(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"16.6(25)",
+        "precipitacion_maxima":"16.6(25)",
         "temperatura_media_minima_mensual":4.6,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"22.5(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"42.2(12)",
+        "precipitacion_maxima":"42.2(12)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"29.3(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1685,
-        "sequia_agrícola":0.158629706
+        "sequia_agricola":0.158629706,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"28.5(06)",
+        "precipitacion_maxima":"28.5(06)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"31.7(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"33.4(20)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"51.5(14)",
+        "precipitacion_maxima":"51.5(14)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"25.9(29)",
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2023,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.1105,
-        "sequia_agrícola":1.1031817642
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"49.5(19)",
+        "precipitacion_maxima":"49.5(19)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":16.5,
         "temperatura_max_absoluta_mes":"25.6(03)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3295,
-        "sequia_agrícola":1.3243437849
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"24.9(08)",
+        "precipitacion_maxima":"24.9(08)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"17.4(18)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.5875,
-        "sequia_agrícola":0.5844398775
+        "sequia_agricola":0.5844398775,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"33.4(07)",
+        "precipitacion_maxima":"33.4(07)",
         "temperatura_media_minima_mensual":0.0,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"14.7(11)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"33.8(15)",
+        "precipitacion_maxima":"33.8(15)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"19.1(26)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.7799166667,
-        "sequia_agrícola":0.7772166667
+        "sequia_agricola":0.7772166667,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"38.8(08)",
+        "precipitacion_maxima":"38.8(08)",
         "temperatura_media_minima_mensual":1.3,
         "temperatura_media_maxima_mensual":9.0,
         "temperatura_max_absoluta_mes":"15.9(04)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.3639166667,
-        "sequia_agrícola":0.3600998816
+        "sequia_agricola":0.3600998816,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"25.2(29)",
+        "precipitacion_maxima":"25.2(29)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"21.2(23)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7789166667,
-        "sequia_agrícola":0.7741586894
+        "sequia_agricola":0.7741586894,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"13.8(08)",
+        "precipitacion_maxima":"13.8(08)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"23.7(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"34.3(05)",
+        "precipitacion_maxima":"34.3(05)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":16.6,
         "temperatura_max_absoluta_mes":"25.8(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1349166667,
-        "sequia_agrícola":0.1275450694
+        "sequia_agricola":0.1275450694,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"35.0(28)",
+        "precipitacion_maxima":"35.0(28)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"27.0(27)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.8(27)",
+        "precipitacion_maxima":"0.8(27)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"34.4(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"17.0(29)",
+        "precipitacion_maxima":"17.0(29)",
         "temperatura_media_minima_mensual":14.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"34.5(08)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"28.1(03)",
+        "precipitacion_maxima":"28.1(03)",
         "temperatura_media_minima_mensual":7.8,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.3(01)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"50.8(29)",
+        "precipitacion_maxima":"50.8(29)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"21.9(01)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4389166667,
-        "sequia_agrícola":1.4340555191
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"13.3(25)",
+        "precipitacion_maxima":"13.3(25)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"16.5(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     },
     {
         "id_estacion":"3111D",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"17.6(03)",
+        "precipitacion_maxima":"17.6(03)",
         "temperatura_media_minima_mensual":-0.4,
         "temperatura_media_maxima_mensual":7.5,
         "temperatura_max_absoluta_mes":"14.8(18)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"SOMOSIERRA",
+        "provincia":"MADRID",
+        "lat":"410808N",
+        "long":"033450W"
     }
 ]

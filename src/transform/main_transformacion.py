@@ -3,7 +3,7 @@ import numpy as np
 import json
 import os
 from datetime import datetime
-from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS
+from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS, ARCHIVO_ESTACIONES_METEOROLOGICAS
 
 
 
@@ -35,13 +35,25 @@ def guardarEnJSON(estacion_meteorologica_file, df_datos_a_insertar):
                                      force_ascii=False,
                                      indent=4)
 
-    
 
+def buscar_por_indicativo_la_estacion(data, indicativo):
+    for provincia, estaciones in data.items():
+        for estacion in estaciones:
+            if estacion.get("indicativo") == indicativo:
+                return estacion
+    return None
+
+
+def corregir_valores_rango_uno_cero(dataframe, nombColumna):
+    return dataframe[nombColumna].fillna(0.5).apply(lambda x: max(0, min(x, 1)))
 
 
 def mainTransform():
     print("Inicio flujo Tranformacion")
     # Filtro por las carpetas
+    with open(ARCHIVO_ESTACIONES_METEOROLOGICAS, 'r', encoding='utf-8') as file:
+        estacionesObj = json.load(file)
+
     carpetas = [f for f in os.listdir(RUTA_BASE_FICHEROS_RAW) if os.path.isdir(os.path.join(RUTA_BASE_FICHEROS_RAW, f))]
     indice_solar_dict = INDICE_SOLAR
 
@@ -65,7 +77,7 @@ def mainTransform():
                 nombres_nuevos = {
                     'indicativo': 'id_estacion',
                     'fecha': 'fecha',
-                    'p_max': 'precipitación_máxima',
+                    'p_max': 'precipitacion_maxima',
                     'tm_min': 'temperatura_media_minima_mensual', 
                     'ta_max': 'temperatura_max_absoluta_mes', 
                     'ts_min': 'temperatura_minima_mas_baja', 
@@ -154,15 +166,15 @@ def mainTransform():
                 df_media_precipitaicones = df_final['precipitacion_total_mes'] - df_final['precipitacion_total_mes'].mean()
                 df_final['sequia_meteorologica'] = (df_final['precipitacion_total_mes'] - df_final['precipitacion_total_mes'].mean()) / 100 # Saco el valor en porcentaje
                 
-                # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0
-                df_final['sequia_meteorologica'] = df_final['sequia_meteorologica'].apply(lambda x: max(x, 0))
+                # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0 y si hay nulos los pongo a 0.5
+                df_final['sequia_meteorologica'] = corregir_valores_rango_uno_cero(df_final, 'sequia_meteorologica')
                 
 
             # Sequia Agricola
-                df_final['sequia_agrícola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
+                df_final['sequia_agricola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
 
                 # Corrijo a 0 si hay algun negativo
-                df_final['sequia_agrícola'] = df_final['sequia_agrícola'].apply(lambda x: max(x, 0))
+                df_final['sequia_agricola'] = corregir_valores_rango_uno_cero(df_final, 'sequia_agricola')
 
                 # print(df_final['sequia_meteorologica'])
                 # print(df_final['sequia_agrícola'])
@@ -174,8 +186,18 @@ def mainTransform():
                                      orient="records", 
                                      force_ascii=False,
                                      indent=4)'''
-            # Ordeno y Guardo los datos
+            # Ordeno por mes, agrego datos de la estacion y Guardo los datos
                 df_final = df_final.sort_values(by='mes', ascending=True)
+
+
+                datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, estacion_meteorologica_file.split('-')[1]) # estacion_meteorologica_file.split('-')[1] es el codigo indicativo
+                if datos_estacion == None: # Porque alguna provincia viene con el '-', por ejemplo Araba-Alaba
+                    datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, estacion_meteorologica_file.split('-')[2])
+                df_final["nomb_estacion"] = datos_estacion["nombre"]
+                df_final["provincia"] = datos_estacion["provincia"]
+                df_final["lat"] = datos_estacion["latitud"]
+                df_final["long"] = datos_estacion["longitud"]
+
                 guardarEnJSON(estacion_meteorologica_file ,df_final)
                 
          

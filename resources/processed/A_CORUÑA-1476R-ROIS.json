@@ -2,7 +2,7 @@
     {
         "id_estacion":"1476R",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"107.4(29)",
+        "precipitacion_maxima":"107.4(29)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"14.5(14)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.3723333333,
-        "sequia_agrícola":2.3695947774
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"57.2(09)",
+        "precipitacion_maxima":"57.2(09)",
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"21.9(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1683333333,
-        "sequia_agrícola":0.1643883754
+        "sequia_agricola":0.1643883754,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"74.6(04)",
+        "precipitacion_maxima":"74.6(04)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"22.9(18)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"93.0(30)",
+        "precipitacion_maxima":"93.0(30)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"23.6(24)",
@@ -96,13 +108,17 @@
         "mes":4,
         "year":2020,
         "indice_solar":0.6,
-        "sequia_meteorologica":1.0423333333,
-        "sequia_agrícola":1.0364346558
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"64.6(01)",
+        "precipitacion_maxima":"64.6(01)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"33.1(28)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"20.6(15)",
+        "precipitacion_maxima":"20.6(15)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"31.6(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.2(01)",
+        "precipitacion_maxima":"0.2(01)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"36.1(18)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"63.6(16)",
+        "precipitacion_maxima":"63.6(16)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"33.1(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"24.4(17)",
+        "precipitacion_maxima":"24.4(17)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":24.4,
         "temperatura_max_absoluta_mes":"33.5(12)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"66.4(24)",
+        "precipitacion_maxima":"66.4(24)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":16.9,
         "temperatura_max_absoluta_mes":"22.9(08)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0583333333,
-        "sequia_agrícola":1.053423804
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"78.8(01)",
+        "precipitacion_maxima":"78.8(01)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"20.0(21)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4063333333,
-        "sequia_agrícola":0.4033891183
+        "sequia_agricola":0.4033891183,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"111.4(20)",
+        "precipitacion_maxima":"111.4(20)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":11.9,
         "temperatura_max_absoluta_mes":"15.9(01)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":3.9343333333,
-        "sequia_agrícola":3.9326333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"86.2(21)",
+        "precipitacion_maxima":"86.2(21)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"16.1(18)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.7801818182,
-        "sequia_agrícola":2.7774818182
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"99.2(11)",
+        "precipitacion_maxima":"99.2(11)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"19.3(15)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":3.4201818182,
-        "sequia_agrícola":3.4163914764
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"29.4(10)",
+        "precipitacion_maxima":"29.4(10)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":17.2,
         "temperatura_max_absoluta_mes":"28.1(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"15.6(24)",
+        "precipitacion_maxima":"15.6(24)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":18.3,
         "temperatura_max_absoluta_mes":"25.1(05)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"93.4(15)",
+        "precipitacion_maxima":"93.4(15)",
         "temperatura_media_minima_mensual":9.1,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"26.7(30)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8781818182,
-        "sequia_agrícola":0.8707675862
+        "sequia_agricola":0.8707675862,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"41.4(20)",
+        "precipitacion_maxima":"41.4(20)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"32.0(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.1,
         "temperatura_media_maxima_mensual":23.0,
         "temperatura_max_absoluta_mes":"35.3(17)",
@@ -471,13 +543,17 @@
         "mes":7,
         "year":2021,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"14.8(01)",
+        "precipitacion_maxima":"14.8(01)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"30.9(13)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"36.8(06)",
+        "precipitacion_maxima":"36.8(06)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":22.2,
         "temperatura_max_absoluta_mes":"28.9(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"89.0(02)",
+        "precipitacion_maxima":"89.0(02)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"26.2(07)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5261818182,
-        "sequia_agrícola":0.5205272755
+        "sequia_agricola":0.5205272755,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"15.2(02)",
+        "precipitacion_maxima":"15.2(02)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"18.6(10)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"85.2(07)",
+        "precipitacion_maxima":"85.2(07)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"20.1(31)",
@@ -596,13 +688,17 @@
         "mes":12,
         "year":2021,
         "indice_solar":0.2,
-        "sequia_meteorologica":2.7421818182,
-        "sequia_agrícola":2.7402972154
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"40.6(03)",
+        "precipitacion_maxima":"40.6(03)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":14.1,
         "temperatura_max_absoluta_mes":"18.8(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"51.0(13)",
+        "precipitacion_maxima":"51.0(13)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":14.6,
         "temperatura_max_absoluta_mes":"19.6(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"52.8(10)",
+        "precipitacion_maxima":"52.8(10)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"21.4(27)",
@@ -671,13 +775,17 @@
         "mes":3,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.0368571429,
-        "sequia_agrícola":1.0321571429
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"35.0(08)",
+        "precipitacion_maxima":"35.0(08)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":17.1,
         "temperatura_max_absoluta_mes":"25.6(29)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0228571429,
-        "sequia_agrícola":0.0149867988
+        "sequia_agricola":0.0149867988,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"29.2(31)",
+        "precipitacion_maxima":"29.2(31)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"31.1(28)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"20.2(24)",
+        "precipitacion_maxima":"20.2(24)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"30.5(13)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-07-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":28.6,
         "temperatura_max_absoluta_mes":"39.3(12)",
@@ -771,13 +891,17 @@
         "mes":7,
         "year":2022,
         "indice_solar":1.0,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-08-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"33.7(10)",
@@ -796,13 +920,17 @@
         "mes":8,
         "year":2022,
         "indice_solar":0.9,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-09-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":14.0,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"29.7(19)",
@@ -821,13 +949,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"35.2(23)",
+        "precipitacion_maxima":"35.2(23)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"27.0(03)",
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.2628571429,
-        "sequia_agrícola":1.2571497496
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-11-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"21.3(12)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2022-12-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":8.4,
         "temperatura_media_maxima_mensual":13.9,
         "temperatura_max_absoluta_mes":"16.3(31)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"53.4(16)",
+        "precipitacion_maxima":"53.4(16)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"16.0(05)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.7149090909,
-        "sequia_agrícola":0.7120620106
+        "sequia_agricola":0.7120620106,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"2.4(24)",
+        "precipitacion_maxima":"2.4(24)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":15.6,
         "temperatura_max_absoluta_mes":"22.3(18)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-03-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -971,13 +1123,17 @@
         "mes":3,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"95.4(22)",
+        "precipitacion_maxima":"95.4(22)",
         "temperatura_media_minima_mensual":9.0,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"29.0(17)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"14.0(04)",
+        "precipitacion_maxima":"14.0(04)",
         "temperatura_media_minima_mensual":11.1,
         "temperatura_media_maxima_mensual":22.5,
         "temperatura_max_absoluta_mes":"29.2(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"37.6(17)",
+        "precipitacion_maxima":"37.6(17)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"32.0(23)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"32.2(14)",
+        "precipitacion_maxima":"32.2(14)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"29.5(26)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"51.6(18)",
+        "precipitacion_maxima":"51.6(18)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"36.2(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"38.6(20)",
+        "precipitacion_maxima":"38.6(20)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"32.1(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"126.6(25)",
+        "precipitacion_maxima":"126.6(25)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"32.5(09)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":4.6129090909,
-        "sequia_agrícola":4.608093308
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"114.8(03)",
+        "precipitacion_maxima":"114.8(03)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"19.6(16)",
@@ -1171,13 +1355,17 @@
         "mes":11,
         "year":2023,
         "indice_solar":0.3,
-        "sequia_meteorologica":5.2269090909,
-        "sequia_agrícola":5.2242090909
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"89.2(27)",
+        "precipitacion_maxima":"89.2(27)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"16.1(09)",
@@ -1196,13 +1384,17 @@
         "mes":12,
         "year":2023,
         "indice_solar":0.2,
-        "sequia_meteorologica":1.8829090909,
-        "sequia_agrícola":1.8811306465
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"69.2(02)",
+        "precipitacion_maxima":"69.2(02)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"20.6(27)",
@@ -1221,13 +1413,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.2693333333,
-        "sequia_agrícola":1.2666108025
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"115.4(08)",
+        "precipitacion_maxima":"115.4(08)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"22.3(14)",
@@ -1246,13 +1442,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.6733333333,
-        "sequia_agrícola":1.669601507
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"55.4(01)",
+        "precipitacion_maxima":"55.4(01)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":15.0,
         "temperatura_max_absoluta_mes":"25.5(21)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3333333333,
-        "sequia_agrícola":1.3285995055
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"41.6(04)",
+        "precipitacion_maxima":"41.6(04)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"28.4(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"149.8(03)",
+        "precipitacion_maxima":"149.8(03)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"30.3(10)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.6453333333,
-        "sequia_agrícola":0.6383845649
+        "sequia_agricola":0.6383845649,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"51.4(16)",
+        "precipitacion_maxima":"51.4(16)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":22.8,
         "temperatura_max_absoluta_mes":"31.4(24)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"52.8(14)",
+        "precipitacion_maxima":"52.8(14)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":25.8,
         "temperatura_max_absoluta_mes":"34.1(29)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"5.6(24)",
+        "precipitacion_maxima":"5.6(24)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"35.4(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"149.6(25)",
+        "precipitacion_maxima":"149.6(25)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"29.5(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2673333333,
-        "sequia_agrícola":0.2602224783
+        "sequia_agricola":0.2602224783,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"217.6(08)",
+        "precipitacion_maxima":"217.6(08)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":19.5,
         "temperatura_max_absoluta_mes":"24.3(13)",
@@ -1446,13 +1674,17 @@
         "mes":10,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":4.1613333333,
-        "sequia_agrícola":4.1566333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"42.8(21)",
+        "precipitacion_maxima":"42.8(21)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"23.8(02)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     },
     {
         "id_estacion":"1476R",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"83.0(18)",
+        "precipitacion_maxima":"83.0(18)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"18.1(25)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ROIS, CASAS DO PORTO",
+        "provincia":"A CORUÑA",
+        "lat":"424459N",
+        "long":"084253W"
     }
 ]

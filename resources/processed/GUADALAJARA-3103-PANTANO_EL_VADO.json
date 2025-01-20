@@ -2,7 +2,7 @@
     {
         "id_estacion":3103,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"8.0(24)",
+        "precipitacion_maxima":"8.0(24)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":10.0,
         "temperatura_max_absoluta_mes":"16.8(08)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.6(08)",
+        "precipitacion_maxima":"0.6(08)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"22.3(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"39.2(31)",
+        "precipitacion_maxima":"39.2(31)",
         "temperatura_media_minima_mensual":3.3,
         "temperatura_media_maxima_mensual":14.0,
         "temperatura_max_absoluta_mes":"24.2(11)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7313333333,
-        "sequia_agrícola":0.7266333333
+        "sequia_agricola":0.7266333333,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"12.4(15)",
+        "precipitacion_maxima":"12.4(15)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"20.5(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0773333333,
-        "sequia_agrícola":0.0705255142
+        "sequia_agricola":0.0705255142,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"26.4(25)",
+        "precipitacion_maxima":"26.4(25)",
         "temperatura_media_minima_mensual":9.5,
         "temperatura_media_maxima_mensual":23.4,
         "temperatura_max_absoluta_mes":"29.3(22)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.2253333333,
-        "sequia_agrícola":0.2172577165
+        "sequia_agricola":0.2172577165,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"9.2(03)",
+        "precipitacion_maxima":"9.2(03)",
         "temperatura_media_minima_mensual":11.5,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"34.8(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"4.0(09)",
+        "precipitacion_maxima":"4.0(09)",
         "temperatura_media_minima_mensual":15.5,
         "temperatura_media_maxima_mensual":33.2,
         "temperatura_max_absoluta_mes":"37.5(27)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"11.8(11)",
+        "precipitacion_maxima":"11.8(11)",
         "temperatura_media_minima_mensual":14.2,
         "temperatura_media_maxima_mensual":30.6,
         "temperatura_max_absoluta_mes":"36.2(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"30.8(17)",
+        "precipitacion_maxima":"30.8(17)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":25.1,
         "temperatura_max_absoluta_mes":"32.7(05)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3053333333,
-        "sequia_agrícola":0.2972569676
+        "sequia_agricola":0.2972569676,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"36.6(20)",
+        "precipitacion_maxima":"36.6(20)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"25.3(07)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.6593333333,
-        "sequia_agrícola":0.6543402059
+        "sequia_agricola":0.6543402059,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"18.6(06)",
+        "precipitacion_maxima":"18.6(06)",
         "temperatura_media_minima_mensual":4.9,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"20.5(19)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"9.4(31)",
+        "precipitacion_maxima":"9.4(31)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":8.6,
         "temperatura_max_absoluta_mes":"16.0(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0613333333,
-        "sequia_agrícola":0.0594639694
+        "sequia_agricola":0.0594639694,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"15.1(27)",
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2021,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"26.6(09)",
+        "precipitacion_maxima":"26.6(09)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"20.1(27)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.2789090909,
-        "sequia_agrícola":0.2752090909
+        "sequia_agricola":0.2752090909,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"11.4(07)",
+        "precipitacion_maxima":"11.4(07)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"22.4(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"14.4(27)",
+        "precipitacion_maxima":"14.4(27)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":16.1,
         "temperatura_max_absoluta_mes":"21.9(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4089090909,
-        "sequia_agrícola":0.4029092255
+        "sequia_agricola":0.4029092255,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"16.2(31)",
+        "precipitacion_maxima":"16.2(31)",
         "temperatura_media_minima_mensual":8.2,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"29.2(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"9.2(17)",
+        "precipitacion_maxima":"9.2(17)",
         "temperatura_media_minima_mensual":12.1,
         "temperatura_media_maxima_mensual":26.2,
         "temperatura_max_absoluta_mes":"32.0(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"22.2(31)",
+        "precipitacion_maxima":"22.2(31)",
         "temperatura_media_minima_mensual":13.6,
         "temperatura_media_maxima_mensual":30.5,
         "temperatura_max_absoluta_mes":"36.9(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"14.4(31)",
+        "precipitacion_maxima":"14.4(31)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":32.1,
         "temperatura_max_absoluta_mes":"39.0(13)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"19.0(24)",
+        "precipitacion_maxima":"19.0(24)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":23.7,
         "temperatura_max_absoluta_mes":"30.6(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0789090909,
-        "sequia_agrícola":0.0690286896
+        "sequia_agricola":0.0690286896,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"60.2(29)",
+        "precipitacion_maxima":"60.2(29)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"25.5(08)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4829090909,
-        "sequia_agrícola":0.4775020248
+        "sequia_agricola":0.4775020248,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"19.4(22)",
+        "precipitacion_maxima":"19.4(22)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"19.1(12)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"15.8(26)",
+        "precipitacion_maxima":"15.8(26)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":11.3,
         "temperatura_max_absoluta_mes":"18.0(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"3.0(04)",
+        "precipitacion_maxima":"3.0(04)",
         "temperatura_media_minima_mensual":-1.2,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"17.5(30)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"5.0(26)",
+        "precipitacion_maxima":"5.0(26)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":14.8,
         "temperatura_max_absoluta_mes":"23.0(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"21.0(21)",
+        "precipitacion_maxima":"21.0(21)",
         "temperatura_media_minima_mensual":3.7,
         "temperatura_media_maxima_mensual":11.5,
         "temperatura_max_absoluta_mes":"17.3(01)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5087272727,
-        "sequia_agrícola":0.5038477868
+        "sequia_agricola":0.5038477868,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"44.4(22)",
+        "precipitacion_maxima":"44.4(22)",
         "temperatura_media_minima_mensual":3.4,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"24.5(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.3267272727,
-        "sequia_agrícola":0.3204763096
+        "sequia_agricola":0.3204763096,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -721,13 +833,17 @@
         "mes":5,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.8(18)",
+        "precipitacion_maxima":"0.8(18)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"37.8(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"11.8(06)",
+        "precipitacion_maxima":"11.8(06)",
         "temperatura_media_minima_mensual":16.3,
         "temperatura_media_maxima_mensual":34.8,
         "temperatura_max_absoluta_mes":"39.1(14)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"37.4(26)",
+        "precipitacion_maxima":"37.4(26)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":32.3,
         "temperatura_max_absoluta_mes":"36.0(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"8.4(13)",
+        "precipitacion_maxima":"8.4(13)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":25.0,
         "temperatura_max_absoluta_mes":"32.8(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"41.0(21)",
+        "precipitacion_maxima":"41.0(21)",
         "temperatura_media_minima_mensual":9.6,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"29.1(04)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4187272727,
-        "sequia_agrícola":0.4130356857
+        "sequia_agricola":0.4130356857,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"13.4(20)",
+        "precipitacion_maxima":"13.4(20)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":13.6,
         "temperatura_max_absoluta_mes":"18.8(02)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2987272727,
-        "sequia_agrícola":0.2954976372
+        "sequia_agricola":0.2954976372,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"29.2(08)",
+        "precipitacion_maxima":"29.2(08)",
         "temperatura_media_minima_mensual":4.1,
         "temperatura_media_maxima_mensual":10.3,
         "temperatura_max_absoluta_mes":"15.4(26)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.7847272727,
-        "sequia_agrícola":0.7830272727
+        "sequia_agricola":0.7830272727,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"23.8(08)",
+        "precipitacion_maxima":"23.8(08)",
         "temperatura_media_minima_mensual":-0.1,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"14.1(05)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"1.2(22)",
+        "precipitacion_maxima":"1.2(22)",
         "temperatura_media_minima_mensual":-1.1,
         "temperatura_media_maxima_mensual":12.4,
         "temperatura_max_absoluta_mes":"18.9(04)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"17.0(08)",
+        "precipitacion_maxima":"17.0(08)",
         "temperatura_media_minima_mensual":3.0,
         "temperatura_media_maxima_mensual":16.7,
         "temperatura_max_absoluta_mes":"23.2(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"8.8(21)",
+        "precipitacion_maxima":"8.8(21)",
         "temperatura_media_minima_mensual":6.3,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"29.1(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"14.8(23)",
+        "precipitacion_maxima":"14.8(23)",
         "temperatura_media_minima_mensual":8.0,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"27.5(02)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"15.6(21)",
+        "precipitacion_maxima":"15.6(21)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"34.6(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0721666667,
-        "sequia_agrícola":0.0616120465
+        "sequia_agricola":0.0616120465,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"3.0(03)",
+        "precipitacion_maxima":"3.0(03)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":33.0,
         "temperatura_max_absoluta_mes":"37.5(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.4(25)",
+        "precipitacion_maxima":"0.4(25)",
         "temperatura_media_minima_mensual":15.9,
         "temperatura_media_maxima_mensual":33.2,
         "temperatura_max_absoluta_mes":"39.6(09)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"26.2(10)",
+        "precipitacion_maxima":"26.2(10)",
         "temperatura_media_minima_mensual":12.3,
         "temperatura_media_maxima_mensual":24.5,
         "temperatura_max_absoluta_mes":"30.8(29)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.8981666667,
-        "sequia_agrícola":0.890977396
+        "sequia_agricola":0.890977396,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"60.4(19)",
+        "precipitacion_maxima":"60.4(19)",
         "temperatura_media_minima_mensual":9.8,
         "temperatura_media_maxima_mensual":20.9,
         "temperatura_max_absoluta_mes":"30.9(01)",
@@ -1146,13 +1326,17 @@
         "mes":10,
         "year":2023,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.6041666667,
-        "sequia_agrícola":1.5994666667
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"39.6(30)",
+        "precipitacion_maxima":"39.6(30)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":14.4,
         "temperatura_max_absoluta_mes":"20.2(19)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.4161666667,
-        "sequia_agrícola":0.4131981512
+        "sequia_agricola":0.4131981512,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"19.8(07)",
+        "precipitacion_maxima":"19.8(07)",
         "temperatura_media_minima_mensual":0.9,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"15.8(22)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"34.4(16)",
+        "precipitacion_maxima":"34.4(16)",
         "temperatura_media_minima_mensual":2.0,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"21.9(26)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2063333333,
-        "sequia_agrícola":0.203387763
+        "sequia_agricola":0.203387763,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"40.8(08)",
+        "precipitacion_maxima":"40.8(08)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":13.0,
         "temperatura_max_absoluta_mes":"20.3(20)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.2483333333,
-        "sequia_agrícola":0.2442756736
+        "sequia_agricola":0.2442756736,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"37.8(02)",
+        "precipitacion_maxima":"37.8(02)",
         "temperatura_media_minima_mensual":3.6,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"25.3(22)",
@@ -1271,13 +1471,17 @@
         "mes":3,
         "year":2024,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.3303333333,
-        "sequia_agrícola":1.3256333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"5.8(26)",
+        "precipitacion_maxima":"5.8(26)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":18.4,
         "temperatura_max_absoluta_mes":"26.5(13)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"15.6(13)",
+        "precipitacion_maxima":"15.6(13)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"30.8(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"45.8(28)",
+        "precipitacion_maxima":"45.8(28)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"32.9(06)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.4983333333,
-        "sequia_agrícola":0.4886624032
+        "sequia_agricola":0.4886624032,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.2(29)",
+        "precipitacion_maxima":"0.2(29)",
         "temperatura_media_minima_mensual":15.1,
         "temperatura_media_maxima_mensual":32.8,
         "temperatura_max_absoluta_mes":"38.3(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"26.8(30)",
+        "precipitacion_maxima":"26.8(30)",
         "temperatura_media_minima_mensual":16.1,
         "temperatura_media_maxima_mensual":33.3,
         "temperatura_max_absoluta_mes":"38.4(09)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"34.6(18)",
+        "precipitacion_maxima":"34.6(18)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"29.3(10)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"39.2(29)",
+        "precipitacion_maxima":"39.2(29)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"24.9(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.9283333333,
-        "sequia_agrícola":0.9232616047
+        "sequia_agricola":0.9232616047,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"7.0(25)",
+        "precipitacion_maxima":"7.0(25)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"20.5(06)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     },
     {
         "id_estacion":3103,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"1.6(12)",
+        "precipitacion_maxima":"1.6(12)",
         "temperatura_media_minima_mensual":0.7,
         "temperatura_media_maxima_mensual":11.6,
         "temperatura_max_absoluta_mes":"18.2(25)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"PANTANO EL VADO",
+        "provincia":"GUADALAJARA",
+        "lat":"410013N",
+        "long":"031807W"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id_estacion":5514,
         "fecha":"2020-01-01",
-        "precipitación_máxima":"21.6(25)",
+        "precipitacion_maxima":"21.6(25)",
         "temperatura_media_minima_mensual":0.2,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"18.6(31)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0820833333,
-        "sequia_agrícola":0.0793238231
+        "sequia_agricola":0.0793238231,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-02-01",
-        "precipitación_máxima":"0.6(29)",
+        "precipitacion_maxima":"0.6(29)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"23.0(03)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-03-01",
-        "precipitación_máxima":"8.0(21)",
+        "precipitacion_maxima":"8.0(21)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"28.5(12)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.1320833333,
-        "sequia_agrícola":0.1266293288
+        "sequia_agricola":0.1266293288,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-04-01",
-        "precipitación_máxima":"15.4(02)",
+        "precipitacion_maxima":"15.4(02)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"22.8(18)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.4120833333,
-        "sequia_agrícola":0.4063833333
+        "sequia_agricola":0.4063833333,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-05-01",
-        "precipitación_máxima":"15.3(12)",
+        "precipitacion_maxima":"15.3(12)",
         "temperatura_media_minima_mensual":10.7,
         "temperatura_media_maxima_mensual":27.3,
         "temperatura_max_absoluta_mes":"33.2(23)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1720833333,
-        "sequia_agrícola":0.1637830692
+        "sequia_agricola":0.1637830692,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-06-01",
-        "precipitación_máxima":"16.6(04)",
+        "precipitacion_maxima":"16.6(04)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":30.7,
         "temperatura_max_absoluta_mes":"38.2(30)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.4(19)",
+        "precipitacion_maxima":"0.4(19)",
         "temperatura_media_minima_mensual":18.7,
         "temperatura_media_maxima_mensual":37.0,
         "temperatura_max_absoluta_mes":"41.5(26)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-08-01",
-        "precipitación_máxima":"0.1(11)",
+        "precipitacion_maxima":"0.1(11)",
         "temperatura_media_minima_mensual":17.3,
         "temperatura_media_maxima_mensual":35.6,
         "temperatura_max_absoluta_mes":"40.8(01)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-09-01",
-        "precipitación_máxima":"2.2(17)",
+        "precipitacion_maxima":"2.2(17)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"34.0(07)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-10-01",
-        "precipitación_máxima":"8.6(22)",
+        "precipitacion_maxima":"8.6(22)",
         "temperatura_media_minima_mensual":7.4,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"29.8(08)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-11-01",
-        "precipitación_máxima":"40.1(26)",
+        "precipitacion_maxima":"40.1(26)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"27.8(06)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3750833333,
-        "sequia_agrícola":0.3723674161
+        "sequia_agricola":0.3723674161,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2020-12-01",
-        "precipitación_máxima":"9.9(10)",
+        "precipitacion_maxima":"9.9(10)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"19.2(22)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0150833333,
-        "sequia_agrícola":0.0128492053
+        "sequia_agricola":0.0128492053,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-01-01",
-        "precipitación_máxima":"12.7(07)",
+        "precipitacion_maxima":"12.7(07)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"22.0(28)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.34475,
-        "sequia_agrícola":0.34205
+        "sequia_agricola":0.34205,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-02-01",
-        "precipitación_máxima":"7.3(21)",
+        "precipitacion_maxima":"7.3(21)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":17.4,
         "temperatura_max_absoluta_mes":"22.8(17)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.03675,
-        "sequia_agrícola":0.0310510461
+        "sequia_agricola":0.0310510461,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-03-01",
-        "precipitación_máxima":"8.7(08)",
+        "precipitacion_maxima":"8.7(08)",
         "temperatura_media_minima_mensual":3.1,
         "temperatura_media_maxima_mensual":19.0,
         "temperatura_max_absoluta_mes":"27.5(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-04-01",
-        "precipitación_máxima":"8.9(15)",
+        "precipitacion_maxima":"8.9(15)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"25.0(01)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.12275,
-        "sequia_agrícola":0.1151097309
+        "sequia_agricola":0.1151097309,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-05-01",
-        "precipitación_máxima":"15.2(27)",
+        "precipitacion_maxima":"15.2(27)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":26.4,
         "temperatura_max_absoluta_mes":"32.1(19)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.11375,
-        "sequia_agrícola":0.1043800808
+        "sequia_agricola":0.1043800808,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-06-01",
-        "precipitación_máxima":"9.9(16)",
+        "precipitacion_maxima":"9.9(16)",
         "temperatura_media_minima_mensual":13.7,
         "temperatura_media_maxima_mensual":30.7,
         "temperatura_max_absoluta_mes":"35.2(09)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":17.5,
         "temperatura_media_maxima_mensual":35.7,
         "temperatura_max_absoluta_mes":"41.6(11)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-08-01",
-        "precipitación_máxima":"0.2(24)",
+        "precipitacion_maxima":"0.2(24)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":35.4,
         "temperatura_max_absoluta_mes":"43.8(13)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-09-01",
-        "precipitación_máxima":"3.1(14)",
+        "precipitacion_maxima":"3.1(14)",
         "temperatura_media_minima_mensual":14.4,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"39.1(07)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-10-01",
-        "precipitación_máxima":"4.0(30)",
+        "precipitacion_maxima":"4.0(30)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"29.6(07)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-11-01",
-        "precipitación_máxima":"16.6(01)",
+        "precipitacion_maxima":"16.6(01)",
         "temperatura_media_minima_mensual":3.2,
         "temperatura_media_maxima_mensual":15.5,
         "temperatura_max_absoluta_mes":"21.5(01)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.09675,
-        "sequia_agrícola":0.0927584784
+        "sequia_agricola":0.0927584784,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2021-12-01",
-        "precipitación_máxima":"11.7(24)",
+        "precipitacion_maxima":"11.7(24)",
         "temperatura_media_minima_mensual":2.7,
         "temperatura_media_maxima_mensual":15.8,
         "temperatura_max_absoluta_mes":"23.4(30)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.18275,
-        "sequia_agrícola":0.1802033445
+        "sequia_agricola":0.1802033445,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-01-01",
-        "precipitación_máxima":"8.4(05)",
+        "precipitacion_maxima":"8.4(05)",
         "temperatura_media_minima_mensual":-0.6,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"22.3(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-02-01",
-        "precipitación_máxima":"7.5(24)",
+        "precipitacion_maxima":"7.5(24)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":18.5,
         "temperatura_max_absoluta_mes":"22.8(17)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-03-01",
-        "precipitación_máxima":"14.3(03)",
+        "precipitacion_maxima":"14.3(03)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":16.0,
         "temperatura_max_absoluta_mes":"19.5(28)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.7664166667,
-        "sequia_agrícola":0.7617166667
+        "sequia_agricola":0.7617166667,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-04-01",
-        "precipitación_máxima":"14.2(23)",
+        "precipitacion_maxima":"14.2(23)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":19.2,
         "temperatura_max_absoluta_mes":"27.2(17)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2244166667,
-        "sequia_agrícola":0.2175237647
+        "sequia_agricola":0.2175237647,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-05-01",
-        "precipitación_máxima":"7.3(03)",
+        "precipitacion_maxima":"7.3(03)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"38.5(21)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-06-01",
-        "precipitación_máxima":"1.3(21)",
+        "precipitacion_maxima":"1.3(21)",
         "temperatura_media_minima_mensual":15.4,
         "temperatura_media_maxima_mensual":33.2,
         "temperatura_max_absoluta_mes":"40.3(13)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.0,
         "temperatura_media_maxima_mensual":37.3,
         "temperatura_max_absoluta_mes":"40.4(24)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-08-01",
-        "precipitación_máxima":"2.6(30)",
+        "precipitacion_maxima":"2.6(30)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":35.8,
         "temperatura_max_absoluta_mes":"39.9(12)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-09-01",
-        "precipitación_máxima":"3.1(29)",
+        "precipitacion_maxima":"3.1(29)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":30.3,
         "temperatura_max_absoluta_mes":"37.2(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-10-01",
-        "precipitación_máxima":"1.9(06)",
+        "precipitacion_maxima":"1.9(06)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"33.8(18)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-11-01",
-        "precipitación_máxima":"4.3(18)",
+        "precipitacion_maxima":"4.3(18)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"27.5(01)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2022-12-01",
-        "precipitación_máxima":"34.6(09)",
+        "precipitacion_maxima":"34.6(09)",
         "temperatura_media_minima_mensual":5.3,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"21.1(24)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.7724166667,
-        "sequia_agrícola":0.7706872834
+        "sequia_agricola":0.7706872834,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-01-01",
-        "precipitación_máxima":"7.8(17)",
+        "precipitacion_maxima":"7.8(17)",
         "temperatura_media_minima_mensual":1.1,
         "temperatura_media_maxima_mensual":13.4,
         "temperatura_max_absoluta_mes":"18.3(01)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-02-01",
-        "precipitación_máxima":"5.4(07)",
+        "precipitacion_maxima":"5.4(07)",
         "temperatura_media_minima_mensual":1.2,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"22.4(21)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-03-01",
-        "precipitación_máxima":"4.5(06)",
+        "precipitacion_maxima":"4.5(06)",
         "temperatura_media_minima_mensual":4.4,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"27.8(29)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-04-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"35.2(28)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-05-01",
-        "precipitación_máxima":"12.9(27)",
+        "precipitacion_maxima":"12.9(27)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":25.2,
         "temperatura_max_absoluta_mes":"32.0(09)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.3025,
-        "sequia_agrícola":0.2958
+        "sequia_agricola":0.2958,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-06-01",
-        "precipitación_máxima":"13.9(07)",
+        "precipitacion_maxima":"13.9(07)",
         "temperatura_media_minima_mensual":15.8,
         "temperatura_media_maxima_mensual":30.3,
         "temperatura_max_absoluta_mes":"37.8(26)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.1935,
-        "sequia_agrícola":0.1831813413
+        "sequia_agricola":0.1831813413,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.7,
         "temperatura_media_maxima_mensual":37.5,
         "temperatura_max_absoluta_mes":"42.8(10)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-08-01",
-        "precipitación_máxima":"0.2(25)",
+        "precipitacion_maxima":"0.2(25)",
         "temperatura_media_minima_mensual":19.1,
         "temperatura_media_maxima_mensual":37.3,
         "temperatura_max_absoluta_mes":"42.8(09)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-09-01",
-        "precipitación_máxima":"9.5(03)",
+        "precipitacion_maxima":"9.5(03)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":29.7,
         "temperatura_max_absoluta_mes":"33.1(29)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-10-01",
-        "precipitación_máxima":"32.3(19)",
+        "precipitacion_maxima":"32.3(19)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":25.5,
         "temperatura_max_absoluta_mes":"33.7(06)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2265,
-        "sequia_agrícola":0.2211922092
+        "sequia_agricola":0.2211922092,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-11-01",
-        "precipitación_máxima":"0.7(02)",
+        "precipitacion_maxima":"0.7(02)",
         "temperatura_media_minima_mensual":5.0,
         "temperatura_media_maxima_mensual":19.6,
         "temperatura_max_absoluta_mes":"26.5(14)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2023-12-01",
-        "precipitación_máxima":"7.1(05)",
+        "precipitacion_maxima":"7.1(05)",
         "temperatura_media_minima_mensual":1.4,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"21.5(12)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0285,
-        "sequia_agrícola":0.0263106251
+        "sequia_agricola":0.0263106251,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-01-01",
-        "precipitación_máxima":"10.1(09)",
+        "precipitacion_maxima":"10.1(09)",
         "temperatura_media_minima_mensual":3.5,
         "temperatura_media_maxima_mensual":16.8,
         "temperatura_max_absoluta_mes":"26.8(25)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0146666667,
-        "sequia_agrícola":0.0104606573
+        "sequia_agricola":0.0104606573,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-02-01",
-        "precipitación_máxima":"16.0(09)",
+        "precipitacion_maxima":"16.0(09)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":17.0,
         "temperatura_max_absoluta_mes":"23.2(14)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.1886666667,
-        "sequia_agrícola":0.1840677665
+        "sequia_agricola":0.1840677665,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-03-01",
-        "precipitación_máxima":"21.1(31)",
+        "precipitacion_maxima":"21.1(31)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"29.3(23)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8776666667,
-        "sequia_agrícola":0.8729666667
+        "sequia_agricola":0.8729666667,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-04-01",
-        "precipitación_máxima":"12.9(27)",
+        "precipitacion_maxima":"12.9(27)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":22.7,
         "temperatura_max_absoluta_mes":"29.2(17)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-05-01",
-        "precipitación_máxima":"4.7(01)",
+        "precipitacion_maxima":"4.7(01)",
         "temperatura_media_minima_mensual":10.1,
         "temperatura_media_maxima_mensual":26.7,
         "temperatura_max_absoluta_mes":"35.8(30)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-06-01",
-        "precipitación_máxima":"0.1(06)",
+        "precipitacion_maxima":"0.1(06)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"36.8(06)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":19.2,
         "temperatura_media_maxima_mensual":36.9,
         "temperatura_max_absoluta_mes":"43.2(31)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-08-01",
-        "precipitación_máxima":"3.7(28)",
+        "precipitacion_maxima":"3.7(28)",
         "temperatura_media_minima_mensual":20.0,
         "temperatura_media_maxima_mensual":36.3,
         "temperatura_max_absoluta_mes":"41.8(01)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-09-01",
-        "precipitación_máxima":"12.2(07)",
+        "precipitacion_maxima":"12.2(07)",
         "temperatura_media_minima_mensual":14.6,
         "temperatura_media_maxima_mensual":29.2,
         "temperatura_max_absoluta_mes":"33.6(03)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-10-01",
-        "precipitación_máxima":"20.2(29)",
+        "precipitacion_maxima":"20.2(29)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"31.0(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2816666667,
-        "sequia_agrícola":0.2754973
+        "sequia_agricola":0.2754973,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-11-01",
-        "precipitación_máxima":"62.9(13)",
+        "precipitacion_maxima":"62.9(13)",
         "temperatura_media_minima_mensual":7.5,
         "temperatura_media_maxima_mensual":20.4,
         "temperatura_max_absoluta_mes":"24.4(05)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3216666667,
-        "sequia_agrícola":0.3180336732
+        "sequia_agricola":0.3180336732,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     },
     {
         "id_estacion":5514,
         "fecha":"2024-12-01",
-        "precipitación_máxima":"2.2(12)",
+        "precipitacion_maxima":"2.2(12)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"20.6(02)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"GRANADA BASE AÉREA",
+        "provincia":"GRANADA",
+        "lat":"370814N",
+        "long":"033753W"
     }
 ]

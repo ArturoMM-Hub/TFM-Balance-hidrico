@@ -2,7 +2,7 @@
     {
         "id_estacion":"2742R",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"4.2(29)",
+        "precipitacion_maxima":"4.2(29)",
         "temperatura_media_minima_mensual":-0.8,
         "temperatura_media_maxima_mensual":7.7,
         "temperatura_max_absoluta_mes":"14.5(05)",
@@ -22,12 +22,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"2.2(08)",
+        "precipitacion_maxima":"2.2(08)",
         "temperatura_media_minima_mensual":1.6,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"20.9(24)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"10.8(01)",
+        "precipitacion_maxima":"10.8(01)",
         "temperatura_media_minima_mensual":1.8,
         "temperatura_media_maxima_mensual":14.9,
         "temperatura_max_absoluta_mes":"21.6(10)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"9.4(16)",
+        "precipitacion_maxima":"9.4(16)",
         "temperatura_media_minima_mensual":6.7,
         "temperatura_media_maxima_mensual":15.9,
         "temperatura_max_absoluta_mes":"20.5(24)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2653333333,
-        "sequia_agrícola":0.2588086158
+        "sequia_agricola":0.2588086158,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"15.8(14)",
+        "precipitacion_maxima":"15.8(14)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":23.1,
         "temperatura_max_absoluta_mes":"30.1(30)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0673333333,
-        "sequia_agrícola":0.0575314584
+        "sequia_agricola":0.0575314584,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"15.8(03)",
+        "precipitacion_maxima":"15.8(03)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":23.8,
         "temperatura_max_absoluta_mes":"33.2(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"5.6(08)",
+        "precipitacion_maxima":"5.6(08)",
         "temperatura_media_minima_mensual":12.9,
         "temperatura_media_maxima_mensual":30.4,
         "temperatura_max_absoluta_mes":"34.9(27)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"12.2(17)",
+        "precipitacion_maxima":"12.2(17)",
         "temperatura_media_minima_mensual":11.6,
         "temperatura_media_maxima_mensual":26.3,
         "temperatura_max_absoluta_mes":"34.5(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0173333333,
-        "sequia_agrícola":0.004434483
+        "sequia_agricola":0.004434483,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"12.8(17)",
+        "precipitacion_maxima":"12.8(17)",
         "temperatura_media_minima_mensual":9.4,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"30.0(04)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"62.0(20)",
+        "precipitacion_maxima":"62.0(20)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":16.3,
         "temperatura_max_absoluta_mes":"23.9(07)",
@@ -247,12 +283,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4973333333,
-        "sequia_agrícola":0.4926333333
+        "sequia_agricola":0.4926333333,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"17.0(25)",
+        "precipitacion_maxima":"17.0(25)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":13.2,
         "temperatura_max_absoluta_mes":"18.2(21)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1053333333,
-        "sequia_agrícola":0.101715524
+        "sequia_agricola":0.101715524,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"6.0(10)",
+        "precipitacion_maxima":"6.0(10)",
         "temperatura_media_minima_mensual":0.5,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"15.2(01)",
@@ -297,12 +341,16 @@
         "year":2020,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"12.2(21)",
+        "precipitacion_maxima":"12.2(21)",
         "temperatura_media_minima_mensual":-2.1,
         "temperatura_media_maxima_mensual":7.6,
         "temperatura_max_absoluta_mes":"16.9(27)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"20.6(05)",
+        "precipitacion_maxima":"20.6(05)",
         "temperatura_media_minima_mensual":2.2,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"15.4(27)",
@@ -347,12 +399,16 @@
         "year":2021,
         "indice_solar":0.4,
         "sequia_meteorologica":0.4506666667,
-        "sequia_agrícola":0.4469666667
+        "sequia_agricola":0.4469666667,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"5.4(01)",
+        "precipitacion_maxima":"5.4(01)",
         "temperatura_media_minima_mensual":0.8,
         "temperatura_media_maxima_mensual":14.7,
         "temperatura_max_absoluta_mes":"21.7(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"15.0(20)",
+        "precipitacion_maxima":"15.0(20)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"21.5(05)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.2626666667,
-        "sequia_agrícola":0.2560692
+        "sequia_agricola":0.2560692,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"11.2(01)",
+        "precipitacion_maxima":"11.2(01)",
         "temperatura_media_minima_mensual":6.9,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"29.1(31)",
@@ -422,12 +486,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0306666667,
-        "sequia_agrícola":0.0215271992
+        "sequia_agricola":0.0215271992,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"30.4(16)",
+        "precipitacion_maxima":"30.4(16)",
         "temperatura_media_minima_mensual":10.4,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"31.2(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2986666667,
-        "sequia_agrícola":0.2881593417
+        "sequia_agricola":0.2881593417,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"4.4(02)",
+        "precipitacion_maxima":"4.4(02)",
         "temperatura_media_minima_mensual":10.8,
         "temperatura_media_maxima_mensual":26.8,
         "temperatura_max_absoluta_mes":"32.9(20)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"7.6(31)",
+        "precipitacion_maxima":"7.6(31)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":28.1,
         "temperatura_max_absoluta_mes":"33.8(14)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"19.8(24)",
+        "precipitacion_maxima":"19.8(24)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"31.3(06)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1366666667,
-        "sequia_agrícola":0.1276502967
+        "sequia_agricola":0.1276502967,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"12.8(02)",
+        "precipitacion_maxima":"12.8(02)",
         "temperatura_media_minima_mensual":5.6,
         "temperatura_media_maxima_mensual":19.4,
         "temperatura_max_absoluta_mes":"24.2(09)",
@@ -547,12 +631,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"4.8(22)",
+        "precipitacion_maxima":"4.8(22)",
         "temperatura_media_minima_mensual":-0.2,
         "temperatura_media_maxima_mensual":12.1,
         "temperatura_max_absoluta_mes":"19.6(08)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"11.0(26)",
+        "precipitacion_maxima":"11.0(26)",
         "temperatura_media_minima_mensual":1.9,
         "temperatura_media_maxima_mensual":10.9,
         "temperatura_max_absoluta_mes":"16.4(15)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0046666667,
-        "sequia_agrícola":0.0019601641
+        "sequia_agricola":0.0019601641,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"5.8(05)",
+        "precipitacion_maxima":"5.8(05)",
         "temperatura_media_minima_mensual":-2.7,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"17.0(30)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"1.4(13)",
+        "precipitacion_maxima":"1.4(13)",
         "temperatura_media_minima_mensual":-1.7,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"17.8(22)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"10.6(10)",
+        "precipitacion_maxima":"10.6(10)",
         "temperatura_media_minima_mensual":2.6,
         "temperatura_media_maxima_mensual":11.8,
         "temperatura_max_absoluta_mes":"16.4(15)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2006666667,
-        "sequia_agrícola":0.1957579648
+        "sequia_agricola":0.1957579648,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"8.4(11)",
+        "precipitacion_maxima":"8.4(11)",
         "temperatura_media_minima_mensual":2.1,
         "temperatura_media_maxima_mensual":16.4,
         "temperatura_max_absoluta_mes":"25.9(16)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"14.8(14)",
+        "precipitacion_maxima":"14.8(14)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"32.2(20)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"6.4(23)",
+        "precipitacion_maxima":"6.4(23)",
         "temperatura_media_minima_mensual":11.2,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"34.8(17)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0686666667,
-        "sequia_agrícola":0.0575183176
+        "sequia_agricola":0.0575183176,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.2(03)",
+        "precipitacion_maxima":"0.2(03)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":31.7,
         "temperatura_max_absoluta_mes":"37.7(17)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"6.4(29)",
+        "precipitacion_maxima":"6.4(29)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":30.2,
         "temperatura_max_absoluta_mes":"35.7(02)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"15.4(13)",
+        "precipitacion_maxima":"15.4(13)",
         "temperatura_media_minima_mensual":9.3,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"31.4(11)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1486666667,
-        "sequia_agrícola":0.1402108658
+        "sequia_agricola":0.1402108658,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"34.0(22)",
+        "precipitacion_maxima":"34.0(22)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":20.5,
         "temperatura_max_absoluta_mes":"28.0(03)",
@@ -847,12 +979,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4906666667,
-        "sequia_agrícola":0.4854108339
+        "sequia_agricola":0.4854108339,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"12.6(24)",
+        "precipitacion_maxima":"12.6(24)",
         "temperatura_media_minima_mensual":2.8,
         "temperatura_media_maxima_mensual":12.7,
         "temperatura_max_absoluta_mes":"17.1(12)",
@@ -872,12 +1008,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0186666667,
-        "sequia_agrícola":0.0150316827
+        "sequia_agricola":0.0150316827,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"11.2(29)",
+        "precipitacion_maxima":"11.2(29)",
         "temperatura_media_minima_mensual":3.8,
         "temperatura_media_maxima_mensual":9.9,
         "temperatura_max_absoluta_mes":"15.1(22)",
@@ -897,12 +1037,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.2826666667,
-        "sequia_agrícola":0.2809666667
+        "sequia_agricola":0.2809666667,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-01-01",
-        "precipitación_máxima":"8.6(01)",
+        "precipitacion_maxima":"8.6(01)",
         "temperatura_media_minima_mensual":-1.2,
         "temperatura_media_maxima_mensual":8.2,
         "temperatura_max_absoluta_mes":"13.3(08)",
@@ -922,12 +1066,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-02-01",
-        "precipitación_máxima":"3.8(22)",
+        "precipitacion_maxima":"3.8(22)",
         "temperatura_media_minima_mensual":-2.8,
         "temperatura_media_maxima_mensual":11.3,
         "temperatura_max_absoluta_mes":"18.3(19)",
@@ -947,12 +1095,16 @@
         "year":2023,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-03-01",
-        "precipitación_máxima":"16.0(08)",
+        "precipitacion_maxima":"16.0(08)",
         "temperatura_media_minima_mensual":2.5,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"22.6(28)",
@@ -972,12 +1124,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-04-01",
-        "precipitación_máxima":"3.8(21)",
+        "precipitacion_maxima":"3.8(21)",
         "temperatura_media_minima_mensual":4.2,
         "temperatura_media_maxima_mensual":21.1,
         "temperatura_max_absoluta_mes":"27.9(27)",
@@ -997,12 +1153,16 @@
         "year":2023,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-05-01",
-        "precipitación_máxima":"4.0(30)",
+        "precipitacion_maxima":"4.0(30)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"27.3(03)",
@@ -1022,12 +1182,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-06-01",
-        "precipitación_máxima":"29.2(01)",
+        "precipitacion_maxima":"29.2(01)",
         "temperatura_media_minima_mensual":12.5,
         "temperatura_media_maxima_mensual":25.6,
         "temperatura_max_absoluta_mes":"33.0(25)",
@@ -1047,12 +1211,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.3236666667,
-        "sequia_agrícola":0.3136219163
+        "sequia_agricola":0.3136219163,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-07-01",
-        "precipitación_máxima":"0.2(21)",
+        "precipitacion_maxima":"0.2(21)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"32.5(18)",
@@ -1072,12 +1240,16 @@
         "year":2023,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-08-01",
-        "precipitación_máxima":"5.4(22)",
+        "precipitacion_maxima":"5.4(22)",
         "temperatura_media_minima_mensual":12.7,
         "temperatura_media_maxima_mensual":29.4,
         "temperatura_max_absoluta_mes":"36.1(22)",
@@ -1097,12 +1269,16 @@
         "year":2023,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-09-01",
-        "precipitación_máxima":"50.2(03)",
+        "precipitacion_maxima":"50.2(03)",
         "temperatura_media_minima_mensual":11.0,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"29.5(30)",
@@ -1122,12 +1298,16 @@
         "year":2023,
         "indice_solar":0.7,
         "sequia_meteorologica":0.6256666667,
-        "sequia_agrícola":0.6183299923
+        "sequia_agricola":0.6183299923,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-10-01",
-        "precipitación_máxima":"31.6(25)",
+        "precipitacion_maxima":"31.6(25)",
         "temperatura_media_minima_mensual":8.5,
         "temperatura_media_maxima_mensual":19.9,
         "temperatura_max_absoluta_mes":"29.8(01)",
@@ -1147,12 +1327,16 @@
         "year":2023,
         "indice_solar":0.5,
         "sequia_meteorologica":0.8056666667,
-        "sequia_agrícola":0.8007477369
+        "sequia_agricola":0.8007477369,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-11-01",
-        "precipitación_máxima":"18.4(01)",
+        "precipitacion_maxima":"18.4(01)",
         "temperatura_media_minima_mensual":4.8,
         "temperatura_media_maxima_mensual":13.7,
         "temperatura_max_absoluta_mes":"18.8(11)",
@@ -1172,12 +1356,16 @@
         "year":2023,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2696666667,
-        "sequia_agrícola":0.2665738181
+        "sequia_agricola":0.2665738181,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2023-12-01",
-        "precipitación_máxima":"8.4(07)",
+        "precipitacion_maxima":"8.4(07)",
         "temperatura_media_minima_mensual":-0.2,
         "temperatura_media_maxima_mensual":7.9,
         "temperatura_max_absoluta_mes":"16.4(10)",
@@ -1197,12 +1385,16 @@
         "year":2023,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-01-01",
-        "precipitación_máxima":"7.0(13)",
+        "precipitacion_maxima":"7.0(13)",
         "temperatura_media_minima_mensual":0.3,
         "temperatura_media_maxima_mensual":9.4,
         "temperatura_max_absoluta_mes":"17.2(31)",
@@ -1222,12 +1414,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-02-01",
-        "precipitación_máxima":"6.6(26)",
+        "precipitacion_maxima":"6.6(26)",
         "temperatura_media_minima_mensual":1.5,
         "temperatura_media_maxima_mensual":12.8,
         "temperatura_max_absoluta_mes":"18.3(19)",
@@ -1247,12 +1443,16 @@
         "year":2024,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"13.8(30)",
+        "precipitacion_maxima":"13.8(30)",
         "temperatura_media_minima_mensual":2.3,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"25.5(22)",
@@ -1272,12 +1472,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3078333333,
-        "sequia_agrícola":0.3031333333
+        "sequia_agricola":0.3031333333,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"6.6(26)",
+        "precipitacion_maxima":"6.6(26)",
         "temperatura_media_minima_mensual":4.0,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"28.4(12)",
@@ -1297,12 +1501,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-05-01",
-        "precipitación_máxima":"16.2(05)",
+        "precipitacion_maxima":"16.2(05)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":19.3,
         "temperatura_max_absoluta_mes":"29.7(29)",
@@ -1322,12 +1530,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0538333333,
-        "sequia_agrícola":0.0447959038
+        "sequia_agricola":0.0447959038,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"22.6(07)",
+        "precipitacion_maxima":"22.6(07)",
         "temperatura_media_minima_mensual":10.9,
         "temperatura_media_maxima_mensual":24.3,
         "temperatura_max_absoluta_mes":"30.7(07)",
@@ -1347,12 +1559,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.2318333333,
-        "sequia_agrícola":0.2209196863
+        "sequia_agricola":0.2209196863,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"7.0(29)",
+        "precipitacion_maxima":"7.0(29)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":29.1,
         "temperatura_max_absoluta_mes":"34.2(25)",
@@ -1372,12 +1588,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"12.8(29)",
+        "precipitacion_maxima":"12.8(29)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":29.9,
         "temperatura_max_absoluta_mes":"36.0(10)",
@@ -1397,12 +1617,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"18.6(02)",
+        "precipitacion_maxima":"18.6(02)",
         "temperatura_media_minima_mensual":7.9,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"27.7(16)",
@@ -1422,12 +1646,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.1578333333,
-        "sequia_agrícola":0.149010937
+        "sequia_agricola":0.149010937,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"21.8(15)",
+        "precipitacion_maxima":"21.8(15)",
         "temperatura_media_minima_mensual":8.3,
         "temperatura_media_maxima_mensual":18.0,
         "temperatura_max_absoluta_mes":"22.9(01)",
@@ -1447,12 +1675,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.5398333333,
-        "sequia_agrícola":0.5347050552
+        "sequia_agricola":0.5347050552,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"17.8(24)",
+        "precipitacion_maxima":"17.8(24)",
         "temperatura_media_minima_mensual":5.2,
         "temperatura_media_maxima_mensual":15.1,
         "temperatura_max_absoluta_mes":"20.0(02)",
@@ -1472,12 +1704,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     },
     {
         "id_estacion":"2742R",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"2.2(01)",
+        "precipitacion_maxima":"2.2(01)",
         "temperatura_media_minima_mensual":0.1,
         "temperatura_media_maxima_mensual":9.2,
         "temperatura_max_absoluta_mes":"16.7(06)",
@@ -1497,6 +1733,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"BUSTILLO DEL PÁRAMO",
+        "provincia":"LEON",
+        "lat":"422759N",
+        "long":"054647W"
     }
 ]

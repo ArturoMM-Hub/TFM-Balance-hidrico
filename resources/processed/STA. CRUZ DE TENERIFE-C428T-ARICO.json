@@ -2,7 +2,7 @@
     {
         "id_estacion":"1406X",
         "fecha":"2020-01-01",
-        "precipitación_máxima":"114.6(29)",
+        "precipitacion_maxima":"114.6(29)",
         "temperatura_media_minima_mensual":6.0,
         "temperatura_media_maxima_mensual":11.1,
         "temperatura_max_absoluta_mes":"13.6(31)",
@@ -21,13 +21,17 @@
         "mes":1,
         "year":2020,
         "indice_solar":0.3,
-        "sequia_meteorologica":1.8805,
-        "sequia_agrícola":1.8777541225
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-02-01",
-        "precipitación_máxima":"37.8(09)",
+        "precipitacion_maxima":"37.8(09)",
         "temperatura_media_minima_mensual":7.1,
         "temperatura_media_maxima_mensual":13.5,
         "temperatura_max_absoluta_mes":"18.9(23)",
@@ -47,12 +51,16 @@
         "year":2020,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-03-01",
-        "precipitación_máxima":"47.2(04)",
+        "precipitacion_maxima":"47.2(04)",
         "temperatura_media_minima_mensual":6.6,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"20.6(18)",
@@ -72,12 +80,16 @@
         "year":2020,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-04-01",
-        "precipitación_máxima":"58.4(30)",
+        "precipitacion_maxima":"58.4(30)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"20.8(14)",
@@ -97,12 +109,16 @@
         "year":2020,
         "indice_solar":0.6,
         "sequia_meteorologica":0.5785,
-        "sequia_agrícola":0.5725519373
+        "sequia_agricola":0.5725519373,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-05-01",
-        "precipitación_máxima":"28.2(01)",
+        "precipitacion_maxima":"28.2(01)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"30.8(27)",
@@ -122,12 +138,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-06-01",
-        "precipitación_máxima":"39.2(11)",
+        "precipitacion_maxima":"39.2(11)",
         "temperatura_media_minima_mensual":11.7,
         "temperatura_media_maxima_mensual":20.0,
         "temperatura_max_absoluta_mes":"29.5(23)",
@@ -147,12 +167,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":13.9,
         "temperatura_media_maxima_mensual":24.8,
         "temperatura_max_absoluta_mes":"32.6(18)",
@@ -172,12 +196,16 @@
         "year":2020,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-08-01",
-        "precipitación_máxima":"37.6(11)",
+        "precipitacion_maxima":"37.6(11)",
         "temperatura_media_minima_mensual":14.5,
         "temperatura_media_maxima_mensual":22.1,
         "temperatura_max_absoluta_mes":"28.8(06)",
@@ -197,12 +225,16 @@
         "year":2020,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-09-01",
-        "precipitación_máxima":"24.0(17)",
+        "precipitacion_maxima":"24.0(17)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"31.9(13)",
@@ -222,12 +254,16 @@
         "year":2020,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-10-01",
-        "precipitación_máxima":"64.2(27)",
+        "precipitacion_maxima":"64.2(27)",
         "temperatura_media_minima_mensual":10.3,
         "temperatura_media_maxima_mensual":15.4,
         "temperatura_max_absoluta_mes":"19.0(08)",
@@ -246,13 +282,17 @@
         "mes":10,
         "year":2020,
         "indice_solar":0.5,
-        "sequia_meteorologica":2.0045,
-        "sequia_agrícola":1.9996632198
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-11-01",
-        "precipitación_máxima":"35.4(11)",
+        "precipitacion_maxima":"35.4(11)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":14.3,
         "temperatura_max_absoluta_mes":"17.4(21)",
@@ -272,12 +312,16 @@
         "year":2020,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2020-12-01",
-        "precipitación_máxima":"102.6(15)",
+        "precipitacion_maxima":"102.6(15)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":10.8,
         "temperatura_max_absoluta_mes":"16.2(01)",
@@ -296,13 +340,17 @@
         "mes":12,
         "year":2020,
         "indice_solar":0.2,
-        "sequia_meteorologica":3.0465,
-        "sequia_agrícola":3.0448
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-01-01",
-        "precipitación_máxima":"57.0(19)",
+        "precipitacion_maxima":"57.0(19)",
         "temperatura_media_minima_mensual":4.7,
         "temperatura_media_maxima_mensual":9.7,
         "temperatura_max_absoluta_mes":"14.1(18)",
@@ -322,12 +370,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.9603333333,
-        "sequia_agrícola":0.9576333333
+        "sequia_agricola":0.9576333333,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-02-01",
-        "precipitación_máxima":"69.2(19)",
+        "precipitacion_maxima":"69.2(19)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":12.0,
         "temperatura_max_absoluta_mes":"16.4(27)",
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2021,
         "indice_solar":0.4,
-        "sequia_meteorologica":1.9263333333,
-        "sequia_agrícola":1.9226095295
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-03-01",
-        "precipitación_máxima":"14.8(10)",
+        "precipitacion_maxima":"14.8(10)",
         "temperatura_media_minima_mensual":5.4,
         "temperatura_media_maxima_mensual":15.3,
         "temperatura_max_absoluta_mes":"26.7(31)",
@@ -372,12 +428,16 @@
         "year":2021,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-04-01",
-        "precipitación_máxima":"37.6(10)",
+        "precipitacion_maxima":"37.6(10)",
         "temperatura_media_minima_mensual":7.2,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"22.3(05)",
@@ -397,12 +457,16 @@
         "year":2021,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-05-01",
-        "precipitación_máxima":"138.4(15)",
+        "precipitacion_maxima":"138.4(15)",
         "temperatura_media_minima_mensual":8.1,
         "temperatura_media_maxima_mensual":17.5,
         "temperatura_max_absoluta_mes":"26.6(31)",
@@ -421,13 +485,17 @@
         "mes":5,
         "year":2021,
         "indice_solar":0.7,
-        "sequia_meteorologica":2.2163333333,
-        "sequia_agrícola":2.2094475304
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-06-01",
-        "precipitación_máxima":"67.4(17)",
+        "precipitacion_maxima":"67.4(17)",
         "temperatura_media_minima_mensual":11.4,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"30.3(15)",
@@ -447,12 +515,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-07-01",
-        "precipitación_máxima":"40.4(04)",
+        "precipitacion_maxima":"40.4(04)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":21.5,
         "temperatura_max_absoluta_mes":"33.2(17)",
@@ -472,12 +544,16 @@
         "year":2021,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-08-01",
-        "precipitación_máxima":"9.4(03)",
+        "precipitacion_maxima":"9.4(03)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":23.3,
         "temperatura_max_absoluta_mes":"30.0(23)",
@@ -497,12 +573,16 @@
         "year":2021,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-09-01",
-        "precipitación_máxima":"62.0(09)",
+        "precipitacion_maxima":"62.0(09)",
         "temperatura_media_minima_mensual":13.1,
         "temperatura_media_maxima_mensual":21.6,
         "temperatura_max_absoluta_mes":"28.9(05)",
@@ -522,12 +602,16 @@
         "year":2021,
         "indice_solar":0.7,
         "sequia_meteorologica":0.4563333333,
-        "sequia_agrícola":0.4485210501
+        "sequia_agricola":0.4485210501,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-10-01",
-        "precipitación_máxima":"116.0(02)",
+        "precipitacion_maxima":"116.0(02)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":18.9,
         "temperatura_max_absoluta_mes":"25.8(08)",
@@ -546,13 +630,17 @@
         "mes":10,
         "year":2021,
         "indice_solar":0.5,
-        "sequia_meteorologica":1.4623333333,
-        "sequia_agrícola":1.4571667129
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-11-01",
-        "precipitación_máxima":"23.4(02)",
+        "precipitacion_maxima":"23.4(02)",
         "temperatura_media_minima_mensual":6.4,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"18.1(13)",
@@ -572,12 +660,16 @@
         "year":2021,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2021-12-01",
-        "precipitación_máxima":"37.4(07)",
+        "precipitacion_maxima":"37.4(07)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":13.1,
         "temperatura_max_absoluta_mes":"17.5(31)",
@@ -597,12 +689,16 @@
         "year":2021,
         "indice_solar":0.2,
         "sequia_meteorologica":0.9463333333,
-        "sequia_agrícola":0.9443529864
+        "sequia_agricola":0.9443529864,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"34.0(03)",
+        "precipitacion_maxima":"34.0(03)",
         "temperatura_media_minima_mensual":3.9,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"17.3(01)",
@@ -622,12 +718,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"56.4(13)",
+        "precipitacion_maxima":"56.4(13)",
         "temperatura_media_minima_mensual":5.7,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"17.3(02)",
@@ -647,12 +747,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"38.0(10)",
+        "precipitacion_maxima":"38.0(10)",
         "temperatura_media_minima_mensual":5.5,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"20.1(27)",
@@ -672,12 +776,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"69.4(07)",
+        "precipitacion_maxima":"69.4(07)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":15.7,
         "temperatura_max_absoluta_mes":"23.6(30)",
@@ -697,12 +805,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"35.8(16)",
+        "precipitacion_maxima":"35.8(16)",
         "temperatura_media_minima_mensual":10.5,
         "temperatura_media_maxima_mensual":21.3,
         "temperatura_max_absoluta_mes":"31.7(28)",
@@ -722,12 +834,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"26.2(21)",
+        "precipitacion_maxima":"26.2(21)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"30.2(13)",
@@ -747,12 +863,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"4.4(18)",
+        "precipitacion_maxima":"4.4(18)",
         "temperatura_media_minima_mensual":15.0,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"37.7(12)",
@@ -772,12 +892,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"12.2(16)",
+        "precipitacion_maxima":"12.2(16)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"33.7(09)",
@@ -797,12 +921,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"89.6(04)",
+        "precipitacion_maxima":"89.6(04)",
         "temperatura_media_minima_mensual":13.2,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"29.4(19)",
@@ -822,12 +950,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"150.2(28)",
+        "precipitacion_maxima":"150.2(28)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"26.0(03)",
@@ -846,13 +978,17 @@
         "mes":10,
         "year":2022,
         "indice_solar":0.5,
-        "sequia_meteorologica":5.2283333333,
-        "sequia_agrícola":5.2235880127
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"75.6(22)",
+        "precipitacion_maxima":"75.6(22)",
         "temperatura_media_minima_mensual":8.6,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"17.9(11)",
@@ -871,13 +1007,17 @@
         "mes":11,
         "year":2022,
         "indice_solar":0.3,
-        "sequia_meteorologica":2.2463333333,
-        "sequia_agrícola":2.2435351222
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"1406X",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"128.0(19)",
+        "precipitacion_maxima":"128.0(19)",
         "temperatura_media_minima_mensual":7.7,
         "temperatura_media_maxima_mensual":12.5,
         "temperatura_max_absoluta_mes":"15.0(12)",
@@ -896,13 +1036,17 @@
         "mes":12,
         "year":2022,
         "indice_solar":0.2,
-        "sequia_meteorologica":3.5083333333,
-        "sequia_agrícola":3.5066333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"MAZARICOS",
+        "provincia":"A CORUÑA",
+        "lat":"425607N",
+        "long":"085937W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"31.4(17)",
+        "precipitacion_maxima":"31.4(17)",
         "temperatura_media_minima_mensual":13.4,
         "temperatura_media_maxima_mensual":20.3,
         "temperatura_max_absoluta_mes":"28.5(01)",
@@ -922,12 +1066,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.2088333333,
-        "sequia_agrícola":0.2046153454
+        "sequia_agricola":0.2046153454,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"7.2(01)",
+        "precipitacion_maxima":"7.2(01)",
         "temperatura_media_minima_mensual":13.5,
         "temperatura_media_maxima_mensual":21.8,
         "temperatura_max_absoluta_mes":"26.2(11)",
@@ -947,12 +1095,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"8.4(28)",
+        "precipitacion_maxima":"8.4(28)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":20.1,
         "temperatura_max_absoluta_mes":"22.7(16)",
@@ -972,12 +1124,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"9.4(21)",
+        "precipitacion_maxima":"9.4(21)",
         "temperatura_media_minima_mensual":12.6,
         "temperatura_media_maxima_mensual":20.6,
         "temperatura_max_absoluta_mes":"32.9(17)",
@@ -997,12 +1153,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"0.4(14)",
+        "precipitacion_maxima":"0.4(14)",
         "temperatura_media_minima_mensual":14.9,
         "temperatura_media_maxima_mensual":23.6,
         "temperatura_max_absoluta_mes":"33.6(10)",
@@ -1022,12 +1182,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":15.7,
         "temperatura_media_maxima_mensual":24.0,
         "temperatura_max_absoluta_mes":"27.3(12)",
@@ -1047,12 +1211,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"0.0(--)",
+        "precipitacion_maxima":"0.0(--)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":28.7,
         "temperatura_max_absoluta_mes":"37.8(26)",
@@ -1072,12 +1240,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"5.6(31)",
+        "precipitacion_maxima":"5.6(31)",
         "temperatura_media_minima_mensual":18.3,
         "temperatura_media_maxima_mensual":26.9,
         "temperatura_max_absoluta_mes":"32.9(02)",
@@ -1097,12 +1269,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"69.2(24)",
+        "precipitacion_maxima":"69.2(24)",
         "temperatura_media_minima_mensual":18.4,
         "temperatura_media_maxima_mensual":25.4,
         "temperatura_max_absoluta_mes":"30.9(16)",
@@ -1121,13 +1297,17 @@
         "mes":9,
         "year":2022,
         "indice_solar":0.7,
-        "sequia_meteorologica":1.1888333333,
-        "sequia_agrícola":1.1821333333
+        "sequia_meteorologica":1.0,
+        "sequia_agricola":1.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"0.2(15)",
+        "precipitacion_maxima":"0.2(15)",
         "temperatura_media_minima_mensual":17.2,
         "temperatura_media_maxima_mensual":25.7,
         "temperatura_max_absoluta_mes":"29.8(28)",
@@ -1147,12 +1327,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"0.6(05)",
+        "precipitacion_maxima":"0.6(05)",
         "temperatura_media_minima_mensual":16.0,
         "temperatura_media_maxima_mensual":23.5,
         "temperatura_max_absoluta_mes":"30.1(14)",
@@ -1172,12 +1356,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     },
     {
         "id_estacion":"C428T",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"20.2(07)",
+        "precipitacion_maxima":"20.2(07)",
         "temperatura_media_minima_mensual":15.2,
         "temperatura_media_maxima_mensual":22.3,
         "temperatura_max_absoluta_mes":"26.0(11)",
@@ -1197,6 +1385,10 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3548333333,
-        "sequia_agrícola":0.3519623401
+        "sequia_agricola":0.3519623401,
+        "nomb_estacion":"ARICO",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"281051N",
+        "long":"162860W"
     }
 ]

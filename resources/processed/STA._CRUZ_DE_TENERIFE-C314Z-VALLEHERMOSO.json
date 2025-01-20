@@ -2,7 +2,7 @@
     {
         "id_estacion":"C314Z",
         "fecha":"2022-01-01",
-        "precipitación_máxima":"25.6(26)",
+        "precipitacion_maxima":"25.6(26)",
         "temperatura_media_minima_mensual":6.2,
         "temperatura_media_maxima_mensual":11.7,
         "temperatura_max_absoluta_mes":"20.3(01)",
@@ -22,12 +22,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.3508333333,
-        "sequia_agrícola":0.3478627046
+        "sequia_agricola":0.3478627046,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-02-01",
-        "precipitación_máxima":"19.4(25)",
+        "precipitacion_maxima":"19.4(25)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":13.3,
         "temperatura_max_absoluta_mes":"20.0(10)",
@@ -47,12 +51,16 @@
         "year":2022,
         "indice_solar":0.4,
         "sequia_meteorologica":0.4308333333,
-        "sequia_agrícola":0.4268319589
+        "sequia_agricola":0.4268319589,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-03-01",
-        "precipitación_máxima":"34.6(26)",
+        "precipitacion_maxima":"34.6(26)",
         "temperatura_media_minima_mensual":4.5,
         "temperatura_media_maxima_mensual":10.4,
         "temperatura_max_absoluta_mes":"17.4(11)",
@@ -72,12 +80,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.4748333333,
-        "sequia_agrícola":0.4701333333
+        "sequia_agricola":0.4701333333,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-04-01",
-        "precipitación_máxima":"31.6(03)",
+        "precipitacion_maxima":"31.6(03)",
         "temperatura_media_minima_mensual":6.8,
         "temperatura_media_maxima_mensual":14.2,
         "temperatura_max_absoluta_mes":"26.0(16)",
@@ -97,12 +109,16 @@
         "year":2022,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-05-01",
-        "precipitación_máxima":"6.4(30)",
+        "precipitacion_maxima":"6.4(30)",
         "temperatura_media_minima_mensual":9.9,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"23.6(09)",
@@ -122,12 +138,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-06-01",
-        "precipitación_máxima":"1.2(27)",
+        "precipitacion_maxima":"1.2(27)",
         "temperatura_media_minima_mensual":10.6,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"28.5(07)",
@@ -147,12 +167,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-07-01",
-        "precipitación_máxima":"1.6(01)",
+        "precipitacion_maxima":"1.6(01)",
         "temperatura_media_minima_mensual":18.2,
         "temperatura_media_maxima_mensual":27.9,
         "temperatura_max_absoluta_mes":"35.9(26)",
@@ -172,12 +196,16 @@
         "year":2022,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-08-01",
-        "precipitación_máxima":"10.2(31)",
+        "precipitacion_maxima":"10.2(31)",
         "temperatura_media_minima_mensual":17.8,
         "temperatura_media_maxima_mensual":26.5,
         "temperatura_max_absoluta_mes":"35.6(03)",
@@ -197,12 +225,16 @@
         "year":2022,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-09-01",
-        "precipitación_máxima":"45.6(24)",
+        "precipitacion_maxima":"45.6(24)",
         "temperatura_media_minima_mensual":13.3,
         "temperatura_media_maxima_mensual":21.0,
         "temperatura_max_absoluta_mes":"28.0(02)",
@@ -222,12 +254,16 @@
         "year":2022,
         "indice_solar":0.7,
         "sequia_meteorologica":0.7248333333,
-        "sequia_agrícola":0.717524591
+        "sequia_agricola":0.717524591,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-10-01",
-        "precipitación_máxima":"3.0(11)",
+        "precipitacion_maxima":"3.0(11)",
         "temperatura_media_minima_mensual":13.0,
         "temperatura_media_maxima_mensual":19.7,
         "temperatura_max_absoluta_mes":"25.5(30)",
@@ -247,12 +283,16 @@
         "year":2022,
         "indice_solar":0.5,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-11-01",
-        "precipitación_máxima":"5.8(20)",
+        "precipitacion_maxima":"5.8(20)",
         "temperatura_media_minima_mensual":11.9,
         "temperatura_media_maxima_mensual":18.8,
         "temperatura_max_absoluta_mes":"25.1(01)",
@@ -272,12 +312,16 @@
         "year":2022,
         "indice_solar":0.3,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2022-12-01",
-        "precipitación_máxima":"52.0(07)",
+        "precipitacion_maxima":"52.0(07)",
         "temperatura_media_minima_mensual":8.7,
         "temperatura_media_maxima_mensual":14.5,
         "temperatura_max_absoluta_mes":"20.1(11)",
@@ -297,12 +341,16 @@
         "year":2022,
         "indice_solar":0.2,
         "sequia_meteorologica":0.7388333333,
-        "sequia_agrícola":0.7369600853
+        "sequia_agricola":0.7369600853,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-01-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -321,13 +369,17 @@
         "mes":1,
         "year":2024,
         "indice_solar":0.3,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-02-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -346,13 +398,17 @@
         "mes":2,
         "year":2024,
         "indice_solar":0.4,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-03-01",
-        "precipitación_máxima":"7.8(22)",
+        "precipitacion_maxima":"7.8(22)",
         "temperatura_media_minima_mensual":6.5,
         "temperatura_media_maxima_mensual":12.3,
         "temperatura_max_absoluta_mes":"24.7(17)",
@@ -372,12 +428,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.2068888889,
-        "sequia_agrícola":0.2019347372
+        "sequia_agricola":0.2019347372,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-04-01",
-        "precipitación_máxima":"5.2(27)",
+        "precipitacion_maxima":"5.2(27)",
         "temperatura_media_minima_mensual":10.2,
         "temperatura_media_maxima_mensual":18.2,
         "temperatura_max_absoluta_mes":"27.0(12)",
@@ -397,12 +457,16 @@
         "year":2024,
         "indice_solar":0.6,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-05-01",
-        "precipitación_máxima":null,
+        "precipitacion_maxima":null,
         "temperatura_media_minima_mensual":null,
         "temperatura_media_maxima_mensual":null,
         "temperatura_max_absoluta_mes":null,
@@ -421,13 +485,17 @@
         "mes":5,
         "year":2024,
         "indice_solar":0.7,
-        "sequia_meteorologica":null,
-        "sequia_agrícola":null
+        "sequia_meteorologica":0.5,
+        "sequia_agricola":0.5,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-06-01",
-        "precipitación_máxima":"2.2(06)",
+        "precipitacion_maxima":"2.2(06)",
         "temperatura_media_minima_mensual":10.0,
         "temperatura_media_maxima_mensual":17.9,
         "temperatura_max_absoluta_mes":"24.5(29)",
@@ -447,12 +515,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-07-01",
-        "precipitación_máxima":"0.6(28)",
+        "precipitacion_maxima":"0.6(28)",
         "temperatura_media_minima_mensual":17.7,
         "temperatura_media_maxima_mensual":28.0,
         "temperatura_max_absoluta_mes":"35.8(25)",
@@ -472,12 +544,16 @@
         "year":2024,
         "indice_solar":1.0,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-08-01",
-        "precipitación_máxima":"1.6(24)",
+        "precipitacion_maxima":"1.6(24)",
         "temperatura_media_minima_mensual":18.1,
         "temperatura_media_maxima_mensual":29.3,
         "temperatura_max_absoluta_mes":"37.9(03)",
@@ -497,12 +573,16 @@
         "year":2024,
         "indice_solar":0.9,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-09-01",
-        "precipitación_máxima":"3.2(03)",
+        "precipitacion_maxima":"3.2(03)",
         "temperatura_media_minima_mensual":11.8,
         "temperatura_media_maxima_mensual":20.7,
         "temperatura_max_absoluta_mes":"28.5(10)",
@@ -522,12 +602,16 @@
         "year":2024,
         "indice_solar":0.7,
         "sequia_meteorologica":0.0,
-        "sequia_agrícola":0.0
+        "sequia_agricola":0.0,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-10-01",
-        "precipitación_máxima":"18.8(28)",
+        "precipitacion_maxima":"18.8(28)",
         "temperatura_media_minima_mensual":12.2,
         "temperatura_media_maxima_mensual":19.8,
         "temperatura_max_absoluta_mes":"30.4(05)",
@@ -547,12 +631,16 @@
         "year":2024,
         "indice_solar":0.5,
         "sequia_meteorologica":0.3628888889,
-        "sequia_agrícola":0.3574762207
+        "sequia_agricola":0.3574762207,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-11-01",
-        "precipitación_máxima":"20.4(24)",
+        "precipitacion_maxima":"20.4(24)",
         "temperatura_media_minima_mensual":11.3,
         "temperatura_media_maxima_mensual":18.1,
         "temperatura_max_absoluta_mes":"25.9(09)",
@@ -572,12 +660,16 @@
         "year":2024,
         "indice_solar":0.3,
         "sequia_meteorologica":0.1288888889,
-        "sequia_agrícola":0.1247685216
+        "sequia_agricola":0.1247685216,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     },
     {
         "id_estacion":"C314Z",
         "fecha":"2024-12-01",
-        "precipitación_máxima":"19.4(22)",
+        "precipitacion_maxima":"19.4(22)",
         "temperatura_media_minima_mensual":7.6,
         "temperatura_media_maxima_mensual":13.8,
         "temperatura_max_absoluta_mes":"20.2(01)",
@@ -597,6 +689,10 @@
         "year":2024,
         "indice_solar":0.2,
         "sequia_meteorologica":0.3888888889,
-        "sequia_agrícola":0.3871888889
+        "sequia_agricola":0.3871888889,
+        "nomb_estacion":"VALLEHERMOSO, ALTO IGUALERO  ",
+        "provincia":"STA. CRUZ DE TENERIFE",
+        "lat":"280625N",
+        "long":"171457W"
     }
 ]
