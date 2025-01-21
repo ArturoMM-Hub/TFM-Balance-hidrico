@@ -1,6 +1,6 @@
 from extract.reader.aemet_reader import AemetReader
 from extract.writer.aemet_writer import AemetWriter
-from  config.constantes import RUTA_BASE_FICHEROS_RAW, ARCHIVO_ESTACIONES_METEOROLOGICAS
+from  config.constantes import RUTA_BASE_FICHEROS_RAW, ARCHIVO_INDICE_SOLAR
 import time
 import os
 
@@ -8,7 +8,7 @@ def mainExtract():
     print("Inicio flujo Extracción")
     estaciones_por_provincias = AemetReader.getEstacionesMeteorologicas()
     #Guardo las estaciones en un json
-    if os.path.exists(ARCHIVO_ESTACIONES_METEOROLOGICAS) == False:
+    if os.path.exists(ARCHIVO_INDICE_SOLAR) == False:
         AemetWriter.guardarEstaciones(estaciones_por_provincias)
 
     cont= 1

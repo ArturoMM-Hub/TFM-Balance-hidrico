@@ -1,14 +1,96 @@
 import pandas as pd
 import numpy as np
+import json
 import os
+import re
 from datetime import datetime
-from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS
-# Ejemplo para módulo plano
+from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS, ARCHIVO_ESTACIONES_METEOROLOGICAS
+
+
+
+def guardarEnJSON(estacion_meteorologica_file, df_datos_a_insertar):
+    datos_nombre_archivo = estacion_meteorologica_file.split('-')
+    existe = False
+    # datos_nombre_archivo[2] es el codigo de la estacion
+    if datos_nombre_archivo[1] != None:
+        # Como aqui no hay mas carpetas directamente esto me devuelve los ficheros
+        archivos = os.listdir(RUTA_BASE_FICHEROS_PROCESADOS)
+        for nomb_file in archivos:
+            if datos_nombre_archivo[2] in nomb_file:
+                df_datos_existente = pd.read_json(RUTA_BASE_FICHEROS_PROCESADOS + nomb_file)
+                df_final = pd.concat([df_datos_existente, df_datos_a_insertar], ignore_index=True)
+                existe = True
+                break
+        
+        nombFile = datos_nombre_archivo[0] + "-" + datos_nombre_archivo[1] + "-" + datos_nombre_archivo[2] + ".json"
+        if existe: 
+            # Guardo la combinacion del que ya habia y el nuevo
+            df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + nombFile, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)
+        else:
+            # Creacion del archivo por primera vez
+            df_datos_a_insertar.to_json(RUTA_BASE_FICHEROS_PROCESADOS + nombFile, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)
+
+
+def buscar_por_indicativo_la_estacion(data, indicativo):
+    for provincia, estaciones in data.items():
+        for estacion in estaciones:
+            if estacion.get("indicativo") == indicativo:
+                return estacion
+    return None
+
+
+def corregir_valores_rango_uno_cero(dataframe, nombColumna):
+    dataframe[nombColumna] = dataframe[nombColumna].apply(
+                lambda x: 0.5 if pd.isna(x) else max(0, min(x, 1))
+            )
+    return dataframe
+
+
+def convertir_a_decimal_coordenadas(coordenada):
+    # Extraigo grados, minutos, segundos y dirección
+    match = re.match(r"(\d{2,3})(\d{2})(\d{2})([NSEW])", coordenada)
+    if not match:
+        raise ValueError(f"Formato inválido: {coordenada}")
+    
+    grados = int(match.group(1))
+    minutos = int(match.group(2))
+    segundos = int(match.group(3))
+    direccion = match.group(4)
+
+    # Convertir a decimal
+    decimal = grados + (minutos / 60) + (segundos / 3600)
+    
+    # Ajustar signo según la dirección
+    if direccion in ['S', 'W']:
+        decimal = -decimal
+
+    return decimal
+
+def set_datos_estaciones(df_final, estacionesObj, estacion_meteorologica_file):
+    nomb_file = estacion_meteorologica_file.replace(".json", "")
+    datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, nomb_file.split('-')[1]) # estacion_meteorologica_file.split('-')[1] es el codigo indicativo
+    if datos_estacion == None: # Porque alguna provincia viene con el '-', por ejemplo Araba-Alaba
+        datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, nomb_file.split('-')[2])
+    df_final["nomb_estacion"] = datos_estacion["nombre"]
+    df_final["provincia"] = datos_estacion["provincia"]
+    df_final["lat"] = convertir_a_decimal_coordenadas(datos_estacion["latitud"]) # convierto las cordenadas a decimal porque en porwer BI
+    df_final["long"] = convertir_a_decimal_coordenadas(datos_estacion["longitud"])
+
+    return df_final
 
 
 def mainTransform():
     print("Inicio flujo Tranformacion")
     # Filtro por las carpetas
+    with open(ARCHIVO_ESTACIONES_METEOROLOGICAS, 'r', encoding='utf-8') as file:
+        estacionesObj = json.load(file)
+
     carpetas = [f for f in os.listdir(RUTA_BASE_FICHEROS_RAW) if os.path.isdir(os.path.join(RUTA_BASE_FICHEROS_RAW, f))]
     indice_solar_dict = INDICE_SOLAR
 
@@ -32,7 +114,7 @@ def mainTransform():
                 nombres_nuevos = {
                     'indicativo': 'id_estacion',
                     'fecha': 'fecha',
-                    'p_max': 'precipitación_máxima',
+                    'p_max': 'precipitacion_maxima',
                     'tm_min': 'temperatura_media_minima_mensual', 
                     'ta_max': 'temperatura_max_absoluta_mes', 
                     'ts_min': 'temperatura_minima_mas_baja', 
@@ -93,6 +175,7 @@ def mainTransform():
                 # Convertir a formato datetime
                 df_final['fecha'] = pd.to_datetime(df_final['fecha'], format='%Y-%m')
                 df_final['mes'] = df_final['fecha'].dt.month # Extraigo el mes
+                df_final['year'] = df_final['fecha'].dt.year
                 
                 # Formateo a str la fecha para que se vea bien en el json
                 df_final['fecha'] = pd.to_datetime(df_final['fecha']).dt.strftime('%Y-%m-%d')
@@ -120,69 +203,35 @@ def mainTransform():
                 df_media_precipitaicones = df_final['precipitacion_total_mes'] - df_final['precipitacion_total_mes'].mean()
                 df_final['sequia_meteorologica'] = (df_final['precipitacion_total_mes'] - df_final['precipitacion_total_mes'].mean()) / 100 # Saco el valor en porcentaje
                 
-                # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0
-                df_final['sequia_meteorologica'] = df_final['sequia_meteorologica'].apply(lambda x: max(x, 0))
+                # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0 y si hay nulos los pongo a 0.5
+                df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_meteorologica')
                 
 
             # Sequia Agricola
-                df_final['sequia_agrícola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
+                df_final['sequia_agricola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
 
                 # Corrijo a 0 si hay algun negativo
-                df_final['sequia_agrícola'] = df_final['sequia_agrícola'].apply(lambda x: max(x, 0))
+                df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_agricola')
 
                 # print(df_final['sequia_meteorologica'])
                 # print(df_final['sequia_agrícola'])
-                
+                '''
                 if os.path.exists(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file) == False:
-                    df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, orient="records", lines=True, force_ascii=False)
+                    # Ordeno el data frame antes de insertarlo por mes 
+                    df_final = df_final.sort_values(by='mes', ascending=True)
+                    df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, 
+                                     orient="records", 
+                                     force_ascii=False,
+                                     indent=4)'''
+            # Ordeno por mes, agrego datos de la estacion y Guardo los datos
+                df_final = df_final.sort_values(by='mes', ascending=True)
+
+                # Pongo datos de las estaciones
+                df_final = set_datos_estaciones(df_final, estacionesObj, estacion_meteorologica_file)
+                
+
+                guardarEnJSON(estacion_meteorologica_file ,df_final)
+                
          
     print("Fin flujo Transformacion")
     return True
-
-
-
-'''
-# 1. **Cargar los datos desde un archivo JSON**
-# Asegúrate de que el archivo JSON tenga un formato compatible (array de objetos o diccionario).
-data = pd.read_json("datos_climatologicos.json")
-
-
-# 2. **Inspección inicial de los datos**
-print(data.head())        # Ver primeras filas
-print(data.info())        # Información general
-print(data.describe())    # Estadísticas descriptivas
-
-# 3. **Limpieza de datos**
-# a) Manejo de valores faltantes
-data = data.dropna(subset=['precipitacion'])  # Eliminar filas sin precipitación
-data['humedad'] = data['humedad'].fillna(data['humedad'].mean())  # Rellenar con la media
-
-# b) Corregir valores extremos
-data = data[(data['temperatura'] >= -50) & (data['temperatura'] <= 60)]  # Filtrar temperaturas razonables
-
-# c) Renombrar columnas para uniformidad
-data.columns = [col.lower().replace(" ", "_") for col in data.columns]
-
-# 4. **Transformaciones**
-# a) Crear una nueva columna: índice de calor
-data['indice_calor'] = 0.5 * (data['temperatura'] + data['humedad'])
-
-# b) Extraer mes y año de una columna de fecha
-data['fecha'] = pd.to_datetime(data['fecha'])
-data['mes'] = data['fecha'].dt.month
-data['anio'] = data['fecha'].dt.year
-
-# c) Agrupación por mes
-data_mensual = data.groupby(['anio', 'mes']).agg({
-    'precipitacion': 'sum',
-    'temperatura': 'mean',
-    'humedad': 'mean',
-    'indice_calor': 'mean'
-}).reset_index()
-
-# 5. **Exportar los datos procesados**
-data.to_json("datos_limpios.json", orient="records", indent=4)         # Archivo JSON limpio
-data_mensual.to_json("resumen_mensual.json", orient="records", indent=4)  # Resumen mensual
-
-print("Procesamiento completado y datos guardados en formato JSON.")
-'''
