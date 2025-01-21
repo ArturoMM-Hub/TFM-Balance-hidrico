@@ -25,8 +25,8 @@
         "sequia_agricola":0.0570928193,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     },
     {
         "id_estacion":"C659H",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0742090909,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL",
         "provincia":"LAS PALMAS",
-        "lat":"280523N",
-        "long":"152458W"
+        "lat":28.0897222222,
+        "long":-15.4161111111
     }
 ]

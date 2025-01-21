@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.1462792083,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.6604666667,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0260280017,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.2621435874,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     },
     {
         "id_estacion":"B362X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, CAN SION",
         "provincia":"ILLES BALEARS",
-        "lat":"392421N",
-        "long":"030351E"
+        "lat":39.4058333333,
+        "long":3.0641666667
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.4269289927,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -315,8 +315,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B013X",
@@ -344,8 +344,8 @@
         "sequia_agricola":0.1826793279,
         "nomb_estacion":"ESCORCA, LLUC",
         "provincia":"ILLES BALEARS",
-        "lat":"394924N",
-        "long":"025309E"
+        "lat":39.8233333333,
+        "long":2.8858333333
     },
     {
         "id_estacion":"B684A",
@@ -373,8 +373,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.9403067637,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0306938254,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.3438829816,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.1061690506,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.8710939399,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     },
     {
         "id_estacion":"B684A",
@@ -692,7 +692,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESCORCA, SON TORRELLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394734N",
-        "long":"024716E"
+        "lat":39.7927777778,
+        "long":2.7877777778
     }
 ]

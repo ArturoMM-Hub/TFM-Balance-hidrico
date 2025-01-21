@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.21505,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.3215088878,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0436549979,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.3370483663,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B278",
@@ -344,8 +344,8 @@
         "sequia_agricola":0.0646607642,
         "nomb_estacion":"PALMA DE MALLORCA, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393339N",
-        "long":"024412E"
+        "lat":39.5608333333,
+        "long":2.7366666667
     },
     {
         "id_estacion":"B228",
@@ -373,8 +373,8 @@
         "sequia_agricola":0.4613833333,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.0803833983,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.6059320897,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.6512664755,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     },
     {
         "id_estacion":"B228",
@@ -692,7 +692,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, PUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"393315N",
-        "long":"023731E"
+        "lat":39.5541666667,
+        "long":2.6252777778
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0113965439,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     },
     {
         "id_estacion":"C659M",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA",
         "provincia":"LAS PALMAS",
-        "lat":"280647N",
-        "long":"152517W"
+        "lat":28.1130555556,
+        "long":-15.4213888889
     }
 ]

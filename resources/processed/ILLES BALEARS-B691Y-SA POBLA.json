@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.1773,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.2002445035,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.4548736208,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.182066722,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     },
     {
         "id_estacion":"B691Y",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"SA POBLA",
         "provincia":"ILLES BALEARS",
-        "lat":"394457N",
-        "long":"030100E"
+        "lat":39.7491666667,
+        "long":3.0166666667
     }
 ]

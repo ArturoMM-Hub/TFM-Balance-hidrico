@@ -25,8 +25,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.5876481447,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -344,8 +344,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -373,8 +373,8 @@
         "sequia_agricola":0.5984477752,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.1937293799,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.5364216204,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.3219439883,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -663,8 +663,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -692,8 +692,8 @@
         "sequia_agricola":0.3819896259,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -721,8 +721,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -750,8 +750,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -779,8 +779,8 @@
         "sequia_agricola":0.3184366515,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -808,8 +808,8 @@
         "sequia_agricola":0.2671278894,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -837,8 +837,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -866,8 +866,8 @@
         "sequia_agricola":0.0014605794,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -895,8 +895,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -924,8 +924,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -953,8 +953,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -982,8 +982,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1011,8 +1011,8 @@
         "sequia_agricola":0.4223147439,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1040,8 +1040,8 @@
         "sequia_agricola":0.5318,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1069,8 +1069,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1098,8 +1098,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1127,8 +1127,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1156,8 +1156,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1185,8 +1185,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1214,8 +1214,8 @@
         "sequia_agricola":0.1619017481,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1243,8 +1243,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1272,8 +1272,8 @@
         "sequia_agricola":0.055404842,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1301,8 +1301,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1330,8 +1330,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1359,8 +1359,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1388,8 +1388,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1417,8 +1417,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1446,8 +1446,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1475,8 +1475,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1504,8 +1504,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1533,8 +1533,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1562,8 +1562,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1591,8 +1591,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1620,8 +1620,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1649,8 +1649,8 @@
         "sequia_agricola":0.0785976192,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1678,8 +1678,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1707,8 +1707,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1207U",
@@ -1736,8 +1736,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, CAMPUS",
         "provincia":"ASTURIAS",
-        "lat":"433123N",
-        "long":"053716W"
+        "lat":43.5230555556,
+        "long":-5.6211111111
     },
     {
         "id_estacion":"1208H",
@@ -1765,8 +1765,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1794,8 +1794,8 @@
         "sequia_agricola":0.7734666667,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1823,8 +1823,8 @@
         "sequia_agricola":0.5261120025,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1852,8 +1852,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1881,8 +1881,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1910,8 +1910,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1939,8 +1939,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1968,8 +1968,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -1997,8 +1997,8 @@
         "sequia_agricola":0.0987934019,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -2026,8 +2026,8 @@
         "sequia_agricola":0.4480370553,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -2055,8 +2055,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     },
     {
         "id_estacion":"1208H",
@@ -2084,7 +2084,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIJÓN, PUERTO",
         "provincia":"ASTURIAS",
-        "lat":"433335N",
-        "long":"054203W"
+        "lat":43.5597222222,
+        "long":-5.7008333333
     }
 ]

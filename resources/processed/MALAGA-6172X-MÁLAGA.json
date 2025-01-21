@@ -25,8 +25,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.2804888665,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -344,8 +344,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -373,8 +373,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0122213745,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.3062744354,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.1191830214,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -692,8 +692,8 @@
         "sequia_agricola":0.0736238702,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -721,8 +721,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -750,8 +750,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -779,8 +779,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -808,8 +808,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -837,8 +837,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -866,8 +866,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -895,8 +895,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -924,8 +924,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -953,8 +953,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -982,8 +982,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1011,8 +1011,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1040,8 +1040,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1069,8 +1069,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1098,8 +1098,8 @@
         "sequia_agricola":0.3968833333,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1127,8 +1127,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1156,8 +1156,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1185,8 +1185,8 @@
         "sequia_agricola":0.4872340559,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1214,8 +1214,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1243,8 +1243,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1272,8 +1272,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1301,8 +1301,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1330,8 +1330,8 @@
         "sequia_agricola":0.0803886343,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1359,8 +1359,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1388,8 +1388,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1417,8 +1417,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1446,8 +1446,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1475,8 +1475,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1504,8 +1504,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1533,8 +1533,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1562,8 +1562,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1591,8 +1591,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1620,8 +1620,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1649,8 +1649,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1678,8 +1678,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1707,8 +1707,8 @@
         "sequia_agricola":0.3281075894,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6155A",
@@ -1736,8 +1736,8 @@
         "sequia_agricola":0.1601102524,
         "nomb_estacion":"MÁLAGA AEROPUERTO",
         "provincia":"MALAGA",
-        "lat":"363958N",
-        "long":"042856W"
+        "lat":36.6661111111,
+        "long":-4.4822222222
     },
     {
         "id_estacion":"6172X",
@@ -1765,8 +1765,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1794,8 +1794,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1823,8 +1823,8 @@
         "sequia_agricola":0.6478961697,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1852,8 +1852,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1881,8 +1881,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1910,8 +1910,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1939,8 +1939,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1968,8 +1968,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -1997,8 +1997,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -2026,8 +2026,8 @@
         "sequia_agricola":0.7156155705,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -2055,8 +2055,8 @@
         "sequia_agricola":0.8679666667,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     },
     {
         "id_estacion":"6172X",
@@ -2084,7 +2084,7 @@
         "sequia_agricola":0.0353579192,
         "nomb_estacion":"MÁLAGA",
         "provincia":"MALAGA",
-        "lat":"364260N",
-        "long":"042511W"
+        "lat":36.7166666667,
+        "long":-4.4197222222
     }
 ]

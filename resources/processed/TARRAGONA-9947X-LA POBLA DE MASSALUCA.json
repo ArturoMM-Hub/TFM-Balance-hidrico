@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.3214818182,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.3882017081,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0847120337,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.2848955703,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     },
     {
         "id_estacion":"9947X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0554373609,
         "nomb_estacion":"LA POBLA DE MASSALUCA",
         "provincia":"TARRAGONA",
-        "lat":"411038N",
-        "long":"002112E"
+        "lat":41.1772222222,
+        "long":0.3533333333
     }
 ]

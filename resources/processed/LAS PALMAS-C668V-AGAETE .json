@@ -25,8 +25,8 @@
         "sequia_agricola":0.1459799973,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0900031568,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.1200272727,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0658878954,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     },
     {
         "id_estacion":"C668V",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.1140969393,
         "nomb_estacion":"AGAETE - SUERTE ALTA",
         "provincia":"LAS PALMAS",
-        "lat":"280540N",
-        "long":"154030W"
+        "lat":28.0944444444,
+        "long":-15.675
     }
 ]

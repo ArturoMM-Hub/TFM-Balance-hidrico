@@ -25,8 +25,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.7621,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.1195751512,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.6091221802,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     },
     {
         "id_estacion":"0411X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CASTELLÓ D'EMPÚRIES",
         "provincia":"GIRONA",
-        "lat":"421329N",
-        "long":"030535E"
+        "lat":42.2247222222,
+        "long":3.0930555556
     }
 ]

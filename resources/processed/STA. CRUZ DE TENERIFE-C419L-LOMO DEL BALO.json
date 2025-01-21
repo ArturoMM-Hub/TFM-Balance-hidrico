@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0963899536,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.3882166667,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.4145416983,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     },
     {
         "id_estacion":"C419L",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.4770946552,
         "nomb_estacion":"LOMO DEL BALO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"281225N",
-        "long":"164731W"
+        "lat":28.2069444444,
+        "long":-16.7919444444
     }
 ]

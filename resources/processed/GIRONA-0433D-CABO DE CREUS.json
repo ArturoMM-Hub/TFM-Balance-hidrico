@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5676636364,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.2653344659,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     },
     {
         "id_estacion":"0433D",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0661103608,
         "nomb_estacion":"CABO DE CREUS",
         "provincia":"GIRONA",
-        "lat":"421909N",
-        "long":"031856E"
+        "lat":42.3191666667,
+        "long":3.3155555556
     }
 ]

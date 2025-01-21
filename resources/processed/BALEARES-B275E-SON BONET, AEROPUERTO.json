@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.164709133,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0361303583,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.3063695973,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0173097942,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.3249666667,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     },
     {
         "id_estacion":"B275E",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0848089089,
         "nomb_estacion":"SON BONET, AEROPUERTO",
         "provincia":"BALEARES",
-        "lat":"393621N",
-        "long":"024224E"
+        "lat":39.6058333333,
+        "long":2.7066666667
     }
 ]

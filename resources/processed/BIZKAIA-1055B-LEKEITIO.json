@@ -25,8 +25,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -112,8 +112,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -141,8 +141,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -199,8 +199,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -228,8 +228,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -286,8 +286,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -315,8 +315,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     },
     {
         "id_estacion":349,
@@ -344,7 +344,7 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LEKEITIO",
         "provincia":"BIZKAIA",
-        "lat":"432237N",
-        "long":"023037W"
+        "lat":43.3769444444,
+        "long":-2.5102777778
     }
 ]

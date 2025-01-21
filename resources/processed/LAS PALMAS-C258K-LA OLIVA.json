@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.022506567,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5699666667,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     },
     {
         "id_estacion":"C258K",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0181015762,
         "nomb_estacion":"LA OLIVA",
         "provincia":"LAS PALMAS",
-        "lat":"283645N",
-        "long":"135554W"
+        "lat":28.6125,
+        "long":-13.9316666667
     }
 ]

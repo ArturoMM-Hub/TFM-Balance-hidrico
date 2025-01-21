@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5229816962,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5183,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.1903726511,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.3169422449,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     },
     {
         "id_estacion":"C468X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN JUAN DE LA RAMBLA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"282223N",
-        "long":"163733W"
+        "lat":28.3730555556,
+        "long":-16.6258333333
     }
 ]

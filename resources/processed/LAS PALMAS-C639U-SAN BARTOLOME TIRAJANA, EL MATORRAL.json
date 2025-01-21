@@ -25,8 +25,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -54,8 +54,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -83,8 +83,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -112,8 +112,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -141,8 +141,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -170,8 +170,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -199,8 +199,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -228,8 +228,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -257,8 +257,8 @@
         "sequia_agricola":1,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -286,8 +286,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -315,8 +315,8 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     },
     {
         "id_estacion":"C639U",
@@ -344,7 +344,7 @@
         "sequia_agricola":0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, EL MATORRAL",
         "provincia":"LAS PALMAS",
-        "lat":"274845N",
-        "long":"152711W"
+        "lat":27.8125,
+        "long":-15.4530555556
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.3214818182,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.1219493535,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.2658854266,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.3825145642,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149D",
@@ -344,8 +344,8 @@
         "sequia_agricola":0.1321492251,
         "nomb_estacion":"MANRESA (LA CULLA)",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -373,8 +373,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.3414212878,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0186926924,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.1557126588,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0788682317,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.9798,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.1025151174,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     },
     {
         "id_estacion":"0149X",
@@ -692,7 +692,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MANRESA",
         "provincia":"BARCELONA",
-        "lat":"414312N",
-        "long":"015025E"
+        "lat":41.72,
+        "long":1.8402777778
     }
 ]

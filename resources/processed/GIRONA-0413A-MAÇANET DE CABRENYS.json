@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.9894171268,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     },
     {
         "id_estacion":"0413A",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"MAÇANET DE CABRENYS",
         "provincia":"GIRONA",
-        "lat":"422313N",
-        "long":"024520E"
+        "lat":42.3869444444,
+        "long":2.7555555556
     }
 ]

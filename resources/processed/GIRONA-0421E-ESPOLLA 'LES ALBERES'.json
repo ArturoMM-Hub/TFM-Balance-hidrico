@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0615037546,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.6275284069,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     },
     {
         "id_estacion":"0421E",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ESPOLLA 'LES ALBERES'",
         "provincia":"GIRONA",
-        "lat":"422324N",
-        "long":"030022E"
+        "lat":42.39,
+        "long":3.0061111111
     }
 ]

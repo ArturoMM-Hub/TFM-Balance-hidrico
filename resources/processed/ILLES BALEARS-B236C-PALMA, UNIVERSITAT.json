@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2274569971,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.2201641564,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.3328512546,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.1313166776,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.3754666667,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     },
     {
         "id_estacion":"B236C",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PALMA, UNIVERSITAT",
         "provincia":"ILLES BALEARS",
-        "lat":"393832N",
-        "long":"023838E"
+        "lat":39.6422222222,
+        "long":2.6438888889
     }
 ]

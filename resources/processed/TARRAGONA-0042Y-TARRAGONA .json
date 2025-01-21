@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2968175032,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.3055876038,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     },
     {
         "id_estacion":"0042Y",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TARRAGONA ",
         "provincia":"TARRAGONA",
-        "lat":"410726N",
-        "long":"011457E"
+        "lat":41.1238888889,
+        "long":1.2491666667
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":0.3780664714,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0385476918,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     },
     {
         "id_estacion":"C148F",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.4830583146,
         "nomb_estacion":"SAN ANDRÉS Y SAUCES",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"284817N",
-        "long":"174656W"
+        "lat":28.8047222222,
+        "long":-17.7822222222
     }
 ]

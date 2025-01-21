@@ -25,8 +25,8 @@
         "sequia_agricola":0.24809256,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0346928403,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2581659114,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     },
     {
         "id_estacion":"C925F",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.8133129636,
         "nomb_estacion":"SAN ANDRÉS, VALVERDE",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"274608N",
-        "long":"175737W"
+        "lat":27.7688888889,
+        "long":-17.9602777778
     }
 ]

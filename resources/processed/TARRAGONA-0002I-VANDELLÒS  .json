@@ -25,8 +25,8 @@
         "sequia_agricola":0.0613384233,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0017766926,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.33528445,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0219953887,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     },
     {
         "id_estacion":"C939T",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.9654666667,
         "nomb_estacion":"VANDELLÒS  ",
         "provincia":"TARRAGONA",
-        "lat":"405729N",
-        "long":"005217E"
+        "lat":40.9580555556,
+        "long":0.8713888889
     }
 ]

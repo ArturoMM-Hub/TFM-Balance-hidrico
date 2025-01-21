@@ -25,8 +25,8 @@
         "sequia_agricola":0.0156824963,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.55105,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.036346339,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     },
     {
         "id_estacion":"C249I",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"FUERTEVENTURA AEROPUERTO",
         "provincia":"LAS PALMAS",
-        "lat":"282641N",
-        "long":"135147W"
+        "lat":28.4447222222,
+        "long":-13.8630555556
     }
 ]

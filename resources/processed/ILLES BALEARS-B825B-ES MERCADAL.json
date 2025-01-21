@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0250312716,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5147421396,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.2563798465,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -315,8 +315,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     },
     {
         "id_estacion":"B825B",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ES MERCADAL",
         "provincia":"ILLES BALEARS",
-        "lat":"395926N",
-        "long":"040511E"
+        "lat":39.9905555556,
+        "long":4.0863888889
     }
 ]

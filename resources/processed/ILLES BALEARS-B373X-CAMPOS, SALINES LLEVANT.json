@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2303150252,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0602096841,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.1655476315,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     },
     {
         "id_estacion":"B373X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CAMPOS, SALINES LLEVANT",
         "provincia":"ILLES BALEARS",
-        "lat":"392104N",
-        "long":"030043E"
+        "lat":39.3511111111,
+        "long":3.0119444444
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -112,8 +112,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.6800676171,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.4562167951,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     },
     {
         "id_estacion":"1021Y",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ARTICUTZA (AUTOMATICA)",
         "provincia":"NAVARRA",
-        "lat":"431244N",
-        "long":"014752W"
+        "lat":43.2122222222,
+        "long":-1.7977777778
     }
 ]

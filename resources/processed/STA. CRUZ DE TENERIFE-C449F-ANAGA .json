@@ -25,8 +25,8 @@
         "sequia_agricola":0.1694184294,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.2045490275,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.1482922161,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     },
     {
         "id_estacion":"C449F",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANAGA ",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283029N",
-        "long":"161144W"
+        "lat":28.5080555556,
+        "long":-16.1955555556
     }
 ]

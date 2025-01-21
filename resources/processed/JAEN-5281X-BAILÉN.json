@@ -25,8 +25,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0330942504,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.4995423482,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -344,8 +344,8 @@
         "sequia_agricola":0.2746333333,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -373,8 +373,8 @@
         "sequia_agricola":0.5123,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.4065731165,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0767765868,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.1971744984,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -692,8 +692,8 @@
         "sequia_agricola":0.3505971057,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -721,8 +721,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -750,8 +750,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -779,8 +779,8 @@
         "sequia_agricola":0.4942361481,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -808,8 +808,8 @@
         "sequia_agricola":0.1761222945,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -837,8 +837,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -866,8 +866,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -895,8 +895,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -924,8 +924,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -953,8 +953,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -982,8 +982,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1011,8 +1011,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1040,8 +1040,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1069,8 +1069,8 @@
         "sequia_agricola":0.0190999364,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1098,8 +1098,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1127,8 +1127,8 @@
         "sequia_agricola":0.0621398261,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1156,8 +1156,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1185,8 +1185,8 @@
         "sequia_agricola":0.236641727,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1214,8 +1214,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1243,8 +1243,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1272,8 +1272,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1301,8 +1301,8 @@
         "sequia_agricola":0.0101240552,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1330,8 +1330,8 @@
         "sequia_agricola":0.4436333333,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1359,8 +1359,8 @@
         "sequia_agricola":0.0200068737,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1388,8 +1388,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1417,8 +1417,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1446,8 +1446,8 @@
         "sequia_agricola":0.5878831848,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1475,8 +1475,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1504,8 +1504,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1533,8 +1533,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1562,8 +1562,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1591,8 +1591,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1620,8 +1620,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1649,8 +1649,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1678,8 +1678,8 @@
         "sequia_agricola":0.3219539215,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1707,8 +1707,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     },
     {
         "id_estacion":"5281X",
@@ -1736,7 +1736,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAILÉN",
         "provincia":"JAEN",
-        "lat":"380535N",
-        "long":"034657W"
+        "lat":38.0930555556,
+        "long":-3.7825
     }
 ]

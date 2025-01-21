@@ -25,8 +25,8 @@
         "sequia_agricola":0.061346742,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5548,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     },
     {
         "id_estacion":"C239N",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TUINEJE,PUERTO GRAN TARAJAL",
         "provincia":"LAS PALMAS",
-        "lat":"281231N",
-        "long":"140123W"
+        "lat":28.2086111111,
+        "long":-14.0230555556
     }
 ]

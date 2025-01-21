@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import json
 import os
+import re
 from datetime import datetime
 from  config.constantes import RUTA_BASE_FICHEROS_RAW, INDICE_SOLAR, AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO, RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_LOGS, ARCHIVO_ESTACIONES_METEOROLOGICAS
 
@@ -45,7 +46,43 @@ def buscar_por_indicativo_la_estacion(data, indicativo):
 
 
 def corregir_valores_rango_uno_cero(dataframe, nombColumna):
-    return dataframe[nombColumna].fillna(0.5).apply(lambda x: max(0, min(x, 1)))
+    dataframe[nombColumna] = dataframe[nombColumna].apply(
+                lambda x: 0.5 if pd.isna(x) else max(0, min(x, 1))
+            )
+    return dataframe
+
+
+def convertir_a_decimal_coordenadas(coordenada):
+    # Extraigo grados, minutos, segundos y dirección
+    match = re.match(r"(\d{2,3})(\d{2})(\d{2})([NSEW])", coordenada)
+    if not match:
+        raise ValueError(f"Formato inválido: {coordenada}")
+    
+    grados = int(match.group(1))
+    minutos = int(match.group(2))
+    segundos = int(match.group(3))
+    direccion = match.group(4)
+
+    # Convertir a decimal
+    decimal = grados + (minutos / 60) + (segundos / 3600)
+    
+    # Ajustar signo según la dirección
+    if direccion in ['S', 'W']:
+        decimal = -decimal
+
+    return decimal
+
+def set_datos_estaciones(df_final, estacionesObj, estacion_meteorologica_file):
+    nomb_file = estacion_meteorologica_file.replace(".json", "")
+    datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, nomb_file.split('-')[1]) # estacion_meteorologica_file.split('-')[1] es el codigo indicativo
+    if datos_estacion == None: # Porque alguna provincia viene con el '-', por ejemplo Araba-Alaba
+        datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, nomb_file.split('-')[2])
+    df_final["nomb_estacion"] = datos_estacion["nombre"]
+    df_final["provincia"] = datos_estacion["provincia"]
+    df_final["lat"] = convertir_a_decimal_coordenadas(datos_estacion["latitud"]) # convierto las cordenadas a decimal porque en porwer BI
+    df_final["long"] = convertir_a_decimal_coordenadas(datos_estacion["longitud"])
+
+    return df_final
 
 
 def mainTransform():
@@ -167,14 +204,14 @@ def mainTransform():
                 df_final['sequia_meteorologica'] = (df_final['precipitacion_total_mes'] - df_final['precipitacion_total_mes'].mean()) / 100 # Saco el valor en porcentaje
                 
                 # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0 y si hay nulos los pongo a 0.5
-                df_final['sequia_meteorologica'] = corregir_valores_rango_uno_cero(df_final, 'sequia_meteorologica')
+                df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_meteorologica')
                 
 
             # Sequia Agricola
                 df_final['sequia_agricola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
 
                 # Corrijo a 0 si hay algun negativo
-                df_final['sequia_agricola'] = corregir_valores_rango_uno_cero(df_final, 'sequia_agricola')
+                df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_agricola')
 
                 # print(df_final['sequia_meteorologica'])
                 # print(df_final['sequia_agrícola'])
@@ -189,14 +226,9 @@ def mainTransform():
             # Ordeno por mes, agrego datos de la estacion y Guardo los datos
                 df_final = df_final.sort_values(by='mes', ascending=True)
 
-
-                datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, estacion_meteorologica_file.split('-')[1]) # estacion_meteorologica_file.split('-')[1] es el codigo indicativo
-                if datos_estacion == None: # Porque alguna provincia viene con el '-', por ejemplo Araba-Alaba
-                    datos_estacion = buscar_por_indicativo_la_estacion(estacionesObj, estacion_meteorologica_file.split('-')[2])
-                df_final["nomb_estacion"] = datos_estacion["nombre"]
-                df_final["provincia"] = datos_estacion["provincia"]
-                df_final["lat"] = datos_estacion["latitud"]
-                df_final["long"] = datos_estacion["longitud"]
+                # Pongo datos de las estaciones
+                df_final = set_datos_estaciones(df_final, estacionesObj, estacion_meteorologica_file)
+                
 
                 guardarEnJSON(estacion_meteorologica_file ,df_final)
                 

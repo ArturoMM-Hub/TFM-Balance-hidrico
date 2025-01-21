@@ -25,8 +25,8 @@
         "sequia_agricola":0.1014730553,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0057723223,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.3822166667,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     },
     {
         "id_estacion":"C329Z",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.292169153,
         "nomb_estacion":"SAN SEBASTIÁN DE LA GOMERA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280523N",
-        "long":"170641W"
+        "lat":28.0897222222,
+        "long":-17.1113888889
     }
 ]

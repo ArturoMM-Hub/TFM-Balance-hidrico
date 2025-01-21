@@ -25,8 +25,8 @@
         "sequia_agricola":0.1117352539,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     },
     {
         "id_estacion":"C649R",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TELDE, MELENARA",
         "provincia":"LAS PALMAS",
-        "lat":"275912N",
-        "long":"152240W"
+        "lat":27.9866666667,
+        "long":-15.3777777778
     }
 ]

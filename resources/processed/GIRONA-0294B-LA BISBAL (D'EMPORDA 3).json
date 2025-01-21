@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -83,8 +83,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.1496021539,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.1948081927,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.2251356717,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     },
     {
         "id_estacion":"0294B",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA BISBAL (D'EMPORDA 3)",
         "provincia":"GIRONA",
-        "lat":"415804N",
-        "long":"030232E"
+        "lat":41.9677777778,
+        "long":3.0422222222
     }
 ]

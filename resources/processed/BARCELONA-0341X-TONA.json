@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -83,8 +83,8 @@
         "sequia_agricola":0.7313,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -112,8 +112,8 @@
         "sequia_agricola":0.1578350282,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -141,8 +141,8 @@
         "sequia_agricola":0.1879941908,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -170,8 +170,8 @@
         "sequia_agricola":0.1279902916,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0401548929,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":341,
@@ -344,8 +344,8 @@
         "sequia_agricola":0.0469284198,
         "nomb_estacion":"TONA (ESCOLA)",
         "provincia":"BARCELONA",
-        "lat":"415048N",
-        "long":"021336E"
+        "lat":41.8466666667,
+        "long":2.2266666667
     },
     {
         "id_estacion":"0341X",
@@ -373,8 +373,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -402,8 +402,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -431,8 +431,8 @@
         "sequia_agricola":0.3929,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0910143698,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0092248535,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -518,8 +518,8 @@
         "sequia_agricola":0.1791250942,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -576,8 +576,8 @@
         "sequia_agricola":0.2486769668,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -634,8 +634,8 @@
         "sequia_agricola":0.6285279936,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -663,8 +663,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     },
     {
         "id_estacion":"0341X",
@@ -692,7 +692,7 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"TONA",
         "provincia":"BARCELONA",
-        "lat":"415049N",
-        "long":"021321E"
+        "lat":41.8469444444,
+        "long":2.2225
     }
 ]

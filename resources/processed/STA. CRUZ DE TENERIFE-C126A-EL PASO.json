@@ -25,8 +25,8 @@
         "sequia_agricola":0.0410385296,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.6920160399,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.4886482696,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5432548852,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     },
     {
         "id_estacion":"C126A",
@@ -344,7 +344,7 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"EL PASO",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"283914N",
-        "long":"175111W"
+        "lat":28.6538888889,
+        "long":-17.8530555556
     }
 ]

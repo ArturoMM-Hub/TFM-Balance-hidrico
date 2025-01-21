@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -83,8 +83,8 @@
         "sequia_agricola":0.9523,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -112,8 +112,8 @@
         "sequia_agricola":0.1679999968,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0004627602,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -228,8 +228,8 @@
         "sequia_agricola":0.333035589,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -257,8 +257,8 @@
         "sequia_agricola":0.2532339376,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     },
     {
         "id_estacion":367,
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"GIRONA AEROPUERTO",
         "provincia":"GIRONA",
-        "lat":"415442N",
-        "long":"024548E"
+        "lat":41.9116666667,
+        "long":2.7633333333
     }
 ]

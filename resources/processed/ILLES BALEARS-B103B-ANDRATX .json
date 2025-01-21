@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.3563,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.1573224599,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.1737750832,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.217074758,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     },
     {
         "id_estacion":"B103B",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.1027554622,
         "nomb_estacion":"ANDRATX - SANT ELM",
         "provincia":"ILLES BALEARS",
-        "lat":"393446N",
-        "long":"022208E"
+        "lat":39.5794444444,
+        "long":2.3688888889
     }
 ]

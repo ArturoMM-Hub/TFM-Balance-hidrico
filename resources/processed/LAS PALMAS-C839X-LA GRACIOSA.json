@@ -25,8 +25,8 @@
         "sequia_agricola":0.0291915775,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0805151307,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0055939965,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.3486333333,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     },
     {
         "id_estacion":"C839X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.1135304013,
         "nomb_estacion":"LA GRACIOSA",
         "provincia":"LAS PALMAS",
-        "lat":"291347N",
-        "long":"133037W"
+        "lat":29.2297222222,
+        "long":-13.5102777778
     }
 ]

@@ -25,8 +25,8 @@
         "sequia_agricola":0.0052042115,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     },
     {
         "id_estacion":"C625O",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.2716268153,
         "nomb_estacion":"SAN BARTOLOME TIRAJANA, LOMO PEDRO ALFONSO",
         "provincia":"LAS PALMAS",
-        "lat":"275125N",
-        "long":"153842W"
+        "lat":27.8569444444,
+        "long":-15.645
     }
 ]

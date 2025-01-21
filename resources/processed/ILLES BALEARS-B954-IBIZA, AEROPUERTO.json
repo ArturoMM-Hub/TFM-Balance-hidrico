@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.9378,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.2216910567,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.6165949545,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.2219549277,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     },
     {
         "id_estacion":"B954",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"IBIZA, AEROPUERTO",
         "provincia":"ILLES BALEARS",
-        "lat":"385235N",
-        "long":"012304E"
+        "lat":38.8763888889,
+        "long":1.3844444444
     }
 ]

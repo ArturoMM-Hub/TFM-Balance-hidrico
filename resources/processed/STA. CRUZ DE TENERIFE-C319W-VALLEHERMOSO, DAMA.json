@@ -25,8 +25,8 @@
         "sequia_agricola":0.0317061565,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0905817896,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.03871841,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.3779645034,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     },
     {
         "id_estacion":"C319W",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.3573,
         "nomb_estacion":"VALLEHERMOSO, DAMA",
         "provincia":"STA. CRUZ DE TENERIFE",
-        "lat":"280315N",
-        "long":"171823W"
+        "lat":28.0541666667,
+        "long":-17.3063888889
     }
 ]

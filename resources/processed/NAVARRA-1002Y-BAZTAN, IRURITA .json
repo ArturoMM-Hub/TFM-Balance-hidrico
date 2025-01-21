@@ -25,8 +25,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.618661242,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.5596095579,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0989591902,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.1434578784,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.8857403955,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     },
     {
         "id_estacion":"1002Y",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"BAZTAN, IRURITA ",
         "provincia":"NAVARRA",
-        "lat":"430809N",
-        "long":"013235W"
+        "lat":43.1358333333,
+        "long":-1.5430555556
     }
 ]

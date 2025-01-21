@@ -25,8 +25,8 @@
         "sequia_agricola":0.1959666667,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2555024801,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -112,8 +112,8 @@
         "sequia_agricola":0.3907357171,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -141,8 +141,8 @@
         "sequia_agricola":0.2074386759,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0620104083,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -315,8 +315,8 @@
         "sequia_agricola":0.442928614,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -344,8 +344,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -373,8 +373,8 @@
         "sequia_agricola":0.5822166667,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -402,8 +402,8 @@
         "sequia_agricola":0.1927857557,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -431,8 +431,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -460,8 +460,8 @@
         "sequia_agricola":0.0684400748,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -489,8 +489,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -518,8 +518,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -547,8 +547,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -576,8 +576,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -605,8 +605,8 @@
         "sequia_agricola":0.0353101432,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -634,8 +634,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -663,8 +663,8 @@
         "sequia_agricola":0.0409707218,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -692,8 +692,8 @@
         "sequia_agricola":0.188876904,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -721,8 +721,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -750,8 +750,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -779,8 +779,8 @@
         "sequia_agricola":0.6682938807,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -808,8 +808,8 @@
         "sequia_agricola":0.3244727001,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -837,8 +837,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -866,8 +866,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -895,8 +895,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -924,8 +924,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -953,8 +953,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -982,8 +982,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1011,8 +1011,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1040,8 +1040,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1069,8 +1069,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1098,8 +1098,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1127,8 +1127,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1156,8 +1156,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1185,8 +1185,8 @@
         "sequia_agricola":0.2832431429,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1214,8 +1214,8 @@
         "sequia_agricola":0.0170170973,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1243,8 +1243,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1272,8 +1272,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1301,8 +1301,8 @@
         "sequia_agricola":0.1291832574,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1330,8 +1330,8 @@
         "sequia_agricola":0.8356333333,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1359,8 +1359,8 @@
         "sequia_agricola":0.1554092875,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1388,8 +1388,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1417,8 +1417,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1446,8 +1446,8 @@
         "sequia_agricola":0.5443325917,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1475,8 +1475,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1504,8 +1504,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1533,8 +1533,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1562,8 +1562,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1591,8 +1591,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1620,8 +1620,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1649,8 +1649,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1678,8 +1678,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1707,8 +1707,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     },
     {
         "id_estacion":5783,
@@ -1736,7 +1736,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"SEVILLA AEROPUERTO",
         "provincia":"SEVILLA",
-        "lat":"372500N",
-        "long":"055245W"
+        "lat":37.4166666667,
+        "long":-5.8791666667
     }
 ]

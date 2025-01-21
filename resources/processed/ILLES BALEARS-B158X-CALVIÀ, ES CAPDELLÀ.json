@@ -25,8 +25,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.2869363636,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.2056254027,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0376074222,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.430928759,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     },
     {
         "id_estacion":"B158X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.1209335405,
         "nomb_estacion":"CALVIÀ, ES CAPDELLÀ",
         "provincia":"ILLES BALEARS",
-        "lat":"393305N",
-        "long":"022759E"
+        "lat":39.5513888889,
+        "long":2.4663888889
     }
 ]

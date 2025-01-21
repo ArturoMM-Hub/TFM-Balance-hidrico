@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0298373751,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     },
     {
         "id_estacion":"C619Y",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0823190645,
         "nomb_estacion":"LA ALDEA DE SAN NICOLÁS",
         "provincia":"LAS PALMAS",
-        "lat":"280004N",
-        "long":"154827W"
+        "lat":28.0011111111,
+        "long":-15.8075
     }
 ]

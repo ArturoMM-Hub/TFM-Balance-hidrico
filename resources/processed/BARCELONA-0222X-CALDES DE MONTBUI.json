@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.3303,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0234261111,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0655821813,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.967884803,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     },
     {
         "id_estacion":"0222X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0682449919,
         "nomb_estacion":"CALDES DE MONTBUI",
         "provincia":"BARCELONA",
-        "lat":"413646N",
-        "long":"021006E"
+        "lat":41.6127777778,
+        "long":2.1683333333
     }
 ]

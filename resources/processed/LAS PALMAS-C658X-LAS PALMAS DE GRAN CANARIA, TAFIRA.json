@@ -25,8 +25,8 @@
         "sequia_agricola":0.049675577,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     },
     {
         "id_estacion":"C658X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0865992163,
         "nomb_estacion":"LAS PALMAS DE GRAN CANARIA, TAFIRA",
         "provincia":"LAS PALMAS",
-        "lat":"280441N",
-        "long":"152712W"
+        "lat":28.0780555556,
+        "long":-15.4533333333
     }
 ]

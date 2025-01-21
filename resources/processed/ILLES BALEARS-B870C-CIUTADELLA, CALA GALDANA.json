@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.1307572139,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0507870967,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.742877586,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.2962421989,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.8434666667,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     },
     {
         "id_estacion":"B870C",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CIUTADELLA, CALA GALDANA",
         "provincia":"ILLES BALEARS",
-        "lat":"395641N",
-        "long":"035724E"
+        "lat":39.9447222222,
+        "long":3.9566666667
     }
 ]

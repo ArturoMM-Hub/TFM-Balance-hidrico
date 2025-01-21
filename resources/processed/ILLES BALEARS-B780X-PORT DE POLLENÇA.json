@@ -25,8 +25,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.2943962075,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0472816922,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.464924221,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -315,8 +315,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     },
     {
         "id_estacion":"B780X",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"PORT DE POLLENÇA",
         "provincia":"ILLES BALEARS",
-        "lat":"395434N",
-        "long":"030601E"
+        "lat":39.9094444444,
+        "long":3.1002777778
     }
 ]

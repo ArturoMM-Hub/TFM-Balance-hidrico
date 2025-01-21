@@ -25,8 +25,8 @@
         "sequia_agricola":0.0425898358,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.0155414624,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -257,8 +257,8 @@
         "sequia_agricola":1.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     },
     {
         "id_estacion":"C139E",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.5450636597,
         "nomb_estacion":"LA PALMA AEROPUERTO",
         "provincia":"SANTA CRUZ DE TENERIFE",
-        "lat":"283759N",
-        "long":"174518W"
+        "lat":28.6330555556,
+        "long":-17.755
     }
 ]

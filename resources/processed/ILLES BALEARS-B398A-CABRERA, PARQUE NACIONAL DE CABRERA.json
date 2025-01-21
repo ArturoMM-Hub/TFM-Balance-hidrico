@@ -25,8 +25,8 @@
         "sequia_agricola":0.0058,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -54,8 +54,8 @@
         "sequia_agricola":0.0,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -83,8 +83,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -112,8 +112,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -141,8 +141,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -170,8 +170,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -199,8 +199,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -228,8 +228,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -257,8 +257,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -286,8 +286,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -315,8 +315,8 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     },
     {
         "id_estacion":"B398A",
@@ -344,7 +344,7 @@
         "sequia_agricola":0.5,
         "nomb_estacion":"CABRERA, PARQUE NACIONAL DE CABRERA",
         "provincia":"ILLES BALEARS",
-        "lat":"390808N",
-        "long":"025612E"
+        "lat":39.1355555556,
+        "long":2.9366666667
     }
 ]
