@@ -9,6 +9,10 @@ ARCHIVO_INDICE_SOLAR = "resources/indice_solar.json"
 ARCHIVO_ESTACIONES_METEOROLOGICAS = "resources/estaciones_meteorologicas.json"
 NOMBRE_ARCHIVO_RESULTADO_PREDICCION = "resultados-prediccion-sequia.json"
 
+
+YEAR_INICIO_OBTENCION_VALORES = 2018
+YEAR_FIN_OBTENCION_VALORES = 2019
+
 # API
 URL_AEMET = "https://opendata.aemet.es/opendata/api"
 API_KEY = "tu_api_key_aemet"
