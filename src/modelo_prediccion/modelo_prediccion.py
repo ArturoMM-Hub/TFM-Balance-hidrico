@@ -2,7 +2,7 @@ from prophet import Prophet
 import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('Agg') # Le quito el entorno interactivo para uqe no muestre todo el rato una ventana de grafico
-from  config.constantes import RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_RESULTADOS_PREDICCIONES, YEAR_OF_PREDICTION, ARCHIVO_ESTACIONES_METEOROLOGICAS
+from  config.constantes import RUTA_BASE_FICHEROS_PROCESADOS, RUTA_BASE_RESULTADOS_PREDICCIONES, YEAR_OF_PREDICTION, ARCHIVO_ESTACIONES_METEOROLOGICAS, NOMBRE_ARCHIVO_RESULTADO_PREDICCION
 import os
 import pandas as pd
 import json
@@ -35,7 +35,7 @@ def get_prediccion_prohet(estacion_data, nomb_columna_a_predecire, estacion_mete
 
         # Guardar gráfico en PNG
         fig = modelo_prophet_meteorologica.plot(forecast_meteorologica)
-        fig.savefig(RUTA_BASE_RESULTADOS_PREDICCIONES + estacion_meteorologica_file + nomb_columna_a_predecire +"-prediccion-grafico.png")
+        fig.savefig(RUTA_BASE_RESULTADOS_PREDICCIONES + estacion_meteorologica_file + "-" + nomb_columna_a_predecire +"-prediccion-grafico.png")
         
     except Exception as e:
         print(e)
@@ -43,6 +43,7 @@ def get_prediccion_prohet(estacion_data, nomb_columna_a_predecire, estacion_mete
  
 def modelo_prediccion():
     print("Inicio generando modelo prediccion")
+    df_global_toda_espania = pd.DataFrame()
     # Obtencion de los archivos
     #Estacion meteorologica
     with open(ARCHIVO_ESTACIONES_METEOROLOGICAS, 'r', encoding='utf-8') as file:
@@ -64,7 +65,7 @@ def modelo_prediccion():
         # SEQUIA AGRICOLA
             nuevas_fechas_agricola = get_prediccion_prohet(estacion_data, 'sequia_agricola', estacion_meteorologica_file.replace(".json", ""))
 
-
+            # Saco factor comun para tener por cada fecha las dos sequias
             nuevas_fechas_combinadas = pd.merge(nuevas_fechas_meteo, nuevas_fechas_agricola, on='fecha', how='inner') # Como tienen las mismas fechas las combino
 
             # Les pongo a los valores datos de sus respectivas estaciones
@@ -74,11 +75,17 @@ def modelo_prediccion():
             estacion_data = pd.concat([estacion_data, nuevas_fechas_combinadas], ignore_index=True)
 
 
-            # Guardo el DataFrame actualizado en el mismo archivo ruta diferente
+            # Ordeno por fecha ya que esta todo unido en esa estacion meteorologica
             estacion_data = estacion_data.sort_values('fecha')
-            estacion_data.to_json(RUTA_BASE_RESULTADOS_PREDICCIONES + estacion_meteorologica_file.replace(".json", "") + "-prediccion.json", 
-                                    orient="records", date_format="iso", indent=4)
+
+            # Agrego al Dataframe al global para tener todos los registros de espania
+            df_global_toda_espania = pd.concat([df_global_toda_espania, estacion_data], ignore_index=True)
+        
         except Exception as e:
             print(f"Error al procesar {estacion_meteorologica_file}: {e}")
+    
+    # Guardo todos los datos del dataframe en un json
+    df_global_toda_espania.to_json(RUTA_BASE_RESULTADOS_PREDICCIONES + NOMBRE_ARCHIVO_RESULTADO_PREDICCION, 
+                                    orient="records", date_format="iso", indent=4)
 
     print("Fin modelo prediccion generado")

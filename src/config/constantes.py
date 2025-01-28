@@ -7,6 +7,7 @@ RUTA_BASE_LOGS = "resources/logs/"
 RUTA_BASE_RESULTADOS_PREDICCIONES = "resources/resultados_predicciones/"
 ARCHIVO_INDICE_SOLAR = "resources/indice_solar.json"
 ARCHIVO_ESTACIONES_METEOROLOGICAS = "resources/estaciones_meteorologicas.json"
+NOMBRE_ARCHIVO_RESULTADO_PREDICCION = "resultados-prediccion-sequia.json"
 
 # API
 URL_AEMET = "https://opendata.aemet.es/opendata/api"
