@@ -1,6 +1,7 @@
 import http.client
 import json
 import requests
+from  config.constantes import URL_AEMET, API_KEY_AEMET
 
 class AemetReader:
 
@@ -8,14 +9,14 @@ class AemetReader:
 
     @staticmethod
     def getPredicionTiempo(year, cod_estacion):
-        conn = http.client.HTTPSConnection("opendata.aemet.es")
+        conn = http.client.HTTPSConnection(URL_AEMET)
 
         headers = {
             'cache-control': "no-cache"
         }
 
         # Primera solicitud a la API
-        conn.request("GET", f"/opendata/api/valores/climatologicos/mensualesanuales/datos/anioini/{year}/aniofin/{year}/estacion/{cod_estacion}/?api_key={AemetReader.token}", headers=headers)
+        conn.request("GET", f"/opendata/api/valores/climatologicos/mensualesanuales/datos/anioini/{year}/aniofin/{year}/estacion/{cod_estacion}/?api_key={API_KEY_AEMET}", headers=headers)
         res = conn.getresponse()
         data = res.read()
 
@@ -55,6 +56,11 @@ class AemetReader:
                 print(f"Error al decodificar JSON: {e}")
                 print(f"Contenido que falló:\n{datos_decoded}")
                 return {}
+        elif response_json.get("estado") == 429: # limite de las solicitudes obtenido
+            print(f"Error en la solicitud inicial: limite de las solicitudes obtenido")
+            return { 
+                'estado' : response_json.get('estado'),
+                'error' : response_json.get('descripcion')}
         else:
             print(f"Error en la solicitud inicial: {response_json.get('descripcion')}")
             return {}
@@ -83,7 +89,7 @@ class AemetReader:
 
     def getResponse(url):
         datos = ""
-        conn = http.client.HTTPSConnection("opendata.aemet.es")
+        conn = http.client.HTTPSConnection(URL_AEMET)
 
         headers = {
             'cache-control': "no-cache"
@@ -91,7 +97,7 @@ class AemetReader:
 
         try:
             # Primera solicitud a la API
-            conn.request("GET", url+f"/?api_key={AemetReader.token}", headers=headers)
+            conn.request("GET", url+f"/?api_key={API_KEY_AEMET}", headers=headers)
             res = conn.getresponse()
             data = res.read()
             response_json = json.loads(data.decode("utf-8"))  # Parsear la respuesta JSON

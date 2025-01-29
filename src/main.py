@@ -8,10 +8,10 @@ def main():
     print("Inicio flujo")
 
     # Extract: Saco los datos de Aemet y los guarda en json en la ruta 'resources/raw/'
-    #mainExtract()
+    mainExtract()
 
     # Transform: limpieza del dato y agrupacion de datos
-    #mainTransform()
+    mainTransform()
 
     # Genero un Modelo de predicción
     modelo_prediccion()
