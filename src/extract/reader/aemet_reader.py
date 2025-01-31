@@ -71,19 +71,17 @@ class AemetReader:
 
         estaciones = AemetReader.getResponse("/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones")
 
-        if type(estaciones) != str:# si es str es porque devuelcvo un error
+        if type(estaciones) != str:# si es str es porque devuelvo un error
 
             #Formateo un objeto que por cada provincia meta sus estaciones
             estaciones_por_provincia = {}
 
             for estacion in estaciones:
-                provincia = estacion.get("provincia", "Desconocida")  # Obtener la provincia
+                provincia = estacion.get("provincia", "Desconocida")  # Obtengo la provincia
                 if provincia not in estaciones_por_provincia:
-                    estaciones_por_provincia[provincia] = []  # Inicializar lista si no existe
+                    estaciones_por_provincia[provincia] = []  
                 estaciones_por_provincia[provincia].append(estacion)  # Agregar la estación a la lista
 
-            
-        #print(json.dumps(estaciones_por_provincia, indent=2, ensure_ascii=False))
         return estaciones_por_provincia
     
 

@@ -34,8 +34,8 @@ def get_prediccion_prohet(estacion_data, nomb_columna_a_predecire, estacion_mete
         forecast_meteorologica = corregir_valores_rango_uno_cero(forecast_meteorologica , 'yhat')
 
         # Guardar gráfico en PNG
-        fig = modelo_prophet_meteorologica.plot(forecast_meteorologica)
-        fig.savefig(RUTA_BASE_RESULTADOS_PREDICCIONES + estacion_meteorologica_file + "-" + nomb_columna_a_predecire +"-prediccion-grafico.png")
+        #fig = modelo_prophet_meteorologica.plot(forecast_meteorologica)
+        #fig.savefig(RUTA_BASE_RESULTADOS_PREDICCIONES + estacion_meteorologica_file + "-" + nomb_columna_a_predecire +"-prediccion-grafico.png")
         
     except Exception as e:
         print(e)
@@ -43,7 +43,7 @@ def get_prediccion_prohet(estacion_data, nomb_columna_a_predecire, estacion_mete
  
 def modelo_prediccion():
     print("Inicio generando modelo prediccion")
-    df_global_toda_espania = pd.DataFrame()
+    df_global_pais_entero = pd.DataFrame()
     # Obtencion de los archivos
     #Estacion meteorologica
     with open(ARCHIVO_ESTACIONES_METEOROLOGICAS, 'r', encoding='utf-8') as file:
@@ -79,13 +79,13 @@ def modelo_prediccion():
             estacion_data = estacion_data.sort_values('fecha')
 
             # Agrego al Dataframe al global para tener todos los registros de espania
-            df_global_toda_espania = pd.concat([df_global_toda_espania, estacion_data], ignore_index=True)
+            df_global_pais_entero = pd.concat([df_global_pais_entero, estacion_data], ignore_index=True)
         
         except Exception as e:
             print(f"Error al procesar {estacion_meteorologica_file}: {e}")
     
     # Guardo todos los datos del dataframe en un json
-    df_global_toda_espania.to_json(RUTA_BASE_RESULTADOS_PREDICCIONES + NOMBRE_ARCHIVO_RESULTADO_PREDICCION, 
+    df_global_pais_entero.to_json(RUTA_BASE_RESULTADOS_PREDICCIONES + NOMBRE_ARCHIVO_RESULTADO_PREDICCION, 
                                     orient="records", date_format="iso", indent=4)
 
     print("Fin modelo prediccion generado")
