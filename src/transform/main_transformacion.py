@@ -30,7 +30,7 @@ def guardarEnJSON(estacion_meteorologica_file, df_datos_a_insertar):
                                      force_ascii=False,
                                      indent=4)
         else:
-            # Creacion del archivo por primera vez
+            # Creo del archivo por primera vez si no existia pra esa estacion
             df_datos_a_insertar.to_json(RUTA_BASE_FICHEROS_PROCESADOS + nombFile, 
                                      orient="records", 
                                      force_ascii=False,
@@ -109,7 +109,8 @@ def mainTransform():
             cumple_requisitos = True
 
             try:
-                columnas_necesarias = ['indicativo', 'fecha', 'p_max', 'tm_min', 'tm_max', 'ta_max', 'ta_min', 'ts_min', 'ti_max', 'np_001', 'np_010', 'np_100', 'np_300', 'e', 'p_mes', 'nt_00', 'tm_mes'] 
+                columnas_necesarias = ['indicativo', 'fecha', 'p_max', 'tm_min', 'tm_max', 'ta_max', 'ta_min', 'ts_min', 'ti_max',
+                                        'np_001', 'np_010', 'np_100', 'np_300', 'e', 'p_mes', 'nt_00', 'tm_mes'] 
                 df_filtrado = df_datos_estaciones[columnas_necesarias]
                 nombres_nuevos = {
                     'indicativo': 'id_estacion',
@@ -135,7 +136,6 @@ def mainTransform():
                 try:
                     columnas_necesarias = ['indicativo', 'fecha', 'tm_min', 'ti_max', 'p_mes', 'tm_mes'] 
                     df_filtrado = df_datos_estaciones[columnas_necesarias]
-                    df_filtrado = df_datos_estaciones[columnas_necesarias]
                     nombres_nuevos = {
                         'indicativo': 'id_estacion',
                         'fecha': 'fecha',
@@ -158,14 +158,14 @@ def mainTransform():
 
 
             # Evaporacion (valores entre 1 y 0)
-                # Evitar divisiones por cero sumando un pequeño valor (epsilon) si la precipitación es 0
+                # Evito divisiones por cero sumando un pequeño valor (epsilon) si la precipitación es 0
                 epsilon = 1e-5
                 df_aux = {}
                 df_aux['indice_evaporacion'] = df_final['temperatura_media_mes'] / (
                     df_final['temperatura_media_mes'] + df_final['precipitacion_total_mes'] + epsilon
                 )
 
-                # Normalizar entre 0 y 1 
+                # Normalizo entre 0 y 1 
                 df_final['indice_evaporacion'] = (df_aux['indice_evaporacion'] - df_aux['indice_evaporacion'].min()) / (
                     df_aux['indice_evaporacion'].max() - df_aux['indice_evaporacion'].min())
 
@@ -206,23 +206,12 @@ def mainTransform():
                 # Si hay valores por debajo de 0 es que no tienen sequia, los corrijo 0 y si hay nulos los pongo a 0.5
                 df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_meteorologica')
                 
-
             # Sequia Agricola
                 df_final['sequia_agricola'] = (df_media_precipitaicones - df_final['indice_solar'] - df_final['indice_evaporacion'] + AUMENTO_TEMPERATURA_CAMBIO_CLIMATICO) / 100 # Saco el valor en porcentaje tambien
 
                 # Corrijo a 0 si hay algun negativo
                 df_final = corregir_valores_rango_uno_cero(df_final, 'sequia_agricola')
 
-                # print(df_final['sequia_meteorologica'])
-                # print(df_final['sequia_agrícola'])
-                '''
-                if os.path.exists(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file) == False:
-                    # Ordeno el data frame antes de insertarlo por mes 
-                    df_final = df_final.sort_values(by='mes', ascending=True)
-                    df_final.to_json(RUTA_BASE_FICHEROS_PROCESADOS + estacion_meteorologica_file, 
-                                     orient="records", 
-                                     force_ascii=False,
-                                     indent=4)'''
             # Ordeno por mes, agrego datos de la estacion y Guardo los datos
                 df_final = df_final.sort_values(by='mes', ascending=True)
 
@@ -235,3 +224,5 @@ def mainTransform():
          
     print("Fin flujo Transformacion")
     return True
+
+

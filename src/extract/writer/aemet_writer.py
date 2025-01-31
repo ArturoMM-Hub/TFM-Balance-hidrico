@@ -11,7 +11,7 @@ class AemetWriter:
     def guardar_en_json(year, provincia, estacion_meteorologica, prediccion_meteorologica):
         
         #Creo la ruta si no esxiste
-        ruta = RUTA_BASE_FICHEROS_RAW + year + "/"
+        ruta = RUTA_BASE_FICHEROS_RAW + str(year) + "/"
         if not os.path.exists(ruta):
             os.makedirs(ruta)
 
